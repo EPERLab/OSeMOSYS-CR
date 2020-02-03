@@ -1,8 +1,8 @@
-#OSeMOSYS-CR
+# OSeMOSYS-CR
 
 OSeMOSYS-CR is an Energy System Optimization Model (ESOM) based on the Open Source Energy Modelling System (OSeMOSYS), this model finds the most cost-effective technological transitions towards a deep decarbonisation in the energy sector. OSeMOSYS-CR focuses in the electricity and transport sector, and the interaction among them. The repository contains three different climatic scenarios: i) Business-as-usual, and two scenarios consistent with the ii) 2°C (SR20) and iii) 1.5°C SR15) targets. 
 
-#Contents:
+# Contents
 
 The repository contains the following folders: 
 •	**0_Model Structure:** contains two files that describes the structure of the model. 
@@ -17,8 +17,9 @@ Running the model, generates the following files, all of them are store in 2_Sce
 •	**Osemosys_data_Output.csv:** is one of the output files of 2_run_model_mathprog.py. Contains the results of the scenario in a wide format csv file. 
 •	**Osemosys_data_Output_CODED:** is one of the output files of 2_run_model_mathprog.py. Contains the results of the scenario in a wide format csv file with coded names for the fuels, technologies and emissions of the model. 
 
-#Usage:
+# Usage
 
-In order to run the model, the [GLPK] (https://www.gnu.org/software/glpk/) solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal. 
-#Releases:
+In order to run the model, the [GLPK] (https://www.gnu.org/software/glpk/) solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal.
+
+# Releases
  **2019-02-XX:** First released version of OSeMOSYS-CR.
