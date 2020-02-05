@@ -7,12 +7,23 @@ tags:
   - Deep Decarbonization
   - OSeMOSYS
 authors:
- - name: Stefan Pfenninger
-   orcid: 0000-0002-8420-9498
-   affiliation: 1
- - name: Bryn Pickering
-   orcid: 0000-0003-4044-6587
-   affiliation: 2
+  - name: Guido Godínez-Zamora
+    orcid: 0000-0002-0256-1640
+    affiliation: 1
+  - name: Luis Victor-Gallardo
+    affiliation: 1
+  - name: Jam Angulo-Paniagua
+    affiliation: 1
+  - name: Eunice Ramos
+    affiliation: 2
+  - name: Mark Howells
+    affiliation: 2
+  - name: Will Usher
+    affiliation: 2
+ - name: Felipe De León
+    affiliation: 3
+ - name: Jairo Quirós-Tortós
+    affiliation: 1
 affiliations:
  - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
    index: 1
