@@ -1,39 +1,25 @@
 ---
-title: 'OSeMOSYS-CR: Energy System Optimization Model for Costa Rica'
+title: 'Calliope: a multi-scale energy systems modelling framework'
 tags:
-  - Energy Policy
-  - Energy Modelling
-  - Energy System Optimization Model
-  - Deep Decarbonization
-  - OSeMOSYS
+  - energy
+  - optimisation
+  - python
 authors:
-  - name: Guido Godínez-Zamora
-    orcid: 0000-0002-0256-1640
-    affiliation: 1
-  - name: Luis Victor-Gallardo
-    affiliation: 1
-  - name: Jam Angulo-Paniagua
-    affiliation: 1
-  - name: Eunice Ramos
-    affiliation: 2
-  - name: Mark Howells
-    affiliation: 2
-  - name: Will Usher
-    affiliation: 2
- - name: Felipe De León
-    affiliation: 3
- - name: Jairo Quirós-Tortós
-    affiliation: 1
+ - name: Stefan Pfenninger
+   orcid: 0000-0002-8420-9498
+   affiliation: 1
+ - name: Bryn Pickering
+   orcid: 0000-0003-4044-6587
+   affiliation: 2
 affiliations:
- - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
+ - name: Department of Environmental Systems Science, ETH Zürich
    index: 1
- - name: Division of Energy Systems Analysis, KTH Royal Institute of Technology, Stockholm, Sweden.
+ - name: Department of Engineering, University of Cambridge
    index: 2
-- name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
-   index: 3
-date: 30 January 2020
+date: 30 April 2018
 bibliography: paper.bib
 ---
+
 
 # Summary
 
