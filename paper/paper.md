@@ -20,9 +20,9 @@ authors:
     affiliation: 2
   - name: Will Usher
     affiliation: 2
- - name: Felipe De León
+  - name: Felipe De León
     affiliation: 3
- - name: Jairo Quirós-Tortós
+  - name: Jairo Quirós-Tortós
     affiliation: 1
 affiliations:
  - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
