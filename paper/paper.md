@@ -14,11 +14,13 @@ authors:
    orcid: 0000-0003-4044-6587
    affiliation: 2
 affiliations:
- - name: Department of Environmental Systems Science, ETH Zürich
+ - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
    index: 1
- - name: Department of Engineering, University of Cambridge
+ - name: Division of Energy Systems Analysis, KTH Royal Institute of Technology, Stockholm, Sweden.
    index: 2
-date: 30 April 2018
+ - name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
+   index: 3
+date: 30 January 2020
 bibliography: paper.bib
 ---
 
