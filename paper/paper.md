@@ -1,5 +1,5 @@
 ---
-title: 'Calliope: a multi-scale energy systems modelling framework'
+title: 'OSeMOSYS-CR: Energy System Optimization Model for Costa Rica'
 tags:
   - energy
   - optimisation
