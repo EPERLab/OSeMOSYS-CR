@@ -24,7 +24,6 @@ authors:
     affiliation: 3
  - name: Jairo Quirós-Tortós
     affiliation: 1
-
 affiliations:
  - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
    index: 1
