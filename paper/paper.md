@@ -1,9 +1,11 @@
 ---
 title: 'OSeMOSYS-CR: Energy System Optimization Model for Costa Rica'
 tags:
-  - energy
-  - optimisation
-  - python
+  - Energy Policy
+  - Energy Modelling
+  - Energy System Optimization Model
+  - Deep Decarbonization
+  - OSeMOSYS
 authors:
  - name: Stefan Pfenninger
    orcid: 0000-0002-8420-9498
