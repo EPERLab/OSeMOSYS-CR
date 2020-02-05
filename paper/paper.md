@@ -16,7 +16,7 @@ authors:
     affiliation: 1
   - name: Eunice Ramos
     affiliation: 2
-  - name: Mark Howells2
+  - name: Mark Howells
     affiliation: 2
   - name: Will Usher
     affiliation: 2
