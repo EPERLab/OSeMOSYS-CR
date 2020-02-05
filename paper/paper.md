@@ -7,23 +7,12 @@ tags:
   - Deep Decarbonization
   - OSeMOSYS
 authors:
- - name: Guido Godínez-Zamora
-    orcid: 0000-0002-0256-1640
-    affiliation: 1
-  - name: Luis Victor-Gallardo
-    affiliation: 1
-  - name: Jam Angulo-Paniagua
-    affiliation: 1
-  - name: Eunice Ramos
-    affiliation: 2
-  - name: Mark Howells
-    affiliation: 2
-  - name: Will Usher
-    affiliation: 2
- - name: Felipe De León
-    affiliation: 3
- - name: Jairo Quirós-Tortós
-    affiliation: 1
+  - name: Stefan Pfenninger
+   orcid: 0000-0002-8420-9498
+   affiliation: 1
+ - name: Bryn Pickering
+   orcid: 0000-0003-4044-6587
+   affiliation: 2
 affiliations:
  - name: Department of Environmental Systems Science, ETH Zürich
    index: 1
