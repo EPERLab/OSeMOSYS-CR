@@ -9,7 +9,6 @@ authors:
    orcid: 0000-0002-8420-9498
    affiliation: 1
  - name: Bryn Pickering
-   orcid: 0000-0003-4044-6587
    affiliation: 2
 affiliations:
  - name: Department of Environmental Systems Science, ETH Zürich
