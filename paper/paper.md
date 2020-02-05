@@ -34,7 +34,6 @@ affiliations:
    index: 3
 date: 30 January 2020
 bibliography: paper.bib
-
 ---
 
 # Summary
