@@ -6,7 +6,7 @@ OSeMOSYS-CR is an Energy System Optimization Model (ESOM) based on the Open Sour
 
 The repository contains the following folders: 
 
-* 0_Model Structure:contains two files that describes the structure of the model. 
+* *0_Model Structure:* contains two files that describes the structure of the model. 
 
 * 1_Scenarios_Inputs: contains three folders representing each one of the climatic scenarios (i.e. BAU, SR20, and SR15). Each folder holds 30 individual comma-separated (csv) files with the parameters of the model. 
 
