@@ -7,7 +7,7 @@ tags:
   - Deep Decarbonization
   - OSeMOSYS
 authors:
-  - name: Stefan Pfenninger
+ - name: Stefan Pfenninger
    orcid: 0000-0002-8420-9498
    affiliation: 1
  - name: Bryn Pickering
