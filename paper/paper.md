@@ -62,15 +62,24 @@ Three different pre-built scenarios included in the repository: a business-as-us
 <p align="center">
 <img src="SimpleModel.PNG" alt="Simple reference energy system for OSeMOSYS-CR model." width="750"/>
 </p>
+<p align="center">
+    <em>Figure 2. Simple reference energy system for OSeMOSYS-CR model.</em>
+</p>
 
 The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-Zamora2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 4 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
 
 <p align="center">
 <img src="CO2_emissions.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="750"/>
 </p>
+<p align="center">
+    <em>Figure 3. Emission trajectories for the BAU, SR20 and SR15 scenarios.</em>
+</p>
 
 <p align="center">
-<img src="energy_by_fuel.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="750"/>
+<img src="energy_by_fuel.png" alt="Figure 3. Energy use by fuel for the BAU, SR15 and SR15 scenarios." width="750"/>
+</p>
+<p align="center">
+    <em>Figure 4. Figure 3. Energy use by fuel for the BAU, SR15 and SR15 scenarios.</em>
 </p>
 
 Ongoing projects, which aim at exploring further the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the coverage (reach) of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be submitted to share with experts and undergo a revision and validation process with stakeholders. 
