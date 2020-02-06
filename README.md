@@ -53,7 +53,7 @@ In order to run the model, the [GLPK](https://www.gnu.org/software/glpk/) solver
 # Releases
 * **2019-02-XX:** First released version of OSeMOSYS-CR.
 
-## Citing OSMOSYS-CR
+## Citing OSeMOSYS-CR
 Guido Godínez and Luis Victor and Jam Anguloa and .. (2020) *Journal of Open Source Software*, 3(29), 825. [doi: XXXXX (https://doi.org/XXX/XXX.XXX)
 
 
