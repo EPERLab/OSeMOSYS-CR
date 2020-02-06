@@ -48,7 +48,7 @@ The modelling framework is executed using Python. The process starts with the sc
 
 ![General Framework for support national energy-relate policy, with OSeMOSYS-CR.](Framework.PNG =250x)
 
-<img src="Framework.PNG" alt="drawing" width="200"/>
+<img src="Framework.PNG" alt="General Framework for support national energy-relate policy, with OSeMOSYS-CR." width="1000"/>
 
 # Model Structure and Strategies 
 
