@@ -43,7 +43,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon']
-    #'sphinxcontrib.bibtex'] # Agregado napoleon extension
+    'sphinxcontrib.bibtex'] # Agregado napoleon extension
 
 #Agregado
 napoleon_google_docstring = False
@@ -189,5 +189,5 @@ texinfo_documents = [
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
 
-#def setup(app):
- #   app.add_stylesheet('theme_overrides.css')
+def setup(app):
+    app.add_stylesheet('theme_overrides.css')
