@@ -1,5 +1,5 @@
 ---
-title: 'OSeMOSYS-CR: Energy System Optimization Model for Costa Rica'
+title: 'OSeMOSYS-CR: Costa Rica’s Energy System Optimization Model'
 tags:
   - Energy Policy
   - Energy Modelling
@@ -17,20 +17,22 @@ authors:
   - name: Eunice Ramos
     affiliation: 2
   - name: Mark Howells
-    affiliation: 2
+    affiliation: 3
   - name: Will Usher
     affiliation: 2
   - name: Felipe De León
-    affiliation: 3
+    affiliation: 4
   - name: Jairo Quirós-Tortós
     affiliation: 1
 affiliations:
  - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
    index: 1
- - name: Division of Energy Systems Analysis, KTH Royal Institute of Technology, Stockholm, Sweden.
+ - name: School of Industrial Engineering and Management, KTH - Royal Institute of Technology, Stockholm, Sweden.
    index: 2
- - name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
+ - name: Loughborough University - Epinal Way, Loughborough, Leicestershire, LE11 3TU, United Kingdom; and Imperial College London - South Kensington, London SW7 2BU, United Kingdom.
    index: 3
+ - name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
+   index: 4
 date: 30 January 2020
 bibliography: paper.bib
 ---
