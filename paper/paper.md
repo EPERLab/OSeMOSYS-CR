@@ -49,7 +49,7 @@ The modelling framework is executed using Python. The process starts with the sc
 <p align="center">
   <img src="Framework.PNG" alt="General Framework for support national energy-relate policy, with OSeMOSYS-CR." width="750"/>
 </p>
-<p>
+<p align="center">
     <em>image_caption</em>
 </p>
 
