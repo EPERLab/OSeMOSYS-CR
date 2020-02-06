@@ -55,13 +55,19 @@ The model combines more than one hundred commodities and two hundred technologie
 
 Three different pre-built scenarios included in the repository: a business-as-usual (BAU) scenario and two decarbonisation scenarios. The BAU scenario represents the evolution of the energy sector based on historical trends and serves as a benchmark for testing mitigation strategies. The two decarbonisation scenarios, one consistent with the 2°C (SR20) and the other with the 1.5°C (SR15) targets, incorporate selected mitigation strategies already being discussed in the country . 
 
+<p align="center">
 <img src="SimpleModel.PNG" alt="Simple reference energy system for OSeMOSYS-CR model." width="750"/>
+</p>
 
 The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-Zamora2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 4 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
 
+<p align="center">
 <img src="CO2_emissions.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="750"/>
+</p>
 
+<p align="center">
 <img src="energy_by_fuel.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="750"/>
+</p>
 
 Ongoing projects, which aim at exploring further the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the coverage (reach) of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be submitted to share with experts and undergo a revision and validation process with stakeholders. 
 
