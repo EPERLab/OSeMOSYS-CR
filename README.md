@@ -1,4 +1,4 @@
-# OSeMOSYS-CR
+# OSeMOSYS-CR ngggas
 
 OSeMOSYS-CR is an Energy System Optimization Model (ESOM) based on the Open Source Energy Modelling System (OSeMOSYS), this model finds the most cost-effective technological transitions towards a deep decarbonisation in the energy sector. OSeMOSYS-CR focuses in the electricity and transport sector, and the interaction among them. The repository contains three different climatic scenarios: *i)* Business-as-usual, and two scenarios consistent with the *ii)* 2°C (SR20) and *iii)* 1.5°C SR15) targets. 
 
