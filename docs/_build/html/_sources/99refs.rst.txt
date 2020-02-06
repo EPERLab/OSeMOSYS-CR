@@ -1,0 +1,4 @@
+Referencias
+===========
+
+.. bibliography:: references.bib

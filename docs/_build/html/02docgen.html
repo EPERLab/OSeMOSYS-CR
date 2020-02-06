@@ -1,0 +1,681 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Generación de documentación en Sphinx &mdash; documentación de IAM-CR-ALPHA - 1.0.a</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="_static/theme_overrides.css" type="text/css" />
+  
+
+  
+        <link rel="index" title="Índice"
+              href="genindex.html"/>
+        <link rel="search" title="Búsqueda" href="search.html"/>
+    <link rel="top" title="documentación de IAM-CR-ALPHA - 1.0.a" href="index.html"/> 
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="index.html" class="icon icon-home"> IAM-CR-ALPHA
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                EPERlab-UCR
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contenidos</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="01Introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="02IAM_CR.html">Integrated Assessment Model of Costa Rica</a></li>
+<li class="toctree-l1"><a class="reference internal" href="03DataProcessing.html">Energy System Modeling: Data Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="99refs.html">Referencias</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">IAM-CR-ALPHA</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Generación de documentación en Sphinx</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="generacion-de-documentacion-en-sphinx">
+<span id="docgen"></span><h1>Generación de documentación en Sphinx<a class="headerlink" href="#generacion-de-documentacion-en-sphinx" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Sphinx es una herramienta para generación de documentación originalmente pensada
+para proyectos en Python, pero que en su implementación permite trabajar en otros
+lenguajes y documentar toda clase de proyectos en general. Es una alternativa que
+genera un html el cual puede ser montado en una página web, y que además puede ser
+exportado a Látex y a otros formatos. Es adicionalmente compatible con Doxygen.
+Sphinx utiliza RST como formato para la generación de documentos, y cuenta con una
+sintaxis bastante amigable en general.</p>
+<p>Para la generación de la documentación se requiere de una serie de paquetes y plugins
+los cuales se mencionan en <a class="reference internal" href="01linuxsteps.html#linuxsteps-install-packs"><span class="std std-ref">Instalación de paquetes</span></a>.</p>
+<div class="section" id="creacion-del-archivo-base-conf-py">
+<span id="docgen-quickstart"></span><h2>Creación del archivo base conf.py<a class="headerlink" href="#creacion-del-archivo-base-conf-py" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Luego de instalar los paquetes requeridos, procedemos a crear en el directorio
+del proyecto a documentar (generalmente llamado docs). Ingresamos a este directorio
+y ejecutamos el comando sphinx-quickstart.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">cd</span> ruta/del/proyecto
+mkdir docs
+sphinx-quickstart
+</pre></div>
+</div>
+<p>Este comando genera una serie de preguntas las cuales deben responderse para
+autogenerar la documentación de forma rápida y sencilla. En este caso particular
+se respondieron de la siguiente forma:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>Welcome to the Sphinx 1.7.6 quickstart utility.
+
+Please enter values for the following settings (just press Enter to
+accept a default value, if one is given in brackets).
+
+Selected root path: .
+
+You have two options for placing the build directory for Sphinx output.
+Either, you use a directory &quot;_build&quot; within the root path, or you separate
+&quot;source&quot; and &quot;build&quot; directories within the root path.
+&gt; Separate source and build directories (y/n) [n]: n
+
+Inside the root directory, two more directories will be created; &quot;_templates&quot;
+for custom HTML templates and &quot;_static&quot; for custom stylesheets and other static
+files. You can enter another prefix (such as &quot;.&quot;) to replace the underscore.
+&gt; Name prefix for templates and static dir [_]: _
+
+The project name will occur in several places in the built documentation.
+&gt; Project name: eperdoc
+&gt; Author name(s): Willy Villalobos
+&gt; Project release []: 1.0.0
+
+If the documents are to be written in a language other than English,
+you can select a language here by its language code. Sphinx will then
+translate text that it generates into that language.
+
+For a list of supported codes, see
+http://sphinx-doc.org/config.html#confval-language.
+&gt; Project language [en]: es
+
+The file name suffix for source files. Commonly, this is either &quot;.txt&quot;
+or &quot;.rst&quot;.  Only files with this suffix are considered documents.
+&gt; Source file suffix [.rst]: .rst
+
+One document is special in that it is considered the top node of the
+&quot;contents tree&quot;, that is, it is the root of the hierarchical structure
+of the documents. Normally, this is &quot;index&quot;, but if your &quot;index&quot;
+document is a custom template, you can also set this to another filename.
+&gt; Name of your master document (without suffix) [index]: index
+
+Sphinx can also add configuration for epub output:
+&gt; Do you want to use the epub builder (y/n) [n]: n
+Indicate which of the following Sphinx extensions should be enabled:
+&gt; autodoc: automatically insert docstrings from modules (y/n) [n]: y
+&gt; doctest: automatically test code snippets in doctest blocks (y/n) [n]: n
+&gt; intersphinx: link between Sphinx documentation of different projects (y/n) [n]: y
+&gt; todo: write &quot;todo&quot; entries that can be shown or hidden on build (y/n) [n]: y
+&gt; coverage: checks for documentation coverage (y/n) [n]: n
+&gt; imgmath: include math, rendered as PNG or SVG images (y/n) [n]: y
+&gt; mathjax: include math, rendered in the browser by MathJax (y/n) [n]: n
+&gt; ifconfig: conditional inclusion of content based on config values (y/n) [n]: n
+&gt; viewcode: include links to the source code of documented Python objects (y/n) [n]: n
+&gt; githubpages: create .nojekyll file to publish the document on GitHub pages (y/n) [n]: n
+
+A Makefile and a Windows command file can be generated for you so that you
+only have to run e.g. `make html&#39; instead of invoking sphinx-build
+directly.
+&gt; Create Makefile? (y/n) [y]: y
+&gt; Create Windows command file? (y/n) [y]: y
+
+Creating file ./conf.py.
+Creating file ./index.rst.
+Creating file ./Makefile.
+Creating file ./make.bat.
+
+Finished: An initial directory structure has been created.
+
+You should now populate your master file ./index.rst and create other documentation
+source files. Use the Makefile to build the docs, like so:
+ make builder
+where &quot;builder&quot; is one of the supported builders, e.g. html, latex or linkcheck.
+</pre></div>
+</div>
+<p>Esto genera un archivo base llamado conf.py donde se indican los ajustes a tomar
+en cuenta para la generación de documentación. En nuestro caso particular, se han
+hecho ajustes adicionales para tener un formato más acorde a lo que se necesita.
+Con esto en consideración, tenemos el siguiente archivo conf.py.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># -*- coding: utf-8 -*-</span>
+<span class="c1">#</span>
+<span class="c1"># eperdoc documentation build configuration file, created by</span>
+<span class="c1"># sphinx-quickstart on Wed Aug  1 11:44:55 2018.</span>
+<span class="c1">#</span>
+<span class="c1"># This file is execfile()d with the current directory set to its</span>
+<span class="c1"># containing dir.</span>
+<span class="c1">#</span>
+<span class="c1"># Note that not all possible configuration values are present in this</span>
+<span class="c1"># autogenerated file.</span>
+<span class="c1">#</span>
+<span class="c1"># All configuration values have a default; values that are commented out</span>
+<span class="c1"># serve to show the default.</span>
+
+<span class="c1"># If extensions (or modules to document with autodoc) are in another directory,</span>
+<span class="c1"># add these directories to sys.path here. If the directory is relative to the</span>
+<span class="c1"># documentation root, use os.path.abspath to make it absolute, like shown here.</span>
+<span class="c1">#</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">sys</span>
+<span class="c1">#Estaba comentado</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">))</span>
+<span class="c1">#Agregado por prevención</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="s1">&#39;../&#39;</span><span class="p">))</span>
+
+<span class="c1"># -- General configuration ------------------------------------------------</span>
+
+<span class="c1"># If your documentation needs a minimal Sphinx version, state it here.</span>
+<span class="c1">#</span>
+<span class="c1"># needs_sphinx = &#39;1.0&#39;</span>
+
+<span class="c1"># Add any Sphinx extension module names here, as strings. They can be</span>
+<span class="c1"># extensions coming with Sphinx (named &#39;sphinx.ext.*&#39;) or your custom</span>
+<span class="c1"># ones.</span>
+<span class="n">extensions</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;sphinx.ext.autodoc&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.doctest&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.intersphinx&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.todo&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.mathjax&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.viewcode&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinx.ext.napoleon&#39;</span><span class="p">,</span>
+  <span class="s1">&#39;sphinxcontrib.bibtex&#39;</span><span class="p">]</span> <span class="c1"># Agregado napoleon extension</span>
+
+<span class="c1">#Agregado</span>
+<span class="n">napoleon_google_docstring</span> <span class="o">=</span> <span class="bp">False</span>
+<span class="n">napoleon_use_param</span> <span class="o">=</span> <span class="bp">False</span>
+<span class="n">napoleon_use_ivar</span> <span class="o">=</span> <span class="bp">True</span>
+
+<span class="c1"># Add any paths that contain templates here, relative to this directory.</span>
+<span class="n">templates_path</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;_templates&#39;</span><span class="p">]</span>
+
+<span class="c1"># The suffix(es) of source filenames.</span>
+<span class="c1"># You can specify multiple suffix as a list of string:</span>
+<span class="c1">#</span>
+<span class="c1"># source_suffix = [&#39;.rst&#39;, &#39;.md&#39;]</span>
+<span class="n">source_suffix</span> <span class="o">=</span> <span class="s1">&#39;.rst&#39;</span>
+
+<span class="c1"># The master toctree document.</span>
+<span class="n">master_doc</span> <span class="o">=</span> <span class="s1">&#39;index&#39;</span>
+
+<span class="c1"># General information about the project.</span>
+<span class="n">project</span> <span class="o">=</span> <span class="sa">u</span><span class="s1">&#39;eperdoc&#39;</span>
+<span class="n">copyright</span> <span class="o">=</span> <span class="sa">u</span><span class="s1">&#39;2018, Willy Villalobos&#39;</span>
+<span class="n">author</span> <span class="o">=</span> <span class="sa">u</span><span class="s1">&#39;Willy Villalobos&#39;</span>
+
+<span class="c1"># The version info for the project you&#39;re documenting, acts as replacement for</span>
+<span class="c1"># |version| and |release|, also used in various other places throughout the</span>
+<span class="c1"># built documents.</span>
+<span class="c1">#</span>
+<span class="c1"># The short X.Y version.</span>
+<span class="n">version</span> <span class="o">=</span> <span class="sa">u</span><span class="s1">&#39;1.0&#39;</span>
+<span class="c1"># The full version, including alpha/beta/rc tags.</span>
+<span class="n">release</span> <span class="o">=</span> <span class="sa">u</span><span class="s1">&#39;1.0.a&#39;</span>
+
+<span class="c1"># The language for content autogenerated by Sphinx. Refer to documentation</span>
+<span class="c1"># for a list of supported languages.</span>
+<span class="c1">#</span>
+<span class="c1"># This is also used if you do content translation via gettext catalogs.</span>
+<span class="c1"># Usually you set &quot;language&quot; from the command line for these cases.</span>
+<span class="n">language</span> <span class="o">=</span> <span class="s1">&#39;es&#39;</span>
+
+<span class="c1"># List of patterns, relative to source directory, that match files and</span>
+<span class="c1"># directories to ignore when looking for source files.</span>
+<span class="c1"># This patterns also effect to html_static_path and html_extra_path</span>
+<span class="n">exclude_patterns</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;_build&#39;</span><span class="p">,</span> <span class="s1">&#39;Thumbs.db&#39;</span><span class="p">,</span> <span class="s1">&#39;.DS_Store&#39;</span><span class="p">]</span>
+
+<span class="c1"># The name of the Pygments (syntax highlighting) style to use.</span>
+<span class="n">pygments_style</span> <span class="o">=</span> <span class="s1">&#39;sphinx&#39;</span>
+
+<span class="c1"># If true, `todo` and `todoList` produce output, else they produce nothing.</span>
+<span class="n">todo_include_todos</span> <span class="o">=</span> <span class="bp">True</span>
+
+
+<span class="c1"># -- Options for HTML output ----------------------------------------------</span>
+
+<span class="c1"># The theme to use for HTML and HTML Help pages.  See the documentation for</span>
+<span class="c1"># a list of builtin themes.</span>
+<span class="c1">#</span>
+<span class="c1"># html_theme = &#39;alabaster&#39;</span>
+<span class="n">html_theme</span> <span class="o">=</span> <span class="s1">&#39;sphinx_rtd_theme&#39;</span>
+
+<span class="c1"># Theme options are theme-specific and customize the look and feel of a theme</span>
+<span class="c1"># further.  For a list of options available for each theme, see the</span>
+<span class="c1"># documentation.</span>
+<span class="c1">#</span>
+<span class="c1"># html_theme_options = {}</span>
+
+<span class="c1"># Add any paths that contain custom static files (such as style sheets) here,</span>
+<span class="c1"># relative to this directory. They are copied after the builtin static files,</span>
+<span class="c1"># so a file named &quot;default.css&quot; will overwrite the builtin &quot;default.css&quot;.</span>
+<span class="n">html_static_path</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;_static&#39;</span><span class="p">]</span>
+
+<span class="c1"># Custom sidebar templates, must be a dictionary that maps document names</span>
+<span class="c1"># to template names.</span>
+<span class="c1">#</span>
+<span class="c1"># This is required for the alabaster theme</span>
+<span class="c1"># refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars</span>
+<span class="n">html_sidebars</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="s1">&#39;**&#39;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s1">&#39;relations.html&#39;</span><span class="p">,</span>  <span class="c1"># needs &#39;show_related&#39;: True theme option to display</span>
+      <span class="s1">&#39;searchbox.html&#39;</span><span class="p">,</span>
+  <span class="p">]</span>
+<span class="p">}</span>
+
+
+<span class="c1"># -- Options for HTMLHelp output ------------------------------------------</span>
+
+<span class="c1"># Output file base name for HTML help builder.</span>
+<span class="n">htmlhelp_basename</span> <span class="o">=</span> <span class="s1">&#39;eperdocdoc&#39;</span>
+
+
+<span class="c1"># -- Options for LaTeX output ---------------------------------------------</span>
+
+<span class="n">latex_elements</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="c1"># The paper size (&#39;letterpaper&#39; or &#39;a4paper&#39;).</span>
+  <span class="c1">#</span>
+  <span class="c1"># &#39;papersize&#39;: &#39;letterpaper&#39;,</span>
+
+  <span class="c1"># The font size (&#39;10pt&#39;, &#39;11pt&#39; or &#39;12pt&#39;).</span>
+  <span class="c1">#</span>
+  <span class="c1"># &#39;pointsize&#39;: &#39;10pt&#39;,</span>
+
+  <span class="c1"># Additional stuff for the LaTeX preamble.</span>
+  <span class="c1">#</span>
+  <span class="c1"># &#39;preamble&#39;: &#39;&#39;,</span>
+
+  <span class="c1"># Latex figure (float) alignment</span>
+  <span class="c1">#</span>
+  <span class="c1"># &#39;figure_align&#39;: &#39;htbp&#39;,</span>
+<span class="p">}</span>
+
+<span class="c1"># Grouping the document tree into LaTeX files. List of tuples</span>
+<span class="c1"># (source start file, target name, title,</span>
+<span class="c1">#  author, documentclass [howto, manual, or own class]).</span>
+<span class="n">latex_documents</span> <span class="o">=</span> <span class="p">[</span>
+  <span class="p">(</span><span class="n">master_doc</span><span class="p">,</span> <span class="s1">&#39;eperdoc.tex&#39;</span><span class="p">,</span> <span class="sa">u</span><span class="s1">&#39;eperdoc Documentation&#39;</span><span class="p">,</span>
+   <span class="sa">u</span><span class="s1">&#39;Willy Villalobos&#39;</span><span class="p">,</span> <span class="s1">&#39;manual&#39;</span><span class="p">),</span>
+<span class="p">]</span>
+
+
+<span class="c1"># -- Options for manual page output ---------------------------------------</span>
+
+<span class="c1"># One entry per manual page. List of tuples</span>
+<span class="c1"># (source start file, name, description, authors, manual section).</span>
+<span class="n">man_pages</span> <span class="o">=</span> <span class="p">[</span>
+  <span class="p">(</span><span class="n">master_doc</span><span class="p">,</span> <span class="s1">&#39;eperdoc&#39;</span><span class="p">,</span> <span class="sa">u</span><span class="s1">&#39;eperdoc Documentation&#39;</span><span class="p">,</span>
+   <span class="p">[</span><span class="n">author</span><span class="p">],</span> <span class="mi">1</span><span class="p">)</span>
+<span class="p">]</span>
+
+
+<span class="c1"># -- Options for Texinfo output -------------------------------------------</span>
+
+<span class="c1"># Grouping the document tree into Texinfo files. List of tuples</span>
+<span class="c1"># (source start file, target name, title, author,</span>
+<span class="c1">#  dir menu entry, description, category)</span>
+<span class="n">texinfo_documents</span> <span class="o">=</span> <span class="p">[</span>
+  <span class="p">(</span><span class="n">master_doc</span><span class="p">,</span> <span class="s1">&#39;eperdoc&#39;</span><span class="p">,</span> <span class="sa">u</span><span class="s1">&#39;eperdoc Documentation&#39;</span><span class="p">,</span>
+   <span class="n">author</span><span class="p">,</span> <span class="s1">&#39;eperdoc&#39;</span><span class="p">,</span> <span class="s1">&#39;One line description of project.&#39;</span><span class="p">,</span>
+   <span class="s1">&#39;Miscellaneous&#39;</span><span class="p">),</span>
+<span class="p">]</span>
+
+
+<span class="c1"># Example configuration for intersphinx: refer to the Python standard library.</span>
+<span class="n">intersphinx_mapping</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;https://docs.python.org/&#39;</span><span class="p">:</span> <span class="bp">None</span><span class="p">}</span>
+
+<span class="k">def</span> <span class="nf">setup</span><span class="p">(</span><span class="n">app</span><span class="p">):</span>
+  <span class="n">app</span><span class="o">.</span><span class="n">add_stylesheet</span><span class="p">(</span><span class="s1">&#39;theme_overrides.css&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>La última definición es un ajuste que se hace al tema para facilitar su visualización
+en otrs dispositivos y resoluciones. Dicho archivo se crea en el directorio _static,
+y contiene lo siguiente:</p>
+<div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="c">/* override table width restrictions as found on https://github.com/getpelican/pelican/issues/1311 */</span>
+<span class="p">.</span><span class="nc">wy-table-responsive</span> <span class="nt">table</span> <span class="nt">td</span><span class="o">,</span> <span class="p">.</span><span class="nc">wy-table-responsive</span> <span class="nt">table</span> <span class="nt">th</span> <span class="p">{</span>
+  <span class="c">/* !important prevents the common CSS stylesheets from</span>
+<span class="c">     overriding this as on RTD they are loaded after this stylesheet */</span>
+  <span class="k">white-space</span><span class="p">:</span> <span class="kc">normal</span> <span class="cp">!important</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">wy-table-responsive</span> <span class="p">{</span>
+  <span class="k">overflow</span><span class="p">:</span> <span class="kc">visible</span> <span class="cp">!important</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="sintaxis-basica-de-archivos-rst">
+<span id="docgen-syntax"></span><h2>Sintaxis básica de archivos rst<a class="headerlink" href="#sintaxis-basica-de-archivos-rst" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Para empezar a generar la documentación como tal, debemos escribir el contenido
+en archivos de extensión .rst los cuales sphinx interpreta para generar el documento
+en el formato deseado. Lo primero que debemos considerar son los títulos, secciones,
+y subsecciones, así como la generación de cuadros y listas. Presentamos un pequeño
+ejemplo y el respectivo resultado <a class="reference internal" href="99refs.html#rstsyntax" id="id1">[rst]</a>.</p>
+<div class="highlight-rst notranslate"><div class="highlight"><pre><span></span><span class="p">..</span> <span class="nt">_ejemplo:</span>
+
+<span class="gh">*******</span>
+<span class="gh">Ejemplo</span>
+<span class="gh">*******</span>
+
+<span class="gh">subtitle</span>
+<span class="gh">########</span>
+
+<span class="gh">subsubtitle</span>
+<span class="gh">***********</span>
+
+<span class="p">..</span> <span class="nt">_docgen-etiqueta:</span>
+
+<span class="gh">section</span>
+<span class="gh">=======</span>
+
+<span class="gh">subsection</span>
+<span class="gh">----------</span>
+
+<span class="gh">subsubsection</span>
+<span class="gh">^^^^^^^^^^^^^</span>
+
+<span class="gh">subsubsection</span>
+<span class="gh">~~~~~~~~~~~~~</span>
+
+Texto normal estilo loren ipsum y una referencia a sintaxis <span class="na">:cite:</span><span class="nv">`rstsyntax`</span>
+
+Ahora una imagen con una etiqueta para referenciarla <span class="na">:ref:</span><span class="nv">`docgen-fig00`</span> y de
+igual forma una referencia a una sección <span class="na">:ref:</span><span class="nv">`docgen-etiqueta`</span>.
+
+<span class="p">..</span> <span class="nt">_docgen-fig00</span>
+
+<span class="nt">.. figure:</span>: img/linuxsteps/ssh_gitlab.png
+  <span class="nc">:align:</span> <span class="nf">center</span>
+  <span class="nc">:width:</span> <span class="nf">100 px</span>
+  <span class="nc">:alt:</span> <span class="nf">Imagen de ejemplo.</span>
+
+  Imagen de ejemplo.
+
+<span class="gh">Listas</span>
+<span class="gh">------</span>
+
+<span class="m">*</span> This is a bulleted list.
+<span class="m">*</span> It has two items, the second
+  item uses two lines. (note the indentation)
+
+<span class="m">1.</span> This is a numbered list.
+<span class="m">2.</span> It has two items too.
+
+<span class="m">#.</span> This is a numbered list.
+<span class="m">#.</span> It has two items too.
+
+<span class="gh">Cuadro simple</span>
+<span class="gh">-------------</span>
+
++---------+---------+-----------+
+<span class="o">|</span> 1       |  2      |  3        |
++---------+---------+-----------+
+
+<span class="gh">Cuadro más elaborado</span>
+<span class="gh">--------------------</span>
+
++------------+------------+-----------+
+<span class="o">|</span> Header 1   | Header 2   | Header 3  |
++============+============+===========+
+<span class="o">|</span> body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+<span class="o">|</span> body row 2 | Cells may span columns.|
++------------+------------+-----------+
+<span class="o">|</span> body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+<span class="o">|</span> body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+<span class="gh">Cuadro alternativo</span>
+<span class="gh">------------------</span>
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+=====  =====  ======
+
+<span class="gh">Cuadro estilo Látex</span>
+<span class="gh">-------------------</span>
+
+<span class="p">..</span> <span class="ow">tabularcolumns</span><span class="p">::</span> |l|c|p{5cm}|
+
++--------------+---+-----------+
+<span class="o">|</span>  simple text | 2 | 3         |
++--------------+---+-----------+
+</pre></div>
+</div>
+<p>El código anterior puede apreciarse en la sección <a class="reference internal" href="98ejemplo.html#ejemplo"><span class="std std-ref">Ejemplo</span></a>.</p>
+</div>
+<div class="section" id="compilacion-y-estructura-basica-de-la-documentacion">
+<span id="docgen-compile"></span><h2>Compilación y estructura básica de la documentación<a class="headerlink" href="#compilacion-y-estructura-basica-de-la-documentacion" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>El comando sphinx-quickstart genera una serie de directorios, un Makefile y un
+archivo index.rst que sirve como base para agregar archivos adicionales. Este
+archivo index.rst tiene el siguiente aspecto básico:</p>
+<div class="highlight-rst notranslate"><div class="highlight"><pre><span></span><span class="cp">.. eperdoc documentation master file, created by</span>
+<span class="cp">   sphinx-quickstart on Wed Aug  1 11:44:55 2018.</span>
+<span class="cp">   You can adapt this file completely to your liking, but it should at least</span>
+<span class="cp">   contain the root `toctree` directive.</span>
+
+<span class="gh">Documentación Proyecto Eléctrico EPER</span>
+<span class="gh">=====================================</span>
+
+<span class="p">..</span> <span class="ow">toctree</span><span class="p">::</span>
+   <span class="nc">:maxdepth:</span> <span class="nf">2</span>
+   <span class="nc">:caption:</span> <span class="nf">Contenidos</span>
+
+   linuxsteps
+   docgen
+   envmodules
+   ejemplo
+   refs
+
+<span class="gh">Índices y cuadros</span>
+<span class="gh">==================</span>
+
+<span class="m">*</span> <span class="na">:ref:</span><span class="nv">`genindex`</span>
+<span class="m">*</span> <span class="na">:ref:</span><span class="nv">`modindex`</span>
+<span class="m">*</span> <span class="na">:ref:</span><span class="nv">`search`</span>
+</pre></div>
+</div>
+<p>Como se puede observar, basta con agregar los nombres sin extensión de los archivos
+para que estos se agreguen a la documentación. De esta forma es posible trabajar
+de forma modularizada.</p>
+<p>A la hora de compilar tenemos varias opciones, incluyendo la posibilidad de generar
+código en Látex. los de interés en nuestro caso serán los siguientes:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>make html <span class="c1"># Genera la documentación normal en html.</span>
+make latexpdf <span class="c1"># Genera el código en Látex y un pdf.</span>
+</pre></div>
+</div>
+<p>Otros formatos y opciones se pueden visualizar con el comando make help.</p>
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, Guido A. Godínez Zamora .
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'1.0.a',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="_static/translations.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

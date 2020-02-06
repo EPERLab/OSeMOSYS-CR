@@ -1,0 +1,449 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Creación de módulos de ambiente &mdash; documentación de eperdoc - 1.0.a</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="_static/theme_overrides.css" type="text/css" />
+  
+
+  
+        <link rel="index" title="Índice"
+              href="genindex.html"/>
+        <link rel="search" title="Búsqueda" href="search.html"/>
+    <link rel="top" title="documentación de eperdoc - 1.0.a" href="index.html"/>
+        <link rel="next" title="Software y módulos adicionales" href="software.html"/>
+        <link rel="prev" title="Generación de documentación en Sphinx" href="docgen.html"/> 
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="index.html" class="icon icon-home"> eperdoc
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contenidos</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="linuxsteps.html">Primeros pasos en Linux para trabajar</a></li>
+<li class="toctree-l1"><a class="reference internal" href="docgen.html">Generación de documentación en Sphinx</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Creación de módulos de ambiente</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#creacion-de-modulo-de-ambiente">Creación de módulo de ambiente</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="software.html">Software y módulos adicionales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ejemplo.html">Ejemplo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="refs.html">Referencias</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">eperdoc</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Creación de módulos de ambiente</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/envmodules.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="creacion-de-modulos-de-ambiente">
+<span id="envmodules"></span><h1>Creación de módulos de ambiente<a class="headerlink" href="#creacion-de-modulos-de-ambiente" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>En esta sección se muestra cómo compilar el software para la creación de módulos
+de ambiente para el desarrollo y ejecución de programas con requisitos específicos,
+sin que exista un conflicto entre estos debido al uso de distintas versiones de
+una misma biblioteca o herramienta. De esta manera se puede jugar un poco más en
+un entorno estilo caja de arena y hacer pruebas específicas y poder saltar de un
+ambiente a otro sin mayor inconveniente, y de manera transparente. Para más información,
+se puede consultar el link <a class="reference internal" href="refs.html#modules" id="id1">[modc]</a><a class="reference internal" href="refs.html#modules2" id="id2">[moda]</a>.</p>
+<p>Los módulos de ambiente permiten una gran flexibilidad en el desarrollo del software
+al permitir cambiar dinámicamente la versión de las bibliotecas y herramientas,
+todo esto según las necesidades del software o del algoritmo que se desea implementar.
+Para este caso se compilará desde el código fuente y se dejará en funcionamiento
+en el directorio /opt, donde además se manejarán los module files y el código fuente
+de lo que se desee implementar como módulo de ambiente <a class="reference internal" href="refs.html#moduleinstall" id="id3">[modb]</a>.</p>
+<p>Primero creamos los directorios donde vamos a manejar el software que se vaya a
+compilar y manejar como módulo de ambiente, además de desinstalar la versión de
+repositorio de los módulos de ambiente.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>mkdir -p /opt/src/modulefiles
+mkdir -p /opt/libs/modulefiles
+mkdir -p /opt/tools/modulefiles
+mkdir -p /opt/compilers/modulefiles
+mkdir -p /opt/debug/modulefiles
+mkdir -p /opt/python/modulefiles
+sudo apt purge environment-modules
+</pre></div>
+</div>
+<p>Es posible que lo anterior desinstale otros programas y herramientas, como es el
+caso de mpich y openmpi, pues al instalarlos desde los repositorios, estos se instalan
+como si fuesen módulos de ambiente empleando la configuración provista por la versión
+de los repositorios. Lo anterior implica que debemos crear estos módulos de ambiente
+después de terminar de configurar la versión compilada  de este software.</p>
+<p>Clonamos en el directorio /opt/src el repositorio del software de módulos de ambiente
+y procedemos a compilarlo.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">cd</span> /opt/src
+git clone git@github.com:cea-hpc/modules.git <span class="c1"># git clone https://github.com/cea-hpc/modules.git</span>
+<span class="nb">cd</span> modules
+mkdir /opt/tools/modules-4.0.0
+./configure --with-module-path<span class="o">=</span>/opt/modules --prefix<span class="o">=</span>/opt/tools/modules-4.0.0
+make
+make install
+</pre></div>
+</div>
+<p>Con esto ahora procedemos a crear y llenar los archivos de configuración necesarios
+para la correcta creación y funcionamiento de los módulos. Primero creamos el archivo
+/etc/profile.d/modules.sh el cual define y exporta los directorios, así como los
+distintos tipos de shell que se puede tener instalado en el sistema.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>ln -s /opt/tools/modules-4.0.0 /opt/modules/default
+touch /etc/profile.d/modules.sh
+nano /etc/profile.d/modules.sh
+</pre></div>
+</div>
+<p>En este archivo agregamos lo siguiente:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">trap</span> <span class="s2">&quot;&quot;</span> <span class="m">1</span> <span class="m">2</span> <span class="m">3</span>
+
+<span class="nv">MID</span><span class="o">=</span>/opt/modules/default/init
+
+<span class="k">case</span> <span class="s2">&quot;</span><span class="nv">$0</span><span class="s2">&quot;</span> in
+        -bash<span class="p">|</span>bash<span class="p">|</span>*/bash<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/bash <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/bash <span class="p">;;</span>
+           -ksh<span class="p">|</span>ksh<span class="p">|</span>*/ksh<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/ksh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/ksh <span class="p">;;</span>
+              -sh<span class="p">|</span>sh<span class="p">|</span>*/sh<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/sh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/sh <span class="p">;;</span>
+                        *<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/sh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/sh <span class="p">;;</span>
+
+<span class="c1">#default for scripts</span>
+<span class="k">esac</span>
+
+<span class="nv">MODULERCFILE</span><span class="o">=</span>/opt/modulerc
+<span class="nb">export</span> MODULERCFILE
+module add null
+
+<span class="nb">trap</span> - <span class="m">1</span> <span class="m">2</span> <span class="m">3</span>
+</pre></div>
+</div>
+<p>Ahora creamos el archivo modulerc donde se definen los directorios de los
+modulefiles para que el archivo modules.sh funcione correctamente.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="c1">#%Module</span>
+append-path MODULEPATH /opt/libs/modulefiles
+append-path MODULEPATH /opt/tools/modulefiles
+append-path MODULEPATH /opt/compilers/modulefiles
+append-path MODULEPATH /opt/python/modulefiles
+append-path MODULEPATH /opt/debug/modulefiles
+
+<span class="c1"># system-wide pre-loaded standard modules:</span>
+<span class="nb">set</span> defmodules <span class="o">{}</span>
+foreach m <span class="nv">$defmodules</span> <span class="o">{</span>
+  <span class="k">if</span> <span class="o">{</span>! <span class="o">[</span> is-loaded <span class="nv">$m</span> <span class="o">]</span> <span class="o">}</span> <span class="o">{</span>
+    module load <span class="nv">$m</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</pre></div>
+</div>
+<p>En caso de tener disponible tcsh, creamos además el archivo /etc/profile.d/modules.csh
+y lo editamos con nano o vim. Agregamos lo siguiente:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="k">if</span> <span class="o">(</span><span class="nv">$?</span>tcsh<span class="o">)</span> <span class="k">then</span>
+      <span class="nb">set</span> <span class="nv">modules_shell</span><span class="o">=</span><span class="s2">&quot;tcsh&quot;</span>
+<span class="k">else</span>
+      <span class="nb">set</span> <span class="nv">modules_shell</span><span class="o">=</span><span class="s2">&quot;csh&quot;</span>
+endif
+
+<span class="k">if</span> <span class="o">(</span> -f /opt/modules/default/init/<span class="si">${</span><span class="nv">modules_shell</span><span class="si">}</span> <span class="o">)</span> <span class="k">then</span>
+   <span class="nb">source</span> /opt/modules/default/init/<span class="si">${</span><span class="nv">modules_shell</span><span class="si">}</span>
+endif
+
+setenv MODULERCFILE /opt/modulerc
+module add null
+
+<span class="nb">unset</span> modules_shell
+</pre></div>
+</div>
+<p>Finalmente recargamos los archivos de configuración mediante el comando source.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">source</span> /etc/profile.d/modules.sh
+</pre></div>
+</div>
+<p>Adicionalmente al procedimiento anterior, se creó un script que automatiza el
+procedimiento anterior en caso de que sea necesaria una reinstalación. Se replicará
+esta metodología en la creación de los módulos de ambiente para facilitar la
+administración de este sistema.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="ch">#!/bin/bash</span>
+
+
+<span class="nv">soft</span><span class="o">=</span>modules
+<span class="nv">version</span><span class="o">=</span><span class="m">4</span>.0.0
+<span class="nv">src</span><span class="o">=</span>/opt/src
+<span class="nv">install</span><span class="o">=</span>/opt/tools
+<span class="nv">mod_path</span><span class="o">=</span><span class="si">${</span><span class="nv">install</span><span class="si">}</span>/modulefiles/<span class="si">${</span><span class="nv">soft</span><span class="si">}</span>
+<span class="nv">prefix</span><span class="o">=</span><span class="si">${</span><span class="nv">install</span><span class="si">}</span>/<span class="si">${</span><span class="nv">soft</span><span class="si">}</span>-<span class="si">${</span><span class="nv">version</span><span class="si">}</span>
+<span class="nb">cd</span> <span class="nv">$src</span>
+mkdir -p <span class="si">${</span><span class="nv">prefix</span><span class="si">}</span>
+git clone https://github.com/cea-hpc/modules.git
+<span class="nb">cd</span> <span class="nv">$soft</span>
+./configure --with-module-path<span class="o">=</span>/opt/modules --prefix<span class="o">=</span>/opt/tools/modules-4.0.0
+make
+make install
+mkdir -p /opt/modules
+ln -s <span class="si">${</span><span class="nv">prefix</span><span class="si">}</span> /opt/modules/default
+
+/bin/cat &lt;&lt;<span class="s2">&quot;#EOF#&quot;</span> &gt; /etc/profile.d/modules.sh
+<span class="nb">trap</span> <span class="s2">&quot;&quot;</span> <span class="m">1</span> <span class="m">2</span> <span class="m">3</span>
+
+<span class="nv">MID</span><span class="o">=</span>/opt/modules/default/init/
+
+<span class="k">case</span> <span class="s2">&quot;</span><span class="nv">$0</span><span class="s2">&quot;</span> in
+      -bash<span class="p">|</span>bash<span class="p">|</span>*/bash<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/bash <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/bash <span class="p">;;</span>
+         -ksh<span class="p">|</span>ksh<span class="p">|</span>*/ksh<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/ksh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/ksh <span class="p">;;</span>
+            -sh<span class="p">|</span>sh<span class="p">|</span>*/sh<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/sh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/sh <span class="p">;;</span>
+                      *<span class="o">)</span> <span class="nb">test</span> -f <span class="nv">$MID</span>/sh <span class="o">&amp;&amp;</span> . <span class="nv">$MID</span>/sh <span class="p">;;</span>
+
+<span class="c1">#default for scripts</span>
+<span class="k">esac</span>
+
+<span class="nv">MODULERCFILE</span><span class="o">=</span>/opt/modulerc
+<span class="nb">export</span> MODULERCFILE
+module add null
+
+<span class="nb">trap</span> - <span class="m">1</span> <span class="m">2</span> <span class="m">3</span>
+
+<span class="c1">#EOF#</span>
+
+
+/bin/cat &lt;&lt;<span class="s2">&quot;#EOF#&quot;</span> &gt; /etc/profile.d/modules.csh
+<span class="k">if</span> <span class="o">(</span><span class="nv">$?</span>tcsh<span class="o">)</span> <span class="k">then</span>
+<span class="nb">set</span> <span class="nv">modules_shell</span><span class="o">=</span><span class="s2">&quot;tcsh&quot;</span>
+<span class="k">else</span>
+<span class="nb">set</span> <span class="nv">modules_shell</span><span class="o">=</span><span class="s2">&quot;csh&quot;</span>
+endif
+
+<span class="k">if</span> <span class="o">(</span> -f /opt/modules/default/init/<span class="si">${</span><span class="nv">modules_shell</span><span class="si">}</span> <span class="o">)</span> <span class="k">then</span>
+ <span class="nb">source</span> /opt/modules/default/init/<span class="si">${</span><span class="nv">modules_shell</span><span class="si">}</span>
+endif
+
+setenv MODULERCFILE /opt/modulerc
+module add null
+
+<span class="nb">unset</span> modules_shell
+
+<span class="c1">#EOF#</span>
+
+/bin/cat &lt;&lt;<span class="s2">&quot;#EOF#&quot;</span> &gt; /opt/modulerc
+<span class="c1">#%Module</span>
+append-path MODULEPATH /opt/libs/modulefiles
+append-path MODULEPATH /opt/tools/modulefiles
+append-path MODULEPATH /opt/compilers/modulefiles
+append-path MODULEPATH /opt/python/modulefiles
+append-path MODULEPATH /opt/debug/modulefiles
+append-path MODULEPATH /opt/intel/modulefiles
+
+<span class="c1"># system-wide pre-loaded standard modules:</span>
+<span class="nb">set</span> defmodules <span class="o">{}</span>
+foreach m <span class="nv">$defmodules</span> <span class="o">{</span>
+<span class="k">if</span> <span class="o">{</span>! <span class="o">[</span> is-loaded <span class="nv">$m</span> <span class="o">]</span> <span class="o">}</span> <span class="o">{</span>
+  module load <span class="nv">$m</span>
+  <span class="o">}</span>
+<span class="o">}</span>
+
+<span class="c1">#EOF#</span>
+</pre></div>
+</div>
+<div class="section" id="creacion-de-modulo-de-ambiente">
+<span id="envmodules-crear-modulo"></span><h2>Creación de módulo de ambiente<a class="headerlink" href="#creacion-de-modulo-de-ambiente" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Una vez instalada la infraestructura para instalar módulos de ambiente, lo que procede
+es crear nuestros módulos. Generalmente esto implica descargar los instaladores
+o el código fuente y compilar en directorios que no necesariamente están dentro
+de las variables de entorno del sistema.</p>
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="software.html" class="btn btn-neutral float-right" title="Software y módulos adicionales" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="docgen.html" class="btn btn-neutral" title="Generación de documentación en Sphinx" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, Willy Villalobos.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'1.0.a',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="_static/translations.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>
