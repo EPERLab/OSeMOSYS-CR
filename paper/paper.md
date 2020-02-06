@@ -61,7 +61,7 @@ The following images presents a graphic representation of the scenarios. Figure 
 
 ![Emission trajectories for the BAU, SR20 and SR15 scenarios.](CO2_emissions.png)
 
-![Emission trajectories for the BAU, SR20 and SR15 scenarios.](energy.png)
+![Emission trajectories for the BAU, SR20 and SR15 scenarios.](energy_by_fuel.png)
 
 Ongoing projects, which aim at exploring further the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the coverage (reach) of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be submitted to share with experts and undergo a revision and validation process with stakeholders. 
 
