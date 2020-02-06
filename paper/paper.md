@@ -57,7 +57,7 @@ Three different pre-built scenarios included in the repository: a business-as-us
 
 ![Simple reference energy system for OSeMOSYS-CR model.](SimpleModel.png)
 
-The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-ZamoraGuido2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 3 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
+The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-Zamora2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 3 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
 
 ![Emission trajectories for the BAU, SR20 and SR15 scenarios.](CO2_emissions.png)
 
