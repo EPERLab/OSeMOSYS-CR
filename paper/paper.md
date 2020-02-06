@@ -89,3 +89,4 @@ Ongoing projects, which aim at exploring further the use and applicability of th
 This work was funded by the Interamerican Development Bank and the University of Costa Rica. The authors want to recognise the contribution from many stakeholders in Costa Rica in providing valuable data and discussing different aspects of the model that led to a robust model currently available in the country.
 
 # References
+{% bibliography --cited --file paper.md/paper.bib  %}
