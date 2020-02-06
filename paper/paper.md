@@ -61,8 +61,8 @@ Three different pre-built scenarios included in the repository: a business-as-us
 
 <p align="center">
 <img src="SimpleModel.PNG" alt="Simple reference energy system for OSeMOSYS-CR model." width="750"/>
-</p>
-<p align="center">
+<br>
+<align="center">
     <em>Figure 2. Simple reference energy system for OSeMOSYS-CR model.</em>
 </p>
 
@@ -70,15 +70,15 @@ The following images presents a graphic representation of the scenarios. Figure 
 
 <p align="center">
 <img src="CO2_emissions.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="750"/>
-</p>
-<p align="center">
+<br>
+<align="center">
     <em>Figure 3. Emission trajectories for the BAU, SR20 and SR15 scenarios.</em>
 </p>
 
 <p align="center">
 <img src="energy_by_fuel.png" alt="Figure 3. Energy use by fuel for the BAU, SR15 and SR15 scenarios." width="750"/>
-</p>
-<p align="center">
+<br>
+<align="center">
     <em>Figure 4. Figure 3. Energy use by fuel for the BAU, SR15 and SR15 scenarios.</em>
 </p>
 
