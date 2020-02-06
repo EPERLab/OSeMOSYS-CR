@@ -43,7 +43,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon',
-    'sphinxcontrib.bibtex'] # Agregado napoleon extension
+    #'sphinxcontrib.bibtex'] # Agregado napoleon extension
 
 #Agregado
 napoleon_google_docstring = False
