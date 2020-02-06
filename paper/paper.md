@@ -48,6 +48,12 @@ The modelling framework is executed using Python. The process starts with the sc
 
 <img src="Framework.PNG" alt="General Framework for support national energy-relate policy, with OSeMOSYS-CR." width="800"/>
 
+<object data="Diagram.pdf" type="application/pdf" width="700px">
+    <embed src="Diagram.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # Model Structure and Strategies 
 
 The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figure 2. The model includes a module for co-benefits related to the consumption of fossil fuels which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [@Quiros-Tortos2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
