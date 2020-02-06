@@ -46,7 +46,7 @@ extensions = ['sphinx.ext.autodoc',
     #'sphinxcontrib.bibtex'] # Agregado napoleon extension
 
 #Agregado
-napoleon_google_docstring = False
+napoleon_google_docstring == False
 napoleon_use_param = False
 napoleon_use_ivar = True
 
