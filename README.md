@@ -48,7 +48,7 @@ Documentation is available on Read the Docs:
 
 # Usage
 
-In order to run the model, the [GLPK] (https://www.gnu.org/software/glpk/) solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal.
+In order to run the model, the [GLPK](https://www.gnu.org/software/glpk/) solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal.
 
 # Releases
 * 2019-02-XX: First released version of OSeMOSYS-CR.
