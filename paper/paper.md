@@ -69,7 +69,7 @@ Three different pre-built scenarios included in the repository: a business-as-us
 The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-Zamora2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 4 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
 
 <p align="center">
-<img src="CO2_emissions.png" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="650"/>
+<img src="CO2_emissions.PNG" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="650"/>
 <br>
 <align="center">
     <em>Figure 3. Emission trajectories for the BAU, SR20 and SR15 scenarios.</em>
