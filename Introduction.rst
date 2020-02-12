@@ -43,10 +43,18 @@ Data and key assumptions
 +++++++++
 
 	
-+------------+------------+--------------------------+----------------------------------------------------------------------+
-| Category   | Source     | Data                     | Descriptions and assumption made                                     |
-+============+============+==========================+======================================================================+
-| Demand     | SEPSE      | Final energy             | It is used to build the structure of the energy system, time-series  |
-|            |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                  |
-+------------+------------+--------------------------+----------------------------------------------------------------------+
++------------+------------+--------------------------+-----------------------------------------------------------------------------+
+| Category   | Source     | Data                     | Descriptions and assumption made                                            |
++============+============+==========================+=============================================================================+
+| Energy     | SEPSE      | Energy balance           | It is used to build the structure of the energy system, time-series         |
+| System     |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                         |
++------------+------------+--------------------------+-----------------------------------------------------------------------------+
+| Demand     | SEPSE      | Final energy             | Built based on final end-use by sectors: industry, transport, households,   |
+|            |            |                          | services and agriculture.                                                   |
++            +------------+--------------------------+-----------------------------------------------------------------------------+
+|            | ICE        | Electricity load shapes  | Assumed constant for industry, curve for commerce (peak mid-day) and        |
+|            |            |                          | classical two valleys, two peaks and night for residential.                 |
++------------+------------+--------------------------+-----------------------------------------------------------------------------+
+
+
 
