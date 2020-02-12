@@ -43,14 +43,9 @@ Data and key assumptions
 +++++++++
 
 	
-+------------+------------+-----------+
-| Header 1   | Header 2   | Header 3  |
-+============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Cells   |
-+------------+ span rows. | - contain |
-| body row 4 |            | - blocks. |
-+------------+------------+-----------+
++------------+------------+----------------------+--------------------------------------------+
+| Category   | Source     | Data                 | Descriptions and assumption made           |
++============+============+======================+============================================+
+| Demand     | SEPSE      | Final energy         | It is used to build the structure of the energy system, time-series from 1989 to 2017 and forecasted with ARIMA models.|
++------------+------------+----------------------+--------------------------------------------+
+
