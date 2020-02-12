@@ -18,8 +18,12 @@ Costa Rica is promoting a transcendental digital transformation to improve proce
 **EQUATION (1)**
 
 Where: 
-•	Discounted Operational Cost: It corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
+
+•	Discounted Operational Cost: It corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity). 
+
 •	Discounted Capital Investment: It represents the cost of investment of all technologies selected to supply energy on the whole period. 
+
 •	Discounted Technology Emission Penalty: This is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
+
 •	Discounted Salvage Value: As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
 
