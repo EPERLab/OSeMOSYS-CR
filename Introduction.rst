@@ -67,5 +67,13 @@ Data and key assumptions
 |            | ICE        | Capacities and activity  | Based on the operational performance registered by the National Energy       |
 |            |            |                          | Control Centre. Lifespan is according to national plans.                     |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
-
+|Transport   | Hacienda   | Capital and fixed costs  | Based on the Ministry of Finance (Hacienda) database. We assumed that cost of|
+|technologies| Bloomberg  |                          | electric vehicles' decreases (Bloomberg). For cargo transport, we review cost|
+|            | Companies  |                          | of companies like Nicola and Tesla.                                          |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | SEPSE      | Capacities and activity  | Based on the performance register by national surveys, concession for public |
+|            | RITEVE     |                          | transport and the annual Vehicle technical review (RITEVE). Lifespan is      |
+|            | MOPT       |                          | according to manufacturers and the residual capacity decreases linearly and  | 
+|            |            |                          |proportionally with this value.                                               |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
 
