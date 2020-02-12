@@ -76,4 +76,14 @@ Data and key assumptions
 |            | MOPT       |                          | according to manufacturers and the residual capacity decreases linearly and  | 
 |            |            |                          | proportionally with this value.                                              |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
-
+|Fuel prices | RECOPE     | Fossil Fuels and Biofuels| Based on current tariffs and projection uses in national plans. It considers |
+|            | IEA        |                          | international prices and the tariff given by the regulator in Costa Rica     |
+|            | ARESEP     |                          | (ARESEP) and trend provide by international Energy Agency (IEA).             |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | ICE        | Electricity              | Base of the average of national tariffs and projections.                     |
+|            | ARESEP     |                          |                                                                              |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | SEPSE      | Biomass                  |  Not included. It is produced and consumed locally.                          |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | ETSAP      | Hydrogen                 | Based on data publish by Energy Technology Systems Analysis Programme (ETSAP)|
++------------+------------+--------------------------+------------------------------------------------------------------------------+
