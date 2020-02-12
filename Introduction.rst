@@ -87,3 +87,13 @@ Data and key assumptions
 +            +------------+--------------------------+------------------------------------------------------------------------------+
 |            | ETSAP      | Hydrogen                 | Based on data publish by Energy Technology Systems Analysis Programme (ETSAP)|
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
+|Infraestruc-| ICE        | Plants and power grid    | Based on Transmission and generation national plans. It assumes losses of 6% |
+| ture       |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
+|            |            |                          | infrastructure is not included.                                              |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | RECOPE     | Pipeline and road        | Based on national reports, we do not consider the current does no growth (for|
+|            |            | distribution             | gasoline and Diesel). It includes new infrastructure for LPG. The model      |
+|            |            |                          | includes natural gas but is not used.                                        |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | ETSAP      | Hydrogen                 | Consider local production, road transport and supply stations.               |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
