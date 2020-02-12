@@ -41,6 +41,7 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 
 Data and key assumptions 
 +++++++++
+.. class:: center
 
 Table 1: Main data sources use in OSeMOSYS-CR. 
 
