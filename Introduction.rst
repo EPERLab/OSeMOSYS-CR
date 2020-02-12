@@ -97,7 +97,16 @@ Data and key assumptions
 +            +------------+--------------------------+------------------------------------------------------------------------------+
 |            | ETSAP      | Hydrogen                 | Consider local production, road transport and supply stations.               |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Sustainable| MINAE      | Urban plans and mobility | Regarding the Integrated Public Transport System, the cost consideration     |
-| mobility   | MOPT       |                          | and annual kilometers. We combine international standard data of technologies|
-|            | INCOFER    |                          | with national records. Technological groups are defined to study modal change|
+| Sustainable| MINAE      | Urban plans and mobility | Regarding the Integrated Public Transport System, the cost consideration come|
+| mobility   | MOPT       |                          | from  Costa Rican Railways Institute (INCOFER) and MOTP studies.             |
+|            | INCOFER    |                          |                                                                              |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Cargo      | MINAE      | Electric cargo train and | Cost was taken from national reports and demand based on expert criteria     |
+| transport  | MOPT       | Logistic                 | given in the participatory process.                                          |
+|            | INCOFER    |                          |                                                                              |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Emissions  | IPCC       |  Factors                 |  Based on the IPCC and the national GHG inventory.                           |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Co-benefits| PEN        | Coefficients             | It considers coefficients for health congestion and accidents by State of the|
+|            | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
