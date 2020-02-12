@@ -74,6 +74,6 @@ Data and key assumptions
 |            | SEPSE      | Capacities and activity  | Based on the performance register by national surveys, concession for public |
 |            | RITEVE     |                          | transport and the annual Vehicle technical review (RITEVE). Lifespan is      |
 |            | MOPT       |                          | according to manufacturers and the residual capacity decreases linearly and  | 
-|            |            |                          |proportionally with this value.                                               |
+|            |            |                          | proportionally with this value.                                               |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 
