@@ -43,6 +43,9 @@ Data and key assumptions
 +++++++++
 
 .. table:: blah *hello* **world** blah
+  :align:   center
+
+  The Reference Energy System (RES) of the Atlantis case study.
 
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category   | Source     | Data                     | Descriptions and assumption made                                             |
