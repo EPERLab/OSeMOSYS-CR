@@ -16,4 +16,4 @@ Introduction to OSeMOSYS
 Costa Rica is promoting a transcendental digital transformation to improve processes and decision making. Based on the principles of transparency, consistency, comparability, and precision the Open Source energy MOdel SYStem (OSeMOSYS) was adopted to study the energy system. The model minimizes the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies. The objective function of OSeMOSYS is presented in (1). 
 
 .. math::
-n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
+    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
