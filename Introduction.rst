@@ -19,7 +19,7 @@ Costa Rica is promoting a transcendental digital transformation to improve proce
 
 Where: 
 
-•	Discounted Operational Cost: It corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity). 
+*	Discounted Operational Cost: It corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity). 
 
 •	Discounted Capital Investment: It represents the cost of investment of all technologies selected to supply energy on the whole period. 
 
