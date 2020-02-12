@@ -43,18 +43,23 @@ Data and key assumptions
 +++++++++
 
 	
-+------------+------------+--------------------------+-----------------------------------------------------------------------------+
-| Category   | Source     | Data                     | Descriptions and assumption made                                            |
-+============+============+==========================+=============================================================================+
-| Energy     | SEPSE      | Energy balance           | It is used to build the structure of the energy system, time-series         |
-| System     |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                         |
-+------------+------------+--------------------------+-----------------------------------------------------------------------------+
-| Demand     | SEPSE      | Final energy             | Built based on final end-use by sectors: industry, transport, households,   |
-|            |            |                          | services and agriculture.                                                   |
-+            +------------+--------------------------+-----------------------------------------------------------------------------+
-|            | ICE        | Electricity load shapes  | Assumed constant for industry, curve for commerce (peak mid-day) and        |
-|            |            |                          | classical two valleys, two peaks and night for residential.                 |
-+------------+------------+--------------------------+-----------------------------------------------------------------------------+
++------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Category   | Source     | Data                     | Descriptions and assumption made                                             |
++============+============+==========================+==============================================================================+
+| Energy     | SEPSE      | Energy balance           | It is used to build the structure of the energy system, time-series          |
+| System     |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                          |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Demand     | SEPSE      | Final energy             | Built based on final end-use by sectors: industry, transport, households,    |
+|            |            |                          | services and agriculture.                                                    |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | ICE        | Electricity load shapes  | Assumed constant for industry, curve for commerce (peak mid-day) and         |
+|            |            |                          | classical two valleys, two peaks and night for residential.                  |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | SEPSE      | Transport                | It includes load factors, vehicle fleet, and energy consumption, efficiencies|
+|            | RITEVE     | (passengers and cargo)   | and annual kilometers. We combine international standard data of technologies|
+|            | MOPT       |                          | with national records. Technological groups are defined to study modal change|
+|            | ETSAP      |                          | and fuel use. Non-motorized mobility is considered zero in the base case.    |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
 
 
 
