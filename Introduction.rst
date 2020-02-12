@@ -27,3 +27,15 @@ Where:
 
 *	Discounted Salvage Value: As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
 
+Energy balance of Costa Rica
++++++++++
+
+The energy balance is the most important source of data for the model. It is prepared for the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis concentrates and processes data from institutions such as The Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center for Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. Figure 1 shows the diagram for 2011.  In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. Figure 2 shows the historical trending and the general distribution for 2016. 
+
+General model structure 
++++++++++
+
+The entire Costa Rican energy sector is modeled in OSeMOSYS. However, only the transport and electricity sectors are subject to linear optimization, while other energy sources and demands are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 3. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed to different demands including industrial, residential and commercial requirements, and the transport of passengers and cargo. 
+
+In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capabilities. The establishment of these parameters was done after a data processing and a review of the available national energy information. Table X shows the main data sources.  
+
