@@ -42,10 +42,6 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 Data and key assumptions 
 +++++++++
 
-.. table:: 
-  :align:   center
-  The Reference Energy System (RES) of the Atlantis case study.
-
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category   | Source     | Data                     | Descriptions and assumption made                                             |
 +============+============+==========================+==============================================================================+
