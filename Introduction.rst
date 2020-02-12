@@ -43,7 +43,8 @@ Data and key assumptions
 +++++++++
 
 <p align="center">
-  <em>Table 1. Main data sources for OSeMOSYS-CR.</em>
+  <align="center">
+  <em>Figure 1. General Framework for support national energy-relate policy, with OSeMOSYS-CR.</em>
 </p>	
 
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
