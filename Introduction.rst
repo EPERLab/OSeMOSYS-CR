@@ -7,7 +7,7 @@ This documentation has been structured to provide basic ideas about OSeMOSYS, es
 General overview
 =================================
 
-OSeMOSYS-CR was developed by University Costa Rica (UCR), the KTH Royal Institute of Technology and the Climate Change Directorate (DDC) as part of the Deep Decarbonization Pathways Project in Latin America (DDPP-LAC). 
+**OSeMOSYS-CR** was developed by University Costa Rica (UCR), the KTH Royal Institute of Technology and the Climate Change Directorate (DDC) as part of the Deep Decarbonization Pathways Project in Latin America (DDPP-LAC). 
 In order to contribute to the understanding of the model and guide new modelers, the team presents this comprehensive documentation which contains the general vision of design, sets, parameters, sources of information, key assumptions and explanation of data processing.
 
 Introduction to OSeMOSYS
