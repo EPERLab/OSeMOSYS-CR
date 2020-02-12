@@ -15,6 +15,11 @@ Introduction to OSeMOSYS
 
 Costa Rica is promoting a transcendental digital transformation to improve processes and decision making. Based on the principles of transparency, consistency, comparability, and precision the Open Source energy MOdel SYStem (OSeMOSYS) was adopted to study the energy system. The model minimizes the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies. The objective function of OSeMOSYS is presented in (1). 
 
-.. math::
+**EQUATION (1)**
 
-    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
+Where: 
+*	Discounted Operational Cost: It corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
+*	Discounted Capital Investment: It represents the cost of investment of all technologies selected to supply energy on the whole period. 
+*	Discounted Technology Emission Penalty: This is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
+*	Discounted Salvage Value: As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
+
