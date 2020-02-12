@@ -42,7 +42,7 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 Data and key assumptions 
 +++++++++
 
-.. table:: Personnel
+.. table:: blah *hello* **world** blah
 
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category   | Source     | Data                     | Descriptions and assumption made                                             |
