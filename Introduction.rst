@@ -42,10 +42,7 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 Data and key assumptions 
 +++++++++
 
-<p align="center">
-  <align="center">
-  <em>Figure 1. General Framework for support national energy-relate policy, with OSeMOSYS-CR.</em>
-</p>	
+.. table:: Different wave breaking formulations implemented
 
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category   | Source     | Data                     | Descriptions and assumption made                                             |
