@@ -60,6 +60,12 @@ Data and key assumptions
 |            | MOPT       |                          | with national records. Technological groups are defined to study modal change|
 |            | ETSAP      |                          | and fuel use. Non-motorized mobility is considered zero in the base case.    |
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
-
+|Electricity | ICE        | Capital and fixed costs  | Based on national data. The costs were assumed constant in the whole period, |
+|technologies| Bloomberg  |                          | except for solar and wind systems, which decrease according to international |
+|            | IEA        |                          | trends. Residual capacity is constant.                                       |
++            +------------+--------------------------+------------------------------------------------------------------------------+
+|            | ICE        | Capacities and activity  | Based on the operational performance registered by the National Energy       |
+|            |            |                          | Control Centre. Lifespan is according to national plans.                     |
++------------+------------+--------------------------+------------------------------------------------------------------------------+
 
 
