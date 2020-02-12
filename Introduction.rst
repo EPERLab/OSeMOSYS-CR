@@ -43,7 +43,7 @@ Data and key assumptions
 +++++++++
 
 
-Table 1: Main data sources use in OSeMOSYS-CR. 
+Table 1: Main data sources used in OSeMOSYS-CR. 
 
 +------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category   | Source     | Data                     | Descriptions and assumption made                                             |
