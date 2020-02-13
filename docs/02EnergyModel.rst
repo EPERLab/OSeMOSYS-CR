@@ -105,17 +105,17 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 |             | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
 +-------------+------------+--------------------------+------------------------------------------------------------------------------+
 
-Sets 
+2.2.1 Sets 
 +++++++++
 
 The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.), the group of sets include: years, fuels, technologies, emissions and modes of operation. Each parameter, as it going to be further explained, is dependent of one or more sets. This subsections presents the sets composing the current version of OSeMOSYS-CR.  
 
-Year
+2.2.2 Year
 ---------
 
 This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2018 to 2055. Five additional years are added in order to extend the optimization process.  Therefore, decisions right before 2050 (i.e. national decarbonisation target) will not be affected by the model considering it is the last year. 
 
-Fuels
+2.2.3 Fuels
 ---------
 
 Figure 2.6 shows the different levels and transformations that the fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
@@ -156,7 +156,7 @@ Table 2.2 presents a synthesis of the included groups of commodities, including 
 
 See Annex for the whole list of fuels.
 
-Technologies
+2.2.4 Technologies
 ---------
 
 Different types of technologies are included in the model in order to establish the current supply chain and substitution possibilities. Figure 2.7 shows the different levels and transformation of technologies. 
@@ -201,7 +201,7 @@ Table 2.3 presents a synthesis of groups of technologies, including a brief desc
 
 See Annex for the whole list of processes.
 
-Emissions
+2.2.5 Emissions
 ---------
 
 Table 2.4 shows a description of emissions included in the model. In general, for GHG, the values are in terms of equivalent carbon dioxide. 
@@ -231,7 +231,7 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 | PM2.5     | Fine Particulate matter                  |                                                                             
 +-----------+------------------------------------------+
 
-Mode of operation
+2.2.6 Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
