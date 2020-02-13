@@ -11,7 +11,7 @@ The energy balance is the most important source of data for the model. It is pre
 .. figure:: img/Fig_SankeyDiagram.png
 
 <p align="center">
-  <img src="img/Fig_SankeyDiagram.png" alt="General Framework for support national energy-relate policy, with OSeMOSYS-CR." width="750"/> 
+  <img src="./img/Fig_SankeyDiagram.png" alt="General Framework for support national energy-relate policy, with OSeMOSYS-CR." width="750"/> 
   <br>
   <align="center">
   <em>Figure 1. General Framework for support national energy-relate policy, with OSeMOSYS-CR.</em>
