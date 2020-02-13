@@ -11,7 +11,7 @@ The OSeMOSYS – CR model
    :caption: Contenidos
 
    01Introduction
-   02EnergyModel.rst
+   02EnergyModel
    03PythonModules
    99refs
 
