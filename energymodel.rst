@@ -100,18 +100,26 @@ Fuels
 
 Figure 6 shows the different levels and transformations fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
 
-Table 2 presents a synthesis of the included groups of commodities, including a brief description and examples.  See Annex 2 for the whole list of fuels.
+The following table presents a synthesis of the included groups of commodities, including a brief description and examples.  See Annex 2 for the whole list of fuels.
 
-+-------+------------------------------------------+------------------------------------------------------------------------------+
-| Group | Descriptions                             | Examples                                                                     |
-+=======+==========================================+==============================================================================+
-| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.   |
-+-------+------------------------------------------+------------------------------------------------------------------------------+
-| E1    |Primary sources (according energy balance)| Water, Wind, diesel, gasoline, biomass, and firewood.                        |
-+-------+------------------------------------------+------------------------------------------------------------------------------+
-| E2-E3 |Electricity                               | Electricity from power plants to its distribution.                           |
-+-------+------------------------------------------+------------------------------------------------------------------------------+
-| E4    |Electricity demand by sector              | Diesel for agriculture, firewood for residential, petroleum coke for industry|
-+-------+------------------------------------------+------------------------------------------------------------------------------+
-| E6    |Transport demand                          | Private and public passenger transport, and light and heavy cargo transport. |
-+-------+------------------------------------------+------------------------------------------------------------------------------+
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| Group | Descriptions                             | Examples                                                                      |
++=======+==========================================+===============================================================================+
+| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.    |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E1    | Primary sources (energy balance)         | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E2-E3 | Electricity                              | Electricity from power plants to its distribution.                            |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E4    | Electricity demand by sector             | Diesel for agriculture, firewood for residential, petroleum coke for industry.|
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E6    | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E7    | Distribution                             | Diesel for industry, LPG* for heavy cargo transport, electricity for vehicles.|
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E8    | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E10   | Infraestrucuture                         | Roads, rails, and bikeways.                                                   |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
+| E11   | Specific category for Hydrogen           | Produced hydrogen and ready to use.                                           |
++-------+------------------------------------------+-------------------------------------------------------------------------------+
