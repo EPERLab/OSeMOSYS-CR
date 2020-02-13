@@ -162,7 +162,7 @@ Emissions
 The following table shows a description of emissions included in the model. In general, for the Greenhouse gases (GHG), the values are in terms of equivalent carbon dioxide. 
 
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| Code      | Name                                     | Descriptio                                                                    |
+| Code      | Name                                     | Description                                                                   |
 +===========+==========================================+===============================================================================+
 | BC        | Black Carbon                             |                                                                               |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
