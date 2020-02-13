@@ -11,7 +11,7 @@ The energy balance is the most important source of data for the model. It is pre
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
 
-   Sankey diagram for Costa Rica. 
+   KTH - dESA, `www.osemosys.org <https://www.osemosys.org>`_ 
 
 As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending and the general distribution for 2016 are presented in the next figure: 
 
