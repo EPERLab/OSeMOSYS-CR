@@ -19,14 +19,19 @@ capacities from one country to another, while engaging with policy makers to add
 aspect of local importance. The Costa Rican team is composed by researchers from the University of
 Costa Rica (UCR) and the Royal Institute of Technology (KTH) in Stockholm.
 While each team has its own goals, the common objectives of this project are:
-• Provide support and training to teams of researchers in LAC in the use of new models, relying
+
+* Provide support and training to teams of researchers in LAC in the use of new models, relying
 on best practices drawn by more advanced teams of researchers.
-• Demonstrate these models to local policymakers with an emphasis on a specific policy question
+
+* Demonstrate these models to local policymakers with an emphasis on a specific policy question
 of local importance.
-• Develop long-term decarbonization pathways that can inform a transparent public debate on
+
+* Develop long-term decarbonization pathways that can inform a transparent public debate on
 NDC planning.
-• Develop a collaborative community of climate policy modelers in LAC capable of continually
-developing their expertise
+
+* Develop a collaborative community of climate policy modelers in LAC capable of continually
+developing their expertise. 
+
 The Costa Rican team focuses on the development of an Energy System Optimization Model (ESOM) for its
 energy system, giving a particular attention to the electricity and the transport sectors, to establish
 the most cost-effective technological transition towards a deep decarbonization, while assessing the
@@ -55,7 +60,7 @@ The modeling tool chosen was the Open Source energy Modelling System (OSeMOSYS) 
 optimization software for long-term energy planning. It is an open source model structured in blocks
 of functionality that allows easy modifications to the code, providing a great flexibility for the creative
 process of the solution.
-The produced IAM will support policymakers in Costa Rica understanding the most suitable
+The produced ESOM will support policymakers in Costa Rica understanding the most suitable
 strategies to achieve a deep decarbonization. It could also be used to decide what type of technologies
 (in the electricity and transport sector) should be incentivized for the different scenarios. In addition,
 the project aims to produce a scalable ESOM that will remain in the government for different energyrelated
