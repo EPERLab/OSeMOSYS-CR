@@ -123,3 +123,4 @@ The following table presents a synthesis of the included groups of commodities, 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E11   | Specific category for Hydrogen           | Produced hydrogen and ready to use.                                           |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
+*LPG: Liquefied Petroleum Gas. 
