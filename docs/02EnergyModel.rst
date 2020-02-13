@@ -186,4 +186,13 @@ The following table shows a description of emissions included in the model. In g
 Mode of operation
 ---------
 
+.. table:: 
+   :align: center
+
+    === ===
+      A   B
+    === ===
+     1   2
+    === ===
+    
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
