@@ -161,38 +161,27 @@ Emissions
 
 The following table shows a description of emissions included in the model. In general, for the Greenhouse gases (GHG), the values are in terms of equivalent carbon dioxide. 
 
-.. table:: 
-   :align: center
-   +-----------+------------------------------------------+
-   | Code      | Name                                     |                                                                 
-   +===========+==========================================+
-   | BC        | Black Carbon                             |                                                                             
-   +-----------+------------------------------------------+
-   | CH4       | Methane                                  |                                                                             
-   +-----------+------------------------------------------+
-   | NOx       | Nitrogen oxide                           |                                                                             
-   +-----------+------------------------------------------+
-   | CO2       | Carbon Dioxide                           |                                                                             
-   +-----------+------------------------------------------+
-   | CO2ex     | Carbon Dioxide external                  |                                                                            
-   +-----------+------------------------------------------+
-   | CO2dis    | Carbon Dioxide distribution              |                                                                             
-   +-----------+------------------------------------------+
-   | PM10      | Particulate matter                       |                                                                             
-   +-----------+------------------------------------------+
-   | PM2.5     | Fine Particulate matter                  |                                                                             
-   +-----------+------------------------------------------+
++-----------+------------------------------------------+
+| Code      | Name                                     |                                                                 
++===========+==========================================+
+| BC        | Black Carbon                             |                                                                             
++-----------+------------------------------------------+
+| CH4       | Methane                                  |                                                                             
++-----------+------------------------------------------+
+| NOx       | Nitrogen oxide                           |                                                                             
++-----------+------------------------------------------+
+| CO2       | Carbon Dioxide                           |                                                                             
++-----------+------------------------------------------+
+| CO2ex     | Carbon Dioxide external                  |                                                                            
++-----------+------------------------------------------+
+| CO2dis    | Carbon Dioxide distribution              |                                                                             
++-----------+------------------------------------------+
+| PM10      | Particulate matter                       |                                                                             
++-----------+------------------------------------------+
+| PM2.5     | Fine Particulate matter                  |                                                                             
++-----------+------------------------------------------+
 
 Mode of operation
 ---------
-
-.. table:: 
-   :align: center
-
-    === ===
-      A   B
-    === ===
-     1   2
-    === ===
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
