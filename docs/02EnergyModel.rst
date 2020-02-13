@@ -8,7 +8,10 @@ Energy balance of Costa Rica
 
 The energy balance is the most important source of data for the model. It is prepared for the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis concentrates and processes data from institutions such as The Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center for Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. The following figure shows the diagram for 2011:  
 
-.. figure:: img/Fig_SankeyDiagram.png
+.. figure::  img/Fig_SankeyDiagram.png
+   :align:   center
+
+   Sankey diagram for Costa Rica. 
 
 As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending and the general distribution for 2016 are presented in the next figure: 
 
