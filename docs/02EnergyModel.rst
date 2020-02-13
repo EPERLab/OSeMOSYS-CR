@@ -201,12 +201,12 @@ Mode of operation
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
 
-.. figure:: img/cost.png
+.. figure:: img/costs.png
 
   Figure 6 : Diagram: cost chains for the model 
   
   
-.. figure:: img/cost_exmaple.png
+.. figure:: img/cost_example.png
 
   Figure 6 : Diagram: Diagram: brief example of costs into the model    
   
