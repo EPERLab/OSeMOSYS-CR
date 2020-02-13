@@ -84,3 +84,11 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 | Co-benefits | PEN        | Coefficients             | It considers coefficients for health congestion and accidents by State of the|
 |             | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
 +-------------+------------+--------------------------+------------------------------------------------------------------------------+
+
+Sets 
++++++++++
+
+The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.), the group of sets include: years, fuels, technologies, emissions and modes of operation. Each parameter, as it going to be further explained, is dependent of one or more sets. The following paragraphs present the sets composing the current version of OSeMOSYS-CR.  
+
+Year
+---------
