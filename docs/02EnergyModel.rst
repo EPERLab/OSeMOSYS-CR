@@ -8,10 +8,17 @@ Energy balance of Costa Rica
 
 The energy balance is the most important source of data for the model. It is prepared for the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis concentrates and processes data from institutions such as The Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center for Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. Figure 1 shows the diagram for 2011.  As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. Figure 2 shows the historical trending and the general distribution for 2016. 
 
+
+
+
 General model structure 
 +++++++++
 
 The entire Costa Rican energy sector is modeled in OSeMOSYS. However, only the transport and electricity sectors are subject to linear optimization, while other energy sources and demands are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 3. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed to different demands including industrial, residential and commercial requirements, and the transport of passengers and cargo. 
+
+.. figure:: img/SimpleRES.png
+
+  Figure 3 : Simply Reference Energy System for the Costa Rica model
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capabilities. The establishment of these parameters was done after a data processing and a review of the available national energy information. The following table summarizes the main souces of data for OSeMOSYS-CR: 
 
@@ -100,6 +107,10 @@ Fuels
 
 Figure 6 shows the different levels and transformations fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
 
+.. figure:: img/Fuels.png
+
+  Figure 6 : Simple diagram for fuel specification
+
 The following table presents a synthesis of the included groups of commodities, including a brief description and examples.  See Annex 2 for the whole list of fuels.
 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
@@ -129,6 +140,10 @@ Technologies
 ---------
 
 Different types of technologies are included in the model to establish the current supply chain and substitution possibilities. Figure 7 shows the different levels and transformation of technologies. They are described below:  
+
+.. figure:: img/Techs.png
+
+  Figure 6 : Simple diagram for technologies specification
 
 *	The first groups (ES, BL and DIST) are specially designed to model fossil fuels imports, production of biofuels, and the blend and distribution of them, considering the current pipe system for gasoline and diesel. 
 *	The second group of blocks corresponds to the electric power system (PP and TD,) that is mainly connected to renewable primary sources. 
@@ -185,3 +200,15 @@ Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
+
+.. figure:: img/cost.png
+
+  Figure 6 : Diagram: cost chains for the model 
+  
+  
+.. figure:: img/cost_exmaple.png
+
+  Figure 6 : Diagram: Diagram: brief example of costs into the model    
+  
+  
+  
