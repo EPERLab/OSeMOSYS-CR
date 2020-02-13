@@ -161,3 +161,25 @@ Emissions
 
 The following table shows a description of emissions included in the model. In general, for the Greenhouse gases (GHG), the values are in terms of equivalent carbon dioxide. 
 
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| Code      | Name                                     | Descriptio                                                                    |
++===========+==========================================+===============================================================================+
+| BC        | Energy Sources                           | Imports and production (fossil fuels and Biofuels), and their distribution.   |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| CH4       | Power plants and the electric grid       | Hydro Power Plant, Transmission system, distributed generation.               |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| NOx       | Sources                                  | Water, Wind, diesel, gasoline, biomass, firewood.                             |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| CO2ex     | Division                                 | Diesel for Industry, LPG for heavy cargo transport, Electricity for vehicles. |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| TI        | Transport infrastructure                 | Roads, rails, bikeways.                                                       |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| TR        | Transportation                           | Electric Light duty Vehicles, LPG Buses, bikes, low carbon techs for passenger|
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| ED        | Sources                                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+
+Mode of operation
+---------
+
+The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
