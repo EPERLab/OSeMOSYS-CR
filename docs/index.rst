@@ -11,8 +11,8 @@ The OSeMOSYS – CR model
    :caption: Contenidos
 
    01Introduction
-   02IAM_CR
-   03DataProcessing
+   02EnergyModel.rst
+   03PythonModules
    99refs
 
 Índices y cuadros
