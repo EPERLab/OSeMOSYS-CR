@@ -115,7 +115,7 @@ The following table presents a synthesis of the included groups of commodities, 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E6    | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E7    | Distribution                             | Diesel for industry, LPG* for heavy cargo transport, electricity for vehicles.|
+| E7    | Distribution                             | Diesel for industry, LPG for heavy cargo transport, electricity for vehicles.|
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E8    | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
@@ -123,7 +123,7 @@ The following table presents a synthesis of the included groups of commodities, 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E11   | Specific category for Hydrogen           | Produced hydrogen and ready to use.                                           |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
-*LPG: Liquefied Petroleum Gas. 
+
 
 Technologies
 ---------
@@ -134,4 +134,25 @@ Different types of technologies are included in the model to establish the curre
 *	The second group of blocks corresponds to the electric power system (PP and TD,) that is mainly connected to renewable primary sources. 
 *	The third level corresponds to civil infrastructure for mobility: TI and intermedia technologies for controlling the systems and divide the supply chains regarding fuels and technologies. 
 *	TR technologies are dedicate to transport modelling and include blocks to study the modal shift. 
-*	ED connects primary sources and demands which are no subject to the optimization process, but have CO2e contributions.     
+*	ED connects primary sources and demands which are no subject to the optimization process, but have CO2e contributions.   
+
+The following table presents a synthesis of groups of technologies, including a brief description and examples. See Annex 3 for the whole list of processes.
+
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| Group     | Descriptions                             | Examples                                                                      |
++===========+==========================================+===============================================================================+
+| ES-BL-DIST| Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.    |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| PP-TD     | Primary sources (energy balance)         | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+|ST         | Electricity                              | Electricity from power plants to its distribution.                            |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| D(F-T)    | Electricity demand by sector             | Diesel for agriculture, firewood for residential, petroleum coke for industry.|
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| TI        | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| TR        | Distribution                             | Diesel for industry, LPG* for heavy cargo transport, electricity for vehicles.|
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| ED        | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+
