@@ -88,7 +88,22 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 Sets 
 +++++++++
 
-The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.), the group of sets include: years, fuels, technologies, emissions and modes of operation. Each parameter, as it going to be further explained, is dependent of one or more sets. The following paragraphs present the sets composing the current version of OSeMOSYS-CR.  
+The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.), the group of sets include: years, fuels, technologies, emissions and modes of operation. Each parameter, as it going to be further explained, is dependent of one or more sets. This sections presents the sets composing the current version of OSeMOSYS-CR.  
 
 Year
 ---------
+
+This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2018 to 2055. Five additional years are added in order to extend the optimization process.  Therefore, decisions right before 2050 (i.e. national decarbonisation target) will not be affected by the model considering it is the last year. 
+
+Fuels
+---------
+
+Figure 6 shows the different levels and transformations fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
+
+Table 2 presents a synthesis of the included groups of commodities, including a brief description and examples.  See Annex 2 for the whole list of fuels.
+
++-------+------------------------------------------+------------------------------------------------------------------------------+
+| Group | Descriptions                             | Examples                                                                     |
++=======+==========================================+==============================================================================+
+| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution    |
++-------+------------------------------------------+------------------------------------------------------------------------------+
