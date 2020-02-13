@@ -164,19 +164,21 @@ The following table shows a description of emissions included in the model. In g
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 | Code      | Name                                     | Descriptio                                                                    |
 +===========+==========================================+===============================================================================+
-| BC        | Energy Sources                           | Imports and production (fossil fuels and Biofuels), and their distribution.   |
+| BC        | Black Carbon                             | Imports and production (fossil fuels and Biofuels), and their distribution.   |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| CH4       | Power plants and the electric grid       | Hydro Power Plant, Transmission system, distributed generation.               |
+| CH4       | Methane                                  | Hydro Power Plant, Transmission system, distributed generation.               |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| NOx       | Sources                                  | Water, Wind, diesel, gasoline, biomass, firewood.                             |
+| NOx       | Nitrogen oxide                           | Water, Wind, diesel, gasoline, biomass, firewood.                             |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| CO2ex     | Division                                 | Diesel for Industry, LPG for heavy cargo transport, Electricity for vehicles. |
+| CO2       | Carbon Dioxide                           | Diesel for Industry, LPG for heavy cargo transport, Electricity for vehicles. |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TI        | Transport infrastructure                 | Roads, rails, bikeways.                                                       |
+| CO2ex     | Carbon Dioxide external                  | Roads, rails, bikeways.                                                       |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TR        | Transportation                           | Electric Light duty Vehicles, LPG Buses, bikes, low carbon techs for passenger|
+| CO2dis    | Carbon Dioxide distribution              | Roads, rails, bikeways.                                                       |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| ED        | Sources                                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
+| PM10      | Particulate matter                       | Electric Light duty Vehicles, LPG Buses, bikes, low carbon techs for passenger|
++-----------+------------------------------------------+-------------------------------------------------------------------------------+
+| PM2.5     | Fine Particulate matter                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 
 Mode of operation
