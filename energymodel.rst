@@ -124,3 +124,14 @@ The following table presents a synthesis of the included groups of commodities, 
 | E11   | Specific category for Hydrogen           | Produced hydrogen and ready to use.                                           |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 *LPG: Liquefied Petroleum Gas. 
+
+Technologies
+---------
+
+Different types of technologies are included in the model to establish the current supply chain and substitution possibilities. Figure 7 shows the different levels and transformation of technologies. They are described below:  
+
+*	The first groups (ES, BL and DIST) are specially designed to model fossil fuels imports, production of biofuels, and the blend and distribution of them, considering the current pipe system for gasoline and diesel. 
+*	The second group of blocks corresponds to the electric power system (PP and TD,) that is mainly connected to renewable primary sources. 
+*	The third level corresponds to civil infrastructure for mobility: TI and intermedia technologies for controlling the systems and divide the supply chains regarding fuels and technologies. 
+*	TR technologies are dedicate to transport modelling and include blocks to study the modal shift. 
+*	ED connects primary sources and demands which are no subject to the optimization process, but have CO2e contributions.     
