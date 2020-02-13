@@ -44,7 +44,7 @@ In order to run the model, the following files are needed:
 
 Documentation is available on Read the Docs:
 
-* [Read the documentation online](https://proofdocs.readthedocs.io/en/latest/)
+* [Read the documentation online](https://osemosys-cr.readthedocs.io/en/latest/)
 
 # Usage
 
