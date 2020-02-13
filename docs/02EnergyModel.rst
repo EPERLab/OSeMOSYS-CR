@@ -1,23 +1,22 @@
-Energy model 
+2. Energy model 
 =======================================
 
 This documentation has been structured to provide  an overview of the energy sector in Costa Rica, present the model structure, give synthesis regarding assumptions, and support the numerical inputs for the sets, parameters, and scenario building.   
 
-Energy balance of Costa Rica
+2.1 Energy balance of Costa Rica
 +++++++++
 
 The energy balance is the most important source of data for the model. It is prepared for the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis concentrates and processes data from institutions such as The Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center for Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. The following figure shows the diagram for 2011:  
 
 .. figure::  img/Fig_SankeyDiagram.png
-   :align:   center
    
-   *Figure 1. Sankey diagram of Costa Rica, 2001 (Spanish).* 
+   *Figure 2.1. Sankey diagram of Costa Rica, 2001 (Spanish).* 
 
 As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending and the general distribution for 2016 are presented in the next figure: 
 
 .. figure:: img/Fig_CREnergyConsumption.png
 
-General model structure 
+2.2 General model structure 
 +++++++++
 
 The entire Costa Rican energy sector is modeled in OSeMOSYS. However, only the transport and electricity sectors are subject to linear optimization, while other energy sources and demands are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 3. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed to different demands including industrial, residential and commercial requirements, and the transport of passengers and cargo. 
