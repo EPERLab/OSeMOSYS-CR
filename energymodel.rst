@@ -115,7 +115,7 @@ The following table presents a synthesis of the included groups of commodities, 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E6    | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E7    | Distribution                             | Diesel for industry, LPG for heavy cargo transport, electricity for vehicles.|
+| E7    | Distribution                             | Diesel for industry, LPG for heavy cargo transport, electricity for vehicles. |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E8    | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
@@ -141,18 +141,23 @@ The following table presents a synthesis of groups of technologies, including a 
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group     | Descriptions                             | Examples                                                                      |
 +===========+==========================================+===============================================================================+
-| ES-BL-DIST| Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.    |
+| ES-BL-DIST| Energy Sources                           | Imports and production (fossil fuels and Biofuels), and their distribution.   |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| PP-TD     | Primary sources (energy balance)         | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
+| PP-TD     | Power plants and the electric grid       | Hydro Power Plant, Transmission system, distributed generation.               |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-|ST         | Electricity                              | Electricity from power plants to its distribution.                            |
+|ST         | Sources                                  | Water, Wind, diesel, gasoline, biomass, firewood.                             |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| D(F-T)    | Electricity demand by sector             | Diesel for agriculture, firewood for residential, petroleum coke for industry.|
+| D(F-T)    | Division                                 | Diesel for Industry, LPG for heavy cargo transport, Electricity for vehicles. |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TI        | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
+| TI        | Transport infrastructure                 | Roads, rails, bikeways.                                                       |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TR        | Distribution                             | Diesel for industry, LPG* for heavy cargo transport, electricity for vehicles.|
+| TR        | Transportation                           | Electric Light duty Vehicles, LPG Buses, bikes, low carbon techs for passenger|
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| ED        | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
+| ED        | Sources                                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
+
+Emissions
+---------
+
+The following table shows a description of emissions included in the model. In general, for the Greenhouse gases (GHG), the values are in terms of equivalent carbon dioxide. 
 
