@@ -105,5 +105,13 @@ Table 2 presents a synthesis of the included groups of commodities, including a 
 +-------+------------------------------------------+------------------------------------------------------------------------------+
 | Group | Descriptions                             | Examples                                                                     |
 +=======+==========================================+==============================================================================+
-| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution    |
+| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.   |
++-------+------------------------------------------+------------------------------------------------------------------------------+
+| E1    |Primary sources (according energy balance)| Water, Wind, diesel, gasoline, biomass, and firewood.                        |
++-------+------------------------------------------+------------------------------------------------------------------------------+
+| E2-E3 |Electricity                               | Electricity from power plants to its distribution.                           |
++-------+------------------------------------------+------------------------------------------------------------------------------+
+| E4    |Electricity demand by sector              | Diesel for agriculture, firewood for residential, petroleum coke for industry|
++-------+------------------------------------------+------------------------------------------------------------------------------+
+| E6    |Transport demand                          | Private and public passenger transport, and light and heavy cargo transport. |
 +-------+------------------------------------------+------------------------------------------------------------------------------+
