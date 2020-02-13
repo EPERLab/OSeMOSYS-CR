@@ -20,7 +20,7 @@ General model structure
 The entire Costa Rican energy sector is modeled in OSeMOSYS. However, only the transport and electricity sectors are subject to linear optimization, while other energy sources and demands are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 3. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed to different demands including industrial, residential and commercial requirements, and the transport of passengers and cargo. 
 
 .. figure:: img/SimpleRES.png
-   :align: center
+   :figclass: foobar
 
    *Figure 3: Simply Reference Energy System for the Costa Rica model*
 
