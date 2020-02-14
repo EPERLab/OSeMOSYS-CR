@@ -263,7 +263,7 @@ It is usual to use the general notation of Box – Jenkins to define the model: 
 
 Forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
 
-.. figure::  img/DemandProjections.png
+.. figure::  img/DemandsProjections.png
    :align:   center
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
