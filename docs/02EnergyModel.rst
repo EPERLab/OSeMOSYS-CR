@@ -259,7 +259,9 @@ Based on the historical energy balance data, the possible future was developed b
 
 
 ϕ(B) ϕ_s (B) Z_t=μ+θ(B) θ_s (B) a_t  →General equation 
+
 ϕ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_p B^b  ∧  ϕ(B)=1-ϕ_1s B^s-ϕ_2s B^2s-...-ϕ_Ps B^Pb → rezagos simples 
+
 θ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_q B^q∧ θ(B)=1-ϕ_1s B-ϕ_2s B^2s-...-ϕ_Qs B^qs → rezagos simples 
 
 where: 
