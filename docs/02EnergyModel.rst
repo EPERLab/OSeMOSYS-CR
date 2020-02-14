@@ -331,6 +331,10 @@ The figure 12 shows the historical values for capacity factors. For solar and wi
    
 A special consideration was made for photovoltaic system, considering a standard curve for costa Rica and the average capacity factor previously calculated. In this case, the average of the operation hours corresponds to the season value. Table 9 shows a synthesis of the data used in the OSeMOSYS-CR model.  For the rest every timeslice the value of the season is assumed.
 
+.. table:: 
+   :align:   center
+
+   *Table 2.4: Capacity factor used in OSeMOSYS model for power plant.*
 +-------------------+--------------------+
 | Power Plants      |       Season       |
 +                   +----------+---------+
@@ -350,3 +354,35 @@ A special consideration was made for photovoltaic system, considering a standard
 +-------------------+----------+---------+
 
 As Costa Rica reach an average of 98.5% of renewable generation, thermal plants were no include into the analysis. In this case, an operative constrain will be fix the operational behavior of this technologies.  
+
+**AvailabilityFactor[r,t,y]**
+
+The value corresponded to the entire time that technologies are available. It's usual to assume 0.9 for power plants (assuming maintenance works and reliability). For the transport sector is common to use 1, because of the vehicle fleet and modes of mobility are distributed in the whole region and contain a combination of modes.
+
+**Operational life[r,t]**
+
+For this parameter it has been used a common set of values used by KTH. In general, the most important investment usually presents an operational life over the analysis period. Table 10 shows the data used in the model. 
+
++-----------------------------+
+| Electricity sector          |
++-----------------------------+
+| Technologies        | Value |
++=====================+=======+
+| Hydro dam           | 80    |
++---------------------+-------+
+| Hydro Run off river | 60    |
++---------------------+-------+
+| Biomass             | 25    |
++---------------------+-------+
+| Geothermal          | 40    |
++---------------------+-------+
+| Solar Distribution  | 20    |
++---------------------+-------+
+| Solar transmission  | 40    |
++---------------------+-------+
+| Wind Distribution   | 20    |
++---------------------+-------+
+| Wind transmission   | 40    |
++---------------------+-------+
+| Thermal             | 25    |
++---------------------+-------+
