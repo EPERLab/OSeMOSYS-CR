@@ -163,7 +163,9 @@ Different types of technologies are included in the model in order to establish 
 
 .. figure:: img/Techs.png
    :align:   center
-   :scale: 50 
+   :height: 701 px
+   :width: 435 px
+   :scale: 50 %
    
    Figure 2.5 : Simple diagram for technologies specification
   
