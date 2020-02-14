@@ -231,7 +231,7 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 | PM2.5     | Fine Particulate matter                  |                                                                             
 +-----------+------------------------------------------+
 
-2.4.5 Mode of operation
+2.3.5 Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
@@ -245,5 +245,12 @@ The model has one mode of operation, Mode 1, for representing the normal operati
 
   Figure 6 : Diagram: Diagram: brief example of costs into the model    
   
-  
-  
+2.4 Parameters
++++++++++
+
+2.4.1 Global parameters
+These parameters affect directly other parameters. 
+
+**Demands:**
+
+As a first step, based on the historical energy balance data, the possible future was developed by using ARIMA models. This modelo are one of the most widely used approaches to time series forecasting. It is a simple univariate model focusing on the long trend trajectory of the different time series.  The general structure of the model is show below:
