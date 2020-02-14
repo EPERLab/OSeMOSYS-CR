@@ -11,14 +11,14 @@ The energy balance is the most important source of data for the energy model of 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
    
-   *Figure 2.1 Sankey diagram of Costa Rica, 2011.* 
+   *Figure 2.1: Sankey diagram of Costa Rica, 2011.* 
 
 As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending and the general distribution for 2016 are presented in Figure 2.2.
 
 .. figure:: img/Fig_CREnergyConsumption.png
    :align:   center
    
-   *Figure 2.2 Energy consumption in Costa Rica, 2016*
+   *Figure 2.2: Energy consumption in Costa Rica, 2016*
 
 2.2 General model structure 
 +++++++++
@@ -35,7 +35,7 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 .. table:: 
    :align:   center
 
-   Table 2.1 Main data sources used in OSeMOSYS-CR. 
+   Table 2.1: Main data sources used in OSeMOSYS-CR. 
 
 +-------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category    | Source     | Data                     | Descriptions and assumption made                                             |
@@ -123,14 +123,14 @@ Figure 2.4 shows the different levels and transformations that the fuels go thro
 .. figure:: img/Fuels.png
    :align:   center
 
-   Figure 2.4 Simple diagram for fuel specification
+   Figure 2.4: Simple diagram for fuel specification
 
 Table 2.2 presents a synthesis of the included groups of commodities, including a brief description and examples. 
 
 .. table:: 
    :align:   center
 
-   Table 2.2 Summary of fuels included in OSeMOSYS-CR's energy model.
+   Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.
    
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group | Descriptions                             | Examples                                                                      |
@@ -167,7 +167,7 @@ Different types of technologies are included in the model in order to establish 
    :width: 435 px
    :scale: 50 %
    
-   Figure 2.5 : Simple diagram for technologies specification
+   Figure 2.5: Simple diagram for technologies specification
   
 The groups of technolgies contemplated in OSeMOSYS-cr are described below:  
 
@@ -182,7 +182,7 @@ Table 2.3 presents a synthesis of groups of technologies, including a brief desc
 .. table:: 
    :align:   center
 
-   Table 2.3 Summary of technologies included in OSeMOSYS-CR's energy model.
+   Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.
 
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group     | Descriptions                             | Examples                                                                      |
@@ -212,7 +212,7 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 .. table:: 
    :align:   center
 
-   Table 2.4 Summary of emissions included in OSeMOSYS-CR's energy model.
+   Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.
 
 +-----------+------------------------------------------+
 | Code      | Name                                     |                                                                 
