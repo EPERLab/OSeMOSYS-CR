@@ -261,10 +261,11 @@ where:
 
 It is usual to use the general notation of Box – Jenkins to define the model: ARIMA→ (p,d,q)(P,D,Q). This concentrate the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
 
-Forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
+This forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
 
 .. figure::  img/DemandsProjections.png
    :align:   center
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
+The estimations begin with the time series analysis and forecasting of the primary sources. With this long term values a specific trend is fixed using the shares defining in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year.  The next figure shows the general results for projections and general annual demands.
