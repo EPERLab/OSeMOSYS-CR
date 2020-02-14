@@ -35,7 +35,7 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 .. table:: 
    :align:   center
 
-   Table 2.1: Main data sources used in OSeMOSYS-CR. 
+   *Table 2.1: Main data sources used in OSeMOSYS-CR.* 
 
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 | Category     | Source     | Data                     | Descriptions and assumption made                                             |
@@ -123,14 +123,14 @@ Figure 2.4 shows the different levels and transformations that the fuels go thro
 .. figure:: img/Fuels.png
    :align:   center
 
-   Figure 2.4: Simple diagram for fuel specification
+   *Figure 2.4: Simple diagram for fuel specification.*
 
 Table 2.2 presents a synthesis of the included groups of commodities, including a brief description and examples. 
 
 .. table:: 
    :align:   center
 
-   Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.
+   *Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.*
    
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group | Descriptions                             | Examples                                                                      |
@@ -164,7 +164,7 @@ Different types of technologies are included in the model in order to establish 
 .. figure:: img/Techs.png
    :align:   center
    
-   Figure 2.5: Simple diagram for technologies specification
+   *Figure 2.5: Simple diagram for technologies specification.*
   
 The groups of technolgies contemplated in OSeMOSYS-cr are described below:  
 
@@ -179,7 +179,7 @@ Table 2.3 presents a synthesis of groups of technologies, including a brief desc
 .. table:: 
    :align:   center
 
-   Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.
+   *Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.*
 
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group     | Descriptions                             | Examples                                                                      |
@@ -209,7 +209,7 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 .. table:: 
    :align:   center
 
-   Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.
+   *Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.*
 
 +-----------+------------------------------------------+
 | Code      | Name                                     |                                                                 
@@ -235,15 +235,6 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
-
-.. figure:: img/costs.png
-
-  Figure 6 : Diagram: cost chains for the model 
-  
-  
-.. figure:: img/cost_example.png
-
-  Figure 6 : Diagram: Diagram: brief example of costs into the model    
   
 2.4 Parameters
 +++++++++
@@ -270,5 +261,10 @@ where:
 
 It is usual to use the general notation of Box – Jenkins to define the model: ARIMA→ (p,d,q)(P,D,Q). This concentrate the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
 
-Forecasting model gives good approximations with the data register by institutions. The next figure shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
+Forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
+
+.. figure::  img/DemandProjections.png
+   :align:   center
+   
+   *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
