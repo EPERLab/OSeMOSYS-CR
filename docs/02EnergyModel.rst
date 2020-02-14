@@ -291,3 +291,19 @@ The similar process is developing for every technology during all years of the a
    :align:   center
    
    *Figure 2.8: Forecasting demands introduce to the model.* 
+
+The demand calculation was divided in three groups. First is for electricity sector, second is for transport sector and the last one for others energy consumptions no subject to the optimization process.  For the model we introduce the data in two ways: First, correspond to the parameters: Specified Annual Demand and Specified Demand Profile. Second, is using the Accumulated Annual Demand, when the profiles data are unavailable. 
+
+**SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
+
+This parameter is use for electricity sector and transport sector. For transport demand, have been assuming a profile equivalent to electric vehicles for every technology. In this context, the idea is to represent the possibility of charge in time slices, although the demand is annual. 
+
+**AcummulatedAnnualDemand[r,f,y]**
+
+For the current model, the distribution of energy consumption is assumed constant throughout the year. It’ similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introducing in this parameter:
+ 
+*	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, Petroleum coke
+*	Commerce: Firewood, LPG
+*	Agriculture: Diesel
+*	Residential: Firewood, LPG
+
