@@ -307,3 +307,19 @@ For the current model, the distribution of energy consumption is assumed constan
 *	Agriculture: Diesel
 *	Residential: Firewood, LPG
 
+2.4.1 Performance
+---------
+
+**CapacityToActivityUnit[r,t]**
+
+This parameter allows to relate the capacity and activity level of the technologies. For this model, the value is only entered for the electricity sector (relation: Power and Energy). For this, we convert the 8760 GWh to PJ -> 31.536. That means that if 1 GW constantly throughout the year the corresponding energy 31,536 PJ
+
+For other sectors, we assume a default value equal to 1 and the calculation is referred only to energy and the capacity is implicit in the efficiency.
+
+**CapacityFactor[r,t,l,y]**
+
+The capacity factor is specially use in electricity generation. In this case the historical data from 2011 to 2017 was the vase to define the average value by season for every group of plants. In general, for the calculation the next equation is used.
+
+**EQUATION**
+
+The figure 12 shows the historical values for capacity factors. For solar and wind power plants another possibility is to use some tools line renewable ninja (see figure 13).  The average values are very similar to the operational data registered. 
