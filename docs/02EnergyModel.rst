@@ -274,3 +274,20 @@ The estimations begin with the time series analysis and forecasting of the prima
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
+   
+For the transport sector, an additional calculus is required. For that the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because allows to have a systematic monitoring. The another variable is the relation between energy consumption and the annual average distance travelled by group of technologies. The general equations are show below:
+
+**EQUATION**
+
+At this time, we are considering this relation will be constant to define the base year. Considering a no policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the section **InputActivityRatio**.   
+
+As a short example, the calculation of the demand for the gasoline light duty vehicles (just for the example called: TD_LDGSL) in the 2015 year, is show below. 
+
+**EQUATION**
+
+The similar process is developing for every technology during all years of the analysis. In the process what it changes is the energy consumption provided by the projection. The final calculation of demand is presents in the figure 2.8. 
+
+.. figure::  img/PassengerCargoDemands.png
+   :align:   center
+   
+   *Figure 2.8: Forecasting demands introduce to the model.* 
