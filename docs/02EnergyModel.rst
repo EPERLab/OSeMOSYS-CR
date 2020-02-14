@@ -333,7 +333,7 @@ A special consideration was made for photovoltaic system, considering a standard
 
 +-------------------+--------------------+
 | Power Plants      |       Season       |
-+                   +--------------------+
++                   +----------+---------+
 |                   |   Rain   |   Dry   |
 +===================+==========+=========+
 | Hydro-dam plant   | 0.54     | 0.48    |
