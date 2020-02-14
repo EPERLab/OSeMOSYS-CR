@@ -328,3 +328,25 @@ The figure 12 shows the historical values for capacity factors. For solar and wi
    :align:   center
    
    *Figure 2.9: Historical capacity factor for plants by season.* 
+   
+A special consideration was made for photovoltaic system, considering a standard curve for costa Rica and the average capacity factor previously calculated. In this case, the average of the operation hours corresponds to the season value. Table 9 shows a synthesis of the data used in the OSeMOSYS-CR model.  For the rest every timeslice the value of the season is assumed.
+
++-------------------+--------------------+
+| Power Plants      |       Season       |
++                   +--------------------+
+|                   |   Rain   |   Dry   |
++===================+==========+=========+
+| Hydro-dam plant   | 0.54     | 0.48    |
++-------------------+----------+---------+
+| Hydro power plant | 0.45     | 0.50    |
++-------------------+----------+---------+
+| Geothermal plants | 0.73     | 0.74    |
++-------------------+----------+---------+
+| Wind power plants | 0.30     | 0.58    |
++-------------------+----------+---------+
+| Solar plants      | 0.11     | 0.17    |
++-------------------+----------+---------+
+| Biomass plants    | 0.03     | 0.49    |
++-------------------+----------+---------+
+
+As Costa Rica reach an average of 98.5% of renewable generation, thermal plants were no include into the analysis. In this case, an operative constrain will be fix the operational behavior of this technologies.  
