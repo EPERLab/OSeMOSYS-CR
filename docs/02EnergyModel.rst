@@ -266,5 +266,9 @@ Based on the historical energy balance data, the possible future was developed b
 
 where: 
 
-ϕ is an operators, μ the media  of ϕ,θ represent coefficient,and s is and stational component. 
+ϕ is an operators, μ the media  of ϕ, θ represent coefficient,and s is and stational component. 
+
+It is usual to use the general notation of Box – Jenkins to define the model: ARIMA→ (p,d,q)(P,D,Q). This concentrate the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
+
+Forecasting model gives good approximations with the data register by institutions. The next figure shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
 
