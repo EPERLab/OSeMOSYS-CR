@@ -323,3 +323,8 @@ The capacity factor is specially use in electricity generation. In this case the
 **EQUATION**
 
 The figure 12 shows the historical values for capacity factors. For solar and wind power plants another possibility is to use some tools line renewable ninja (see figure 13).  The average values are very similar to the operational data registered. 
+
+.. figure::  img/CapacityFactorPP.png
+   :align:   center
+   
+   *Figure 2.9: Historical capacity factor for plants by season.* 
