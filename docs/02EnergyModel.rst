@@ -249,8 +249,20 @@ The model has one mode of operation, Mode 1, for representing the normal operati
 +++++++++
 
 2.4.1 Global parameters
+---------
+
 These parameters affect directly other parameters. 
 
 **Demands:**
 
-As a first step, based on the historical energy balance data, the possible future was developed by using ARIMA models. This modelo are one of the most widely used approaches to time series forecasting. It is a simple univariate model focusing on the long trend trajectory of the different time series.  The general structure of the model is show below:
+Based on the historical energy balance data, the possible future was developed by using ARIMA models. These models are one of the most widely used approaches to time series forecasting. They correspond to simple univariate models focusing on the long trend trajectory of the different time series. Their general structure is show below:
+
+
+ϕ(B) ϕ_s (B) Z_t=μ+θ(B) θ_s (B) a_t  →General equation 
+ϕ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_p B^b  ∧  ϕ(B)=1-ϕ_1s B^s-ϕ_2s B^2s-...-ϕ_Ps B^Pb → rezagos simples 
+θ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_q B^q∧ θ(B)=1-ϕ_1s B-ϕ_2s B^2s-...-ϕ_Qs B^qs → rezagos simples 
+
+where: 
+
+ϕ is an operators, μ the media  of ϕ,θ represent coefficient,and s is and stational component. 
+
