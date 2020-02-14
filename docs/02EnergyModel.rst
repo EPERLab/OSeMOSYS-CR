@@ -363,26 +363,26 @@ The value corresponded to the entire time that technologies are available. It's 
 
 For this parameter it has been used a common set of values used by KTH. In general, the most important investment usually presents an operational life over the analysis period. Table 10 shows the data used in the model. 
 
-+-----------------------------+
-| Electricity sector          |
-+-----------------------------+
-| Technologies        | Value |
-+=====================+=======+
-| Hydro dam           | 80    |
-+---------------------+-------+
-| Hydro Run off river | 60    |
-+---------------------+-------+
-| Biomass             | 25    |
-+---------------------+-------+
-| Geothermal          | 40    |
-+---------------------+-------+
-| Solar Distribution  | 20    |
-+---------------------+-------+
-| Solar transmission  | 40    |
-+---------------------+-------+
-| Wind Distribution   | 20    |
-+---------------------+-------+
-| Wind transmission   | 40    |
-+---------------------+-------+
-| Thermal             | 25    |
-+---------------------+-------+
++-----------------------------+   +-----------------------------+
+| Electricity sector          |   | Transport   sector          |
++---------------------+-------+   +---------------------+-------+
+| Technologies        | Value |   | Technologies        | Value |
++=====================+=======+   +=====================+=======+
+| Hydro dam           | 80    |   | Light duty          | 15/12 |
++---------------------+-------+   +---------------------+-------+
+| Hydro Run off river | 60    |   | 4WD                 | 10/12 |
++---------------------+-------+   +---------------------+-------+
+| Biomass             | 25    |   | Motorcycle          | 11/12 |
++---------------------+-------+   +---------------------+-------+
+| Geothermal          | 40    |   | Minivan             | 15/12 |
++---------------------+-------+   +---------------------+-------+
+| Solar Distribution  | 20    |   | Buses               | 15/12 |
++---------------------+-------+   +---------------------+-------+
+| Solar transmission  | 40    |   | Micro buses         | 15/12 |
++---------------------+-------+   +---------------------+-------+
+| Wind Distribution   | 20    |   | Taxis               | 10/12 |
++---------------------+-------+   +---------------------+-------+
+| Wind transmission   | 40    |   | Pickup truck        | 15/12 |
++---------------------+-------+   +---------------------+-------+
+| Thermal             | 25    |   | Trucks              | 15/12 |
++---------------------+-------+   +---------------------+-------+
