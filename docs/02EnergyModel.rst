@@ -37,73 +37,73 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 
    Table 2.1: Main data sources used in OSeMOSYS-CR. 
 
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Category    | Source     | Data                     | Descriptions and assumption made                                             |
-+=============+============+==========================+==============================================================================+
-| Energy      | SEPSE      | Energy balance           | It is used to build the structure of the energy system, time-series          |
-| System      |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                          |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Demand      | SEPSE      | Final energy             | Built based on final end-use by sectors: industry, transport, households,    |
-|             |            |                          | services and agriculture.                                                    |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | ICE        | Electricity load shapes  | Assumed constant for industry, curve for commerce (peak mid-day) and         |
-|             |            |                          | classical two valleys, two peaks and night for residential.                  |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | SEPSE      | Transport                | It includes load factors, vehicle fleet, and energy consumption, efficiencies|
-|             | RITEVE     | (passengers and cargo)   | and annual kilometers. We combine international standard data of technologies|
-|             | MOPT       |                          | with national records. Technological groups are defined to study modal change|
-|             | ETSAP      |                          | and fuel use. Non-motorized mobility is considered zero in the base case.    |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Electricity  | ICE        | Capital and fixed costs  | Based on national data. The costs were assumed constant in the whole period, |
-|technologies | Bloomberg  |                          | except for solar and wind systems, which decrease according to international |
-|             | IEA        |                          | trends. Residual capacity is constant.                                       |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | ICE        | Capacities and activity  | Based on the operational performance registered by the National Energy       |
-|             |            |                          | Control Centre. Lifespan is according to national plans.                     |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Transport    | Hacienda   | Capital and fixed costs  | Based on the Ministry of Finance (Hacienda) database. We assumed that cost of|
-|technologies | Bloomberg  |                          | electric vehicles' decreases (Bloomberg). For cargo transport, we review cost|
-|             | Companies  |                          | of companies like Nicola and Tesla.                                          |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | SEPSE      | Capacities and activity  | Based on the performance register by national surveys, concession for public |
-|             | RITEVE     |                          | transport and the annual Vehicle technical review (RITEVE). Lifespan is      |
-|             | MOPT       |                          | according to manufacturers and the residual capacity decreases linearly and  | 
-|             |            |                          | proportionally with this value.                                              |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Fuel prices  | RECOPE     | Fossil Fuels and Biofuels| Based on current tariffs and projection uses in national plans. It considers |
-|             | IEA        |                          | international prices and the tariff given by the regulator in Costa Rica     |
-|             | ARESEP     |                          | (ARESEP) and trend provide by international Energy Agency (IEA).             |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | ICE        | Electricity              | Base of the average of national tariffs and projections.                     |
-|             | ARESEP     |                          |                                                                              |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | SEPSE      | Biomass                  |  Not included. It is produced and consumed locally.                          |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | ETSAP      | Hydrogen                 | Based on data publish by Energy Technology Systems Analysis Programme (ETSAP)|
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Category     | Source     | Data                     | Descriptions and assumption made                                             |
++==============+============+==========================+==============================================================================+
+| Energy       | SEPSE      | Energy balance           | It is used to build the structure of the energy system, time-series          |
+| System       |            |                          | from 1989 to 2017 and forecasted with ARIMA models.                          |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Demand       | SEPSE      | Final energy             | Built based on final end-use by sectors: industry, transport, households,    |
+|              |            |                          | services and agriculture.                                                    |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | ICE        | Electricity load shapes  | Assumed constant for industry, curve for commerce (peak mid-day) and         |
+|              |            |                          | classical two valleys, two peaks and night for residential.                  |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | SEPSE      | Transport                | It includes load factors, vehicle fleet, and energy consumption, efficiencies|
+|              | RITEVE     | (passengers and cargo)   | and annual kilometers. We combine international standard data of technologies|
+|              | MOPT       |                          | with national records. Technological groups are defined to study modal change|
+|              | ETSAP      |                          | and fuel use. Non-motorized mobility is considered zero in the base case.    |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+|Electricity   | ICE        | Capital and fixed costs  | Based on national data. The costs were assumed constant in the whole period, |
+|technologies  | Bloomberg  |                          | except for solar and wind systems, which decrease according to international |
+|              | IEA        |                          | trends. Residual capacity is constant.                                       |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | ICE        | Capacities and activity  | Based on the operational performance registered by the National Energy       |
+|              |            |                          | Control Centre. Lifespan is according to national plans.                     |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+|Transport     | Hacienda   | Capital and fixed costs  | Based on the Ministry of Finance (Hacienda) database. We assumed that cost of|
+|technologies  | Bloomberg  |                          | electric vehicles' decreases (Bloomberg). For cargo transport, we review cost|
+|              | Companies  |                          | of companies like Nicola and Tesla.                                          |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | SEPSE      | Capacities and activity  | Based on the performance register by national surveys, concession for public |
+|              | RITEVE     |                          | transport and the annual Vehicle technical review (RITEVE). Lifespan is      |
+|              | MOPT       |                          | according to manufacturers and the residual capacity decreases linearly and  | 
+|              |            |                          | proportionally with this value.                                              |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+|Fuel prices   | RECOPE     | Fossil Fuels and Biofuels| Based on current tariffs and projection uses in national plans. It considers |
+|              | IEA        |                          | international prices and the tariff given by the regulator in Costa Rica     |
+|              | ARESEP     |                          | (ARESEP) and trend provide by international Energy Agency (IEA).             |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | ICE        | Electricity              | Base of the average of national tariffs and projections.                     |
+|              | ARESEP     |                          |                                                                              |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | SEPSE      | Biomass                  |  Not included. It is produced and consumed locally.                          |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | ETSAP      | Hydrogen                 | Based on data publish by Energy Technology Systems Analysis Programme (ETSAP)|
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
 |Infraestrucure| ICE        | Plants and power grid    | Based on Transmission and generation national plans. It assumes losses of 6% |
-|             |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
-|             |            |                          | infrastructure is not included.                                              |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | RECOPE     | Pipeline and road        | Based on national reports, we do not consider the current does no growth (for|
-|             |            | distribution             | gasoline and Diesel). It includes new infrastructure for LPG. The model      |
-|             |            |                          | includes natural gas but is not used.                                        |
-+             +------------+--------------------------+------------------------------------------------------------------------------+
-|             | ETSAP      | Hydrogen                 | Consider local production, road transport and supply stations.               |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Sustainable | MINAE      | Urban plans and mobility | Regarding the Integrated Public Transport System, the cost consideration come|
-| mobility    | MOPT       |                          | from  Costa Rican Railways Institute (INCOFER) and MOTP studies.             |
-|             | INCOFER    |                          |                                                                              |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Cargo       | MINAE      | Electric cargo train and | Cost was taken from national reports and demand based on expert criteria     |
-| transport   | MOPT       | Logistic                 | given in the participatory process.                                          |
-|             | INCOFER    |                          |                                                                              |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Emissions   | IPCC       |  Factors                 |  Based on the IPCC and the national GHG inventory.                           |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
-| Co-benefits | PEN        | Coefficients             | It considers coefficients for health congestion and accidents by State of the|
-|             | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
-+-------------+------------+--------------------------+------------------------------------------------------------------------------+
+|              |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
+|              |            |                          | infrastructure is not included.                                              |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | RECOPE     | Pipeline and road        | Based on national reports, we do not consider the current does no growth (for|
+|              |            | distribution             | gasoline and Diesel). It includes new infrastructure for LPG. The model      |
+|              |            |                          | includes natural gas but is not used.                                        |
++              +------------+--------------------------+------------------------------------------------------------------------------+
+|              | ETSAP      | Hydrogen                 | Consider local production, road transport and supply stations.               |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Sustainable  | MINAE      | Urban plans and mobility | Regarding the Integrated Public Transport System, the cost consideration come|
+| mobility     | MOPT       |                          | from  Costa Rican Railways Institute (INCOFER) and MOTP studies.             |
+|              | INCOFER    |                          |                                                                              |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Cargo        | MINAE      | Electric cargo train and | Cost was taken from national reports and demand based on expert criteria     |
+| transport    | MOPT       | Logistic                 | given in the participatory process.                                          |
+|              | INCOFER    |                          |                                                                              |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Emissions    | IPCC       |  Factors                 |  Based on the IPCC and the national GHG inventory.                           |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
+| Co-benefits  | PEN        | Coefficients             | It considers coefficients for health congestion and accidents by State of the|
+|              | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
++--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
 2.3 Sets 
 +++++++++
