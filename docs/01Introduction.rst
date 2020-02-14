@@ -1,6 +1,6 @@
 .. Title:
 
-The OSeMOSYS – CR model
+OSeMOSYS – CR 
 =====================================
 
 
