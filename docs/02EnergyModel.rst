@@ -363,6 +363,11 @@ The value corresponded to the entire time that technologies are available. It's 
 
 For this parameter it has been used a common set of values used by KTH. In general, the most important investment usually presents an operational life over the analysis period. Table 10 shows the data used in the model. 
 
+.. table:: 
+   :align:   center
+
+   *Table 2.4: Summary of Operational lifes use in the model, by categories.*
+
 +-----------------------------+-----------------------------+-----------------------------+
 | Electricity sector          | Transport sector            | Infraestructure             |
 +---------------------+-------+---------------------+-------+---------------------+-------+
@@ -386,3 +391,65 @@ For this parameter it has been used a common set of values used by KTH. In gener
 +---------------------+-------+---------------------+-------+---------------------+-------+
 | Thermal             | 25    | Trucks              | 15/12 |                     |       |
 +---------------------+-------+---------------------+-------+---------------------+-------+
+
+**InputActivityRatio[r,t,f,m,y]**
+
+This value is fundamental to build the structure of model by connecting fuel and technologies in the input. Usually is referred as the inverse of the efficacy of the process (considering 1 in the output). 
+
+**Electricity sector:** At this time, as the most part of the power plants are connected to renewable sources it has been assuming a relation 1:1, except for thermal plants that are directly depended to variable cost. For the transmission and distribution grid, a values proportional to losses are introduced. Table 11 shows the data used. 
+
+.. table:: 
+   :align:   center
+
+   *Table 2.5: Summary of input activity ratio for electric sector.*
+
++--------------------------------+----------------------+---------+
+| Input sources                  | Technology group     | Value   |
++================================+======================+=========+
+| Water, solar, wind, geothermal | Renewable power plant| 1.000   |
++--------------------------------+----------------------+---------+
+| Dielse                         | Thermal power plant  | 2.857   |
++--------------------------------+----------------------+---------+
+| Fuel oil                       | Thermal power plant  | 2.174   |
++--------------------------------+----------------------+---------+
+| Electricity from power plants  | Transmission grid    | 1.040   |
++--------------------------------+----------------------+---------+
+| Electricity from transmission  | Distribution grid    | 1.060   |
++--------------------------------+----------------------+---------+
+
+**Transport sector:** This value corresponds to the relation between the energy consumption (J) by technologies and the demand in vkm, pkm or tkm. It’s the relation Input/output or the inverse of effiecency.  As a first reference, values taking by organization such as ETSAP or manufactures are considering and the national data. The next calculation shows how to estimate this rate for light duty vehicles.     
+
+For Costa Rica data, it’s require the energy consumption, fleet and annual average distance by category. The efficiency can be express like MJ/km or MJ/(pkm) if the load factor is included. The importance of this variables are describing as follow:
+
+* The Energy and the Average Annual Kilometer Travelled: Control variables: the potential of use this values consist in define two systematic control variables to account the demand. 
+* Load Factor: This value allows you to play with modal change by unifying the demand
+
+**EQUATION**
+
+For the general category of Light Duty Vehicle in Costa Rica, by 2015: 
+
+**EQUATION**
+
+In the model, the input activity ratio is used in (MJ/km) and group of process: “TR”- “modes” (see figure 7) between the technologies and the demand include the load factor.  As this rate concentrate the efficiency of the transport system and the vehicle fleet is used to calibrate the model. The procedure consists in to use the national relation estimated and the proportion provide by one reliable source (in this cases, a data set provided by KTH based on ETSAP). The next example shows how to recalculate the efficiencies by two types of technologies (current and news), using again the gasoline light duty vehicle.  Table 12, present the reference data and the results of the recalculation
+
+.. table:: 
+   :align:   center
+
+   *Table 2.6: . Recalculation of the input activity ratio .*
++-------------------+-------------------+------------------------+-------------------------------+----------------------+
+| Technology        | KTH-ETSAP (MJ/km) | KTH-ETSAP (proportion) | CR data: (ECR_LDV)-1  (MJ/km) | Recalculated (MJ/km) |
++===================+===================+========================+===============================+======================+
+| LDV_GSL (current) | 3.78 (base)       | 1.000                  | 2.420                         | 2.42                 |
++-------------------+-------------------+------------------------+-------------------------------+----------------------+
+| LDV_GSL (New)     | 2.06              | 0.550                  |                               | 1.33                 |
++-------------------+-------------------+------------------------+-------------------------------+----------------------+
+
+
+In this case, the current data is assumed equal to national data and the new technologies are proportional to the relation estimated.
+
+**EQUATION**
+
+As the relation between distance and energy consumption is control variable that combine the efficiency of technologies and the road system, the value will be use constant considering that in one way will be improves in technologies and decreasing of the conditions of the system. 
+
+
+
