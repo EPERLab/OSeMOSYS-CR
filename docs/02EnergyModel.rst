@@ -11,7 +11,7 @@ The energy balance is the most important source of data for the energy model of 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
    
-   *Figure 2.1 Sankey diagram of Costa Rica, 2001 (Spanish).* 
+   *Figure 2.1 Sankey diagram of Costa Rica, 2011.* 
 
 As can be noted, in Costa Rica the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending and the general distribution for 2016 are presented in Figure 2.2.
 
@@ -28,7 +28,7 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 .. figure:: img/SimpleRES.png
    :align:   center
 
-   *Figure 3: Simply Reference Energy System for the Costa Rica model*
+   *Figure 2.3: Simply Reference Energy System for the Costa Rica model*
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions options. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capabilities. The establishment of these parameters was done after a data processing and a review of the available national energy information. Table 2.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
@@ -81,8 +81,8 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 +             +------------+--------------------------+------------------------------------------------------------------------------+
 |             | ETSAP      | Hydrogen                 | Based on data publish by Energy Technology Systems Analysis Programme (ETSAP)|
 +-------------+------------+--------------------------+------------------------------------------------------------------------------+
-|Infraestruc -| ICE        | Plants and power grid    | Based on Transmission and generation national plans. It assumes losses of 6% |
-| ture        |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
+|Infraestrucure| ICE        | Plants and power grid    | Based on Transmission and generation national plans. It assumes losses of 6% |
+|             |            |                          | from the bulk transmission system and 6% for distribution. Charging          |
 |             |            |                          | infrastructure is not included.                                              |
 +             +------------+--------------------------+------------------------------------------------------------------------------+
 |             | RECOPE     | Pipeline and road        | Based on national reports, we do not consider the current does no growth (for|
@@ -118,12 +118,12 @@ This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2018 to 2
 2.3.2 Fuels
 ---------
 
-Figure 2.6 shows the different levels and transformations that the fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
+Figure 2.4 shows the different levels and transformations that the fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
 
 .. figure:: img/Fuels.png
    :align:   center
 
-   Figure 2.6 Simple diagram for fuel specification
+   Figure 2.4 Simple diagram for fuel specification
 
 Table 2.2 presents a synthesis of the included groups of commodities, including a brief description and examples. 
 
@@ -143,7 +143,7 @@ Table 2.2 presents a synthesis of the included groups of commodities, including 
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E4    | Electricity demand by sector             | Diesel for agriculture, firewood for residential, petroleum coke for industry.|
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E6    | Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
+| E6-E6*| Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | E7    | Distribution                             | Diesel for industry, LPG for heavy cargo transport, electricity for vehicles. |
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
@@ -159,12 +159,13 @@ See Annex for the whole list of fuels.
 2.3.3 Technologies
 ---------
 
-Different types of technologies are included in the model in order to establish the current supply chain and substitution possibilities. Figure 2.7 shows the different levels and transformation of technologies. 
+Different types of technologies are included in the model in order to establish the current supply chain and substitution possibilities. Figure 2.5 shows the different levels and transformation of technologies. 
 
 .. figure:: img/Techs.png
    :align:   center
+   :width: 400
    
-   Figure 6 : Simple diagram for technologies specification
+   Figure 2.5 : Simple diagram for technologies specification
   
 The groups of technolgies contemplated in OSeMOSYS-cr are described below:  
 
