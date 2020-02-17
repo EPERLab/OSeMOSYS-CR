@@ -246,8 +246,7 @@ These parameters affect directly other parameters.
 
 **Demands:**
 
-Based on the historical data of the energy balance, the demand projection were developed by using ARIMA models. These models are one of the most widely used approaches to time series forecasting. They correspond to simple univariate models focusing on the long trend trajectory of the different time series. Their general structure is show below:
-
+Based on the historical data of the energy balance, the demand projection were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is show below:
 
 *EQUATION*
 
@@ -260,38 +259,38 @@ This forecasting model gives good approximations with the data register by insti
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
-The estimations begin with the time series analysis and forecasting of the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results for projections and general annual demands.
+The estimations begin with the  analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results for projections and general annual demands.
 
 .. figure::  img/DemandsBySector.png
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
-For the transport sector, an additional calculus is required. For that, the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because it allows to have a systematic monitoring. The another variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations are show below:
+For the transport sector, an additional calculus is required. For that, the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because it allows to have a systematic monitoring. The other variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations are show below:
 
 **EQUATION**
 
 Now, we are considering that this relation will be constant to define the base year. Considering a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the section **InputActivityRatio**.   
 
-As a short example, the calculation of the demand for the gasoline light duty vehicles (just for the example called: TD_LDGSL) in the 2015 year, is show below. 
+As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below. 
 
 **EQUATION**
 
-This similar process was developed for every technology during all years of the analysis. In the process, the energy consumption changes according to the the projection. The final calculation of demand is presented in the figure 2.8. 
+This similar process was developed for every technology during all years of the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
 
 .. figure::  img/PassengerCargoDemands.png
    :align:   center
    
    *Figure 2.8: Forecasting demands introduce to the model.* 
 
-Lastly, the other energy consumptions are no subject to the optimization process. The demands are introduced in two different parameters: 
+The demands are introduced in two different parameters: 
 
 * Specified Annual Demand and Specified Demand Profile. 
-* Or we used the Accumulated Annual Demand, when the data corresponding to the profiles were unavailable. 
+* Or we used the Accumulated Annual Demand, when the data corresponding to the profiles was unavailable. 
 
 **SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
 
-This parameter is use for electricity sector and transport sector. For transport demand, have been assuming a profile equivalent to electric vehicles for every technology. In this context, the idea is to represent the possibility of charge in time slices, although the demand is annual. 
+This parameter is used for the electricity and transport sectors.
 
 **AcummulatedAnnualDemand[r,f,y]**
 
