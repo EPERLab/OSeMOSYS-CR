@@ -246,53 +246,48 @@ These parameters affect directly other parameters.
 
 **Demands:**
 
-Based on the historical data of the energy balance , the possible future was developed by using ARIMA models. These models are one of the most widely used approaches to time series forecasting. They correspond to simple univariate models focusing on the long trend trajectory of the different time series. Their general structure is show below:
+Based on the historical data of the energy balance, the demand projection were developed by using ARIMA models. These models are one of the most widely used approaches to time series forecasting. They correspond to simple univariate models focusing on the long trend trajectory of the different time series. Their general structure is show below:
 
 
-ϕ(B) ϕ_s (B) Z_t=μ+θ(B) θ_s (B) a_t  →General equation 
+*EQUATION*
 
-ϕ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_p B^b  ∧  ϕ(B)=1-ϕ_1s B^s-ϕ_2s B^2s-...-ϕ_Ps B^Pb → rezagos simples 
+It is usual to employ the general notation of Box–Jenkins to define the model: ARIMA → (p,d,q)(P,D,Q). This concentrates the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
 
-θ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_q B^q∧ θ(B)=1-ϕ_1s B-ϕ_2s B^2s-...-ϕ_Qs B^qs → rezagos simples 
-
-where: 
-
-ϕ is an operators, μ the media  of ϕ, θ represent coefficient,and s is and stational component. 
-
-It is usual to use the general notation of Box – Jenkins to define the model: ARIMA→ (p,d,q)(P,D,Q). This concentrate the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
-
-This forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison in between the trajectories gives by the model and data register by the Costa Rican Institute of electricity (2011-2016), where the average error is approximately 1% and 4% for the worst case.   
+This forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison between the trajectories obtain with the model for the electricity demand, and data registered by the Costa Rican Institute of Electricity (ICE), between 2011 and 2016, where the average error is approximately 1%. In the worst case it is 4%.   
 
 .. figure::  img/DemandsProjections.png
    :align:   center
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
-The estimations begin with the time series analysis and forecasting of the primary sources. With this long term values a specific trend is fixed using the shares defining in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year.  The next figure shows the general results for projections and general annual demands.
+The estimations begin with the time series analysis and forecasting of the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results for projections and general annual demands.
 
 .. figure::  img/DemandsBySector.png
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
-For the transport sector, an additional calculus is required. For that the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because allows to have a systematic monitoring. The another variable is the relation between energy consumption and the annual average distance travelled by group of technologies. The general equations are show below:
+For the transport sector, an additional calculus is required. For that, the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because it allows to have a systematic monitoring. The another variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations are show below:
 
 **EQUATION**
 
-At this time, we are considering this relation will be constant to define the base year. Considering a no policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the section **InputActivityRatio**.   
+Now, we are considering that this relation will be constant to define the base year. Considering a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the section **InputActivityRatio**.   
 
 As a short example, the calculation of the demand for the gasoline light duty vehicles (just for the example called: TD_LDGSL) in the 2015 year, is show below. 
 
 **EQUATION**
 
-The similar process is developing for every technology during all years of the analysis. In the process what it changes is the energy consumption provided by the projection. The final calculation of demand is presents in the figure 2.8. 
+This similar process was developed for every technology during all years of the analysis. In the process, the energy consumption changes according to the the projection. The final calculation of demand is presented in the figure 2.8. 
 
 .. figure::  img/PassengerCargoDemands.png
    :align:   center
    
    *Figure 2.8: Forecasting demands introduce to the model.* 
 
-The demand calculation was divided in three groups. First is for electricity sector, second is for transport sector and the last one for others energy consumptions no subject to the optimization process.  For the model we introduce the data in two ways: First, correspond to the parameters: Specified Annual Demand and Specified Demand Profile. Second, is using the Accumulated Annual Demand, when the profiles data are unavailable. 
+Lastly, the other energy consumptions are no subject to the optimization process. The demands are introduced in two different parameters: 
+
+* Specified Annual Demand and Specified Demand Profile. 
+* Or we used the Accumulated Annual Demand, when the data corresponding to the profiles were unavailable. 
 
 **SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
 
