@@ -473,4 +473,7 @@ The residual capacity expresses the capacity that already exists in the first ye
    
 As the demand in the base year is supplied by this group of technologies, it is assumed that for 2015 this is the capacity of the fleet and it will decreased according to the residual life (i.e. the number of years left until they complete their operational life). Figure 2.12 present how the capacity of the current fleet is reduced over the years.   
 
-
+.. figure::  img/ResidualCapacityTransport.png
+   :align:   center
+   
+   *Figure 2.12: Residual capacities and demand by sector.* 
