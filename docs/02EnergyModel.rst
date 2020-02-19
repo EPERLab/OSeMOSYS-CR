@@ -490,7 +490,7 @@ Figure 2.13 shows the relation included in the model regarding costs. Usually, t
    
 In order to understand the cost flow, that the model follows in order to satisfy a specific demand, a brief example is presented in Figure 2.13. The figure includes the relation between the electric grid, the pipe system and the vehicles for one year. 
 
-.. figure::  img/cost_exameple.png
+.. figure::  img/cost_example.png
    :align:   center
    
    *Figure 2.12: Brief example of the cost chain of the model.* 
