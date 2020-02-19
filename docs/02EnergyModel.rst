@@ -437,7 +437,7 @@ The next example shows how to recalculate the efficiencies of two types of techn
 +===================+===================+========================+===============================+======================+
 | LDV_GSL (current) | 3.78 (base)       | 1.000                  | 2.420                         | 2.42                 |
 +-------------------+-------------------+------------------------+-------------------------------+----------------------+
-| LDV_GSL (New)     | 2.06              | 0.550                  | '-'                           | 1.33                 |
+| LDV_GSL (New)     | 2.06              | 0.550                  | -                           | 1.33                 |
 +-------------------+-------------------+------------------------+-------------------------------+----------------------+
 
 In this case, the current data is assumed equal to national data and the new technologies are proportional to the relation estimated.
