@@ -426,7 +426,7 @@ For the general category of Light Duty Vehicles in Costa Rica, by 2015:
 
 In the model, the input activity ratio is used in MJ/km for each individual transport technology. The demand is included in the relation between “TR” and “modes” (see figure 2.5) and the demands.  As this rate concentrates the efficiency of the transport system and the vehicle fleet, it is used to calibrate the model. The procedure consists of using the estimation based on the national relation and the proportion provide by one reliable source (in this cases, a data set provided by KTH based on ETSAP). 
 
-The next example shows how to recalculate the efficiencies of two types of technologies (current and new technologies), using again the gasoline light duty vehicle. Table 2.6, present the reference data and the results of the recalculation
+The next example shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the same example of gasoline light duty vehicles. Table 2.6, present the reference data and the results of the recalculation
 
 .. table:: 
    :align:   center
@@ -440,7 +440,7 @@ The next example shows how to recalculate the efficiencies of two types of techn
 | LDV_GSL (New)     | 2.06              | 0.550                  |                               | 1.33                 |
 +-------------------+-------------------+------------------------+-------------------------------+----------------------+
 
-In this case, the current data is assumed equal to national data and the new technologies are proportional to the relation estimated.
+In this case, the current vehicles data is assumed equal to national data and the new technologies are proportional to the relation estimated.
 
 **EQUATION**
 
