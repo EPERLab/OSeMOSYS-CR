@@ -482,3 +482,21 @@ As the demand in the base year is supplied by this group of technologies, it is 
 ---------
 
 Figure 2.13 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used by each group of technologies.  
+
+.. figure::  img/costs.png
+   :align:   center
+   
+   *Figure 2.12: Cost chains of OSeMOSYS-CR.* 
+   
+In order to understand the cost flow, that the model follows in order to satisfy a specific demand, a brief example is presented in Figure 2.13. The figure includes the relation between the electric grid, the pipe system and the vehicles for one year. 
+
+.. figure::  img/cost_exameple.png
+   :align:   center
+   
+   *Figure 2.12: Brief example of the cost chain of the model.* 
+   
+In this example, we have two ways to satisfy 1 Gpkm: Electric and Fossil. We are no taking into account the depreciation for the example. The activity and capacity for the transport sector is the same, while for the electricity sector the Capacity-to-activity unit (31.536) is used.  A special attention must be paid in the units and their equivalents. The general, equation is: 
+
+**EQUATION**
+
+In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
