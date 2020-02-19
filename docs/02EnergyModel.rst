@@ -246,7 +246,7 @@ These parameters affect directly other parameters.
 
 **Demands:**
 
-Based on the historical data of the energy balance, the demand projections were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is show below:
+Based on the historical data of the energy balance, the demand projections were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is shown below:
  
 *EQUATION*
 
@@ -257,14 +257,14 @@ This forecasting model gives good approximations of the data registered by insti
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
-The estimation begins with the  analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
+The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
 
 .. figure::  img/DemandsBySector.png
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
-In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as based. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are show below:
+In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as based. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
 **EQUATION**
 
@@ -292,7 +292,7 @@ This parameter is used for the electricity and transport sectors, where the Spec
 
 **AcummulatedAnnualDemand[r,f,y]**
 
-For the current model, the distribution of energy consumption -different to electricity and transport- is assumed constant throughout the year. It is similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introduced in this parameter:
+For the current model, the remaining distribution of energy consumption -different to electricity and transport- is assumed constant throughout the years. It is similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introduced in this parameter:
  
 *	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, and Petroleum coke.
 *	Commerce: Firewood, and LPG.
@@ -304,7 +304,7 @@ For the current model, the distribution of energy consumption -different to elec
 
 **CapacityToActivityUnit[r,t]**
 
-This parameter allows to relate the capacity and activity level of the technologies. For this model, this parameter is used to introduce the relation between power and energy of the electricity sector. Therefore, we convert the 8760 GWh to PJ, understanding that if 1 GW constantly throughout the year the corresponding energy is 31,536 PJ
+This parameter allows to relate the capacity and activity level of the technologies. For this model, this parameter is used to introduce the relation between power and energy of the electricity sector. Therefore, we convert the GWh to PJ, understanding that if 1 GW is constant throughout the year, the corresponding energy is 31,536 PJ
 
 For other sectors, we assume a default value equal to 1 and the calculation is referred only to energy. The capacity is implicit in the efficiency (input and output activity ratios).
 
