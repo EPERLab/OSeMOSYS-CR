@@ -246,37 +246,35 @@ These parameters affect directly other parameters.
 
 **Demands:**
 
-Based on the historical data of the energy balance, the demand projection were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is show below:
-
+Based on the historical data of the energy balance, the demand projections were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is show below:
+ 
 *EQUATION*
 
-It is usual to employ the general notation of Box–Jenkins to define the model: ARIMA → (p,d,q)(P,D,Q). This concentrates the whole information of the model. The “d” and “D” are for differentiations to make the time series stationaries. 
-
-This forecasting model gives good approximations with the data register by institutions. Figure 2.6 shows a comparison between the trajectories obtain with the model for the electricity demand, and data registered by the Costa Rican Institute of Electricity (ICE), between 2011 and 2016, where the average error is approximately 1%. In the worst case it is 4%.   
+This forecasting model gives good approximations of the data registered by institutions. Figure 2.6 shows a comparison between the trajectories obtain with the model for the electricity demand, and data registered by the Costa Rican Institute of Electricity (ICE), between 2011 and 2016, where the average error is approximately 1%. In the worst case it is 4%.   
 
 .. figure::  img/DemandsProjections.png
    :align:   center
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
-The estimations begin with the  analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results for projections and general annual demands.
+The estimation begins with the  analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
 
 .. figure::  img/DemandsBySector.png
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
-For the transport sector, an additional calculus is required. For that, the previously projections of energy consumption for transport is used as based. The selection of this variable is considered fundamental, because it allows to have a systematic monitoring. The other variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations are show below:
+In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as based. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are show below:
 
 **EQUATION**
 
-Now, we are considering that this relation will be constant to define the base year. Considering a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the section **InputActivityRatio**.   
+Now, we are considering that this relation defined in the base year will be constant, considering a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the documentation of the **InputActivityRatio** parameter.   
 
-As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below. 
+As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below: 
 
 **EQUATION**
 
-This similar process was developed for every technology during all years of the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
+This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
 
 .. figure::  img/PassengerCargoDemands.png
    :align:   center
@@ -290,29 +288,29 @@ The demands are introduced in two different parameters:
 
 **SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
 
-This parameter is used for the electricity and transport sectors.
+This parameter is used for the electricity and transport sectors, where the SpecifiedAnnualDemand constains the total annual demand, and the SpecifiedDemandProfile represents the way this demand is distributed throughout the time slices. 
 
 **AcummulatedAnnualDemand[r,f,y]**
 
-For the current model, the distribution of energy consumption is assumed constant throughout the year. It’ similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introducing in this parameter:
+For the current model, the distribution of energy consumption -different to electricity and transport- is assumed constant throughout the year. It is similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introduced in this parameter:
  
-*	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, Petroleum coke
-*	Commerce: Firewood, LPG
-*	Agriculture: Diesel
-*	Residential: Firewood, LPG
+*	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, and Petroleum coke.
+*	Commerce: Firewood, and LPG.
+*	Agriculture: Diesel.
+*	Residential: Firewood, and LPG.
 
 2.4.1 Performance
 ---------
 
 **CapacityToActivityUnit[r,t]**
 
-This parameter allows to relate the capacity and activity level of the technologies. For this model, the value is only entered for the electricity sector (relation: Power and Energy). For this, we convert the 8760 GWh to PJ -> 31.536. That means that if 1 GW constantly throughout the year the corresponding energy 31,536 PJ
+This parameter allows to relate the capacity and activity level of the technologies. For this model, this parameter is used to introduce the relation between power and energy of the electricity sector. Therefore, we convert the 8760 GWh to PJ, understanding that if 1 GW constantly throughout the year the corresponding energy is 31,536 PJ
 
-For other sectors, we assume a default value equal to 1 and the calculation is referred only to energy and the capacity is implicit in the efficiency.
+For other sectors, we assume a default value equal to 1 and the calculation is referred only to energy. The capacity is implicit in the efficiency (input and output activity ratios).
 
 **CapacityFactor[r,t,l,y]**
 
-The capacity factor is specially use in electricity generation. In this case the historical data from 2011 to 2017 was the vase to define the average value by season for every group of plants. In general, for the calculation the next equation is used.
+The capacity factor is specially used for representing electricity generation. In this case, the historical data from 2011 to 2017 was the base to define the average value by season for every group of plants. In general, for the calculation the next equation is used:
 
 **EQUATION**
 
