@@ -477,3 +477,8 @@ As the demand in the base year is supplied by this group of technologies, it is 
    :align:   center
    
    *Figure 2.12: Residual capacities and demand by sector.* 
+
+2.4.3 Cost
+---------
+
+Figure 2.13 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used by each group of technologies.  
