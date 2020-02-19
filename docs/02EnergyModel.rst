@@ -440,11 +440,9 @@ The next example shows how to recalculate the efficiencies of two types of techn
 | LDV_GSL (New)     | 2.06              | 0.550                  |                               | 1.33                 |
 +-------------------+-------------------+------------------------+-------------------------------+----------------------+
 
-In this case, the current vehicles data is assumed equal to national data and the new technologies are proportional to the relation estimated.
+In this case, the data corresponding to the current vehicles is assumed equal to the national data. The data for new technologies is proportional to the relation estimated: 
 
 **EQUATION**
 
-As the relation between distance and energy consumption is control variable that combine the efficiency of technologies and the road system, the value will be use constant considering that in one way will be improves in technologies and decreasing of the conditions of the system. 
-
-
+As the relation between distance and energy consumption is a control variable that combine the efficiency of technologies and the road system, the value will be kept constant. This is done considering that efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
