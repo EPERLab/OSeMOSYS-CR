@@ -299,7 +299,7 @@ For the current model, the distribution of energy consumption -different to elec
 *	Agriculture: Diesel.
 *	Residential: Firewood, and LPG.
 
-2.4.1 Performance
+2.4.2 Performance
 ---------
 
 **CapacityToActivityUnit[r,t]**
@@ -446,3 +446,15 @@ In this case, the data corresponding to the current vehicles is assumed equal to
 
 As the relation between distance and energy consumption is a control variable that combine the efficiency of technologies and the road system, the value will be kept constant. This is done considering that efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
+**OutputActivityRatio[r,t,f,m,y]**
+
+This parameter works together alongside the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton is OSeMOSYS-CR, is to connect the structure of the model.   
+
+2.4.3 Capacity
+---------
+
+**ResidualCapacity[r,t,y]**
+
+The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
+
+* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the capacity in 2015 is kept constant through all the period of analysis. Figure 13 shows the reference values for the base year and the evolution until 2018
