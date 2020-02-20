@@ -1,6 +1,6 @@
 .. Title:
 
-1. Introduction to OSeMOSYS – CR 
+1. Introduction 
 =====================================
 
 1.1 Project overview
