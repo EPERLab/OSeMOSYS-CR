@@ -32,6 +32,10 @@ The produced ESOM will support policymakers in Costa Rica understanding the most
 
 OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. the models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies. As shown in the following equation: 
 
+.. math::
+
+   Minimize \sum_{y,t,r}Total Discounted Cost_{y,t,r},
+   
 where: 
 * *y* corresponds to the year, *t* to the technology and *r* to the region. 
 
