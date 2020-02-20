@@ -244,8 +244,24 @@ These parameters affect directly other parameters.
 **Demands:**
 
 Based on the historical data of the energy balance, the demand projections were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is shown below:
+
+General equation: 
+.. math::
+
+   ϕ(B) \cdot ϕ_s(B) \cdot Z_t = μ + θ(B)\ cdot θ_s(B) \cdot a_t
+   
+Simple delays: 
  
-*EQUATION*
+.. math::
+
+   ϕ(B) = 1-ϕ_1 B-ϕ_2 B^2-...-ϕ_p B^b  ∧  ϕ(B) = 1-ϕ_1s B^s-ϕ_2s B^2s-...-ϕ_Ps B^Pb
+   
+.. math::
+   
+   θ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_q B^q∧ θ(B)=1-ϕ_1s B-ϕ_2s B^2s-...-ϕ_Qs B^qs
+
+where ϕ corresponds to operators, μ is the media  of ϕ, θ is coefficient,and s is a stational component. 
+
 
 This forecasting model gives good approximations of the data registered by institutions. Figure 2.6 shows a comparison between the trajectories obtain with the model for the electricity demand, and data registered by the Costa Rican Institute of Electricity (ICE), between 2011 and 2016, where the average error is approximately 1%. In the worst case it is 4%.   
 
