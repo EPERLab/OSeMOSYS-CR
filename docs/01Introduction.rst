@@ -18,17 +18,10 @@ aspect of local importance. The Costa Rican team is composed by researchers from
 Costa Rica (UCR) and the Royal Institute of Technology (KTH) in Stockholm.
 While each team has its own goals, the common objectives of this project are:
 
-* Provide support and training to teams of researchers in Latin America and the Caribbean (LAC) in the use of new models, relying
-on best practices drawn by more advanced teams of researchers.
-
-* Demonstrate these models to local policymakers with an emphasis on a specific policy question
-of local importance.
-
-* Develop long-term decarbonization pathways that can inform a transparent public debate on
-Nationally Determined Contributions (NDC) planning.
-
-* Develop a collaborative community of climate policy modelers in LAC capable of continually
-developing their expertise. 
+* Provide support and training to teams of researchers in Latin America and the Caribbean (LAC) in the use of new models, relying on best practices drawn by more advanced teams of researchers.
+* Demonstrate these models to local policymakers with an emphasis on a specific policy question of local importance.
+* Develop long-term decarbonization pathways that can inform a transparent public debate on Nationally Determined Contributions (NDC) planning.
+* Develop a collaborative community of climate policy modelers in LAC capable of continually developing their expertise. 
 
 The Costa Rican team focuses on the development of an Energy System Optimization Model (ESOM) for its
 energy system, paying particular attention to the electricity and the transport sectors, to establish
