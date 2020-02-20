@@ -385,7 +385,7 @@ For this parameter, the model employs a set of values used by KTH. In general, t
 
 This value is fundamental to build the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the Output Activity Ratio is 1). 
 
-* Electricity sector: Most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, a values proportional to losses (4% and 6%) were introduced. Table 11 shows the data used in OSeMOSYS-CR. 
+* Electricity sector: Most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, a values proportional to losses (4% and 6%) were introduced. Table 2.5 shows the data used in OSeMOSYS-CR. 
 
 .. table:: 
    :align:   center
@@ -406,11 +406,11 @@ This value is fundamental to build the structure of model, since it connects the
 | Electricity from transmission  | Distribution grid    | 1.060   |
 +--------------------------------+----------------------+---------+
 
-* Transport sector: This value corresponds to the relation between the energy consumption (J) by technologies and the demand (vkm, pkm or tkm). As a first reference, values taken by organizations such as ETSAP or manufactures are considered, alongside the national data. The next calculation shows how to estimate this rate for light duty vehicles.     
+* Transport sector: This value corresponds to the relation between the energy consumption (J) by technologies and the demand (vkm, pkm or tkm). As a first reference, values taken by organizations such as ETSAP or manufactures are considered, alongside with the national data. The next calculation shows how to estimate this rate for light duty vehicles.     
 
-Regarding Costa Rican data, the requirements are: the energy consumption, fleet and annual average distance by category. The efficiency can be expressed like MJ/km, or MJ/pkm if the load factor is included (i.e. number of passagers by vehicle). The importance of these variables are described as follow:
+Regarding Costa Rican data, the requirements are: the energy consumption, fleet and annual average distance by category. The efficiency can be expressed like MJ/km, or MJ/pkm if the load factor is included (i.e. number of passagers per vehicle). The importance of these variables are described as follow:
 
-* The Energy and the Average Annual Kilometer Travelled: The potential of use these values consists in defining two systematic control variables to account the demand. 
+* The Energy and the average annual kilometer travelled: The potential of using these values consists in defining two systematic control variables to account the demand. 
 * Load Factor: This value ease the incorporation of modal change by unifying the demand.
 
 The general equation is: 
