@@ -1,12 +1,12 @@
 2. Energy model 
 =======================================
 
-This documentation has been structured to provide  an overview of the energy sector in Costa Rica, present the model structure, give synthesis regarding assumptions, and support the numerical inputs for the sets, parameters, and scenario building.   
+This documentation has been structured to provide an overview of the energy sector in Costa Rica, to present the model structure, and to give a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building.   
 
 2.1 Energy balance of Costa Rica
 +++++++++
 
-The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center for Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. Figure 2.1 the diagram for 2011.  
+The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center of Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. Figure 2.1 the diagram for 2011.  
 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
