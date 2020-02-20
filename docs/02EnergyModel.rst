@@ -254,18 +254,18 @@ This forecasting model gives good approximations of the data registered by insti
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
-The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by the sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
+The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by each sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
 
 .. figure::  img/DemandsBySector.png
    :align:   center
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
-In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as based. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
+In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
 **EQUATION**
 
-Now, we are considering that this relation defined in the base year will be constant, considering a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the documentation of the **InputActivityRatio** parameter.   
+Now, we are considering that this relation defined in the base year will be constant, assuming a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the documentation of the **InputActivityRatio** parameter.   
 
 As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below: 
 
@@ -285,11 +285,11 @@ The demands are introduced in two different parameters:
 
 **SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
 
-This parameter is used for the electricity and transport sectors, where the SpecifiedAnnualDemand constains the total annual demand, and the SpecifiedDemandProfile represents the way this demand is distributed throughout the time slices. 
+This parameter is used for the electricity and transport sectors, where the Specified Annual Demand contains the total annual demand, and the Specified Demand Profile represents the way this demand is distributed throughout the time slices. 
 
 **AcummulatedAnnualDemand[r,f,y]**
 
-For the current model, the remaining distribution of energy consumption -different to electricity and transport- is assumed constant throughout the years. It is similar to introduce the values in the specified annual demand and replicate the “yearsplit" for each fuel into the specified demand profile. The next demands are introduced in this parameter:
+For the current model, the energy consumption -different to electricity and transport- is assumed constant throughout the years. It is similar to introduce the values in the specified annual demand and replicate the *year split* for each fuel into the specified demand profile. The next demands are introduced in this parameter:
  
 *	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, and Petroleum coke.
 *	Commerce: Firewood, and LPG.
@@ -303,19 +303,19 @@ For the current model, the remaining distribution of energy consumption -differe
 
 This parameter allows to relate the capacity and activity level of the technologies. For this model, this parameter is used to introduce the relation between power and energy of the electricity sector. Therefore, we convert the GWh to PJ, understanding that if 1 GW is constant throughout the year, the corresponding energy is 31,536 PJ
 
-For other sectors, we assume a default value equal to 1 and the calculation is referred only to energy. The capacity is implicit in the efficiency (input and output activity ratios).
+For other sectors, we assume a default value equal to 1, as the calculation is related only to energy.
 
 **CapacityFactor[r,t,l,y]**
 
-The capacity factor is specially used for representing electricity generation. In this case, the historical data from 2011 to 2017 was the base to define the average value by season for every group of plants. In general, for the calculation the next equation is used:
+The capacity factor is specially used for representing electricity generation. In this case, the historical data from 2011 to 2017 was the base to define the average value by season for every group of plants. In general, the calculation followed the next equation:
 
 **EQUATION**
 
-The figure 12 shows the historical values used in the capacity factors. For solar and wind power plants another possibility is to use some tools line renewable ninja (see figure 13).  The average values are very similar to the operational data registered. 
+Figure 12 shows the historical values of capacity factors. For solar and wind power plants another possibility is to use some tools like renewable ninja (see figure 13). The average values are very similar to the operational data registered. 
 
 .. figure::  img/CapacityFactorPP.png
    :align:   center
-   
+    
    *Figure 2.9: Historical capacity factor for plants by season.* 
    
 A special consideration was made for photovoltaic systems, taking into account a standard curve for costa Rica and the average capacity factor previously calculated. In this case, the average of the operation hours corresponds to the season value. Table 9 shows a synthesis of the data used in the OSeMOSYS-CR model. For the rest of the power plants that are not included in the table, the capacity factor in both seasons is proportional to the lenght of each timeslice.
@@ -355,7 +355,7 @@ For this parameter, the model employs a set of values used by KTH. In general, t
 .. table:: 
    :align:   center
 
-   *Table 2.4: Summary of Operational lifes use in the model, by categories.*
+   *Table 2.4: Summary of Operational lifes used in the model, by categories.*
 
 +-----------------------------+-----------------------------+-----------------------------+
 | Electricity sector          | Transport sector            | Infraestructure             |
@@ -383,7 +383,7 @@ For this parameter, the model employs a set of values used by KTH. In general, t
 
 **InputActivityRatio[r,t,f,m,y]**
 
-This value is fundamental to build the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the OutputActivityRatio is 1). 
+This value is fundamental to build the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the Output Activity Ratio is 1). 
 
 * Electricity sector: Most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, a values proportional to losses (4% and 6%) were introduced. Table 11 shows the data used in OSeMOSYS-CR. 
 
