@@ -1,12 +1,10 @@
 .. Title:
 
-OSeMOSYS – CR 
+1. Introduction to OSeMOSYS – CR 
 =====================================
 
-
-
-Project overview
-------------------------------------
+1.1 Project overview
++++++++++
 
 This work is part of the “Deep Decarbonization Pathways Project in Latin America and the Caribbean
 (DDPP-LAC)” which is coordinated by the Institute for Sustainable Development and International
@@ -20,26 +18,26 @@ aspect of local importance. The Costa Rican team is composed by researchers from
 Costa Rica (UCR) and the Royal Institute of Technology (KTH) in Stockholm.
 While each team has its own goals, the common objectives of this project are:
 
-* Provide support and training to teams of researchers in LAC in the use of new models, relying
+* Provide support and training to teams of researchers in Latin America and the Caribbean (LAC) in the use of new models, relying
 on best practices drawn by more advanced teams of researchers.
 
 * Demonstrate these models to local policymakers with an emphasis on a specific policy question
 of local importance.
 
 * Develop long-term decarbonization pathways that can inform a transparent public debate on
-NDC planning.
+Nationally Determined Contributions (NDC) planning.
 
 * Develop a collaborative community of climate policy modelers in LAC capable of continually
 developing their expertise. 
 
 The Costa Rican team focuses on the development of an Energy System Optimization Model (ESOM) for its
-energy system, giving a particular attention to the electricity and the transport sectors, to establish
+energy system, paying particular attention to the electricity and the transport sectors, to establish
 the most cost-effective technological transition towards a deep decarbonization, while assessing the
-corresponding impacts over the economy and society. The project also aims to promote a dialogue on
+corresponding impacts over the economy and society. The project also aims at promoting a dialogue on
 the national policy related to the future concerning the decarbonization of the economy.
 
-Motivation and problem statement
-------------------------------------
+1.2 Motivation and problem statement
++++++++++
 
 Costa Rica is a Latin American country worldwide known for its environmental protection, political,
 social and economic stability, and renewable electricity generation. Despite these achievements, there
