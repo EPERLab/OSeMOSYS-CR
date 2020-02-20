@@ -423,7 +423,7 @@ For the general category of Light Duty Vehicles in Costa Rica, by 2015:
 
 In the model, the input activity ratio is used in MJ/km for each individual transport technology. The demand is included in the relation between “TR” and “modes” (see figure 2.5) and the demands.  As this rate concentrates the efficiency of the transport system and the vehicle fleet, it is used to calibrate the model. The procedure consists of using the estimation based on the national relation and the proportion provide by one reliable source (in this cases, a data set provided by KTH based on ETSAP). 
 
-The next example shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the same example of gasoline light duty vehicles. Table 2.6, present the reference data and the results of the recalculation
+The next example shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the same example of gasoline light duty vehicles. Table 2.6 presents the reference data and the results of the recalculation.
 
 .. table:: 
    :align:   center
@@ -441,11 +441,11 @@ In this case, the data corresponding to the current vehicles is assumed equal to
 
 **EQUATION**
 
-As the relation between distance and energy consumption is a control variable that combine the efficiency of technologies and the road system, the value will be kept constant. This is done considering that efficiency of the technologies will improve, while the conditions of the system will decrease. 
+As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
 **OutputActivityRatio[r,t,f,m,y]**
 
-This parameter works together alongside the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton is OSeMOSYS-CR, is to connect the structure of the model.   
+This parameter works together alongside with the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton in OSeMOSYS-CR, is to connect the structure of the model.   
 
 2.4.3 Capacity
 ---------
@@ -461,14 +461,14 @@ The residual capacity expresses the capacity that already exists in the first ye
    
    *Figure 2.10: Installed capacity in the Costa Rican power system (based on CENCE).* 
    
-* Transport sector: This calculation was made taken into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 2.11 shows the distribution of ages by technologies for the base year.  
+* Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 2.11 shows the distribution of ages by technologies for the base year.  
 
 .. figure::  img/VehiclesAge.png
    :align:   center
    
    *Figure 2.11: Age vehicles for the main categories in 2015.* 
    
-As the demand in the base year is supplied by this group of technologies, it is assumed that for 2015 this is the capacity of the fleet and it will decreased according to the residual life (i.e. the number of years left until they complete their operational life). Figure 2.12 present how the capacity of the current fleet is reduced over the years.   
+As the demand in the base year is supplied by this group of technologies, it is assumed that for 2015 this is the capacity of the fleet and it will decreased according to the residual life (i.e. the number of years left until they complete their operational life). Figure 2.12 presents how the capacity of the current fleet is reduced over the years.   
 
 .. figure::  img/ResidualCapacityTransport.png
    :align:   center
