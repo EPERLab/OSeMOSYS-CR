@@ -10,7 +10,7 @@ The energy balance is the most important source of data for the energy model of 
 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.1: Sankey diagram of Costa Rica, 2011 (Spanish).* 
 
@@ -18,7 +18,7 @@ As can be noted, in Costa Rica the fossil fuels are completely imported, and the
 
 .. figure:: img/Fig_CREnergyConsumption.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.2: Energy consumption in Costa Rica, 2016*
 
@@ -29,7 +29,7 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
 .. figure:: img/SimpleRES.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
 
    *Figure 2.3: Simply Reference Energy System for the Costa Rica model*
 
@@ -122,7 +122,7 @@ Figure 2.4 shows the different levels and transformations that the fuels go thro
 
 .. figure:: img/Fuels.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
 
    *Figure 2.4: Simple diagram for fuel specification.*
 
@@ -164,7 +164,7 @@ Different types of technologies are included in the model in order to establish 
 
 .. figure:: img/Techs.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.5: Simple diagram for technologies specification.*
   
@@ -273,7 +273,7 @@ This forecasting model gives good approximations of the data registered by insti
 
 .. figure::  img/DemandsProjections.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
 
@@ -281,7 +281,7 @@ The estimation begins with the analysis and forecasting of the time series corre
 
 .. figure::  img/DemandsBySector.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.7: Forecasting demands introduce to the model.* 
    
@@ -314,7 +314,7 @@ This similar process was developed for every transport technology during all the
 
 .. figure::  img/PassengerCargoDemands.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.8: Forecasting demands introduce to the model.* 
 
@@ -355,7 +355,7 @@ Figure 12 shows the historical values of capacity factors. For solar and wind po
 
 .. figure::  img/CapacityFactorPP.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
     
    *Figure 2.9: Historical capacity factor for plants by season.* 
    
@@ -499,7 +499,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 
 .. figure::  img/ResidualCapacity.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.10: Installed capacity in the Costa Rican power system (based on CENCE).* 
    
@@ -507,7 +507,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 
 .. figure::  img/VehiclesAge.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.11: Age vehicles for the main categories in 2015.* 
    
@@ -525,7 +525,7 @@ Figure 2.13 shows the relation included in the model regarding costs. Usually, t
 
 .. figure::  img/costs.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.12: Cost chains of OSeMOSYS-CR.* 
    
@@ -533,7 +533,7 @@ In order to understand the cost flow, that the model follows in order to satisfy
 
 .. figure::  img/cost_example.png
    :align:   center
-   :width:   650 px
+   :width:   700 px
    
    *Figure 2.12: Brief example of the cost chain of the model.* 
    
