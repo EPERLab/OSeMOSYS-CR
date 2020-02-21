@@ -248,17 +248,17 @@ Based on the historical data of the energy balance, the demand projections were 
 General equation: 
 .. math::
 
-   ϕ(B) \cdot ϕ_s(B) \cdot Z_t = μ + θ(B)\ cdot θ_s(B) \cdot a_t
+   \phi \left(B\right){\phi}_s\left(B\right)Z_t=\mu +\theta \left(B\right){\theta }_s\left(B\right)a_t
    
 Simple delays: 
  
 .. math::
 
-   ϕ(B) = 1-ϕ_1 B-ϕ_2 B^2-...-ϕ_p B^b  ∧  ϕ(B) = 1-ϕ_1s B^s-ϕ_2s B^2s-...-ϕ_Ps B^Pb
+   \phi \left(B\right)=1-{\phi }_1B-{\phi }_2B^2-...-{\phi }_pB^b\ \wedge \ \ \phi \left(B\right)=1-{\phi }_{1s}B^s-{\phi }_{2s}B^{2s}-...-{\phi }_{Ps}B^{Pb}
    
 .. math::
    
-   θ(B)=1-ϕ_1 B-ϕ_2 B^2-...-ϕ_q B^q∧ θ(B)=1-ϕ_1s B-ϕ_2s B^2s-...-ϕ_Qs B^qs
+   \theta \left(B\right)=1-{\phi }_1B-{\phi }_2B^2-...-{\phi }_qB^q\wedge \ \theta \left(B\right)=1-{\phi }_{1s}B-{\phi }_{2s}B^{2s}-...-{\phi }_{Qs}B^{qs}
 
 where *ϕ* corresponds to operators, *μ* is the media  of *ϕ*, *θ* is a coefficient, and *s* is a stational component. 
 
