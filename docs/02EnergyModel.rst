@@ -280,7 +280,13 @@ The estimation begins with the analysis and forecasting of the time series corre
    
 In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
-**EQUATION**
+.. math::
+   
+   Passenger=\sum_{Techs}{Energy Consumption\ \left(PJ\right)\ /Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load Factor(P)
+   
+.. math::
+   
+   Cargo=\sum_{Techs}{Energy Consumption\ \left(PJ\right)*Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (Ton/v\ )
 
 Now, we are considering that this relation defined in the base year will be constant, assuming a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the documentation of the **InputActivityRatio** parameter.   
 
