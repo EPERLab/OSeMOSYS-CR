@@ -289,12 +289,19 @@ In order to estimate the demands of the transport sector, an additional calculat
 
 .. math::
    
-   Passenger=\sum_{Techs}{\frac{Energy\ Consumption\ \left(PJ\right)}{Efficiency\_CR\left(\frac{Gkm}{PJ}\right)}*Load\ Factor\ (P)\ } 
+   Passenger=\sum_{Techs}{\frac{Energy\ Consumption\ \left(PJ\right)}{Efficiency_{CR}\left(\frac{Gkm}{PJ}\right)}*Load\ Factor\ (P)\ } 
    
    
 .. math::
    
-   Cargo=\sum_{Techs}{Energy Consumption\ \left(PJ\right)*Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (Ton/v\ )
+   Cargo=\sum_{Techs}{Energy\ Consumption\ \left(PJ\right)*Efficiency\{CR}\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (Ton/v\ )}
+   
+where: 
+
+.. math::
+   
+   Efficiency_{CR}={\left.\left\{Fleet\left(V\right)*annual\ distance\ \left(km\right)\ /\ energy\ consumption(PJ)\right.\right\}}_{2015}
+
 
 Now, we are considering that this relation defined in the base year will be constant, assuming a no-policy scenario and taking into account that this data concentrates the efficiency of the road system and technologies. For more details, see the documentation of the **InputActivityRatio** parameter.   
 
