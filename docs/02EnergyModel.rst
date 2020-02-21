@@ -314,7 +314,11 @@ where:
 
 .. math:: 
 
-   Energy = Costa\ Rica\ gasoline\ consumption\ \left(PJ\right)*percentage\ consumed\ by\ light\ duty\ (pu)
+   Energy = CR\ gasoline\ consumption\ \left(PJ\right)* \%\ consumed\ by\ light\ duty\ (pu)
+   
+.. math:: 
+
+   Efficiency:{\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base}
 
 This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
 
