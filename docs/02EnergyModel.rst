@@ -9,7 +9,7 @@ This documentation has been structured to provide an overview of the energy sect
 The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center of Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. Figure 2.1 the diagram for 2011.  
 
 .. figure::  img/Fig_SankeyDiagram.png
-   :align:   center
+   :width: 200 px
    :scale: 50 %
    
    *Figure 2.1: Sankey diagram of Costa Rica, 2011.* 
