@@ -46,6 +46,7 @@ The discounted cost can be express as follows:
  ∀_{y,t,r} Total Discounted Cost_{y,t,r} =  Discounted Operational Cost_{y,t,r} + Discounted Capital Investment_{y,t,r} + Discounted Technology Emmisions Penalty_{y,t,r}- Discounted Salvage value_{y,t,r}
 
 where: 
+
 *	Discounted Operational Cost: Corresponds the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
 *	Discounted Capital Investment: It is the cost of investment of all technologies selected to supply energy on the whole period. 
 *	Discounted Technology Emission Penalty: It is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
