@@ -293,7 +293,7 @@ In order to estimate the demands of the transport sector, an additional calculat
      
 .. math::
    
-   Cargo=\sum_{Techs}{Energy\ Consumption\ \left(PJ\right)*Efficiency_{CR}\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (Ton/v\ )}
+   Cargo=\sum_{Techs}{Energy\ Consumption\ \left(PJ\right)*Efficiency_{CR}\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (\frac{Ton}{v} )}
    
 where: 
 
