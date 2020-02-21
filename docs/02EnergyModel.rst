@@ -482,7 +482,7 @@ The general equation is:
 
 .. math::
 
-   {\textrm{?}}_{CR}={\left(\frac{Energy}{Fleet*distance}\right)}^{-1}\left(\frac{km}{MJ}\right)\ \ \ or\ \ {\textrm{?}}_{CR}={\left(\frac{Energy}{Fleet*distance*passenger}\right)}^{-1}\left(\frac{pkm}{MJ}\right)
+   {\epsilon}_{CR}={\left(\frac{Energy}{Fleet*distance}\right)}^{-1}\left(\frac{km}{MJ}\right)\ \ \ or\ \ {\epsilon}_{CR}={\left(\frac{Energy}{Fleet*distance*passenger}\right)}^{-1}\left(\frac{pkm}{MJ}\right)
 
 For the general category of Light Duty Vehicles in Costa Rica, by 2015: 
 
