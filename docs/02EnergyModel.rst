@@ -314,16 +314,20 @@ where:
 
 .. math:: 
 
-   Energy = CR\ gasoline\ consumption\ \left(PJ\right)* \%\ consumed\ by\ light\ duty\ (pu)
+   Energy = CR\ gasoline\ consumption\ \left(PJ\right)* \%\ consumed\ by\ light\ duty\ (pu), 
+   
    
 .. math:: 
 
-   Efficiency:{\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base}
+   Efficiency:{\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base},
+   
    
 .. math::
 
-   LoadFactor=ocupancy\ rate\ for\ light\ duty
+   LoadFactor=ocupancy\ rate\ for\ light\ duty.
    
+Therefore: 
+
 .. math::
 
    {TD\_LD}_{GSL}=\left[21.88\ PJ*0.56\right]\ *\left[\frac{14773\ km*611324\ V}{21.88\ PJ}\right]*\left[\frac{1.5\ P}{V}\right]=13.5\ Gpkm
