@@ -513,7 +513,3 @@ In this example, we have two ways to satisfy 1 Gpkm: Electric and Fossil. We are
 **EQUATION**
 
 In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
-
-.. math::
-
-   \frac{ \sum_{t=0}^{N}f(t,k) }{N}
