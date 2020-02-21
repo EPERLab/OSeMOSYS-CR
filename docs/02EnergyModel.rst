@@ -1,3 +1,5 @@
+text-align:justify;
+
 2. Energy model 
 =======================================
 
