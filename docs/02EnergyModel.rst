@@ -289,7 +289,7 @@ In order to estimate the demands of the transport sector, an additional calculat
 
 .. math::
    
-   Passenger=\sum_{Techs}{Energy Consumption\ \left(PJ\right)\ /Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load Factor(P)
+   \[Passenger=\sum_{Techs}{Energy\ Consumption\ \left(PJ\right)\ /Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (P)\ }\] 
    
 .. math::
    
@@ -299,16 +299,7 @@ Now, we are considering that this relation defined in the base year will be cons
 
 As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below: 
 
-.. math:: 
-   {TD\_LD}_{GSL}=\left[Energy\right]\left(PJ\right)*\left[Efficiency\right]\left(\frac{Vkm{PJ}\right)*\left[LoadFactor\right]\left(\frac{P}{V}\right)\] 
-   
-\[Energy:Costa\ Rica\ gasoline\ consumption\ \left(PJ\right)*percentaje\ consumed\ by\ light\ duty\ (pu)\ \ \] 
-
-\[Efficiency:{\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base}\] 
-
-\[LoadFactor=ocupancy\ rate\ for\ light\ duty\ \] 
-
-\[{TD\_LD}_{GSL}=\left[21.88\ PJ*0.56\right]\ *\left[\frac{14773\ km*611324\ V}{21.88\ PJ}\right]*\left[\frac{1.5\ P}{V}\right]=13.5\ Gpkm\] 
+**EQUATION**
 
 This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
 
