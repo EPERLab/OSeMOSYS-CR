@@ -291,6 +291,7 @@ In order to estimate the demands of the transport sector, an additional calculat
    
    \[Passenger=\sum_{Techs}{Energy\ Consumption\ \left(PJ\right)\ /Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (P)\ }\] 
    
+   
 .. math::
    
    Cargo=\sum_{Techs}{Energy Consumption\ \left(PJ\right)*Efficiency\_CR\left(\frac{Gkm}{PJ}\right)*Load\ Factor\ (Ton/v\ )
