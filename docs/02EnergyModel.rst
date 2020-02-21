@@ -306,7 +306,15 @@ Now, we are considering that this relation defined in the base year will be cons
 
 As a short example, the calculation of the demand for the gasoline light duty vehicles (TD_LDGSL) in the 2015 year, is shown below: 
 
-**EQUATION**
+.. math::
+   
+   {TD\_LD}_{GSL}=\left[Energy\right]\left(PJ\right)*\left[Efficiency\right]\left(\frac{Vkm}{PJ}\right)*\left[LoadFactor\right]\left(\frac{P}{V}\right)
+   
+where:
+
+.. math:: 
+
+   Energy = Costa\ Rica\ gasoline\ consumption\ \left(PJ\right)*percentage\ consumed\ by\ light\ duty\ (pu)
 
 This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
 
