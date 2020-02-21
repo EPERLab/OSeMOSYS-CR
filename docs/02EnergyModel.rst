@@ -319,7 +319,7 @@ where:
    
 .. math:: 
 
-   Efficiency:{\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base},
+   Efficiency = {\left(\frac{Annual\ Average\ distance\ traveled\ by\ light\ duty*light\ duty\ fleet\ \ \ }{Energy\ consumption\ by\ all\ light\ duty}\right)}_{base},
    
    
 .. math::
@@ -371,7 +371,9 @@ For other sectors, we assume a default value equal to 1, as the calculation is r
 
 The capacity factor is specially used for representing electricity generation. In this case, the historical data from 2011 to 2017 was the base to define the average value by season for every group of plants. In general, the calculation followed the next equation:
 
-**EQUATION**
+.. math::
+
+   {Cf}_{season}=\frac{\sum_{season,year}{\left(electricity\ generated\right)}}{\left(hour\ by\ season\right)*(Nominal\ capacity)}
 
 Figure 12 shows the historical values of capacity factors. For solar and wind power plants another possibility is to use some tools like renewable ninja (see figure 13). The average values are very similar to the operational data registered. 
 
@@ -478,7 +480,9 @@ Regarding Costa Rican data, the requirements are: the energy consumption, fleet 
 
 The general equation is: 
 
-**EQUATION**
+.. math::
+
+   {\textrm{?}}_{CR}={\left(\frac{Energy}{Fleet*distance}\right)}^{-1}\left(\frac{km}{MJ}\right)\ \ \ or\ \ {\textrm{?}}_{CR}={\left(\frac{Energy}{Fleet*distance*passenger}\right)}^{-1}\left(\frac{pkm}{MJ}\right)
 
 For the general category of Light Duty Vehicles in Costa Rica, by 2015: 
 
