@@ -10,6 +10,7 @@ The energy balance is the most important source of data for the energy model of 
 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
+   :scale: 50 %
    
    *Figure 2.1: Sankey diagram of Costa Rica, 2011.* 
 
