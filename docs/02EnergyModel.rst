@@ -10,7 +10,7 @@ The energy balance is the most important source of data for the energy model of 
 
 .. figure::  img/Fig_SankeyDiagram.png
    :align:   center
-   :width:   500 px
+   :width:   600 px
    
    *Figure 2.1: Sankey diagram of Costa Rica, 2011.* 
 
@@ -18,7 +18,7 @@ As can be noted, in Costa Rica the fossil fuels are completely imported, and the
 
 .. figure:: img/Fig_CREnergyConsumption.png
    :align:   center
-   :width:   500 px
+   :width:   600 px
    
    *Figure 2.2: Energy consumption in Costa Rica, 2016*
 
