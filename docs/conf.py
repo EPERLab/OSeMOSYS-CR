@@ -64,8 +64,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'OSeMOSYS-CR'
-copyright = u'2020, Guido A. Godínez Zamora '
-author = u'Guido A. Godínez Zamora'
+copyright = u'2020, EPERLab-UCR'
+author = u'EPERLab-UCR'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
