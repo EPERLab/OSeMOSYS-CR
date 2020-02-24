@@ -1,7 +1,7 @@
 3. Using OSeMOSYS-CR
 =================
 
-OSeMOSYS-CR's repositoryc\ :sup:`1`, contains the following folders: 
+OSeMOSYS-CR's repository\ :sup:`1`, contains the following folders: 
 
 * **0_Model Structure:** contains two files that describes the structure of the model. 
 
