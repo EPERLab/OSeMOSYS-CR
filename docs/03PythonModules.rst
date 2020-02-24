@@ -15,7 +15,7 @@ In order to run the model, the following files are needed:
 
 * **2_run_model_mathprog.py:** runs the model and generates two wide format file with the results of the model: i) a file containing the original names of the fuels, technologies and emissions, and ii) a file with coded names for an easier understanding. 
 
- Running the model, generates the following files, all of them are store in 2_Scenarios_Outputs:
+Running the model, generates the following files, all of them are store in 2_Scenarios_Outputs:
 
 * **Osemosyscr_data.txt:** is the output file of 1_csv_to_txt.py. 
 
