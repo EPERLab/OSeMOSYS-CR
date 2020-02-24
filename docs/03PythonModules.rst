@@ -34,4 +34,5 @@ Figure 3.1 shows the general framework of how OSeMOSYS-CR works. In order to run
    *Figure 3.1. General Framework of OSeMOSYS-CR*
 
 \ :sup:`1` https://github.com/EPERLab/OSeMOSYS-CR
+
 \ :sup:`2` https://www.gnu.org/software/glpk/
