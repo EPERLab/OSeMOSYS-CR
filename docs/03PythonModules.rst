@@ -33,4 +33,4 @@ Figure 3.1 shows the general framework of how OSeMOSYS-CR works. In order to run
    
    *Figure 3.1. General Framework of OSeMOSYS-CR*
 
-1 https://www.gnu.org/software/glpk/
+\ :sup:`1` https://www.gnu.org/software/glpk/
