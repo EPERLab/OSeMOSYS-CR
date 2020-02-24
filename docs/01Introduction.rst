@@ -42,7 +42,7 @@ The discounted cost can be express as follows:
 
 .. math::
 
- ∀_{y,t,r}\ Total\ Discounted\ Cost_{y,t,r} =  Discounted\ Operational\ Cost_{y,t,r} +\\ Discounted\ Capital\ Investment_{y,t,r} + Discounted\ Technology\ Emmisions\ Penalty_{y,t,r} - \\ Discounted\ Salvage\ value_{y,t,r},
+ ∀_{y,t,r}\ Total\ Discounted\ Cost_{y,t,r}\ =  Discounted\ Operational\ Cost_{y,t,r} +\\ Discounted\ Capital\ Investment_{y,t,r} + Discounted\ Technology\ Emmisions\ Penalty_{y,t,r} - \\ Discounted\ Salvage\ value_{y,t,r},
 
 where: 
 
