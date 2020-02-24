@@ -32,3 +32,5 @@ Figure 3.1 shows the general framework of how OSeMOSYS-CR works. In order to run
    :width:   700 px
    
    *Figure 3.1. General Framework of OSeMOSYS-CR*
+
+O\ :sub:`2`.
