@@ -25,7 +25,7 @@ Running the model, generates the following files, all of them are store in 2_Sce
 
 * **Osemosys_data_Output_CODED:** is one of the output files of 2_run_model_mathprog.py. Contains the results of the scenario in a wide format csv file with coded names for the fuels, technologies and emissions of the model. 
 
-Figure 3.1 shows the general framework of how OSeMOSYS-CR works. In order to run the model, the [GLPK](https://www.gnu.org/software/glpk/) solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal.
+Figure 3.1 shows the general framework of how OSeMOSYS-CR works. In order to run the model, the [GLPK](https://www.gnu.org/software/glpk/) :ref:`GLPK <https://www.gnu.org/software/glpk/>` solver needs to be installed. 2_Scenarios_Outputs should be empty before running the model. 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 2_run_model_mathprog.py should be executed in Python from an external system terminal.
 
 .. figure::  img/Framework.PNG
    :align:   center
