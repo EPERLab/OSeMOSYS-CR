@@ -512,7 +512,7 @@ In this case, the data corresponding to the current vehicles is assumed equal to
 
 .. math::
 
-   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{New}\right)\mathrm{=CR\ data\ estimated}\mathrm{*}\mathrm{KTH}\mathrm{-}\mathrm{ETSAP\ proportion}\mathrm{=1.33\ }\mathrm{\ (MJ/km)}
+   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{New}\right)\mathrm{=CR\ data\ estimated}\mathrm{*}\mathrm{KTH}\mathrm{-}\mathrm{ETSAP\ proportion}\mathrm{ =1.33\ }\mathrm{\ (MJ/km)}
    
 As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
@@ -571,6 +571,22 @@ In order to understand the cost flow, that the model follows in order to satisfy
    
 In this example, we have two ways to satisfy 1 Gpkm: Electric and Fossil. We are no taking into account the depreciation for the example. The activity and capacity for the transport sector is the same, while for the electricity sector the Capacity-to-activity unit (31.536) is used.  A special attention must be paid in the units and their equivalents. The general, equation is: 
 
-**EQUATION**
+.. math::
+
+   TotalCost=\sum_{Techs}{\left(Capital\ cost+fixed\right)*\left[capacity\right]+\left(cost\ variable\ cost\right)*[activity]}
+   
+Electric way: 
+
+.. math::
+
+   Vehicle=\left(1200\ \frac{MUSD}{GPkm}\right)*\left[1GPkm\right]=1200\ MUSD
+   
+.. math::
+
+   Power\ -T\&D=\left(1200\ \frac{MUSD}{GW}\right)*\left[1GPkm*3\frac{PJ}{GPkm}*\frac{1}{\mathrm{31.536}}\frac{GW}{PJ}\right]=114\ MUSD
+   
+.. math::
+
+   Total\_electric=1200\ MUSD+114\ MUSD=1314\ MUSD
 
 In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
