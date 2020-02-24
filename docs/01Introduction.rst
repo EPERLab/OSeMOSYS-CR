@@ -42,11 +42,11 @@ The discounted cost can be express as follows:
 
 .. math::
 
- ∀_{y,t,r}\  Total\ discounted\ cost_{y,t,r}\  =  \\ Discounted\ operational\ cost_{y,t,r} + Discounted\ capital\ investment_{y,t,r} \\ + Discounted\ technology\ emmisions\ penalty_{y,t,r} - Discounted\ salvage\ value_{y,t,r},
+ ∀_{y,t,r}\  Total\ discounted\ cost_{y,t,r}\  =  \\ DOC_{y,t,r} + DCI_{y,t,r} \\ + DTEP_{y,t,r} - DSV_{y,t,r},
 
 where: 
 
-*	*Discounted Operational Cost:* Corresponds the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
-*	*Discounted Capital Investment:* It is the cost of investment of all technologies selected to supply energy on the whole period. 
-*	*Discounted Technology Emission Penalty:* It is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
-*	*Discounted Salvage Value:* As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
+*	*Discounted Operational Cost (DOC):* Corresponds the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
+*	*Discounted Capital Investment (DCI):* It is the cost of investment of all technologies selected to supply energy on the whole period. 
+*	*Discounted Technology Emission Penalty (DTEP):* It is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
+*	*Discounted Salvage Value (DSV):* As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
