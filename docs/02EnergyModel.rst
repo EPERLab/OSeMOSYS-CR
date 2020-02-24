@@ -588,5 +588,19 @@ Electric way:
 .. math::
 
    Total\_electric=1200\ MUSD+114\ MUSD=1314\ MUSD \\
+   
+Fossil Fuel way: 
+
+.. math::
+
+   Vehicle=\left(800\ \frac{MUSD}{GPkm}\right)*\left[1GPkm\right]=800\ MUSD \\
+   
+.. math::
+
+   Fuel=\left(2+11\frac{MUSD}{PJ}\right)*\left[1GPkm*3.5\frac{PJ}{GPkm}\right]=45.5\ MUSD\ \\
+   
+.. math::
+
+   Total\_fossil=1200\ MUSD+114\ MUSD=845\ MUSD \\
 
 In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
