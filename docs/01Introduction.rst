@@ -34,7 +34,7 @@ OSeMOSYS is an optimization software for long-term energy planning. It is an ope
 
 .. math::
 
-   Minimize \sum_{y,t,r}Total Discounted Cost_{y,t,r},
+   Minimize \sum_{y,t,r}Total\ Discounted\ Cost_{y,t,r},
    
 where: *y* corresponds to the year, *t* to the technology and *r* to the region. 
 
