@@ -506,8 +506,14 @@ The next example shows how to recalculate the efficiencies of two types of techn
 
 In this case, the data corresponding to the current vehicles is assumed equal to the national data. The data for new technologies is proportional to the relation estimated: 
 
-**EQUATION**
+.. math::
 
+   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{current}\right)\mathrm{=CR\ data\ estimated=2.42}
+
+.. math::
+
+   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{New}\right)\mathrm{=CR\ data\ estimated}\mathrm{*}\mathrm{KTH}\mathrm{-}\mathrm{ETSAP\ proportion=2.42}\mathrm{*}\mathrm{0.55=1.33\ }\mathrm{\ (MJ/km)}
+   
 As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
 **OutputActivityRatio[r,t,f,m,y]**
