@@ -42,7 +42,7 @@ The discounted cost can be express as follows:
 
 .. math::
 
- ∀_{y,t,r}\  Total\ discounted\ cost_{y,t,r}\  =  \\ DOC_{y,t,r} + DCI_{y,t,r} \\ + DTEP_{y,t,r} - DSV_{y,t,r},
+ ∀_{y,t,r}\  Total\ discounted\ cost_{y,t,r}\  =   DOC_{y,t,r} + DCI_{y,t,r}  + DTEP_{y,t,r} - DSV_{y,t,r},
 
 where: 
 
