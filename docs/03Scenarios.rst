@@ -5,7 +5,7 @@
 |Subsector  | Action                   | Description on modelling process                                                         |
 +===========+==========================+==========================================================================================+
 | Passenger | Mode shift: Demand in    | Mobility demand is an entry for the model. We use an S-curve to model a smooth           |
-| Transport |public and private sector | transition from private to public transport with a target by 2050. Load factors,         |
+| Transport | public and private sector| transition from private to public transport with a target by 2050. Load factors,         |
 |           |                          | distances, and efficiencies are similar to BAU. To estimate the costs of this process,   |
 |           |                          | we use coefficients linked to the level of activity and based on the urban planning      |
 |           |                          | studies developed in Costa Rica.                                                         |
