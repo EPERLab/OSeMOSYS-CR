@@ -51,8 +51,7 @@ napoleon_google_docstring = False
 napoleon_use_param = False
 napoleon_use_ivar = True
 
-imgmath_dvipng_args = ['-gamma', '1.5', '-D', '100', '-bg', 'Transparent']
-imgmath_font_size = 10
+imgmath_font_size = 12
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
