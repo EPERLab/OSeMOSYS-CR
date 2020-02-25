@@ -21,7 +21,7 @@ The Costa Rican team focuses on the development of an Energy System Optimization
 +++++++++
 
 Costa Rica is a Latin American country worldwide known for its environmental protection, political, social and economic stability, and renewable electricity generation. Despite these achievements, there are many challenges to tackle in the energy sector, especially when it concerns transportation. According to the 2016’s National Energy Balance [1], in the country’s energy mix, fossil fuels are
-the main energy source with an overwhelming 62.6%. From that share the transport sector accounts for 82.8% and at the same time correspondS to approximately 44 % of national Green House Gases (GHG) emissions [2].
+the main energy source with an overwhelming 62.6%. The transport sector accounts for 82.8% of the total fossiel fuel consumption and at the same time corresponds to approximately 44 % of national Green House Gases (GHG) emissions [2].
 
 The previously mentioned challenges are exacerbated by the international and national commitments that Costa Rica has acquired, such as its ambitious NDCs [3]. Therefore, it is crucial for the country to further transform the energy sector by reducing oil consumption through alternative sources, and create a more sustainable energy mix. In this context, the main purpose of the project is to develop an ESOM to characterize the transport and electricity sectors. The objective is to analyze the energy system in order to identify decarbonization pathways scenarios focusing on the transport sector through the examination of transport scenarios with different vectors of final energy demand. 
 
@@ -30,7 +30,7 @@ The produced ESOM will support policymakers in Costa Rica understanding the most
 1.3 The Open Source energy Modelling System (OSeMOSYS)
 +++++++++
 
-OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. the models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies. As shown in the following equation: 
+OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies. This is shown in the following equation: 
 
 .. math::
 
@@ -38,7 +38,7 @@ OSeMOSYS is an optimization software for long-term energy planning. It is an ope
    
 where: *y* corresponds to the year, *t* to the technology and *r* to the region. 
 
-The discounted cost can be express as follows: 
+The discounted cost can be expressed as follows: 
 
 .. math::
 
@@ -46,7 +46,7 @@ The discounted cost can be express as follows:
 
 where: 
 
-*	*DOC (Discounted Operational Cost):* Corresponds the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
+*	*DOC (Discounted Operational Cost):* Corresponds to the cost related to maintenance (fixed, usually associate to capacity) and operation of technologies (variable, linked to fuel uses and level of activity).  
 *	*DCI (Discounted Capital Investment):* It is the cost of investment of all technologies selected to supply energy on the whole period. 
 *	*DTEP (Discounted Technology Emission Penalty):* It is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
-*	*DSV (Discounted Salvage Value):* As the capital cost of the technologies is discounted during an operational life up to zero, if in the last year the technologies have life, the corresponding value is counted.
+*	*DSV (Discounted Salvage Value):* As the capital cost of the technologies is discounted in the first year the technology is acquired, if in the last year os study the technologies have remaining years of operational life, the corresponding value is counted.
