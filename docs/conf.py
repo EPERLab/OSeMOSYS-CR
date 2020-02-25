@@ -45,7 +45,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.napoleon']
     #'sphinxcontrib.bibtex'] # Agregado napoleon extension
     
-imgmath_font_size = 20
+
 
 #Agregado
 napoleon_google_docstring = False
