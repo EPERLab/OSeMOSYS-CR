@@ -191,3 +191,5 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 def setup(app):
     app.add_stylesheet('theme_overrides.css')
+
+imgmath_font_size = 20
