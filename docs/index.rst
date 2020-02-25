@@ -13,7 +13,8 @@ The OSeMOSYS – CR model
    00Abreviations
    01Introduction
    02EnergyModel
-   03PythonModules
+   03Scenarios
+   04PythonModules
    99refs
    999Annexes
 
