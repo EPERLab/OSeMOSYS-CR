@@ -44,6 +44,8 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon']
     #'sphinxcontrib.bibtex'] # Agregado napoleon extension
+    
+imgmath_font_size = 20
 
 #Agregado
 napoleon_google_docstring = False
@@ -191,5 +193,3 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 def setup(app):
     app.add_stylesheet('theme_overrides.css')
-
-imgmath_font_size = 20
