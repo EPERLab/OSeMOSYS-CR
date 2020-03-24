@@ -10,7 +10,7 @@ The energy balance is the most important source of data for the energy model of 
 
 In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending of energy consumption by sector presented in Figure 2.1. 
 
-.. figure:: img/Fig_CREnergyConsumption.png
+.. figure:: img/Fig_HistoricalEnergyConsumption.png
    :align:   center
    :width:   700 px
    
