@@ -8,7 +8,7 @@ This documentation has been structured to provide an overview of the energy sect
 
 The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center of Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. 
 
-In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending of energy consumption by sector presented in Figure 2.1.
+In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending of energy consumption by sector presented in Figure 2.1. 
 
 .. figure:: img/Fig_CREnergyConsumption.png
    :align:   center
