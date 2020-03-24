@@ -12,7 +12,7 @@ In Costa Rica, the fossil fuels are completely imported, and the electricity is 
 
 .. figure:: img/Fig_HistoricalEnergyConsumption.png
    :align:   center
-   :width:   700 px
+   :width:   650 px
    
    *Figure 2.1: Energy consumption in Costa Rica, 2016*
 
