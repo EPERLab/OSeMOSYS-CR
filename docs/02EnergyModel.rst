@@ -29,8 +29,8 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions options. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 2.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
-.. figure::
-   *Table 2.1: Main data sources used in OSeMOSYS-CR.*
+:align: center
+*Table 2.1: Main data sources used in OSeMOSYS-CR.*
 
 .. table:: 
    :align:   center
