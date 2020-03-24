@@ -29,7 +29,6 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions options. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 2.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
-
 *Table 2.1: Main data sources used in OSeMOSYS-CR.*
 
 .. table:: 
@@ -102,30 +101,30 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 2.3 Sets 
 +++++++++
 
-The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.), the group of sets include: years, fuels, technologies, emissions and modes of operation. Each parameter, as it going to be further explained, is dependent of one or more sets. This subsections presents the sets composing the current version of OSeMOSYS-CR.  
+The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. The sets, as it going to be further explained, are characterized through parameters. This subsections presents the sets that compose the current version of OSeMOSYS-CR.  
 
 2.3.1 Year
 ---------
 
-This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2018 to 2050. 
+This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical data. 
 
 2.3.2 Fuels
 ---------
 
-Figure 2.4 shows the different levels and transformations that the fuels go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
+Figure 2.3 shows the different levels and transformations that the fuels (i.e. commodities) go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
 
 .. figure:: img/Fuels.png
    :align:   center
    :width:   700 px
 
-   *Figure 2.4: Simple diagram for fuel specification.*
+   *Figure 2.3: Simple diagram for fuel specification.*
 
-Table 2.2 presents a synthesis of the included groups of commodities, including a brief description and examples. 
+Table 2.2 presents a synthesis of the groups of commodities, including a brief description and examples. 
+
+*Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.*
 
 .. table:: 
    :align:   center
-
-   *Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.*
    
 +-------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group | Descriptions                             | Examples                                                                      |
@@ -154,28 +153,28 @@ See Annex for the whole list of fuels.
 2.3.3 Technologies
 ---------
 
-Different types of technologies are included in the model in order to establish the current supply chain and substitution possibilities. Figure 2.5 shows the different levels and transformation of technologies. 
+Different types of technologies are included in the model in order to represent the current supply chain and substitution possibilities. Figure 2.4 shows the different levels and transformation of technologies. 
 
 .. figure:: img/Techs.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.5: Simple diagram for technologies specification.*
+   *Figure 2.4: Simple diagram for technologies specification.*
   
 The groups of technolgies contemplated in OSeMOSYS-CR are described below:  
 
 *	The first groups (ES, BL and DIST) are specially designed to model fossil fuels imports, production of biofuels, and the blend and distribution of them, considering the current pipe system for gasoline and diesel. 
 *	The second group of blocks corresponds to the electric power system (PP and TD), that is mainly connected to renewable primary sources. 
-*	The third level corresponds to civil infrastructure for mobility: TI and intermedia technologies for controlling the systems and divide the supply chains regarding fuels and technologies. 
+*	The third level corresponds to civil infrastructure for mobility: TI and intermediate technologies for controlling the systems and divide the supply chains regarding fuels and technologies. 
 *	TR technologies are dedicate to transport modelling and include blocks to study the modal shift. 
 *	ED connects primary sources and demands that are not subject to the optimization process, but have CO2e contributions.   
 
 Table 2.3 presents a synthesis of groups of technologies, including a brief description and examples. 
 
+*Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.*
+
 .. table:: 
    :align:   center
-
-   *Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.*
 
 +-----------+------------------------------------------+-------------------------------------------------------------------------------+
 | Group     | Descriptions                             | Examples                                                                      |
@@ -200,13 +199,13 @@ See Annex for the whole list of processes.
 2.3.4 Emissions
 ---------
 
-Table 2.4 shows a description of emissions included in the model. In general, for GHG the values are in terms of equivalent carbon dioxide (CO2e). 
+Table 2.4 shows a description of the emissions included in the model. In general, for GHG the values are in terms of equivalent carbon dioxide (CO2e). 
+
+*Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.*
 
 .. table:: 
    :align:   center
-
-   *Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.*
-
+   
 +-----------+------------------------------------------+
 | Code      | Name                                     |                                                                 
 +===========+==========================================+
@@ -230,7 +229,7 @@ Table 2.4 shows a description of emissions included in the model. In general, fo
 2.3.5 Mode of operation
 ---------
     
-The model has one mode of operation, Mode 1, for representing the normal operation of the system and the current structure.
+The model has one mode of operation, Mode 1, for representing the normal operation of the system.
   
 2.4 Parameters
 +++++++++
