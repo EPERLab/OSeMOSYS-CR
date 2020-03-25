@@ -324,13 +324,13 @@ Therefore:
 
    {TD\_LD}_{GSL}=\left[21.88\ PJ*0.56\right]\ *\left[\frac{14773\ km*611324\ V}{21.88\ PJ}\right]*\left[\frac{1.5\ P}{V}\right]=13.5\ Gpkm
 
-This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.8. 
+This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.6. 
 
-.. figure::  img/PassengerCargoDemands.png
+.. figure::  img/Fig_TransportDemands.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.8: Forecasting demands introduce to the model.* 
+   *Figure 2.6: Forecasting demands introduce to the model.* 
 
 The demands are introduced in two different parameters: 
 
