@@ -361,46 +361,13 @@ For other sectors, we assume a default value equal to 1, as the calculation is r
 
 **CapacityFactor[r,t,l,y]**
 
-The capacity factor is specially used for representing electricity generation. In this case, the historical data from 2011 to 2017 was the base to define the average value by season for every group of plants. In general, the calculation followed the next equation:
-
-.. math::
-
-   {Cf}_{season}=\frac{\sum_{season,year}{\left(electricity\ generated\right)}}{\left(hour\ by\ season\right)*(Nominal\ capacity)}
-
-Figure 12 shows the historical values of capacity factors. For solar and wind power plants another possibility is to use some tools like renewable ninja (see figure 13). The average values are very similar to the operational data registered. 
+The capacity factor is specially used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 12 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. The average values are very similar to the operational data registered. 
 
 .. figure::  img/CapacityFactorPP.png
    :align:   center
    :width:   700 px
     
    *Figure 2.9: Historical capacity factor for plants by season.* 
-   
-A special assumption was made for photovoltaic systems, taking into consideration a standard curve for Costa Rica and the average capacity factor previously calculated. In this case, the average of the operation hours corresponds to the season value. Table 2.5 shows a synthesis of the data used in the OSeMOSYS-CR model. For the rest of the power plants that are not included in the table, the capacity factor in both seasons is proportional to the lenght of each timeslice.
-
-*Table 2.5: Capacity factor used in OSeMOSYS model for power plant.*
-
-.. table:: 
-   :align:   center
-   
-+-------------------+--------------------+
-| Power Plants      |     Timeslice      |
-+                   +----------+---------+
-|                   |   Rain   |   Dry   |
-+===================+==========+=========+
-| Hydro-dam plant   | 0.54     | 0.48    |
-+-------------------+----------+---------+
-| Hydro power plant | 0.45     | 0.50    |
-+-------------------+----------+---------+
-| Geothermal plants | 0.73     | 0.74    |
-+-------------------+----------+---------+
-| Wind power plants | 0.30     | 0.58    |
-+-------------------+----------+---------+
-| Solar plants      | 0.11     | 0.17    |
-+-------------------+----------+---------+
-| Biomass plants    | 0.03     | 0.49    |
-+-------------------+----------+---------+
-
-As Costa Rica reach an average of 98.5% of renewable generation, thermal plants were no included into this analysis. In this case, an operation constrain fixes the behavior of these technologies.  
 
 **AvailabilityFactor[r,t,y]**
 
