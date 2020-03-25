@@ -228,6 +228,12 @@ Table 2.4 shows a description of the emissions included in the model. In general
 | CO2_LightCargo  | Carbon Dioxide from light cargo            |                                                                         
 +-----------------+--------------------------------------------+
 
+In addition, with this set the model incorporates additional benefits resulting from the implementation of mitigation policies in the energy sector. These are:
+
+* Health improvements of the population as a result of a reduction in GHG emissions.
+* Reduction of congestion, which leads to an increase in the country's productivity.
+* Reduction of accidents on the national roads.
+
 2.3.5 Mode of operation
 ---------
     
