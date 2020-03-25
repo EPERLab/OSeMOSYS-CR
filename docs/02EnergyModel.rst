@@ -371,7 +371,7 @@ The capacity factor is specially used for representing electricity generation. I
 
 **AvailabilityFactor[r,t,y]**
 
-This value corresponds to the entire time that technologies are available. OSeMOSYS-CR uses 0.9 for power plants (assuming a 0.1 portion of the time for maintenance works and reliability). For the transport sector, the model uses 1, since the vehicle fleet and modes of mobility are distributed in the whole region and a combination of modes can be used.
+This value corresponds to the time that each technologies is available. OSeMOSYS-CR uses 0.9 for power plants (assuming a 0.1 portion of the time for maintenance works and reliability). For the transport sector, the model uses 1, since the vehicle fleet and modes of mobility are distributed in the whole region and a combination of modes can be used.
 
 **Operational life[r,t]**
 
