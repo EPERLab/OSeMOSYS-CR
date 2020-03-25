@@ -506,7 +506,7 @@ As the relation between distance and energy consumption is a control variable th
 
 **OutputActivityRatio[r,t,f,m,y]**
 
-This parameter works together alongside with the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton in OSeMOSYS-CR, is to connect the structure of the model.   
+This parameter works together alongside with the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton in OSeMOSYS-CR is to connect the structure of the model.   
 
 2.4.3 Capacity
 ---------
