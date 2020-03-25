@@ -277,7 +277,7 @@ This forecasting model gives good approximations of the data registered by insti
    
    *Figure 2.5: Forecasting demands introduce to the model.* 
    
-In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
+In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. Using this variable allows to have a systematic monitoring of the supply chain. Another crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
 .. math::
    
