@@ -269,22 +269,13 @@ Simple delays:
 
 where *ϕ* corresponds to operators, *μ* is the media  of *ϕ*, *θ* is a coefficient, and *s* is a stational component. 
 
+This forecasting model gives good approximations of the data registered by institutions. The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by each sector are the same on the base year. Figure 2.5 shows the general results of the projections and general annual demands.
 
-This forecasting model gives good approximations of the data registered by institutions. Figure 2.6 shows a comparison between the trajectories obtain with the model for the electricity demand, and data registered by the Costa Rican Institute of Electricity (ICE), between 2011 and 2016, where the average error is approximately 1%. In the worst case it is 4%.   
-
-.. figure::  img/DemandsProjections.png
+.. figure::  img/ProjectedDemandsBySector.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.6: Comparison between of ARIMA electricity forecasting and historical data.* 
-
-The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by each sector are the same on the base year. Figure 2.7 shows the general results of the projections and general annual demands.
-
-.. figure::  img/DemandsBySector.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2.7: Forecasting demands introduce to the model.* 
+   *Figure 2.5: Forecasting demands introduce to the model.* 
    
 In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. The employment of this variable allows to have a systematic monitoring of the supply chain. Other crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
