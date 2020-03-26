@@ -467,9 +467,9 @@ This parameter works together alongside with the InputActivityRatio. Since the e
 
 The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
 
-* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2015 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for the base year.
+* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for the base year.
 
-.. figure::  img/ResidualCapacity.png
+.. figure::  img/InstalledCapacity2018.png
    :align:   center
    :width:   700 px
    
