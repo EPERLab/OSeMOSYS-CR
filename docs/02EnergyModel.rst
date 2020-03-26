@@ -361,7 +361,7 @@ For other sectors, we assume a default value equal to 1, as the calculation is r
 
 **CapacityFactor[r,t,l,y]**
 
-The capacity factor is specially used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 2.7 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. The average values are very similar to the operational data registered. 
+The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 2.7 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
 
 .. figure::  img/CapacityFactor2015.png
    :align:   center
@@ -371,13 +371,13 @@ The capacity factor is specially used for representing electricity generation. I
 
 **AvailabilityFactor[r,t,y]**
 
-This value corresponds to the time that each technologies is available. OSeMOSYS-CR uses 0.9 for power plants (assuming a 0.1 portion of the time for maintenance works and reliability). For the transport sector, the model uses 1, since the vehicle fleet and modes of mobility are distributed in the whole region and a combination of modes can be used.
+This value corresponds to the time that each technologies is available. OSeMOSYS-CR uses 0.9 for power plants (assuming a 0.1 portion of the time for maintenance works and reliability). For the transport sector, the model uses 1, since the vehicle fleet and the modes of mobility are distributed in the whole region and a combination of them can be used.
 
 **Operational life[r,t]**
 
-For this parameter, the model employs a set of values used by KTH. In general, the most important investments possess an operational life greater than the period of analysis. Table 2.5 shows the data used in the model. 
+For this parameter, the model employs a set of values used by KTH. In general, the most important investments have an operational life greater than the period of analysis. Table 2.5 shows the data used in the model. 
 
-*Table 2.5: Summary of Operational lifes used in the model, by categories.*
+*Table 2.5: Summary of operational lifes used in the model.*
 
 .. table:: 
    :align:   center
@@ -408,9 +408,9 @@ For this parameter, the model employs a set of values used by KTH. In general, t
 
 **InputActivityRatio[r,t,f,m,y]**
 
-This value is fundamental to build the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the Output Activity Ratio is 1). 
+This value is key for building the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the Output Activity Ratio parameter is 1). 
 
-* Electricity sector: Most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, values proportional to losses (4% and 6%) were introduced. Table 2.6 shows the data used in OSeMOSYS-CR.
+In the case of the electricity sector, most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, values proportional to losses (4% and 6%) were introduced. Table 2.6 shows the data used in OSeMOSYS-CR.
 
 *Table 2.6: Summary of input activity ratio for electric sector.*
 
@@ -431,20 +431,15 @@ This value is fundamental to build the structure of model, since it connects the
 | Electricity from transmission  | Distribution grid    | 1.060   |
 +--------------------------------+----------------------+---------+
 
-* Transport sector: This value corresponds to the relation between the energy consumption (J) by technologies and the demand (vkm, pkm or tkm). As a first reference, values taken by organizations such as ETSAP or manufactures are considered, alongside with the national data. Regarding Costa Rican data, the requirements are: the energy consumption, fleet and annual average distance by category. The efficiency can be expressed as MJ/km, or MJ/pkm if the load factor (i.e. number of passagers per vehicle) is included. The importance of these variables are described as follow:
+For the transport sector, the input activity ratio corresponds to the relation between the energy consumption (in Joules) by technologies and the demand (in vkm, pkm or tkm). As a first reference, values taken by organizations such as ETSAP or manufactures are considered. Regarding Costa Rican data, the requirements are: energy consumption by the transport sector, number of vehicles in the fleet and annual average distance by category. The efficiency can be expressed as MJ/km, or MJ/pkm if the load factor (i.e. number of passagers, *p*, per vehicle) is included. The importance of using the load factor is that it eases the incorporation of modal change by unifying the demand.
 
-* The Energy and the average annual kilometer travelled: The potential of using these values consists in defining two systematic control variables to quantify the demand. 
-* Load Factor: This value ease the incorporation of modal change by unifying the demand.
-
-The general equation is: 
+The general equation for calculating the input activity ratio in passenger transportation tecnologies in OSeMOSYS-CR is: 
 
 .. math::
 
    {\varepsilon}_{CR}={\left(\frac{Energy}{Fleet*distance}\right)}^{-1}\left(\frac{km}{MJ}\right) = {\left(\frac{Energy}{Fleet*distance*passenger}\right)}^{-1}\left(\frac{pkm}{MJ}\right)
 
-In the model, the input activity ratio is used in MJ/km for each individual transport technology. The demand is included in the relation between “TR” and “modes” (see figure 2.4) and the demands.  As this rate concentrates the efficiency of the transport system and the vehicle fleet, it is used to calibrate the model. The procedure consists of using the estimation based on the national relation and the proportion provide by one reliable source (in this cases, a data set provided by KTH based on ETSAP). 
-
-The next example shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the same example of gasoline light duty vehicles. Table 2.7 presents the reference data and the results of the recalculation.
+The next example, Table 2.6, shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the example of gasoline light duty vehicles. The procedure consists of using the estimation based on the national relation and the proportion provided by one reliable source (in this cases, a data set by the KTH based on ETSAP). 
 
 *Table 2.6: . Recalculation of the input activity ratio .*
 
@@ -459,17 +454,7 @@ The next example shows how to recalculate the efficiencies of two types of techn
 | LDV_GSL (New)     | 2.06              | 0.550                  |                               | 1.33                 |
 +-------------------+-------------------+------------------------+-------------------------------+----------------------+
 
-In this case, the data corresponding to the current vehicles is assumed equal to the national data. The data for new technologies is proportional to the relation estimated: 
-
-.. math::
-
-   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{current}\right)\mathrm{=CR\ data\ estimated=2.42}
-
-.. math::
-
-   {\mathrm{LDV}}_{\mathrm{GSL}}\left(\mathrm{New}\right)\mathrm{=CR\ data\ estimated}\mathrm{*}\mathrm{KTH}\mathrm{-}\mathrm{ETSAP\ proportion}\mathrm{ =1.33\ }\mathrm{\ (MJ/km)}
-   
-As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
+In this case, the data corresponding to the current vehicles is assumed equal to the national data. The data for new technologies is proportional to the relation estimated. As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
 **OutputActivityRatio[r,t,f,m,y]**
 
@@ -482,7 +467,7 @@ This parameter works together alongside with the InputActivityRatio. Since the e
 
 The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
 
-* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the capacity in 2015 is kept constant through all the period of analysis. Figure 2.10 shows the reference values for the base year and the evolution until 2018
+* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2015 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for the base year.
 
 .. figure::  img/ResidualCapacity.png
    :align:   center
