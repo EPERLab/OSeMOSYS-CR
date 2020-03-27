@@ -107,7 +107,7 @@ Costa Rica regularly has 5 months of dry season, and 6 months of rainy season, w
 .. table:: 
    :align:   center
 +--------------+------------------+
-| Timeslice    | Year spli value  |                                              
+| Timeslice    | Year split value |                                              
 +==============+==================+
 | DRY          |      0.42        |
 +--------------+------------------+
@@ -116,8 +116,6 @@ Costa Rica regularly has 5 months of dry season, and 6 months of rainy season, w
 
 3.3 Demands
 +++++++++
-
-**Demands:**
 
 Based on the historical data of the energy balance, the demand projections were developed by using ARIMA models. These models are one of the most widely used approaches for time series forecasting. They correspond to simple univariate models focused on the long trend trajectory of the different time series. Their general structure is shown below:
 
@@ -139,13 +137,13 @@ Simple delays:
 
 where *ϕ* corresponds to operators, *μ* is the media  of *ϕ*, *θ* is a coefficient, and *s* is a stational component. 
 
-This forecasting model gives good approximations of the data registered by institutions. The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by each sector are the same on the base year. Figure 2.5 shows the general results of the projections and general annual demands.
+This forecasting model gives good approximations of the data registered by institutions. The estimation begins with the analysis and forecasting of the time series corresponding to the primary sources. With these long term values, a specific trend is fixed by using the shares defined in the base year. A Hierarchical process was develop considering that the shares by each sector are the same on the base year. Figure 3.2 shows the general results of the projections and general annual demands.
 
 .. figure::  img/Fig_ProjectedDemandsBySector.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.5: Forecasting demands introduce to the model.* 
+   *Figure 3.2: Forecasting demands introduce to the model.* 
    
 In order to estimate the demands of the transport sector, an additional calculation is required, but the previously projections of energy consumption for transport (by fuel) are used as base. Using this variable allows to have a systematic monitoring of the supply chain. Another crucial variable is the relation between energy consumption and the annual average distance travelled by each group of technologies. The general equations for the estimation are shown below:
 
@@ -194,60 +192,69 @@ Therefore:
 
    {TD\_LD}_{GSL}=\left[21.88\ PJ*0.56\right]\ *\left[\frac{14773\ km*611324\ V}{21.88\ PJ}\right]*\left[\frac{1.5\ P}{V}\right]=13.5\ Gpkm
 
-This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 2.6. 
+This similar process was developed for every transport technology during all the years included in the analysis. In the process, the energy consumption changes according to the projection. The final calculation of the demands is presented in the figure 3.3. 
 
 .. figure::  img/Fig_TransportDemands.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.6: Forecasting demands introduce to the model.* 
+   *Figure 3.3: Forecasting demands introduce to the model.* 
 
 The demands are introduced in two different parameters: 
 
 * Specified Annual Demand and Specified Demand Profile. 
 * Or we used the Accumulated Annual Demand, when the data corresponding to the profiles was unavailable. 
 
-**SpecifiedAnnualDemand[r,f,y] and SpecifiedDemandProfile[r,f,l,y]**
+3.3.1 Specified Annual Demand
+---------
+According to the procedure explained above, this is used for the electricity and transport sectors. It contains the total annual demand.
 
-This parameter is used for the electricity and transport sectors, where the Specified Annual Demand contains the total annual demand, and the Specified Demand Profile represents the way this demand is distributed throughout the time slices. 
+3.3.2 Specified Annual Demand
+---------
+According to the procedure explained above, this is used for the electricity and transport sectors. It represents the way this demand is distributed throughout the time slices. In OSeMOSYS-CR, this distribution is incorporated proportional to the duration of each time slice (i.e. 0.42 and 0.58 for dry and rainy season, respectively). 
 
-**AcummulatedAnnualDemand[r,f,y]**
+3.3.3 Acummulated Annual Demand
+---------
 
-For the current model, the energy consumption -different to electricity and transport- is assumed constant throughout the years. It is similar to introduce the values in the specified annual demand and replicate the *year split* for each fuel into the specified demand profile. The next demands are introduced in this parameter:
+For the current model, the energy demands -different to electricity and transport- are assumed as constant throughout the years. The next demands are introduced in this parameter:
  
 *	Industrial: Diesel, Fuel oil, Firewood, LPG, Biomass, and Petroleum coke.
 *	Commerce: Firewood, and LPG.
 *	Agriculture: Diesel.
 *	Residential: Firewood, and LPG.
 
-2.4.2 Performance
----------
+3.4 Performance
++++++++++
 
-**CapacityToActivityUnit[r,t]**
+3.4.1 Capacity To Activity Unit
+---------
 
 This parameter allows to relate the capacity and activity level of the technologies. For this model, this parameter is used to introduce the relation between power and energy of the electricity sector. Therefore, we convert the GWh to PJ, understanding that if 1 GW is constant throughout the year, the corresponding energy is 31,536 PJ
 
 For other sectors, we assume a default value equal to 1, as the calculation is related only to energy.
 
-**CapacityFactor[r,t,l,y]**
+3.4.2 Capacity Factor
+---------
 
-The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 2.7 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
+The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 3.4 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
 
 .. figure::  img/CapacityFactor2015.png
    :align:   center
    :width:   700 px
     
-   *Figure 2.7: Capacity factor for plants.* 
-
-**AvailabilityFactor[r,t,y]**
+   *Figure 3.4: Capacity factor for plants.* 
+   
+3.4.3 Availability Factor
+---------
 
 This value corresponds to the time that each technologies is available. OSeMOSYS-CR uses 0.9 for power plants (assuming a 0.1 portion of the time for maintenance works and reliability). For the transport sector, the model uses 1, since the vehicle fleet and the modes of mobility are distributed in the whole region and a combination of them can be used.
 
-**Operational life[r,t]**
+3.4.3 Operational Life
+---------
 
-For this parameter, the model employs a set of values used by KTH. In general, the most important investments have an operational life greater than the period of analysis. Table 2.5 shows the data used in the model. 
+For this parameter, the model employs a set of values used by KTH. In general, the most important investments have an operational life greater than the period of analysis. Table 3.3 shows the data used in the model. 
 
-*Table 2.5: Summary of operational lifes used in the model.*
+*Table 3.3: Summary of operational lifes used in the model.*
 
 .. table:: 
    :align:   center
@@ -276,13 +283,34 @@ For this parameter, the model employs a set of values used by KTH. In general, t
 | Thermal             | 25    | Trucks              | 15/12 |                     |       |
 +---------------------+-------+---------------------+-------+---------------------+-------+
 
-**InputActivityRatio[r,t,f,m,y]**
+3.4.4 Residual Capacity
+---------
+
+The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
+
+* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 3.5 shows the reference values for 2018.
+
+.. figure::  img/InstalledCapacity2018.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 3.5: Installed capacity in the Costa Rican power system (based on CENCE).* 
+   
+* Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 3.6 presents how the capacity of the current fleet is reduced over the years.   
+
+.. figure::  img/ResidualCapacityT.png
+   :align:   center
+   
+   *Figure 3.6: Residual capacities by sector.* 
+
+3.4.5 Input Activity Ratio
+---------
 
 This value is key for building the structure of model, since it connects the fuels and technologies (i.e. it represents all the inputs each technology needs). Usually, it is referred as the inverse of the efficiency of the process (if the Output Activity Ratio parameter is 1). 
 
-In the case of the electricity sector, most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, values proportional to losses (4% and 6%) were introduced. Table 2.6 shows the data used in OSeMOSYS-CR.
+In the case of the electricity sector, most part of the power plants are connected to renewable sources. Therefore it has been assumed a relation 1:1. With the exception of thermal plants, that are directly dependent of their variable cost (i.e. fuel). For the transmission and distribution grid, values proportional to losses (4% and 6%) were introduced. Table 3.4 shows the data used in OSeMOSYS-CR.
 
-*Table 2.6: Summary of input activity ratio for electric sector.*
+*Table 3.4: Summary of input activity ratio for electric sector.*
 
 .. table:: 
    :align:   center
@@ -309,9 +337,9 @@ The general equation for calculating the input activity ratio in passenger trans
 
    {\varepsilon}_{CR}={\left(\frac{Energy}{Fleet*distance}\right)}^{-1}\left(\frac{km}{MJ}\right) = {\left(\frac{Energy}{Fleet*distance*passenger}\right)}^{-1}\left(\frac{pkm}{MJ}\right)
 
-The next example, Table 2.6, shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the example of gasoline light duty vehicles. The procedure consists of using the estimation based on the national relation and the proportion provided by one reliable source (in this cases, a data set by the KTH based on ETSAP). 
+The next example, Table 3.5, shows how to recalculate the efficiencies of two types of technologies: current and new technologies. Here, we use the example of gasoline light duty vehicles. The procedure consists of using the estimation based on the national relation and the proportion provided by one reliable source (in this cases, a data set by the KTH based on ETSAP). 
 
-*Table 2.6: . Recalculation of the input activity ratio .*
+*Table 3.5: . Recalculation of the input activity ratio .*
 
 .. table:: 
    :align:   center
@@ -326,50 +354,29 @@ The next example, Table 2.6, shows how to recalculate the efficiencies of two ty
 
 In this case, the data corresponding to the current vehicles is assumed equal to the national data. The data for new technologies is proportional to the relation estimated. As the relation between distance and energy consumption is a control variable that combines the efficiency of technologies and the road system, the value will be kept constant. This is done considering that the efficiency of the technologies will improve, while the conditions of the system will decrease. 
 
-**OutputActivityRatio[r,t,f,m,y]**
+3.4.5 Output Activity Ratio
+---------
 
 This parameter works together alongside with the InputActivityRatio. Since the efficiency is stablished in the input, the OutputActivityRatio value is always 1. Therefore, its funciton in OSeMOSYS-CR is to connect the structure of the model.   
 
-2.4.3 Capacity
----------
+3.5 Technology costs
++++++++++
 
-**ResidualCapacity[r,t,y]**
-
-The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
-
-* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for 2018.
-
-.. figure::  img/InstalledCapacity2018.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2.8: Installed capacity in the Costa Rican power system (based on CENCE).* 
-   
-* Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 2.9 presents how the capacity of the current fleet is reduced over the years.   
-
-.. figure::  img/ResidualCapacityT.png
-   :align:   center
-   
-   *Figure 2.9: Residual capacities by sector.* 
-
-2.4.3 Cost
----------
-
-Figure 2.13 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used for each group of technologies.  
+Figure 3.7 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used for each group of technologies.  
 
 .. figure::  img/costs.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.12: Cost chains of OSeMOSYS-CR.* 
+   *Figure 3.7: Cost chains of OSeMOSYS-CR.* 
    
-In order to understand the cost flow, that the model follows in order to satisfy a specific demand, a brief example is presented in Figure 2.13. The figure includes the relation between the electric grid, the pipe system and the vehicles for one year. 
+In order to understand the cost flow, that the model follows in order to satisfy a specific demand, a brief example is presented in Figure 3.8. The figure includes the relation between the electric grid, the pipe system and the vehicles for one year. 
 
 .. figure::  img/cost_example.png
    :align:   center
    :width:   700 px
    
-   *Figure 2.12: Brief example of the cost chain of the model.* 
+   *Figure 3.8: Brief example of the cost chain of the model.* 
    
 In this example, we have two ways to satisfy 1 Gpkm: Electric and Fossil. We are no taking into account the depreciation for the example. The activity and capacity for the transport sector is the same, while for the electricity sector the Capacity-to-activity unit (31.536) is used.  A special attention must be paid in the units and their equivalents. The general, equation is: 
 
@@ -407,10 +414,26 @@ Fossil Fuel way:
 
 In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
 
-**CapitalCost[r,t,y]**
+3.5.1 Capital Cost
+---------
 
 Transport sector: 
 
 .. math:: 
 
    Capital\ cost=cost\ of\ vehicle\ \left(\frac{USD}{vehicle}\right)/effiecency\left(\frac{km}{year}\right)/LF\left(\frac{Passenger}{vehicle}\right)
+   
+3.5.2 Fixed Cost
+---------
+
+3.5.3 Variable Cost
+---------
+
+3.6 Emissions
++++++++++
+
+3.6.1 Emission Activity Ratio
+---------
+
+3.6.2 Emission Penalty
+---------
