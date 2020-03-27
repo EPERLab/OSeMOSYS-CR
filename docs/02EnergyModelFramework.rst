@@ -160,5 +160,5 @@ The model has one mode of operation, Mode 1, for representing the normal operati
 2.2.6 Region
 ---------
     
-The model has a nationwide scope, therefore only has one region: Costa Rica. 
+The model has a nationwide scope, therefore it only has one region: Costa Rica (CR). 
   
