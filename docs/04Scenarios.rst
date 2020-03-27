@@ -33,14 +33,14 @@ The following sections describe how the considerations in Figure 2.1 were introd
 
 * Demand absorbed by TELCA and Logistic: The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same procedure as TELCA, but with 2022 and 2030 as transition years. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050                                 
 
-*Use of LPG: Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
+* Use of LPG: Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
 
-*Low carbon technologies: Similar to the above related to uncertainty, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint.                                  
+* Low carbon technologies: Similar to the above related to uncertainty, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint.                                  
 4.3 Electricity and fossil fuels
 +++++++++
 
-*Blend with biofuels: A specific process in the model makes the volumetric mixture of biofuels and fossil fuels, defining percentages of activities. For these cases, it establishes a linear level of activity from 0 to 8% for ethanol and 0 to 10% for biodiesel, between 2022 and 2050. This consideration responds to the uncertainty linked to biofuel imports and productions. At this time, we consider only importations and comparable prices with fossil fuels.
+* Blend with biofuels: A specific process in the model makes the volumetric mixture of biofuels and fossil fuels, defining percentages of activities. For these cases, it establishes a linear level of activity from 0 to 8% for ethanol and 0 to 10% for biodiesel, between 2022 and 2050. This consideration responds to the uncertainty linked to biofuel imports and productions. At this time, we consider only importations and comparable prices with fossil fuels.
 
-*Renewable electricity: The assumption limits the operation of thermal power plants from 2.5% to 0% between 2022 and 2050.  
+* Renewable electricity: The assumption limits the operation of thermal power plants from 2.5% to 0% between 2022 and 2050.  
 
-*Efficiency: It is assumed a linear reduction of demands from 0% to 10% between 2022 and 2050 as a response to the increased efficiency in the energy sector. 
+* Efficiency: It is assumed a linear reduction of demands from 0% to 10% between 2022 and 2050 as a response to the increased efficiency in the energy sector. 
