@@ -1,5 +1,5 @@
 4. Energy model: Scenario building
-=====================
+=======================================
 
 OSeMOSYS-CR started by estimating a base case, and subsequently, including the effect of a set of policies defined by stakeholders in two levels of decarbonization. This exercise allowed the creation of three different scenarios: 
 
@@ -30,6 +30,7 @@ The 2°C and 1.5°C scenarios consider that the social and economic situation de
 
  4.2 Cargo Transport
 +++++++++
+
 * Demand absorbed by TELCA and Logistic: The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same procedure as TELCA, but with 2022 and 2030 as transition years. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050                                 
 
 *Use of LPG: Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
