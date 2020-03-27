@@ -1,35 +1,29 @@
-2. Energy model 
+3. Energy model: Database
 =======================================
+This section presents the main databases explored for building OSeMOSYS-CR, and the way the information was processed in order to introduce it to the model. 
 
-This documentation has been structured to provide an overview of the energy sector in Costa Rica, to present the model structure, and to give a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building.   
-
-2.1 Energy balance of Costa Rica
+3.1 Main data sources
 +++++++++
 
-The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center of Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. 
+3.1.1 Energy balance of Costa Rica
+---------
 
-In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. The historical trending of energy consumption by sector presented in Figure 2.1. 
+The energy balance is the most important source of data for the energy model of OSeMOSYS-CR, which is prepared by the Secretariat of Planning of the Energy Subsector (SEPSE). The analysis gathers and processes data from institutions such as the Costa Rica Institute of Electricity (ICE), the Costa Rican Petroleum Refinery (RECOPE) and the National Center of Energy Control (CENCE). The information is usually presented annually with excel books and a SANKEY diagram. In Costa Rica, the fossil fuels are completely imported, and the electricity is generated almost completely with renewable sources. 
+
+Figure 3.1 presents the historical trending of energy consumption by sector. 
 
 .. figure:: img/Fig_HistoricalEnergyConsumption.png
    :align:   center
    :width:   600 px
    
-   *Figure 2.1: Energy consumption in Costa Rica, 2016*
+   *Figure 3.1: Historical energy consumption by sector in Costa Rica*
 
-2.2 General model structure 
-+++++++++
+3.1.2 Other key databases 
+---------
 
-The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the transport and electricity sectors are subject to linear optimization, other smaller demands, such as the firewood used in the residential sector or the coke consumption by industries, are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 2.2. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed into different demands including industrial, residential and commercial requirements, and the transport of passengers (public and private) and cargo (light and heavy). 
+In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 3.1 summarizes the main souces of data for OSeMOSYS-CR. 
 
-.. figure:: img/SimpleRES.png
-   :align:   center
-   :width:   700 px
-
-   *Figure 2.2: Simplified Reference Energy System for the Costa Rica model*
-
-In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions options. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. Table 2.1 summarizes the main souces of data for OSeMOSYS-CR. 
-
-*Table 2.1: Main data sources used in OSeMOSYS-CR.*
+*Table 3.1: Main data sources used in OSeMOSYS-CR.*
 
 .. table:: 
    :align:   center
@@ -98,154 +92,16 @@ In OSeMOSYS-CR, the connection between the electricity and transport sectors is 
 |              | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
-2.3 Sets 
+3.2 Global parameters
 +++++++++
-
-The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. The sets, as it going to be further explained, are characterized through parameters. This subsections presents the sets that compose the current version of OSeMOSYS-CR.  
-
-2.3.1 Year
----------
-
-This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical data. 
-
-2.3.2 Fuels
----------
-
-Figure 2.3 shows the different levels and transformations that the fuels (i.e. commodities) go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10  and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
-
-.. figure:: img/Fuels.png
-   :align:   center
-   :width:   700 px
-
-   *Figure 2.3: Simple diagram for fuel specification.*
-
-Table 2.2 presents a synthesis of the groups of commodities, including a brief description and examples. 
-
-*Table 2.2: Summary of fuels included in OSeMOSYS-CR's energy model.*
-
-.. table:: 
-   :align:   center
-   
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| Group | Descriptions                             | Examples                                                                      |
-+=======+==========================================+===============================================================================+
-| E0    | Pre-sources: Imports and fuel production | Import and production (fossil fuels and Biofuels), and their distribution.    |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E1    | Primary sources (energy balance)         | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E2-E3 | Electricity                              | Electricity from power plants to its distribution.                            |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E4    | Electricity demand by sector             | Diesel for agriculture, firewood for residential, petroleum coke for industry.|
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E6-E6*| Transport demand                         | Private and public passenger transport, and light and heavy cargo transport.  |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E7    | Distribution                             | Diesel for industry, LPG for heavy cargo transport, electricity for vehicles. |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E8    | Transport managers                       | Fossil fuels for public transport, low carbon fuels for light freight.        |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E10   | Infraestrucuture                         | Roads, rails, and bikeways.                                                   |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-| E11   | Specific category for Hydrogen           | Produced hydrogen and ready to use.                                           |
-+-------+------------------------------------------+-------------------------------------------------------------------------------+
-
-See Annex for the whole list of fuels.
-
-2.3.3 Technologies
----------
-
-Different types of technologies are included in the model in order to represent the current supply chain and substitution possibilities. Figure 2.4 shows the different levels and transformation of technologies. 
-
-.. figure:: img/Techs.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2.4: Simple diagram for technologies specification.*
-  
-The groups of technolgies contemplated in OSeMOSYS-CR are described below:  
-
-*	The first groups (ES, BL and DIST) are specially designed to model fossil fuels imports, production of biofuels, and the blend and distribution of them, considering the current pipe system for gasoline and diesel. 
-*	The second group of blocks corresponds to the electric power system (PP and TD), that is mainly connected to renewable primary sources. 
-*	The third level corresponds to civil infrastructure for mobility: TI and intermediate technologies for controlling the systems and divide the supply chains regarding fuels and technologies. 
-*	TR technologies are dedicate to transport modelling and include blocks to study the modal shift. 
-*	ED connects primary sources and demands that are not subject to the optimization process, but have CO2e contributions.   
-
-Table 2.3 presents a synthesis of groups of technologies, including a brief description and examples. 
-
-*Table 2.3: Summary of technologies included in OSeMOSYS-CR's energy model.*
-
-.. table:: 
-   :align:   center
-
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| Group     | Descriptions                             | Examples                                                                      |
-+===========+==========================================+===============================================================================+
-| ES-BL-DIST| Energy Sources                           | Imports and production (fossil fuels and biofuels), and their distribution.   |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| PP-TD     | Power plants and the electric grid       | Hydro Power Plant, Transmission system, and distributed generation.           |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| ST        | Sources                                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| D(F-T)    | Division                                 | Diesel for Industry, LPG for heavy cargo transport, Electricity for vehicles. |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TI        | Transport infrastructure                 | Roads, rails, and bikeways.                                                   |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| TR        | Transportation                           | Electric Light duty Vehicles, LPG Buses, bikes, low carbon techs for passenger|
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-| ED        | Sources                                  | Water, Wind, diesel, gasoline, biomass, and firewood.                         |
-+-----------+------------------------------------------+-------------------------------------------------------------------------------+
-
-See Annex for the whole list of processes.
-
-2.3.4 Emissions
----------
-
-Table 2.4 shows a description of the emissions included in the model. In general, for GHG the values are in terms of equivalent carbon dioxide (CO2e). 
-
-*Table 2.4: Summary of emissions included in OSeMOSYS-CR's energy model.*
-
-.. table:: 
-   :align:   center
-   
-+-----------------+--------------------------------------------+
-| Code            | Name                                       |                                                                 
-+=================+============================================+
-| CO2_sources     | Carbon Dioxide from primary sources        |                                                                      
-+-----------------+--------------------------------------------+
-| CO2_transport   | Carbon Dioxide from transport              |                                                                      
-+-----------------+--------------------------------------------+
-| CO2_AGR         | Carbon Dioxide from agriculture            |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_COM         | Carbon Dioxide from the commercial sector  |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_IND         | Carbon Dioxide from the industrial sector  |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_RES         | Carbon Dioxide from the residential sector |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_Freigt      | Carbon Dioxide from freigt transport       |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_HeavyCargo  | Carbon Dioxide from heavy cargo            |                                                                         
-+-----------------+--------------------------------------------+
-| CO2_LightCargo  | Carbon Dioxide from light cargo            |                                                                         
-+-----------------+--------------------------------------------+
-
-In addition, with this set the model incorporates benefits resulting from the implementation of mitigation policies in the energy sector. These are:
-
-* Health improvements of the population as a result of a reduction in GHG emissions.
-* Reduction of congestion, which leads to an increase in the country's productivity.
-* Reduction of accidents on the national roads.
-
-2.3.5 Mode of operation
----------
-    
-The model has one mode of operation, Mode 1, for representing the normal operation of the system.
-  
-2.4 Parameters
-+++++++++
-
-2.4.1 Global parameters
----------
 
 These parameters affect directly other parameters. 
+
+3.2.1 Year split
+---------
+
+3.3 Demands
++++++++++
 
 **Demands:**
 
