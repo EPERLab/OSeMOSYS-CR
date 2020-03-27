@@ -100,6 +100,20 @@ These parameters affect directly other parameters.
 3.2.1 Year split
 ---------
 
+Costa Rica regularly has 5 months of dry season, and 6 months of rainy season, with two months of transition. The ltter in OSeMOSYS-CR are evenly distributed in both *times lices*. Therefore, the model uses de values presented in Table 3.2. 
+
+*Table 3.2: Year split values in OSeMOSYS-CR.*
+
+.. table:: 
+   :align:   center
++--------------+------------------+
+| Timeslice    | Year spli value  |                                              
++==============+==================+
+| DRY          |      0.42        |
++--------------+------------------+
+| RAINY        |      0.58        |               
++--------------+------------------+
+
 3.3 Demands
 +++++++++
 
