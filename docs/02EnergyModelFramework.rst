@@ -16,17 +16,17 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other options with lower or zero carbon emissions. The next section describes the group of sets considered in OSeMOSYS-CR for representing the elements commented above. 
 
-2.3 Sets 
+2.2 Sets 
 +++++++++
 
 The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of OSeMOSYS-CR.  
 
-2.3.1 Year
+2.2.1 Year
 ---------
 
 This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
 
-2.3.2 Fuels
+2.2.2 Fuels
 ---------
 
 Figure 2.2 shows the different levels and transformations that the fuels (i.e. commodities) go through, and their relations with some technologies. Groups E0, E1, E3, E4, E5, and E6 are crucial elements of the current supply chain, while E8 and E9 are modeled for control purposes.  Groups E9, E10 and E11 complement the model to enable the inclusion of hydrogen and infrastructure.  
@@ -68,7 +68,7 @@ Table 2.1 presents a synthesis of the groups of commodities, including a brief d
 
 See Annex for the whole list of fuels.
 
-2.3.3 Technologies
+2.2.3 Technologies
 ---------
 
 Different types of technologies (i.e. processes) are included in the model in order to represent the current supply chain and substitution possibilities. Figure 2.3 shows the different levels and transformation of technologies. 
@@ -114,7 +114,7 @@ Table 2.2 presents a synthesis of the groups of technologies in OSeMOSYS-CR, inc
 
 See Annex for the whole list of processes.
 
-2.3.4 Emissions
+2.2.4 Emissions
 ---------
 
 Table 2.3 shows a description of the emissions included in the model. In general, to quantify GHG contributions, the values are in terms of equivalent carbon dioxide (CO2e). 
@@ -152,8 +152,13 @@ In addition, with this set the model incorporates benefits resulting from the im
 * Reduction of congestion, which leads to an increase in the country's productivity.
 * Reduction of accidents on the national roads.
 
-2.3.5 Mode of operation
+2.2.5 Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system.
+
+2.2.6 Region
+---------
+    
+The model has a nationwide scope, therefore only has one region: Costa Rica. 
   
