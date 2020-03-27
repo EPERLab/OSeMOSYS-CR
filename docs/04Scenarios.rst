@@ -17,7 +17,7 @@ The 2°C and 1.5°C scenarios consider that the social and economic situation de
    
    *Figure 2.1: Scenarios in OSeMOSYS-CR*
    
- The following sections describe how the considerations in Figure 2.1 were introduced in the model. 
+The following sections describe how the considerations in Figure 2.1 were introduced in the model. 
  
  4.1 Passenger Transport
 +++++++++
