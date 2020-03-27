@@ -467,7 +467,7 @@ This parameter works together alongside with the InputActivityRatio. Since the e
 
 The residual capacity expresses the capacity that already exists in the first year of analysis. The considerations regaring the electricity and transport sectors are presented below: 
 
-* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for the base year.
+* Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 2.8 shows the reference values for 2018.
 
 .. figure::  img/InstalledCapacity2018.png
    :align:   center
@@ -485,7 +485,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 2.4.3 Cost
 ---------
 
-Figure 2.13 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used by each group of technologies.  
+Figure 2.13 shows the relation included in the model regarding costs. Usually, the capital and fixed costs are related with the capacity and the variable cost is linked to the activity level. The diagram shows what parameters are used for each group of technologies.  
 
 .. figure::  img/costs.png
    :align:   center
