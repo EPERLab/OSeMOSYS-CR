@@ -1,4 +1,4 @@
-4. Using OSeMOSYS-CR
+5. Using OSeMOSYS-CR
 =================
 
 OSeMOSYS-CR's repository\ :sup:`1`, contains the following folders: 
