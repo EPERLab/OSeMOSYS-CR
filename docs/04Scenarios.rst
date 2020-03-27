@@ -13,8 +13,8 @@ The 2°C and 1.5°C scenarios consider that the social and economic situation de
 
 .. figure:: img/Scenarios.PNG
    :align:   center
-   :width:   700 px
-
+   :width:   600 px
+   
    *Figure 2.1: Scenarios in OSeMOSYS-CR*
    
  The following sections describe how the considerations in Figure 2.1 were introduced in the model. 
