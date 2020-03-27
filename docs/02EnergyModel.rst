@@ -475,20 +475,12 @@ The residual capacity expresses the capacity that already exists in the first ye
    
    *Figure 2.8: Installed capacity in the Costa Rican power system (based on CENCE).* 
    
-* Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 2.9 shows the distribution of ages by technologies for the base year.  
+* Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 2.9 presents how the capacity of the current fleet is reduced over the years.   
 
-.. figure::  img/FleetAge.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2.9: Age vehicles for the main categories in 2015.* 
-   
-As the demand in the base year is supplied by this group of technologies, it is assumed that for 2015 this is the capacity of the fleet and it will decreased according to the residual life (i.e. the number of years left until they complete their operational life). Figure 2.12 presents how the capacity of the current fleet is reduced over the years.   
-
-.. figure::  img/ResidualCapacityTransport.png
+.. figure::  img/ResidualCapacityT.png
    :align:   center
    
-   *Figure 2.12: Residual capacities and demand by sector.* 
+   *Figure 2.9: Residual capacities by sector.* 
 
 2.4.3 Cost
 ---------
