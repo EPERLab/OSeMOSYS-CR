@@ -368,7 +368,7 @@ Figure 3.7 shows the relation included in the model regarding costs. Usually, th
    :align:   center
    :width:   700 px
    
-   *Figure 3.7: Cost chains of OSeMOSYS-CR.* 
+   *Figure 3.7: Cost chains of OSeMOSYS-CR, where CC: Capital Cost, VC: Variable Cost, FC: Fixed Cost and P: Penalty.* 
    
 In order to understand the cost flow, that the model follows in order to satisfy a specific demand, a brief example is presented in Figure 3.8. The figure includes the relation between the electric grid, the pipe system and the vehicles for one year. 
 
