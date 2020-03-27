@@ -1,12 +1,12 @@
 2. Energy model: Framework 
 =======================================
 
-This documentation has been structured to provide an overview of the energy sector in Costa Rica, to present the model structure, and to give a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, we give an insight to the general framework of OSeMOSYS-CR.    
+This documentation has been created in order to provide an overview of OSeMOSYS-CR. Therefore, it presents the model structure, and gives a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, in this section, we give an insight to the general framework of the model.
 
 2.1 General model structure 
 +++++++++
 
-The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the transport and electricity sectors are subject to linear optimization, other smaller demands, such as the firewood used in the residential sector or the coke consumption by industries, are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 2.2. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed into different demands including industrial, residential and commercial requirements, and the transport of passengers (public and private) and cargo (light and heavy). 
+The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the transport and electricity sectors are subject to linear optimization, other smaller demands, such as the firewood used in the residential sector or the coke consumption by industries, are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 2.2. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed in order to satisfy different demands including industrial, residential and commercial requirements, and the transport demands of passengers (public and private) and cargo (light and heavy). 
 
 .. figure:: img/SimpleRES.png
    :align:   center
@@ -14,7 +14,7 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
    *Figure 2.1: Simplified Reference Energy System for the Costa Rica model*
 
-In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other lower or zero carbon emissions options. In the model, all fuels and technologies are incorporated to OSeMOSYS taking into account other sets, such as temporary divisions and emission factors, as well as the parameters. The latter are classified, among others, into costs, activity levels and infrastructure capacities. The establishment of these parameters was done after processing and reviewing the available national energy data. 
+In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other options with lower or zero carbon emissions. The next section describes the group of sets considered in OSeMOSYS-CR for representing the elements commented above. 
 
 2.3 Sets 
 +++++++++
