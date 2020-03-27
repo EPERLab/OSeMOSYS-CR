@@ -1,5 +1,11 @@
-4. Scenario building
+4. Energy model: Scenario building
 =====================
+
+OSeMOSYS-CR started by estimating a base case, and subsequently, including the effect of a set of policies defined by stakeholders in two levels of decarbonization. This exercise allowed the creating of three different scenarios: 
+
+(i) A Business-as-usual (BAU) scenario, that represents the behavior of the emissions without considering public policy interventions (i.e. following the historic trends), 
+(ii) a 2°C scenario, compatible with the 2015 NDC's goals of Costa Rica, and 
+(iii) a 1.5°C that is compatible with a goal of net zero emissions by 2050.
 
 +-----------+--------------------------+------------------------------------------------------------------------------------------+
 |Subsector  | Action                   | Description on modelling process                                                         |
