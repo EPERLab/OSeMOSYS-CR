@@ -378,13 +378,13 @@ In order to understand the cost flow, that the model follows in order to satisfy
    
    *Figure 3.8: Brief example of the cost chain of the model.* 
    
-In this example, we have two ways to satisfy 1 Gpkm: Electric and Fossil. We are no taking into account the depreciation for the example. The activity and capacity for the transport sector is the same, while for the electricity sector the Capacity-to-activity unit (31.536) is used.  A special attention must be paid in the units and their equivalents. The general, equation is: 
+In this example, we have two ways to satisfy 1 Gpkm: electricity and fossil fuels. We are not taking into account the depreciation in this example. The activity and capacity for the transport sector is the same, while for the electricity sector the Capacity-to-activity unit (31.536) is used. The general, equation is: 
 
 .. math::
 
    TotalCost=\sum_{Techs}{\left(Capital\ cost+fixed\right)*\left[capacity\right]+\left(cost\ variable\ cost\right)*[activity]}.
    
-Electric way: 
+Electricity supply: 
 
 .. math::
 
@@ -398,7 +398,7 @@ Electric way:
 
    Total\_electric=1200\ MUSD+114\ MUSD=1314\ MUSD. \\
    
-Fossil Fuel way: 
+Fossil Fuels supply: 
 
 .. math::
 
@@ -412,7 +412,7 @@ Fossil Fuel way:
 
    Total\_fossil=1200\ MUSD+114\ MUSD=845\ MUSD. \\
 
-In this example, the fossil fuel chain results are cheaper than electric solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next section presents the considerations for the entire cost. 
+In this example, the fossil fuel chain is cheaper than the electricity-based solution. Additional conditions must be added, such as: the depreciation and variations in the costs.  The next sections present the data used for the costs in the model.  
 
 3.5.1 Capital Cost
 ---------
