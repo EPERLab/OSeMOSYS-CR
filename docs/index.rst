@@ -14,8 +14,8 @@ The OSeMOSYS – CR model
    01Introduction
    02EnergyModelFramework
    03EnergyModelDatabase
-   03Scenarios
-   04PythonModules
+   04Scenarios
+   05PythonModules
    99refs
    999Annexes
 
