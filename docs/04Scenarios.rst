@@ -19,7 +19,7 @@ The 2°C and 1.5°C scenarios consider that the social and economic situation de
    
 The following sections describe how the considerations in Figure 2.1 were introduced in the model. 
  
- 4.1 Passenger Transport
+4.1 Passenger Transport
 +++++++++
 
 * Mode shift: Demand in public and private sector: We use an S-curve to model a smooth transition from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. To estimate the costs of this process, we use coefficients linked to the level of activity and based on the urban planning studies developed in Costa Rica.
@@ -28,7 +28,7 @@ The following sections describe how the considerations in Figure 2.1 were introd
 
 * Electrification private and public sectors: Similar to the mode shift, we use an S-curve to model the adoption rate of technologies. We parametrized the curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activities for low-carbon technologies while the proportions of groups of technologies as keeping proportional to the base year.
 
- 4.2 Cargo Transport
+4.2 Cargo Transport
 +++++++++
 
 * Demand absorbed by TELCA and Logistic: The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same procedure as TELCA, but with 2022 and 2030 as transition years. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050                                 
@@ -36,7 +36,7 @@ The following sections describe how the considerations in Figure 2.1 were introd
 *Use of LPG: Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
 
 *Low carbon technologies: Similar to the above related to uncertainty, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint.                                  
- 4.3 Electricity and fossil fuels
+4.3 Electricity and fossil fuels
 +++++++++
 
 *Blend with biofuels: A specific process in the model makes the volumetric mixture of biofuels and fossil fuels, defining percentages of activities. For these cases, it establishes a linear level of activity from 0 to 8% for ethanol and 0 to 10% for biodiesel, between 2022 and 2050. This consideration responds to the uncertainty linked to biofuel imports and productions. At this time, we consider only importations and comparable prices with fossil fuels.
