@@ -453,7 +453,7 @@ The externality costs from the impacts of pollution per unit of activity are obt
 
 *	The emission categories of the PIMUS report are disaggregated per emission control type and fuel. Since the model is only disaggregated by fuel type, factors for vehicle types with the same fuel are averaged.
 
- The cost of the emissions is presented in Table 3.6. 
+The cost of the emissions is presented in Table 3.6. 
  
 *Table 3.6: Externalities associated to health caused per vehicle type (MUSD/Gvkm).*
 
