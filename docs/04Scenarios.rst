@@ -51,7 +51,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Demand absorbed by TELCA and Logistic:** The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same procedure as TELCA, but with 2022 and 2030 as transition years. Figure 4.4 shows the reduction in the demand. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050      
 
-.. figure:: img/FreightDemand.png
+.. figure:: img/FreightDemandReduction.png
    :align:   center
    :width:   700 px
    
