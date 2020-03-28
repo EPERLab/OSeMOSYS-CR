@@ -22,17 +22,29 @@ The following sections describe how the considerations in Figure 4.1 were introd
 4.1 Passenger Transport
 +++++++++
 
-* **Mode shift, Demand in public and private sector:** We use an S-curve to model a smooth transition from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. To estimate the costs of this process, we use coefficients linked to the level of activity and based on the urban planning studies developed in Costa Rica.
+* **Mode shift, Demand in public and private sector:** We uses changes in the levels of activity from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. Figure 4.2 shows how this is incorporated in the model with the TotalTechnologyAnnualActivityLowerLimit parameter. 
 
-* **Non-motorized mobility and digitalization:** The transition is carried out by linear reduction of the demand in private and public transport from 2022 to 2050. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. 
+.. figure:: img/PublicPrivateActivities.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 4.2: Mode shift from public to private transport technologies in OSeMOSYS-CR.*
+
+* **Non-motorized mobility and digitalization:** The transition is carried out by linear reduction of the demand in private and public transport from 2022 to 2050, and an increasing demand of non-motorized mobility. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. Figure 4.3 presents this changes in the demand from the SpecifiedAnnualDemand parameter. 
 
 .. figure:: img/DemandReduction.png
    :align:   center
    :width:   700 px
    
-   *Figure 4.2: Changes in the demand in BAU, SR15 and SR20 scenarios.*
+   *Figure 4.3: Changes in the demand in BAU, SR15 and SR20 scenarios.*
 
-* **Electrification private and public sectors:** Similar to the mode shift, we use an S-curve to model the adoption rate of technologies. We parametrized the curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year.
+* **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
+
+.. figure:: img/LightdutyElectricalVehiclesActivity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 4.3: Increasing activity of light-duty electric vehicles.*
 
 4.2 Cargo Transport
 +++++++++
