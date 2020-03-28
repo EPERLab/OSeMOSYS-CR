@@ -417,23 +417,32 @@ In this example, the fossil fuel chain is cheaper than the electricity-based sol
 3.5.1 Capital Cost
 ---------
 
-Transport sector: 
+Regarding the transport sector, the  capital cost information is based on information from the Ministry of Finance of Costa Rica  (Hacienda). OSeMOSYS-CR assumes that the cost of electric vehicles decreases according to information from Bloomberg. For cargo transport, the model incorporates cost data from companies like Nicola and Tesla. The following equation shows how the capital cost is calculated:
 
 .. math:: 
 
    Capital\ cost=cost\ of\ vehicle\ \left(\frac{USD}{vehicle}\right)/effiecency\left(\frac{km}{year}\right)/LF\left(\frac{Passenger}{vehicle}\right)
    
+For the electricity infraestructure such as power plants, the model uses information from the Costa Rican Institute of Electricity, ICE. 
+   
 3.5.2 Fixed Cost
 ---------
 
+For the transport tecnologies, the model uses information from a data set by the KTH based on ETSAP. The distribution of fossil fuels is  parameterized with information from the Costa Rican Petroleum Refinery. On the other hand, the electricity distribution uses information from the Costa Rican Institute of Electricity, ICE.
+
+
 3.5.3 Variable Cost
 ---------
+
+The variable cost in the model is mainly used for representing the imports of fossil fuels with trends set by the International Energy Agency (IEA).
 
 3.6 Emissions
 +++++++++
 
 3.6.1 Emission Activity Ratio
 ---------
+
+The aspect of the model was parameterized with the National GHG Inventory. 
 
 3.6.2 Emission Penalty
 ---------
