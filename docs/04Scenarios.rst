@@ -22,11 +22,11 @@ The following sections describe how the considerations in Figure 2.1 were introd
 4.1 Passenger Transport
 +++++++++
 
-* **Mode shift:** Demand in public and private sector: We use an S-curve to model a smooth transition from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. To estimate the costs of this process, we use coefficients linked to the level of activity and based on the urban planning studies developed in Costa Rica.
+* **Mode shift, Demand in public and private sector:** We use an S-curve to model a smooth transition from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. To estimate the costs of this process, we use coefficients linked to the level of activity and based on the urban planning studies developed in Costa Rica.
 
-* **Non-motorized mobility and digitalization:** The transition is carried out by lineal reduction of the demand in private and public transport from 2022 to 2050. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider cost due to the existing and growth communication infrastructure of the country. 
+* **Non-motorized mobility and digitalization:** The transition is carried out by linear reduction of the demand in private and public transport from 2022 to 2050. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. 
 
-* **Electrification private and public sectors:** Similar to the mode shift, we use an S-curve to model the adoption rate of technologies. We parametrized the curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activities for low-carbon technologies while the proportions of groups of technologies as keeping proportional to the base year.
+* **Electrification private and public sectors:** Similar to the mode shift, we use an S-curve to model the adoption rate of technologies. We parametrized the curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year.
 
 4.2 Cargo Transport
 +++++++++
@@ -39,7 +39,7 @@ The following sections describe how the considerations in Figure 2.1 were introd
 4.3 Electricity and fossil fuels
 +++++++++
 
-* **Blend with biofuels:** A specific process in the model makes the volumetric mixture of biofuels and fossil fuels, defining percentages of activities. For these cases, it establishes a linear level of activity from 0 to 8% for ethanol and 0 to 10% for biodiesel, between 2022 and 2050. This consideration responds to the uncertainty linked to biofuel imports and productions. At this time, we consider only importations and comparable prices with fossil fuels.
+* **Blend with biofuels:** A specific process in the model makes the volumetric mixture of biofuels and fossil fuels, defining percentages of activities. For these cases, it establishes a linear level of activity from 0 to 8% for ethanol and 0 to 10% for biodiesel, between 2022 and 2050. This consideration corresponds to the uncertainty linked to biofuel imports and productions. At this time, we consider only importations and comparable prices with fossil fuels.
 
 * **Renewable electricity:** The assumption limits the operation of thermal power plants from 2.5% to 0% between 2022 and 2050.  
 
