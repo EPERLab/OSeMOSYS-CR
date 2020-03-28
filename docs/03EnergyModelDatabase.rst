@@ -442,7 +442,7 @@ The variable cost in the model is mainly used for representing the imports of fo
 3.6.1 Emission Activity Ratio
 ---------
 
-The aspect of the model was parameterized with the National GHG Inventory. 
+This aspect of the model was parameterized with the National GHG Inventory. 
 
 3.6.2 Emission Penalty
 ---------
