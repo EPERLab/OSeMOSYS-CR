@@ -26,7 +26,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by linear reduction of the demand in private and public transport from 2022 to 2050. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. 
 
-.. figure:: img/DemandReductions.png
+.. figure:: img/DemandReduction.png
    :align:   center
    :width:   700 px
    
