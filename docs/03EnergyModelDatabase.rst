@@ -511,7 +511,7 @@ To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheles
 
 *Table 3.7: Externalities associated to accidents caused per vehicle type (MUSD/Gvkm).*
 
-.. table:: 
+.. table::
    :align:   center
    
 +------------------------------------------+------------------------------+
