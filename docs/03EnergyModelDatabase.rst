@@ -473,7 +473,7 @@ The cost of the emissions is presented in Table 3.6.
 +------------------------------------------+----------+----------+----------+----------+
 | Heavy Duty  (Heavy Freight and Buses)	 | 22.03	   | 7.19	  | 32.54	 | 61.75    |
 +------------------------------------------+----------+----------+----------+----------+
-|Gasoline Motorcycles	                   | 0.83	   | 0.11	  | 7.90	    | 8.84     |
+| Gasoline Motorcycles	                   | 0.83	   | 0.11	  | 7.90	    | 8.84     |
 +------------------------------------------+----------+----------+----------+----------+
 
 For congestion, the PEN states that the annual cost is equivalent to 2.5 USD Billion, whereas PIMUS calculates 691 USD Million. The latter uses factors per vkm that try to capture the cost of the lost productivity, higher maintenance and stress, whereas the first estimated the change in time of congested roadways against non-congested ones per county and multiplied it by an average income (representing the lost productivity). Since the methodologies are different, we pick the factor based on the vkm variable, since time is not accounted for in the model. The estimates of PIMUS are based on the Victoria Transport Policy Institute bibliography as well as the Grütter report. The values used are shown in Table 3.7. 
