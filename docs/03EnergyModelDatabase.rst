@@ -455,7 +455,7 @@ The externality costs from the impacts of pollution per unit of activity are obt
 
 The cost of the emissions is presented in Table 3.6. 
  
-*Table 3.6: Externalities associated to health caused per vehicle type (MUSD/Gvkm).*
+*Table 3.6: Externalities associated to health caused per vehicle type [MUSD/Gvkm].*
 
 .. table:: 
    :align:   center
@@ -478,7 +478,7 @@ The cost of the emissions is presented in Table 3.6.
 
 For congestion, the PEN states that the annual cost is equivalent to 2.5 USD Billion, whereas PIMUS calculates 691 USD Million. The latter uses factors per vkm that try to capture the cost of the lost productivity, higher maintenance and stress, whereas the first estimated the change in time of congested roadways against non-congested ones per county and multiplied it by an average income (representing the lost productivity). Since the methodologies are different, we pick the factor based on the vkm variable, since time is not accounted for in the model. The estimates of PIMUS are based on the Victoria Transport Policy Institute bibliography as well as the Grütter report. The values used are shown in Table 3.7. 
 
-*Table 3.7: Externalities associated to congestion caused per vehicle type (MUSD/Gvkm).*
+*Table 3.7: Externalities associated to congestion caused per vehicle type [MUSD/Gvkm].*
 
 .. table:: 
    :align:   center
@@ -513,7 +513,7 @@ The PIMUS report states that one death costs (CD) 738,130 USD and the cost of an
 
 To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization.  Table 3.8 shows the results.  
 
-*Table 3.8: Externalities associated to accidents caused per vehicle type (MUSD/Gvkm).*
+*Table 3.8: Externalities associated to accidents caused per vehicle type [MUSD/Gvkm].*
 
 .. table::
    :align:   center
