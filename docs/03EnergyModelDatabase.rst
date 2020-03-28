@@ -507,9 +507,13 @@ For congestion, the PEN states that the annual cost is equivalent to 2.5 USD Bil
 
 The PIMUS report states that one death costs (CD) 738,130 USD and the cost of an injury (CI) is 179,260 USD. We also review the Statistical Book of COSEVI for 2017 to obtain the number of deaths and injuries per vehicle type: motorcycle, light duty vehicle and minibus or bus. We do not consider accidents for light and heavy freight for the lack for the lack of public statistics. We use the equation 1 to define the factor per vkm for each vehicle type (vt).
 
-To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization. 
+.. math:: 
 
-*Table 3.7: Externalities associated to accidents caused per vehicle type (MUSD/Gvkm).*
+   Factor(vt) = \frac{Deaths(vt)*CD*kD + Injuries(vt)*CI*kI)}{Gvkm (vt)}.
+
+To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization.  Table 3.8 shows the results.  
+
+*Table 3.8: Externalities associated to accidents caused per vehicle type (MUSD/Gvkm).*
 
 .. table::
    :align:   center
