@@ -59,7 +59,14 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Use of LPG:** Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
 
-* **Low carbon technologies:** Similar to the above related to uncertainty, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint.                                  
+* **Low carbon technologies:** Similar to the above related to uncertainty, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint. 
+
+.. figure:: img/CargoEmissionLimit.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 4.4: Cargo Emission Annual Limit.*
+   
 4.3 Electricity and fossil fuels
 +++++++++
 
