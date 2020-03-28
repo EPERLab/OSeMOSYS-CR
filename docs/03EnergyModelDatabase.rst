@@ -459,7 +459,7 @@ The externality costs from the impacts of pollution per unit of activity are obt
 
 .. table:: 
    :align:   center
-
+   
 +------------------------------------------+----------+----------+----------+----------+
 |                                          | NOX      | SOX      | PM10     | Total    |
 +==========================================+==========+==========+==========+==========+
@@ -531,5 +531,3 @@ To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheles
 +------------------------------------------+------------------------------+
 | Motorcycles	                            | 635.24                       |
 +------------------------------------------+------------------------------+
-
-
