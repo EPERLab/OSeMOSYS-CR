@@ -9,15 +9,15 @@ OSeMOSYS-CR started by estimating a base case, and subsequently, including the e
 
 The BAU scenario considers that the energy consumption, economic activity and population grow according to the historical trends. This scenario incorporates the electricity generation expansion plan from the Costa Rican Electricity Institute to represent the development of the electricity sector. It also includes a moderate penetration of solar and wind generation, distributed generation for self-consumption, prived electric vehicles and electric public transport (buses). In terms of emissions, this scenario does not have a significant change in relation to the trend trajectory. 
 
-The 2°C and 1.5°C scenarios consider that the social and economic situation described in the BAU scenario remains the same. However, they incorporate the political objectives generated through stakeholder engagement and the participatory process. The main strategies in the 2° and 1.5° scenarios are focused in *i)* urban planning and mobility, *ii)* switching fossil fuel technologies, and *iii)* switching energy carriers. Figure 2.1 sumarizes the main aspects of each scenario. 
+The 2°C and 1.5°C scenarios consider that the social and economic situation described in the BAU scenario remains the same. However, they incorporate the political objectives generated through stakeholder engagement and the participatory process. The main strategies in the 2° and 1.5° scenarios are focused in *i)* urban planning and mobility, *ii)* switching fossil fuel technologies, and *iii)* switching energy carriers. Figure 4.1 sumarizes the main aspects of each scenario. 
 
 .. figure:: img/Scenarios.PNG
    :align:   center
    :width:   700 px
    
-   *Figure 2.1: Scenarios in OSeMOSYS-CR*
+   *Figure 4.1: Scenarios in OSeMOSYS-CR.*
    
-The following sections describe how the considerations in Figure 2.1 were introduced in the model. 
+The following sections describe how the considerations in Figure 4.1 were introduced in the model. 
  
 4.1 Passenger Transport
 +++++++++
@@ -25,6 +25,12 @@ The following sections describe how the considerations in Figure 2.1 were introd
 * **Mode shift, Demand in public and private sector:** We use an S-curve to model a smooth transition from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. To estimate the costs of this process, we use coefficients linked to the level of activity and based on the urban planning studies developed in Costa Rica.
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by linear reduction of the demand in private and public transport from 2022 to 2050. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. 
+
+.. figure:: img/DemandReductions.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 4.2: Changes in the demand in BAU, SR15 and SR20 scenarios.*
 
 * **Electrification private and public sectors:** Similar to the mode shift, we use an S-curve to model the adoption rate of technologies. We parametrized the curve considering targets by 2030, 2035, and 2050. The procedure consists in introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year.
 
