@@ -446,3 +446,90 @@ The aspect of the model was parameterized with the National GHG Inventory.
 
 3.6.2 Emission Penalty
 ---------
+
+To estimate the impact of an improved transport system, we assign an externality cost to each technology representing a vehicle. In sum, a decarbonization scenario has lower externality costs in comparison to a baseline, since the activity of transport technologies decrease. We evaluate the following aspects that are monetized: less traffic jams, fewer accidents and reduced negative impacts of pollution on health.
+
+The externality costs from the impacts of pollution per unit of activity are obtained using data from the PIMUS report. PIMUS assigns a cost per ton to three pollutants: NOx, SOx and PM10. To be applicable for the model, we estimate an externality cost per vehicle-kilometer traveled (vkm). The PIMUS report has emission factors per distance traveled and takes as reference the Grütter Report to estimate the vkm per vehicle type. To match the categories of the model, the following assumption is considered:
+
+*	The emission categories of the PIMUS report are disaggregated per emission control type and fuel. Since the model is only disaggregated by fuel type, factors for vehicle types with the same fuel are averaged.
+
+ The cost of the emissions is presented in Table 3.6. 
+ 
+*Table 3.6: Externalities associated to health caused per vehicle type (MUSD/Gvkm).*
+
+.. table:: 
+   :align:   center
+
++------------------------------------------+----------+----------+----------+----------+
+|                                          | NOX      | SOX      | PM10     | Total    |
++==========================================+==========+==========+==========+==========+
+| Light Duty Passenger Vehicles - Gasoline | 2.66     | 0.37     | 0.28     | 3.31     |
++------------------------------------------+----------+----------+----------+----------+
+| Light Duty Passenger Vehicles - Diesel   | 1.84     | 1.40     | 4.23     | 7.48     |
++------------------------------------------+----------+----------+----------+----------+
+| Light Freight	                         | 2.38	   | 1.97	  | 4.99     |	9.33     |
++------------------------------------------+----------+----------+----------+----------+
+| Minibus                                  |	13.74	   |5.10	     |9.69	    | 28.53    |
++------------------------------------------+----------+----------+----------+----------+
+| Heavy Duty  (Heavy Freight and Buses)	 | 22.03	   | 7.19	  | 32.54	 | 61.75    |
++------------------------------------------+----------+----------+----------+----------+
+|Gasoline Motorcycles	                   | 0.83	   | 0.11	  | 7.90	    | 8.84     |
++------------------------------------------+----------+----------+----------+----------+
+
+For congestion, the PEN states that the annual cost is equivalent to 2.5 USD Billion, whereas PIMUS calculates 691 USD Million. The latter uses factors per vkm that try to capture the cost of the lost productivity, higher maintenance and stress, whereas the first estimated the change in time of congested roadways against non-congested ones per county and multiplied it by an average income (representing the lost productivity). Since the methodologies are different, we pick the factor based on the vkm variable, since time is not accounted for in the model. The estimates of PIMUS are based on the Victoria Transport Policy Institute bibliography as well as the Grütter report. The values used are shown in Table 3.7. 
+
+*Table 3.7: Externalities associated to congestion caused per vehicle type (MUSD/Gvkm).*
+
+.. table:: 
+   :align:   center
+   
++------------------------------------------+------------------------------+
+| Technology                               | Externality cost [MUSD/Gvkm] | 
++==========================================+==============================+
+| Light Duty Vehicles                      | 46                           | 
++------------------------------------------+------------------------------+
+| Minivan	                               | 46                           |
++------------------------------------------+------------------------------+
+| SUV	                                     | 168.1328377                  |
++------------------------------------------+------------------------------+
+| Taxi	                                  | 46                           |
++------------------------------------------+------------------------------+
+| Minibus	                               | 46                           |
++------------------------------------------+------------------------------+
+| Bus	                                     | 90                           |
++------------------------------------------+------------------------------+
+| Light Freight	                         | 90                           |
++------------------------------------------+------------------------------+
+| Heavy Freight	                         | 90                           |
++------------------------------------------+------------------------------+
+| Motorcycles	                            | 46                           |
++------------------------------------------+------------------------------+
+
+The PIMUS report states that one death costs (CD) 738,130 USD and the cost of an injury (CI) is 179,260 USD. We also review the Statistical Book of COSEVI for 2017 to obtain the number of deaths and injuries per vehicle type: motorcycle, light duty vehicle and minibus or bus. We do not consider accidents for light and heavy freight for the lack for the lack of public statistics. We use the equation 1 to define the factor per vkm for each vehicle type (vt).
+
+To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization. 
+
+*Table 3.7: Externalities associated to accidents caused per vehicle type (MUSD/Gvkm).*
+
+.. table:: 
+   :align:   center
+   
++------------------------------------------+------------------------------+
+| Technology                               | Externality cost [MUSD/Gvkm] | 
++==========================================+==============================+
+| Light Duty Vehicles                      | 91.64                        | 
++------------------------------------------+------------------------------+
+| Minivan	                               | 91.64                        |
++------------------------------------------+------------------------------+
+| SUV	                                     | 91.64                        |
++------------------------------------------+------------------------------+
+| Taxi	                                  | 91.64                        |
++------------------------------------------+------------------------------+
+| Minibus	                               | 101.87                       |
++------------------------------------------+------------------------------+
+| Bus	                                     | 101.87                       |
++------------------------------------------+------------------------------+
+| Motorcycles	                            | 635.24                       |
++------------------------------------------+------------------------------+
+
+
