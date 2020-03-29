@@ -28,7 +28,9 @@ Running the model, generates the following files, all of them are store in 2_Sce
 Figure 5.1 shows the general framework of how the python modules of OSeMOSYS-CR work. The following are important considerations for using these modules
 : 
 * In order to run the model, the GLPK\ :sup:`2`, solver needs to be installed. 
+
 * Before running the model, 2_Scenarios_Outputs should be empty.
+
 * 1_csv_to_txt.py and 2_run_model_mathprog.py must be respectively run. In both codes the scenario of interest needs to be specified in the first lines. 
 
 .. figure::  img/Framework.PNG
