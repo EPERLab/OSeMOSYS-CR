@@ -1,4 +1,4 @@
-3. Energy model: Database
+3. Energy model: Data inputs
 =======================================
 This section presents the main databases explored for building OSeMOSYS-CR, and the way the information was processed in order to introduce it to the model. 
 
