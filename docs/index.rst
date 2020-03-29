@@ -8,7 +8,7 @@ The OSeMOSYS – CR model
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenidos
+   :caption: Contents
 
    00Abreviations
    01Introduction
@@ -18,10 +18,3 @@ The OSeMOSYS – CR model
    05PythonModules
    99refs
    999Annexes
-
-Índices y cuadros
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
