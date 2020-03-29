@@ -376,7 +376,7 @@ In order to understand the cost flow, that the model follows in order to satisfy
 
 .. figure::  img/cost_example.png
    :align:   center
-   :width:   700 px
+   :width:   550 px
    
    *Figure 3.8: Brief example of the cost chain of the model.* 
    
