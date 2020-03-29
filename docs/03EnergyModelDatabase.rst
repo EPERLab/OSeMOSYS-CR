@@ -92,6 +92,8 @@ In the model, all fuels and technologies are incorporated to OSeMOSYS taking int
 |              | IMF        |                          | Nation Project (PEN) and International Monetary Fund (IMF)                   |
 +--------------+------------+--------------------------+------------------------------------------------------------------------------+
 
+The following sections presents the data incorporated in the paramters of OSeMOSYS-CR. This section presents mainly the information for used for establishing the base escenario of the model, and characterizing the commodities and processes included in the model. 
+
 3.2 Global parameters
 +++++++++
 
