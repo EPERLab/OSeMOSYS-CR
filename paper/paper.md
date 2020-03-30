@@ -55,7 +55,7 @@ The modelling framework is executed using Python. The process starts with the sc
 
 # Model Structure and Strategies 
 
-The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figure 2. The model includes a module for co-benefits related to the consumption of fossil fuels which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [@Quiros-Tortos2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
+The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figure 2. The model includes a module for co-benefits related to the consumption of fossil fuels in transport which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [@Quiros-Tortos2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
 
 Three different pre-built scenarios included in the repository: a business-as-usual (BAU) scenario and two decarbonisation scenarios. The BAU scenario represents the evolution of the energy sector based on historical trends and serves as a benchmark for testing mitigation strategies. The two decarbonisation scenarios, one consistent with the 2°C (SR20) and the other with the 1.5°C (SR15) targets, incorporate selected mitigation strategies already being discussed in the country . 
 
@@ -66,23 +66,7 @@ Three different pre-built scenarios included in the repository: a business-as-us
     <em>Figure 2. Simple reference energy system for OSeMOSYS-CR model.</em>
 </p>
 
-The following images presents a graphic representation of the scenarios. Figure 3 shows the emission trajectories and the corresponding 2050 carbon intensity for the three scenarios [@Godinez-Zamora2020]. The 2°C and 1.5°C scenarios lead to the corresponding target emissions by 2050. Figure 4 highlights that both decarbonisation scenarios lead to a cleaner system by 2050 with an increased efficiency.
-
-<p align="center">
-<img src="CO2_emissions.PNG" alt="Emission trajectories for the BAU, SR20 and SR15 scenarios." width="650"/>
-<br>
-<align="center">
-    <em>Figure 3. Emission trajectories for the BAU, SR20 and SR15 scenarios.</em>
-</p>
-
-<p align="center">
-<img src="energy_by_fuel.png" alt="Figure 3. Energy use by fuel for the BAU, SR15 and SR15 scenarios." width="650"/>
-<br>
-<align="center">
-    <em>Figure 4. Energy use by fuel for the BAU, SR15 and SR15 scenarios.</em>
-</p>
-
-Ongoing projects, which aim at exploring further the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the coverage (reach) of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be submitted to share with experts and undergo a revision and validation process with stakeholders. 
+Ongoing projects, which aim at further exploring the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the reach of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be shared with experts and undergo a revision and validation process with stakeholders. 
 
 # Acknowledgements
 
