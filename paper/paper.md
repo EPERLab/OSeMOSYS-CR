@@ -72,7 +72,7 @@ Three different pre-built scenarios included in the repository: a business-as-us
 <align="center">
     <em>(b)</em>
 <br>
-    <em>Simple diagram</em>
+    <em>Figure 2. Simple energy resource system of the (a) electriciy and (b) transport sector in OSeMOSYS-CR.</em>
 </p>
 
 Ongoing projects, which aim at further exploring the use and applicability of the model, include research on energy storage modelling, the deployment of robust decision-making methodologies, and the modelling of complementary systems such as land and water, to analyse the linkages between them and the energy sector. Such efforts will add robustness and increase the reach of the model, expanding its use to multiple applications and widening its use to multiple policy domains. The developments under preparation will then be shared with experts and undergo a revision and validation process with stakeholders. 
