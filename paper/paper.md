@@ -71,6 +71,7 @@ Three different pre-built scenarios included in the repository: a business-as-us
 <br>
 <align="center">
     <em>(b)</em>
+<br>
     <em>Simple diagram</em>
 </p>
 
