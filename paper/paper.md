@@ -60,14 +60,14 @@ The model combines more than one hundred commodities and two hundred technologie
 Three different pre-built scenarios included in the repository: a business-as-usual (BAU) scenario and two decarbonisation scenarios. The BAU scenario represents the evolution of the energy sector based on historical trends and serves as a benchmark for testing mitigation strategies. The two decarbonisation scenarios, one consistent with the 2°C (SR20) and the other with the 1.5°C (SR15) targets, incorporate selected mitigation strategies already being discussed in the country . 
 
 <p align="center">
-<img src="ElectricityModel.PNG" alt="Electricity model." width="750"/>
+<img src="ElectricityModel.png" alt="Electricity model." width="750"/>
 <br>
 <align="center">
     <em>(a)</em>
 </p>
   
 <p align="center">
-<img src="TransportModel.PNG" alt="Transport model." width="750"/>
+<img src="TransportModel.png" alt="Transport model." width="750"/>
 <br>
 <align="center">
     <em>(b)</em>
