@@ -19,7 +19,9 @@ The Costa Rican team focuses on the development of an Energy System Optimization
 
 The development of OSeMOSYS-CR has been also supported by the project "Assessing Options to Decarbonize the Transport Sector under Technological Uncertainty: The Case of Costa Rica". This work was contracted by the Interamerican Development Bank (IADB) for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica. The project aimed at developing a framework to evaluate mitigation actions in the Costa Rican transport sector that contribute to achieve the deep decarbonization, considering its uncertainty and socioeconomic impact, and implementing it in OSeMOSYS-CR to evaluate multiple climate actions towards a clean transport sector. 
 
-The project "Development And Assesment of Decarbonization Pathways to Inform Dialogue with Costa Rica Regarding The Updating Process of Nationally Determined Contribution (NDC)" also contributed to the upgrade of OSeMOSYS-CR. It involved the development of  complementary land and water models, and the integration of them with the energy model. This project was funded by the World Bank for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica. OSeMOSYS-CR is expected to grow and new versions will be shared, as this is the first one. 
+The project "Development And Assesment of Decarbonization Pathways to Inform Dialogue with Costa Rica Regarding The Updating Process of Nationally Determined Contribution (NDC)" also contributed to upgrading OSeMOSYS-CR. It involved the development of  complementary land and water models, and the integration of them with the energy model. This project was funded by the World Bank for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica. 
+
+This is the first released version of OSeMOSYS-CR, however the model is expected to grow and new versions will be shared.
 
 1.2 Motivation and problem statement
 +++++++++
