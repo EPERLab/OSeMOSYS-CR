@@ -298,14 +298,14 @@ The residual capacity expresses the capacity that already exists in the first ye
    :align:   center
    :width:   700 px
    
-   *Figure 3.5: Installed capacity in the Costa Rican power system (based on CENCE).* 
+   *Figure 3.5: Installed capacity in the Costa Rican power system (based on CENCE)* :download:`. <doc_imgs/InstalledCapacity.csv>` 
    
 * Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 3.6 presents how the capacity of the current fleet is reduced over the years.   
 
 .. figure::  img/ResidualCapacityT.png
    :align:   center
    
-   *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport.* 
+   *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport** :download:`. <doc_imgs/ResidualCapacity.csv>` 
 
 3.4.5 Input Activity Ratio
 ---------
