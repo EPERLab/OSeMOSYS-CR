@@ -6,7 +6,7 @@ This documentation has been created in order to provide an overview of OSeMOSYS-
 2.1 General model structure 
 +++++++++
 
-The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the transport and electricity sectors are subject to linear optimization, other smaller demands, such as the firewood used in the residential sector or the coke consumption by industries, are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 2.2. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed in order to satisfy different demands including industrial, residential and commercial requirements, and the transport demands of passengers (public and private) and cargo (light and heavy). 
+The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the transport and electricity sectors are subject to linear optimization, other smaller demands, such as the firewood used in the residential sector or the coke consumption by industries, are only represented with trends to account for their possible greenhouse gases (GHG) contributions. The overall structure of the model can be represented by the reference energy system shown in Figure 2.1. The primary energy supply consists of four main sources: renewable, imports of fossil fuels, biomass and electricity imports. These sources are transformed in order to satisfy different demands including industrial, residential and commercial requirements, and the transport demands of passengers (public and private) and cargo (light and heavy). 
 
 .. figure:: img/ElectricityModel.png
    :align:   center
@@ -20,7 +20,7 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
    *(b)*
    
-   *Figure 2.1: Simplified Reference Energy System for the Costa Rica model*
+   *Figure 2.1: Simplified Reference Energy System of the Costa Rica model for the (a) Electricity and (b) Transport sectors*
 
 In OSeMOSYS-CR, the connection between the electricity and transport sectors is crucial for understanding the technological transition of fossil-powered vehicles to other options with lower or zero carbon emissions. The next section describes the group of sets considered in OSeMOSYS-CR for representing the elements commented above. 
 
