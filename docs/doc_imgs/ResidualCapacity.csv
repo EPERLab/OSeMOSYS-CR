@@ -1,0 +1,433 @@
+Technology;Year;Residual Capacity
+Bus Diesel;2035;0
+Microbus Diesel ;2035;0
+Taxi Diesel ;2035;0
+Taxi Gasoline;2035;0
+Bus Diesel;2036;0
+Microbus Diesel ;2036;0
+Taxi Diesel ;2036;0
+Taxi Gasoline;2036;0
+Bus Diesel;2037;0
+Microbus Diesel ;2037;0
+Taxi Diesel ;2037;0
+Taxi Gasoline;2037;0
+Bus Diesel;2038;0
+Microbus Diesel ;2038;0
+Taxi Diesel ;2038;0
+Taxi Gasoline;2038;0
+Bus Diesel;2039;0
+Microbus Diesel ;2039;0
+Taxi Diesel ;2039;0
+Taxi Gasoline;2039;0
+Bus Diesel;2040;0
+Microbus Diesel ;2040;0
+Taxi Diesel ;2040;0
+Taxi Gasoline;2040;0
+Bus Diesel;2041;0
+Microbus Diesel ;2041;0
+Taxi Diesel ;2041;0
+Taxi Gasoline;2041;0
+Bus Diesel;2042;0
+Microbus Diesel ;2042;0
+Taxi Diesel ;2042;0
+Taxi Gasoline;2042;0
+Bus Diesel;2043;0
+Microbus Diesel ;2043;0
+Taxi Diesel ;2043;0
+Taxi Gasoline;2043;0
+Bus Diesel;2044;0
+Microbus Diesel ;2044;0
+Taxi Diesel ;2044;0
+Taxi Gasoline;2044;0
+Bus Diesel;2045;0
+Microbus Diesel ;2045;0
+Taxi Diesel ;2045;0
+Taxi Gasoline;2045;0
+Bus Diesel;2046;0
+Microbus Diesel ;2046;0
+Taxi Diesel ;2046;0
+Taxi Gasoline;2046;0
+Bus Diesel;2047;0
+Microbus Diesel ;2047;0
+Taxi Diesel ;2047;0
+Taxi Gasoline;2047;0
+Bus Diesel;2048;0
+Microbus Diesel ;2048;0
+Taxi Diesel ;2048;0
+Taxi Gasoline;2048;0
+Bus Diesel;2049;0
+Microbus Diesel ;2049;0
+Taxi Diesel ;2049;0
+Taxi Gasoline;2049;0
+Bus Diesel;2050;0
+Microbus Diesel ;2050;0
+Taxi Diesel ;2050;0
+Taxi Gasoline;2050;0
+Taxi Diesel ;2034;0.0122
+Taxi Diesel ;2033;0.0239
+Microbus Diesel ;2034;0.028
+Taxi Gasoline;2034;0.0299
+Taxi Diesel ;2032;0.0352
+Bus Diesel;2034;0.0361
+Taxi Diesel ;2031;0.0464
+Microbus Diesel ;2033;0.0552
+Taxi Diesel ;2030;0.0574
+Taxi Gasoline;2033;0.0586
+Taxi Diesel ;2029;0.0669
+Bus Diesel;2033;0.0709
+Taxi Diesel ;2028;0.0764
+Microbus Diesel ;2032;0.0816
+Taxi Diesel ;2027;0.0862
+Taxi Gasoline;2032;0.0862
+Taxi Diesel ;2026;0.0941
+Taxi Diesel ;2025;0.1034
+Bus Diesel;2032;0.1044
+Microbus Diesel ;2031;0.1061
+Taxi Diesel ;2024;0.1099
+Taxi Gasoline;2031;0.1137
+Taxi Diesel ;2023;0.117
+Taxi Diesel ;2022;0.1254
+Microbus Diesel ;2030;0.1303
+Taxi Diesel ;2021;0.1316
+Bus Diesel;2031;0.1369
+Taxi Diesel ;2020;0.1376
+Taxi Gasoline;2030;0.1406
+Taxi Diesel ;2019;0.1448
+Taxi Diesel ;2018;0.1497
+Taxi Diesel ;2017;0.1521
+Microbus Diesel ;2029;0.154
+Taxi Diesel ;2016;0.1583
+Taxi Diesel ;2015;0.1595
+Taxi Gasoline;2029;0.164
+Bus Diesel;2030;0.1678
+Microbus Diesel ;2028;0.177
+Taxi Gasoline;2028;0.1871
+Microbus Diesel ;2027;0.1967
+Bus Diesel;2029;0.1973
+Taxi Gasoline;2027;0.2112
+Microbus Diesel ;2026;0.2155
+Bus Diesel;2028;0.2251
+Taxi Gasoline;2026;0.2304
+Microbus Diesel ;2025;0.2354
+Bus Diesel;2027;0.2528
+Taxi Gasoline;2025;0.2532
+Microbus Diesel ;2024;0.2549
+Taxi Gasoline;2024;0.2691
+Microbus Diesel ;2023;0.2694
+Bus Diesel;2026;0.2795
+Microbus Diesel ;2022;0.2865
+Taxi Gasoline;2023;0.2865
+Microbus Diesel ;2021;0.3028
+Bus Diesel;2025;0.3035
+Taxi Gasoline;2022;0.307
+Microbus Diesel ;2020;0.3129
+Taxi Gasoline;2021;0.3223
+Bus Diesel;2024;0.3263
+Microbus Diesel ;2019;0.3288
+Taxi Gasoline;2020;0.337
+Microbus Diesel ;2018;0.3393
+Microbus Diesel ;2017;0.3488
+Bus Diesel;2023;0.3494
+Taxi Gasoline;2019;0.3545
+Microbus Diesel ;2016;0.3626
+Taxi Gasoline;2018;0.3666
+Bus Diesel;2022;0.3692
+Microbus Diesel ;2015;0.3701
+Taxi Gasoline;2017;0.3724
+Taxi Gasoline;2016;0.3875
+Bus Diesel;2021;0.3881
+Taxi Gasoline;2015;0.3905
+Bus Diesel;2020;0.4083
+Bus Diesel;2019;0.4234
+Bus Diesel;2018;0.4393
+Bus Diesel;2017;0.4549
+Bus Diesel;2016;0.4656
+Bus Diesel;2015;0.4688
+Four-Wheel-Drive Diesel;2035;0
+Four-Wheel-Drive Gasoline;2035;0
+Four-Wheel-Drive LPG;2035;0
+Light duty Gasoline;2035;0
+Light-duty Diesel;2035;0
+Motorcycle Gasoline;2035;0
+Four-Wheel-Drive Diesel;2036;0
+Four-Wheel-Drive Gasoline;2036;0
+Four-Wheel-Drive LPG;2036;0
+Light duty Gasoline;2036;0
+Light-duty Diesel;2036;0
+Motorcycle Gasoline;2036;0
+Four-Wheel-Drive Diesel;2037;0
+Four-Wheel-Drive Gasoline;2037;0
+Four-Wheel-Drive LPG;2037;0
+Light duty Gasoline;2037;0
+Light-duty Diesel;2037;0
+Motorcycle Gasoline;2037;0
+Four-Wheel-Drive Diesel;2038;0
+Four-Wheel-Drive Gasoline;2038;0
+Four-Wheel-Drive LPG;2038;0
+Light duty Gasoline;2038;0
+Light-duty Diesel;2038;0
+Motorcycle Gasoline;2038;0
+Four-Wheel-Drive Diesel;2039;0
+Four-Wheel-Drive Gasoline;2039;0
+Four-Wheel-Drive LPG;2039;0
+Light duty Gasoline;2039;0
+Light-duty Diesel;2039;0
+Motorcycle Gasoline;2039;0
+Four-Wheel-Drive Diesel;2040;0
+Four-Wheel-Drive Gasoline;2040;0
+Four-Wheel-Drive LPG;2040;0
+Light duty Gasoline;2040;0
+Light-duty Diesel;2040;0
+Motorcycle Gasoline;2040;0
+Four-Wheel-Drive Diesel;2041;0
+Four-Wheel-Drive Gasoline;2041;0
+Four-Wheel-Drive LPG;2041;0
+Light duty Gasoline;2041;0
+Light-duty Diesel;2041;0
+Motorcycle Gasoline;2041;0
+Four-Wheel-Drive Diesel;2042;0
+Four-Wheel-Drive Gasoline;2042;0
+Four-Wheel-Drive LPG;2042;0
+Light duty Gasoline;2042;0
+Light-duty Diesel;2042;0
+Motorcycle Gasoline;2042;0
+Four-Wheel-Drive Diesel;2043;0
+Four-Wheel-Drive Gasoline;2043;0
+Four-Wheel-Drive LPG;2043;0
+Light duty Gasoline;2043;0
+Light-duty Diesel;2043;0
+Motorcycle Gasoline;2043;0
+Four-Wheel-Drive Diesel;2044;0
+Four-Wheel-Drive Gasoline;2044;0
+Four-Wheel-Drive LPG;2044;0
+Light duty Gasoline;2044;0
+Light-duty Diesel;2044;0
+Motorcycle Gasoline;2044;0
+Four-Wheel-Drive Diesel;2045;0
+Four-Wheel-Drive Gasoline;2045;0
+Four-Wheel-Drive LPG;2045;0
+Light duty Gasoline;2045;0
+Light-duty Diesel;2045;0
+Motorcycle Gasoline;2045;0
+Four-Wheel-Drive Diesel;2046;0
+Four-Wheel-Drive Gasoline;2046;0
+Four-Wheel-Drive LPG;2046;0
+Light duty Gasoline;2046;0
+Light-duty Diesel;2046;0
+Motorcycle Gasoline;2046;0
+Four-Wheel-Drive Diesel;2047;0
+Four-Wheel-Drive Gasoline;2047;0
+Four-Wheel-Drive LPG;2047;0
+Light duty Gasoline;2047;0
+Light-duty Diesel;2047;0
+Motorcycle Gasoline;2047;0
+Four-Wheel-Drive Diesel;2048;0
+Four-Wheel-Drive Gasoline;2048;0
+Four-Wheel-Drive LPG;2048;0
+Light duty Gasoline;2048;0
+Light-duty Diesel;2048;0
+Motorcycle Gasoline;2048;0
+Four-Wheel-Drive Diesel;2049;0
+Four-Wheel-Drive Gasoline;2049;0
+Four-Wheel-Drive LPG;2049;0
+Light duty Gasoline;2049;0
+Light-duty Diesel;2049;0
+Motorcycle Gasoline;2049;0
+Four-Wheel-Drive Diesel;2050;0
+Four-Wheel-Drive Gasoline;2050;0
+Four-Wheel-Drive LPG;2050;0
+Light duty Gasoline;2050;0
+Light-duty Diesel;2050;0
+Motorcycle Gasoline;2050;0
+Four-Wheel-Drive LPG;2034;0.0038
+Four-Wheel-Drive LPG;2033;0.0076
+Four-Wheel-Drive LPG;2032;0.0112
+Four-Wheel-Drive LPG;2031;0.0146
+Four-Wheel-Drive LPG;2030;0.0179
+Four-Wheel-Drive LPG;2029;0.021
+Four-Wheel-Drive LPG;2028;0.0241
+Light-duty Diesel;2034;0.0261
+Four-Wheel-Drive LPG;2027;0.0269
+Four-Wheel-Drive LPG;2026;0.0295
+Four-Wheel-Drive LPG;2025;0.0321
+Four-Wheel-Drive LPG;2024;0.0344
+Four-Wheel-Drive LPG;2023;0.0366
+Four-Wheel-Drive LPG;2022;0.0387
+Four-Wheel-Drive LPG;2021;0.0407
+Four-Wheel-Drive LPG;2020;0.0423
+Four-Wheel-Drive LPG;2019;0.0439
+Four-Wheel-Drive LPG;2018;0.0454
+Four-Wheel-Drive LPG;2017;0.0466
+Four-Wheel-Drive LPG;2015;0.0476
+Four-Wheel-Drive LPG;2016;0.0479
+Light-duty Diesel;2033;0.0514
+Light-duty Diesel;2032;0.0759
+Light-duty Diesel;2031;0.0995
+Four-Wheel-Drive Diesel;2034;0.1164
+Light-duty Diesel;2030;0.122
+Light-duty Diesel;2029;0.144
+Light-duty Diesel;2028;0.1651
+Light-duty Diesel;2027;0.1848
+Motorcycle Gasoline;2034;0.2004
+Light-duty Diesel;2026;0.2045
+Light-duty Diesel;2025;0.223
+Four-Wheel-Drive Diesel;2033;0.2284
+Four-Wheel-Drive Gasoline;2034;0.2353
+Light-duty Diesel;2024;0.2406
+Light-duty Diesel;2023;0.2572
+Light-duty Diesel;2022;0.2737
+Light-duty Diesel;2021;0.2878
+Light-duty Diesel;2020;0.3022
+Light-duty Diesel;2019;0.3155
+Light-duty Diesel;2018;0.3271
+Four-Wheel-Drive Diesel;2032;0.3357
+Light-duty Diesel;2017;0.3378
+Light-duty Diesel;2016;0.3474
+Light-duty Diesel;2015;0.3484
+Motorcycle Gasoline;2033;0.393
+Four-Wheel-Drive Diesel;2031;0.4383
+Four-Wheel-Drive Gasoline;2033;0.4614
+Four-Wheel-Drive Diesel;2030;0.5365
+Motorcycle Gasoline;2032;0.5775
+Four-Wheel-Drive Diesel;2029;0.6302
+Four-Wheel-Drive Gasoline;2032;0.6781
+Light duty Gasoline;2034;0.7192
+Four-Wheel-Drive Diesel;2028;0.7222
+Motorcycle Gasoline;2031;0.7472
+Four-Wheel-Drive Diesel;2027;0.8054
+Four-Wheel-Drive Diesel;2026;0.883
+Four-Wheel-Drive Gasoline;2031;0.8855
+Motorcycle Gasoline;2030;0.9244
+Four-Wheel-Drive Diesel;2025;0.9625
+Four-Wheel-Drive Diesel;2024;1.0292
+Four-Wheel-Drive Gasoline;2030;1.0839
+Motorcycle Gasoline;2029;1.0854
+Four-Wheel-Drive Diesel;2023;1.0942
+Four-Wheel-Drive Diesel;2022;1.1581
+Four-Wheel-Drive Diesel;2021;1.2179
+Motorcycle Gasoline;2028;1.2283
+Four-Wheel-Drive Diesel;2020;1.267
+Four-Wheel-Drive Gasoline;2029;1.273
+Four-Wheel-Drive Diesel;2019;1.3135
+Four-Wheel-Drive Diesel;2018;1.3573
+Motorcycle Gasoline;2027;1.382
+Four-Wheel-Drive Diesel;2017;1.3961
+Light duty Gasoline;2033;1.4167
+Four-Wheel-Drive Diesel;2015;1.426
+Four-Wheel-Drive Diesel;2016;1.4336
+Four-Wheel-Drive Gasoline;2028;1.4589
+Motorcycle Gasoline;2026;1.5201
+Four-Wheel-Drive Gasoline;2027;1.6271
+Motorcycle Gasoline;2025;1.6338
+Motorcycle Gasoline;2024;1.7744
+Four-Wheel-Drive Gasoline;2026;1.7838
+Motorcycle Gasoline;2023;1.8862
+Four-Wheel-Drive Gasoline;2025;1.9443
+Motorcycle Gasoline;2022;1.9774
+Four-Wheel-Drive Gasoline;2024;2.0791
+Light duty Gasoline;2032;2.0909
+Motorcycle Gasoline;2021;2.091
+Motorcycle Gasoline;2020;2.1801
+Four-Wheel-Drive Gasoline;2023;2.2105
+Motorcycle Gasoline;2019;2.2479
+Four-Wheel-Drive Gasoline;2022;2.3395
+Motorcycle Gasoline;2018;2.3419
+Motorcycle Gasoline;2017;2.405
+Motorcycle Gasoline;2015;2.459
+Motorcycle Gasoline;2016;2.459
+Four-Wheel-Drive Gasoline;2021;2.4603
+Four-Wheel-Drive Gasoline;2020;2.5595
+Four-Wheel-Drive Gasoline;2019;2.6536
+Light duty Gasoline;2031;2.7414
+Four-Wheel-Drive Gasoline;2018;2.742
+Four-Wheel-Drive Gasoline;2017;2.8203
+Four-Wheel-Drive Gasoline;2015;2.8807
+Four-Wheel-Drive Gasoline;2016;2.8961
+Light duty Gasoline;2030;3.3599
+Light duty Gasoline;2029;3.9669
+Light duty Gasoline;2028;4.549
+Light duty Gasoline;2027;5.0912
+Light duty Gasoline;2026;5.6338
+Light duty Gasoline;2025;6.1447
+Light duty Gasoline;2024;6.629
+Light duty Gasoline;2023;7.086
+Light duty Gasoline;2022;7.5401
+Light duty Gasoline;2021;7.9302
+Light duty Gasoline;2020;8.325
+Light duty Gasoline;2019;8.6934
+Light duty Gasoline;2018;9.0124
+Light duty Gasoline;2017;9.3073
+Light duty Gasoline;2016;9.5724
+Light duty Gasoline;2015;9.5982
+Mini Trucks;2035;0
+Trucks Diesel ;2035;0
+Mini Trucks;2036;0
+Trucks Diesel ;2036;0
+Mini Trucks;2037;0
+Trucks Diesel ;2037;0
+Mini Trucks;2038;0
+Trucks Diesel ;2038;0
+Mini Trucks;2039;0
+Trucks Diesel ;2039;0
+Mini Trucks;2040;0
+Trucks Diesel ;2040;0
+Mini Trucks;2041;0
+Trucks Diesel ;2041;0
+Mini Trucks;2042;0
+Trucks Diesel ;2042;0
+Mini Trucks;2043;0
+Trucks Diesel ;2043;0
+Mini Trucks;2044;0
+Trucks Diesel ;2044;0
+Mini Trucks;2045;0
+Trucks Diesel ;2045;0
+Mini Trucks;2046;0
+Trucks Diesel ;2046;0
+Mini Trucks;2047;0
+Trucks Diesel ;2047;0
+Mini Trucks;2048;0
+Trucks Diesel ;2048;0
+Mini Trucks;2049;0
+Trucks Diesel ;2049;0
+Mini Trucks;2050;0
+Trucks Diesel ;2050;0
+Mini Trucks;2034;0.10382
+Trucks Diesel ;2034;0.1429
+Mini Trucks;2033;0.20764
+Trucks Diesel ;2033;0.2807
+Mini Trucks;2032;0.31146
+Trucks Diesel ;2032;0.4134
+Mini Trucks;2031;0.41528
+Mini Trucks;2030;0.5191
+Trucks Diesel ;2031;0.5411
+Mini Trucks;2029;0.62292
+Trucks Diesel ;2030;0.6637
+Mini Trucks;2028;0.72674
+Trucks Diesel ;2029;0.7811
+Mini Trucks;2027;0.83056
+Trucks Diesel ;2028;0.8938
+Mini Trucks;2026;0.93438
+Trucks Diesel ;2027;1.0011
+Mini Trucks;2025;1.0382
+Trucks Diesel ;2026;1.1033
+Mini Trucks;2024;1.14202
+Trucks Diesel ;2025;1.2008
+Mini Trucks;2023;1.24584
+Trucks Diesel ;2024;1.2928
+Mini Trucks;2022;1.34966
+Trucks Diesel ;2023;1.3797
+Mini Trucks;2021;1.45348
+Trucks Diesel ;2022;1.4621
+Trucks Diesel ;2021;1.5389
+Mini Trucks;2020;1.5573
+Trucks Diesel ;2020;1.6105
+Mini Trucks;2019;1.66112
+Trucks Diesel ;2019;1.6778
+Trucks Diesel ;2018;1.7393
+Mini Trucks;2018;1.76494
+Trucks Diesel ;2017;1.7957
+Trucks Diesel ;2016;1.8478
+Trucks Diesel ;2015;1.8682
+Mini Trucks;2017;1.86876
+Mini Trucks;2016;1.97258
+Mini Trucks;2015;2.0764
