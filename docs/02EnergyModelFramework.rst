@@ -14,7 +14,7 @@ The Costa Rican energy sector is enterly modeled in OSeMOSYS. However, while the
 
    *(a)*
    
-   .. figure:: img/ElectricityModel.png
+.. figure:: img/ElectricityModel.png
    :align:   center
    :width:   700 px
 
