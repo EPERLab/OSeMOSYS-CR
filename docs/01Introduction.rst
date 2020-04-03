@@ -6,7 +6,7 @@
 1.1 Project overview
 +++++++++
 
-This work is part of the “Deep Decarbonization Pathways Project in Latin America and the Caribbean (DDPP-LAC)” which is coordinated by the Institute for Sustainable Development and International Relations (IDDRI) and the Inter-American Development Bank (IADB).
+The creation of OSeMOSYS-CR started as part of the “Deep Decarbonization Pathways Project in Latin America and the Caribbean (DDPP-LAC)” which is coordinated by the Institute for Sustainable Development and International Relations (IDDRI) and the Inter-American Development Bank (IADB).
 
 The project involves six different teams, and each team is formed by experts from a Latin American (LA) country (Argentina, Colombia, Costa Rica, Ecuador, Mexico, and Peru) and experts from other countries (France, USA, Sweden and Brazil). The main purpose of these alliances is to transfer capacities from one country to another, while engaging with policy makers to address a modeling aspect of local importance. The Costa Rican team is composed by researchers from the University of Costa Rica (UCR) and the Royal Institute of Technology (KTH) in Stockholm. While each team has its own goals, the common objectives of this project are:
 
@@ -16,6 +16,10 @@ The project involves six different teams, and each team is formed by experts fro
 * Develop a collaborative community of climate policy modelers in LAC capable of continually developing their expertise. 
 
 The Costa Rican team focuses on the development of an Energy System Optimization Model (ESOM) for its energy system, paying particular attention to the electricity and the transport sectors, to establish the most cost-effective technological transition towards a deep decarbonization, while assessing the corresponding impacts over the economy and society. The project also aims at promoting a dialogue on the national policy related to the future concerning the decarbonization of the economy.
+
+The development of OSeMOSYS-CR has been also supported by the project "Assessing Options to Decarbonize the Transport Sector under Technological Uncertainty: The Case of Costa Rica". This work was contracted by the Interamerican Development Bank (IADB) for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica. The project aimed at developing a framework to evaluate mitigation actions in the Costa Rican transport sector that contribute to achieve the deep decarbonization, considering its uncertainty and socioeconomic impact, and implementing it in OSeMOSYS-CR to evaluate multiple climate actions towards a clean transport sector. 
+
+The project "Development And Assesment of Decarbonization Pathways to Inform Dialogue with Costa Rica Regarding The Updating Process of Nationally Determined Contribution (NDC)" also contributed to the upgrade of OSeMOSYS-CR. It involved the development of  complementary land and water models, and the integration of them with the energy model. This project was funded by the World Bank for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica. OSeMOSYS-CR is expected to grow and new versions will be shared, as this is the first one. 
 
 1.2 Motivation and problem statement
 +++++++++
