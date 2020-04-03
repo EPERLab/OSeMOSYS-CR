@@ -16,9 +16,9 @@ Figure 3.1 presents the historical trending of energy consumption by sector.
    :align:   center
    :width:   600 px
    
-   *Figure 3.1: Historical energy consumption by sector in Costa Rica*
+   *Figure 3.1: Historical energy consumption by sector in Costa Rica* :download:`csv <doc_imgs/Historical_Consumption_Data.csv>`
    
-here is a pdf file :download:`pdf <doc_imgs/Historical_Consumption_Data.csv>`
+ 
 
 3.1.2 Other key databases 
 ---------
