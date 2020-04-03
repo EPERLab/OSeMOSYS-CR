@@ -246,7 +246,7 @@ The capacity factor is mainly used for representing electricity generation. In t
    :align:   center
    :width:   700 px
     
-   *Figure 3.4: Capacity factor for plants.* 
+   *Figure 3.4: Capacity factor for plants* :download:`. <doc_imgs/CapacityFactor.csv>`  
    
 3.4.3 Availability Factor
 ---------
