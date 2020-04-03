@@ -1,0 +1,134 @@
+Año	Sector	Historical Energy Consumption [PJ]
+1997	Transport	42,222,934,243
+1998	Transport	46,888,586,026
+1999	Transport	49,703,081,800
+2000	Transport	49,601,771,739
+2001	Transport	50,876,229,777
+2002	Transport	54,488,899,977
+2003	Transport	55,718,515,036
+2004	Transport	59,089,824,524
+2005	Transport	60,325,299,738
+2006	Transport	62,912,433,501
+2007	Transport	66,732,761,944
+2008	Transport	68,451,494,180
+2009	Transport	68,276,589,185
+2010	Transport	70,318,951,858
+2011	Transport	72,109,480,261
+2012	Transport	74,111,391,718
+2013	Transport	74,636,921,497
+2014	Transport	76,186,274,835
+2015	Transport	81,525,540,847
+1997	Industrial	25,200,690,704
+1998	Industrial	27,223,506,696
+1999	Industrial	28,296,005,179
+2000	Industrial	28,676,086,922
+2001	Industrial	28,886,150,359
+2002	Industrial	27,097,776,062
+2003	Industrial	29,966,694,672
+2004	Industrial	30,824,311,626
+2005	Industrial	32,188,981,240
+2006	Industrial	34,496,227,481
+2007	Industrial	41,063,849,921
+2008	Industrial	39,810,163,177
+2009	Industrial	38,247,067,548
+2010	Industrial	37,995,153,643
+2011	Industrial	36,973,214,894
+2012	Industrial	37,739,984,024
+2013	Industrial	38,994,197,475
+2014	Industrial	39,206,183,040
+2015	Industrial	38,367,819,804
+1997	Residential	16,475,078,962
+1998	Residential	17,267,823,435
+1999	Residential	17,943,531,567
+2000	Residential	18,691,465,403
+2001	Residential	19,387,731,105
+2002	Residential	20,697,192,897
+2003	Residential	22,151,586,004
+2004	Residential	23,596,161,646
+2005	Residential	24,821,643,427
+2006	Residential	27,527,053,812
+2007	Residential	25,236,406,146
+2008	Residential	24,341,526,933
+2009	Residential	22,601,203,778
+2010	Residential	23,381,944,932
+2011	Residential	22,138,554,758
+2012	Residential	21,586,490,914
+2013	Residential	21,366,425,955
+2014	Residential	20,602,666,641
+2015	Residential	20,791,071,401
+1997	Commercial	4,492,743,856
+1998	Commercial	5,039,963,180
+1999	Commercial	5,658,017,255
+2000	Commercial	6,139,004,074
+2001	Commercial	6,359,096,512
+2002	Commercial	6,607,573,607
+2003	Commercial	7,132,805,326
+2004	Commercial	7,058,578,510
+2005	Commercial	7,516,768,004
+2006	Commercial	7,905,343,240
+2007	Commercial	8,581,566,507
+2008	Commercial	9,119,004,777
+2009	Commercial	9,039,066,003
+2010	Commercial	9,658,970,524
+2011	Commercial	9,565,777,477
+2012	Commercial	9,841,883,461
+2013	Commercial	10,115,506,583
+2014	Commercial	10,397,287,206
+2015	Commercial	10,784,980,998
+1997	Public services	195,007,368
+1998	Public services	212,582,564
+1999	Public services	232,414,948
+2000	Public services	238,461,588
+2001	Public services	245,827,564
+2002	Public services	255,881,852
+2003	Public services	2,770,062,717
+2004	Public services	29,978,158
+2005	Public services	31,389,495
+2006	Public services	33,389,883
+2007	Public services	356,952,552
+2008	Public services	378,272,454
+2009	Public services	3,669,351,838
+2010	Public services	3,868,532,201
+2011	Public services	3,950,932,212
+2012	Public services	4,230,010,472
+2013	Public services	4,296,487,530
+2014	Public services	4,454,210,282
+2015	Public services	4,575,293,146
+1997	Agriculture	2,490,726,485
+1998	Agriculture	2,637,069,771
+1999	Agriculture	2,780,605,561
+2000	Agriculture	2,824,496,163
+2001	Agriculture	2,879,984,549
+2002	Agriculture	3,035,277,801
+2003	Agriculture	3,097,508,672
+2004	Agriculture	3,144,632,958
+2005	Agriculture	3,325,761,781
+2006	Agriculture	3,452,733,102
+2007	Agriculture	3,220,735,016
+2008	Agriculture	2,929,764,010
+2009	Agriculture	2,878,731,038
+2010	Agriculture	2,854,011,920
+2011	Agriculture	3,091,731,315
+2012	Agriculture	3,241,777,417
+2013	Agriculture	3,273,323,046
+2014	Agriculture	3,254,387,677
+2015	Agriculture	3,327,253,991
+1997	Infraestructure	0,229974657
+1998	Infraestructure	0,284077514
+1999	Infraestructure	0,364925782
+2000	Infraestructure	0,421512708
+2001	Infraestructure	0,432040124
+2002	Infraestructure	0,384697190
+2003	Infraestructure	0,406346267
+2004	Infraestructure	0,661386760
+2005	Infraestructure	0,906462869
+2006	Infraestructure	1,008,529,010
+2007	Infraestructure	1,382,035,438
+2008	Infraestructure	1,631,668,056
+2009	Infraestructure	1,866,353,635
+2010	Infraestructure	0,953392022
+2011	Infraestructure	1,106,175,230
+2012	Infraestructure	0,954868929
+2013	Infraestructure	1,007,863,420
+2014	Infraestructure	1,280,588,719
+2015	Infraestructure	1,345,588,903
