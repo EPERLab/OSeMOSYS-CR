@@ -3,7 +3,7 @@
 1. Introduction 
 =====================================
 
-1.1 Project overview
+1.1 Projects overview
 +++++++++
 
 The creation of OSeMOSYS-CR started as part of the “Deep Decarbonization Pathways Project in Latin America and the Caribbean (DDPP-LAC)” which is coordinated by the Institute for Sustainable Development and International Relations (IDDRI) and the Inter-American Development Bank (IADB).
