@@ -43,7 +43,7 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon',
-    'sphinx.ext.imgmath']
+    'sphinx.ext.imgmath',
     'sphinxcontrib.bibtex'] # Agregado napoleon extension
     
 #Agregado
