@@ -1,8 +1,6 @@
 References
 ===========
 
-.. bibliography:: references.bib
-
 .. raw:: latex
 
  \bibliographystyle{plain}
