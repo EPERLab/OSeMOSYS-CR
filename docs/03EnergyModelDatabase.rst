@@ -452,7 +452,7 @@ This aspect of the model was parameterized with the National GHG Inventory.
 
 To estimate the impact of an improved transport system, we assign an externality cost to each technology representing a vehicle. In sum, a decarbonization scenario has lower externality costs in comparison to a baseline, since the activity of transport technologies decrease. We evaluate the following aspects that are monetized: less traffic jams, fewer accidents and reduced negative impacts of pollution on health.
 
-The externality costs from the impacts of pollution per unit of activity are obtained using data from the PIMUS report. PIMUS assigns a cost per ton to three pollutants: NOx, SOx and PM10. To be applicable for the model, we estimate an externality cost per vehicle-kilometer traveled (vkm). The PIMUS report has emission factors per distance traveled and takes as reference the Grütter Report to estimate the vkm per vehicle type. To match the categories of the model, the following assumption is considered:
+The externality costs from the impacts of pollution per unit of activity are obtained using data from the PIMUS report :cite:`PIMUS`. PIMUS assigns a cost per ton to three pollutants: NOx, SOx and PM10. To be applicable for the model, we estimate an externality cost per vehicle-kilometer traveled (vkm). The PIMUS report has emission factors per distance traveled and takes as reference the Grütter Report to estimate the vkm per vehicle type. To match the categories of the model, the following assumption is considered:
 
 *	The emission categories of the PIMUS report are disaggregated per emission control type and fuel. Since the model is only disaggregated by fuel type, factors for vehicle types with the same fuel are averaged.
 
@@ -508,13 +508,13 @@ For congestion, the PEN states that the annual cost is equivalent to 2.5 USD Bil
 | Motorcycles           | 46                           |
 +-----------------------+------------------------------+
 
-The PIMUS report states that one death costs (CD) 738,130 USD and the cost of an injury (CI) is 179,260 USD. We also review the Statistical Book of COSEVI for 2017 to obtain the number of deaths and injuries per vehicle type: motorcycle, light duty vehicle and minibus or bus. We do not consider accidents for light and heavy freight for the lack for the lack of public statistics. We use the equation 1 to define the factor per vkm for each vehicle type (vt).
+The PIMUS report states that one death costs (CD) 738,130 USD and the cost of an injury (CI) is 179,260 USD. We also review the Statistical Book of COSEVI for 2017 to obtain the number of deaths and injuries per vehicle type: motorcycle, light duty vehicle and minibus or bus :cite:`COSEVI`. We do not consider accidents for light and heavy freight for the lack for the lack of public statistics. We use the equation 1 to define the factor per vkm for each vehicle type (vt).
 
 .. math:: 
 
    Factor(vt) = \frac{Deaths(vt)*CD*kD + Injuries(vt)*CI*kI)}{Gvkm (vt)}.
 
-To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization.  Table 3.8 shows the results.  
+To complete the equation, we use the Gvkm stated in the PIMUS report. Nonetheless, since the Gvkm in PIMUS are for the Great Metropolitan Area, we adjust the cost of the deaths and injuries with the factors kD and kI , respectively, to avoid over-penalization :cite:`PIMUS`.  Table 3.8 shows the results.  
 
 *Table 3.8: Externalities associated to accidents caused per vehicle type [MUSD/Gvkm].*
 
