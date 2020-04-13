@@ -256,7 +256,7 @@ This value corresponds to the time that each technologies is available. OSeMOSYS
 3.4.3 Operational Life
 ---------
 
-For this parameter, the model employs a set of values used by KTH. In general, the most important investments have an operational life greater than the period of analysis. Table 3.3 shows the data used in the model. 
+For this parameter, at the moment, the model employs a set of values used by KTH. In general, the most important investments have an operational life greater than the period of analysis. Table 3.3 shows the data used in the model. 
 
 *Table 3.3: Summary of operational lifes used in the model.*
 
@@ -432,8 +432,7 @@ For the electricity infraestructure such as power plants, the model uses informa
 3.5.2 Fixed Cost
 ---------
 
-For the transport tecnologies, the model uses information from a data set by the KTH based on ETSAP. The distribution of fossil fuels is  parameterized with information from the Costa Rican Petroleum Refinery. On the other hand, the electricity distribution uses information from the Costa Rican Institute of Electricity, ICE.
-
+For the transport tecnologies, at the moment, the model uses information from a data set by the KTH based on ETSAP. The distribution of fossil fuels is  parameterized with information from the Costa Rican Petroleum Refinery. On the other hand, the electricity distribution uses information from the Costa Rican Institute of Electricity, ICE.
 
 3.5.3 Variable Cost
 ---------
