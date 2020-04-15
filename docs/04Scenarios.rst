@@ -11,7 +11,7 @@ The BAU scenario considers that the energy consumption, economic activity and po
 
 The 2°C and 1.5°C scenarios consider that the social and economic situation described in the BAU scenario remains the same. However, they incorporate the political objectives generated through stakeholder engagement and the participatory process. The main strategies in the 2° and 1.5° scenarios are focused in *i)* urban planning and mobility, *ii)* switching fossil fuel technologies, and *iii)* switching energy carriers. Figure 4.1 sumarizes the main aspects of each scenario. 
 
-.. figure:: img/Scenarios.PNG
+.. figure:: img/Scenarios_model.PNG
    :align:   center
    :width:   700 px
    
