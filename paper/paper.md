@@ -33,7 +33,7 @@ affiliations:
    index: 3
  - name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
    index: 4
-date: 3 May 2020
+date: May 2020
 bibliography: paper.bib
 ---
 
