@@ -8,20 +8,28 @@ tags:
   - OSeMOSYS
 authors:
   - name: Guido Godínez-Zamora
+    orcid: 0000-0002-0256-1640
     affiliation: 1
   - name: Luis Victor-Gallardo
+    orcid: 
     affiliation: 1
   - name: Jam Angulo-Paniagua
+    orcid: 
     affiliation: 1
   - name: Eunice Ramos
+    orcid:
     affiliation: 2
   - name: Mark Howells
+    orcid:
     affiliation: 3
   - name: Will Usher
+    orcid:
     affiliation: 2
   - name: Felipe De León
+    orcid:
     affiliation: 4
   - name: Jairo Quirós-Tortós
+    orcid:
     affiliation: 1
 affiliations:
  - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
