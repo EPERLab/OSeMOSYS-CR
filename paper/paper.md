@@ -8,7 +8,6 @@ tags:
   - OSeMOSYS
 authors:
   - name: Guido Godínez-Zamora
-    orcid: 0000-0002-0256-1640
     affiliation: 1
   - name: Luis Victor-Gallardo
     affiliation: 1
