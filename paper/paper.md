@@ -25,11 +25,11 @@ authors:
   - name: Jairo Quirós-Tortós
     affiliation: 1
 affiliations:
- - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica
+ - name: School of Electrical Engineering, University of Costa Rica, San José, Costa Rica.
    index: 1
- - name: School of Industrial Engineering and Management, KTH - Royal Institute of Technology, Stockholm, Sweden.
+ - name: Division of Energy Systems Analysis, KTH Royal Institute of Technology, Stockholm, Sweden.
    index: 2
- - name: Loughborough University - Epinal Way, Loughborough, Leicestershire, LE11 3TU, United Kingdom; and Imperial College London - South Kensington, London SW7 2BU, United Kingdom.
+ - name: Department of Geography, School of Social Sciences, Loughborough University, UK; and Centre for Environmental Policy, Imperial College London, London, UK.
    index: 3
  - name: Climate Change Directorate, Ministry of Environment and Energy, San José, Costa Rica.
    index: 4
@@ -50,7 +50,7 @@ The modelling framework is executed using Python. The process starts with the sc
 
 # Model Structure and Strategies 
 
-The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figures 2 and 3. The model includes a module for co-benefits related to the consumption of fossil fuels in transport which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [@Quiros-Tortos2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
+The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figures 2 and 3. The model includes a module for co-benefits related to the consumption of fossil fuels in transport which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [@SRNN_2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
 
 ![Simple energy resource system of the electriciy sector in OSeMOSYS-CR.](ElectricityModel.png)
 
