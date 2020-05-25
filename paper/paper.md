@@ -52,7 +52,7 @@ The modelling framework is executed using Python. The process starts with the sc
 
 The model combines more than one hundred commodities and two hundred technologies. A simple representation of the model, including primary energy supply (i.e., renewable, fossil fuel imports, biomass, and electricity imports), groups of technologies (i.e., power plants, vehicles, and distribution systems), energy demands by sector (i.e., industrial, residential, commercial and agricultural) and transport requirements (i.e., passenger and cargo) is shown in Figures 2 and 3. The model includes a module for co-benefits related to the consumption of fossil fuels in transport which was used to calculate the effects on health, congestion, and the number of accidents in a cost-benefit assessment of the NDP [SRRN_2020]. The parametrisation of technologies includes costs, emissions, activity level, and capacities, according to their characteristics.
 
-![Simple energy resource system of the electriciy sector in OSeMOSYS-CR.](ElectricityModel.png)
+![Simple energy resource system of the electricity sector in OSeMOSYS-CR.](ElectricityModel.png)
 
 ![Simple energy resource system of the transport sector in OSeMOSYS-CR.](TransportModel.png)
 
@@ -62,6 +62,6 @@ Ongoing projects, which aim at further exploring the use and applicability of th
 
 # Acknowledgements
 
-This work was funded by the Interamerican Development Bank and the University of Costa Rica. The authors want to recognise the contribution from many stakeholders in Costa Rica in providing valuable data and discussing different aspects of the model that led to a robust model currently available in the country.
+This work was funded by the Inter-American Development Bank and the University of Costa Rica. The authors want to recognise the contribution from many stakeholders in Costa Rica in providing valuable data and discussing different aspects of the model that led to a robust model currently available in the country.
 
 # References
