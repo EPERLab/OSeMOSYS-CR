@@ -11,7 +11,7 @@ Set codification
 +-------------------+---------------------------------------------------------------------------+
 
 ::
-Capacity Factor
-This is the capacity Factor
+  Capacity Factor
+  This is the capacity Factor
 
 ::
