@@ -10,13 +10,16 @@ Set codification
 | Set:              |                                                                           |
 +-------------------+---------------------------------------------------------------------------+
 
-Capacity Factor
+Parameter 1
 +++++++++
 
 .. figure:: img/CF.png
    :align:   center
    :width:   700 px
    
-   *Figure 1: Capacity Factor.*
+   *Figure 1: Parameter 1.*
+   
+.. note::
+   Esta es la fuente. 
 
 
