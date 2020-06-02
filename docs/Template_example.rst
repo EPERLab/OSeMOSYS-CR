@@ -20,7 +20,7 @@ Parameter 1
    :align:   center
    :width:   700 px
    
-   *Figure 1: Parameter 1.*
+   *Figure 1. Parameter 1 for set codification.*
    
 Fuente:
    Esta es la fuente. 
@@ -43,7 +43,7 @@ Parameter 2
    
    *(b)*
    
-   *Figure 1: Parameter 1, (a) dry season, (b) rainy season*
+   *Figure 2. Parameter 2 for set codification: (a) dry season, (b) rainy season*
    
 Fuente:
    Esta es la fuente. 
