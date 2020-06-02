@@ -13,10 +13,10 @@ Set codification
 Capacity Factor
 +++++++++
 
-.. figure:: img/Scenarios_model.PNG
+.. figure:: img/CF.png
    :align:   center
    :width:   700 px
    
-   *Figure 4.1: Scenarios in OSeMOSYS-CR.*
+   *Figure 1: Capacity Factor.*
 
 
