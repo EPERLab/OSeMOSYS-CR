@@ -43,7 +43,7 @@ Parameter 2
    
    *(b)*
    
-   *Figure 2. Parameter 2 for set codification: (a) dry season, (b) rainy season*
+   *Figure 2. Parameter 2 for set codification: (a) dry season, (b) rainy season.*
    
 Fuente:
    Esta es la fuente. 
