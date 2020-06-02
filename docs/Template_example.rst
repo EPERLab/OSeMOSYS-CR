@@ -19,7 +19,7 @@ Parameter 1
    
    *Figure 1: Parameter 1.*
    
-.. note::
+.. Fuente::
    Esta es la fuente. 
 
 
