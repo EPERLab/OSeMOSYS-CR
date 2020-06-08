@@ -697,4 +697,4 @@ dfa['Emission'] = dfa['Emission'].replace({'C02_Freight':'Carbon Dioxide Freight
 'CO2_sources':'Carbon Dioxide Sources',
 'CO2_Transport':'Carbon Dioxide Transport'})
 
-dfa.to_csv ( './2_Scenarios_Outputs/data_osemosyscr_CODED.csv', index = None, header=True) #Coded file can be found here
+dfa.to_csv ( './2_Scenarios_Outputs/osemosyscr_data_'+sce+'_Output_CODED.csv', index = None, header=True) #Coded file can be found here
