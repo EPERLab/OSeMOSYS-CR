@@ -8,7 +8,6 @@
 - [Documentation](#documentation)
 - [Usage](#usage)
 - [Citing OSeMOSYS-CR](#citing-osemosys-cr)
-- [License](#license)
 
 # About 
 
@@ -27,5 +26,3 @@ Documentation is available on Read the Docs:
 ## Citing OSeMOSYS-CR
 Guido Godínez and Luis Victor and Jam Angulo and .. (2020) *Journal of Open Source Software*, 3(29), 825. [doi: XXXXX (https://doi.org/XXX/XXX.XXX)
 
-
-# License
