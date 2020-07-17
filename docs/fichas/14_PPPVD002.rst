@@ -1,0 +1,142 @@
+PPPVD002
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPPVD.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPPVD002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Photovoltaic Power Plant Distribution (new)                |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 1784.5       | 1553.5       | 1553.5       | 1553.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 15.6         | 15.6         | 15.6         | 15.6         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Solar            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 20           | 20           | 20           | 20           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| For Transmission)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.1          | 0.3          | 1.659        | 3            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+The equation (1) shows the Capacity Factor for PPPVD002, for every scenario and season.
+
+CapacityFactor=0.227%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+The figure 1 shows the Capital Cost for PPPVD002, for every scenario.
+
+.. figure:: img/PPPVD002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capital Cost for PPPVD002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
++++++++++
+The equation (2) shows the Fixed Cost for PPPVD002, for every scenario.
+
+FixedCost=15.6 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (3) shows the Input Activity Ratio for PPPVD002, for every scenario and associated to the fuel Solar Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+The equation (4) shows the Operational Life for PPPVD002, for every scenario.
+
+OperationalLife=20 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (5) shows the Output Activity Ratio for PPPVD002, for every scenario and associated to the fuel Electricity for Transmission.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenario.
+
+.. figure:: img/PPPVD002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPPVD002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+VariableCost[r,t,m,y]
++++++++++
+The equation (6) shows the Variable Cost for PPPVD002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.     

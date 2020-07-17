@@ -1,0 +1,142 @@
+PPWND002
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPWN.jpg                                                                                            |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPWND002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Wind Power Plant Distribution (new)                        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 2384.5       | 2153.5       | 2153.5       | 2153.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Eolic            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 20           | 20           | 20           | 20           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| For Transmission)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.075        | 0.225        | 0.375        | 0.525        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+The equation (1) shows the Capacity Factor for PPWND002, for every scenario and season.
+
+CapacityFactor=0.572%   (1)
+
+Fuente:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+The figure 1 shows the Capital Cost for PPWND002, for every scenario.
+
+.. figure:: img/PPWND002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capital Cost for PPWND002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
++++++++++
+The equation (2) shows the Fixed Cost for PPWND002, for every scenario.
+
+FixedCost=179.1 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (3) shows the Input Activity Ratio for PPWND002, for every scenario and associated to the fuel Eolic Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+The equation (4) shows the Operational Life for PPWND002, for every scenario.
+
+OperationalLife=20 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (5) shows the Output Activity Ratio for PPWND002, for every scenario and associated to the fuel Electricity for Transmission.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenario.
+
+.. figure:: img/PPWND002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPWND002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+VariableCost[r,t,m,y]
++++++++++
+The equation (6) shows the Variable Cost for PPWND002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
