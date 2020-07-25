@@ -35,13 +35,13 @@ TRXTRAIELEFRE02: Train Electric for Freight (new)
 CapitalCost[r,t,y]
 +++++++++
 
-The figure 1 shows the Capital Cost for TRXTRAIELEFRE02, for every scenario.
+The figure 1 shows the Capital Cost for TRXTRAIELEFRE02, for NDP scenario.
 
-.. figure:: img/TRXTRAIELEFRE02_CapitalCost.png
+.. figure:: img/TRXTRAIELEFRE02_CapitalCost_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for TRXTRAIELEFRE02 for every scenario.*
+   *Figure 1) Capital Cost for TRXTRAIELEFRE02 for NDP scenario.*
    
 Source:
    This is the source. 
