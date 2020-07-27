@@ -27,7 +27,7 @@ TRYLFDSL02: Mini Trucks Diesel (new)
 | InputActivityRatio[r,t,f,m,y] (Diesel for       | PJ/   | 3.233        | 3.233        | 3.233        | 3.233        |
 | light freight transport)                        | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OperationalLife[r,t]                            | Years | 15           | 15           | 15           | 15           |
+| OperationalLife[r,t]                            | Years | 10           | 10           | 10           | 10           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (FLF_PickUpTrucks| PJ/   | 1            | 1            | 1            | 1            |
 | )                                               | Gvkm  |              |              |              |              |
