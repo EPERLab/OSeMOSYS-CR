@@ -30,19 +30,12 @@ TRYLFDSL01: Mini Trucks (existing)
 | OutputActivityRatio[r,t,f,m,y] (FLF_PickUpTrucks| PJ/   | 1            | 1            | 1            | 1            |
 | )                                               | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| ResidualCapacity[r,t,y] (BAU)                   |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
+| ResidualCapacity[r,t,y]                         |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| ResidualCapacity[r,t,y] (NDP)                   |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
+| TotalAnnualMaxCapacity[r,t,y]                   |  Gvkm | 1.5573       | 0.5191       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 1.5573       | 0.5191       | 0            | 0            |
-| (BAU)                                           |       |              |              |              |              |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 1.5573       | 0.5191       | 0            | 0            |
-| (NDP)                                           |       |              |              |              |              |
+|                                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitFixedCost[r,t,y]                            |   $   | 4123.9208    | 4123.9208    | 4123.9208    | 4123.9208    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -126,21 +119,13 @@ Description:
    
 ResidualCapacity[r,t,y]
 +++++++++
-The figure 1 shows the Residual Capacity for TRYLFDSL01, for the BAU scenario.
+The figure 1 shows the Residual Capacity for TRYLFDSL01, for every scenario.
 
-.. figure:: img/TRYLFDSL01_ResidualCapacity_BAU.png
+.. figure:: img/TRYLFDSL01_ResidualCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Residual Capacity for TRYLFDSL01 for BAU scenario.*
-   
-The figure 2 shows the Residual Capacity for TRYLFDSL01, for the NDP scenarios.
-
-.. figure:: img/TRYLFDSL01_ResidualCapacity_NDP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2) Residual Capacity for TRYLFDSL01 for NDP scenarios.*
+   *Figure 1) Residual Capacity for TRYLFDSL01 for every scenario.*
 
 Source:
    This is the source. 
@@ -150,21 +135,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The figure 3 shows the Total Annual Max Capacity for TRYLFDSL01, for the BAU scenario.
+The figure 2 shows the Total Annual Max Capacity for TRYLFDSL01, for every scenario.
 
-.. figure:: img/TRYLFDSL01_TotalAnnualMaxCapacity_BAU.png
+.. figure:: img/TRYLFDSL01_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRYLFDSL01 for BAU scenario.*
-   
-The figure 4 shows the Total Annual Max Capacity for TRYLFDSL01, for the NDP scenarios.
-
-.. figure:: img/TRYLFDSL01_TotalAnnualMaxCapacity_NDP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 4) Total Annual Max Capacity for TRYLFDSL01 for NDP scenarios.*
+   *Figure 2) Total Annual Max Capacity for TRYLFDSL01 for every scenario.*
 
 Source:
    This is the source. 
@@ -174,21 +151,13 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 5 shows the Total Technology Annual Activity Lower Limit for TRYLFDSL01, for the BAU scenario.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYLFDSL01, for every scenario.
 
-.. figure:: img/TRYLFDSL01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
+.. figure:: img/TRYLFDSL01_TotalTechnologyAnnualActivityLowerLimit.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRYLFDSL01 for BAU scenario.*
-   
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRYLFDSL01, for the NDP scenarios.
-
-.. figure:: img/TRYLFDSL01_TotalTechnologyAnnualActivityLowerLimit_NDP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRYLFDSL01 for NDP scenarios.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRYLFDSL01 for every scenario.*
 
 Source:
    This is the source. 
