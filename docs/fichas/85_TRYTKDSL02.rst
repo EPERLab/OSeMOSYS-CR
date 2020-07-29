@@ -35,7 +35,7 @@ TRYTKDSL02: Trucks Diesel (new)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5368       | 1.9912       | 3.1626       | 3.6692       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.6066       | 0            | 0            | 0            |
+| TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5368       | 0            | 0            | 0            |
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 98642.1472   | 98642.1472   | 98642.1472   | 98642.1472   |
