@@ -96,7 +96,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (4) shows the Input Activity Ratio for TRYLFELE02, for every scenario and associated to the fuel Electricity for public transport. 
+The equation (4) shows the Input Activity Ratio for TRYLFELE02, for every scenario and associated to the fuel Electricity for light freight transport. 
 
 InputActivityRatio=0.77 [PJ/Gvkm]   (4)
 
@@ -120,7 +120,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (6) shows the Output Activity Ratio for TRYLFELE02, for every scenario and associated to the fuel Public Transport in Buses.
+The equation (6) shows the Output Activity Ratio for TRYLFELE02, for every scenario and associated to the fuel FLF_PickUpTrucks.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (6)
 
