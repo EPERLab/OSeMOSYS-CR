@@ -138,7 +138,7 @@ The figure 2 shows the Total Annual Max Capacity for TRYLFELE02, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRYLFELE02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRYLFELE02 for the BAU scenario.*
    
 The figure 3 shows the Total Annual Max Capacity for TRYLFELE02, for the NDP scenario.
 
@@ -146,7 +146,7 @@ The figure 3 shows the Total Annual Max Capacity for TRYLFELE02, for the NDP sce
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRYLFELE02 for NDP scenario.*
+   *Figure 3) Total Annual Max Capacity for TRYLFELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -162,7 +162,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRYLFELE
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFELE02 for NDP scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
