@@ -36,7 +36,7 @@ TRLDGAS02: Light Duty Gasoline (new)
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 2.7699       | 0            | 0            | 0            |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 16649.4665   | 16649.4665   | 16649.4665   | 16649.4665   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -144,15 +144,15 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRLDGAS0
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRLDGAS02 for BAU scenario.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRLDGAS02 for the BAU scenario.*
    
-The figure 3 shows the Total Technology Annual Activity Lower Limit for TRLDGAS02, for the NDP and OP15C scenarios.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRLDGAS02, for the NDP scenario.
 
 .. figure:: img/TRLDGAS02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRLDGAS02 for NDP and OP15C scenarios.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRLDGAS02 for the NDP scenario.*
 
 Source:
    This is the source. 
