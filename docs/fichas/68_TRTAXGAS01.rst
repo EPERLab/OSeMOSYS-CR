@@ -125,21 +125,21 @@ Description:
    
 ResidualCapacity[r,t,y]
 +++++++++
-The figure 1 shows the Residual Capacity for TRTAXGAS01, for BAU scenario.
+The figure 1 shows the Residual Capacity for TRTAXGAS01, for the BAU scenario.
 
 .. figure:: img/TRTAXGAS01_ResidualCapacity_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Residual Capacity for TRTAXGAS01 for BAU scenario.*
+   *Figure 1) Residual Capacity for TRTAXGAS01 for the BAU scenario.*
    
-The figure 2 shows the Residual Capacity for TRTAXGAS01, for NDP scenario.
+The figure 2 shows the Residual Capacity for TRTAXGAS01, for the NDP scenario.
 
 .. figure:: img/TRTAXGAS01_ResidualCapacity_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Residual Capacity for TRTAXGAS01 for NDP scenario.*   
+   *Figure 2) Residual Capacity for TRTAXGAS01 for the NDP scenario.*   
    
 Source:
    This is the source. 
@@ -173,21 +173,21 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS01, for BAU scenario.
+The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS01, for the BAU scenario.
 
 .. figure:: img/TRTAXGAS01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for BAU scenario.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for the BAU scenario.*
    
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS01, for NDP scenario.
+The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS01, for the NDP scenario.
 
 .. figure:: img/TRTAXGAS01_TotalTechnologyAnnualActivityLowerLimit_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for NDP scenario.*
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for the NDP scenario.*
 
 Source:
    This is the source. 
