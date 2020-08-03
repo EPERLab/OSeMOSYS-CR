@@ -755,7 +755,7 @@ Description:
    This is the description.    
 
 PPGEO001: Geothermal Power Plant (existing)
-=====================================
++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | .. figure:: img/PPGEO.jpg                                                                                           |
@@ -794,7 +794,7 @@ PPGEO001: Geothermal Power Plant (existing)
 
 
 CapacityFactor[r,t,l,y]
-+++++++++
+---------
 The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and season.
 
 .. figure:: img/PPGEO001_CapacityFactor.png
@@ -810,7 +810,7 @@ Description:
    This is the description. 
 
 FixedCost[r,t,y]
-+++++++++
+---------
 The equation (1) shows the Fixed Cost for PPGEO001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (1)
@@ -822,7 +822,7 @@ Description:
    This is the description.
    
 InputActivityRatio[r,t,f,m,y]
-+++++++++
+---------
 The equation (2) shows the Input Activity Ratio for PPGEO001, for every scenario and associated to the fuel Geothermal Energy.
 
 InputActivityRatio=2.85 [PJ/PJ]   (2)
@@ -834,7 +834,7 @@ Description:
    This is the description.   
    
 OperationalLife[r,t]
-+++++++++
+---------
 The equation (3) shows the Operational Life for PPGEO001, for every scenario.
 
 OperationalLife=40 Years   (3)
@@ -846,7 +846,7 @@ Description:
    This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
-+++++++++
+---------
 The equation (4) shows the Output Activity Ratio for PPGEO001, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
@@ -858,7 +858,7 @@ Description:
    This is the description.      
    
 ResidualCapacity[r,t,y]
-+++++++++
+---------
 The equation (5) shows the Residual Capacity for PPGEO001, for every scenario.
 
 ResidualCapacity=0.206 [GW]   (5)
@@ -870,7 +870,7 @@ Description:
    This is the description.         
    
 TotalAnnualMaxCapacity[r,t,y]
-+++++++++
+---------
 The equation (6) shows the Total Annual Max Capacity for PPGEO001, for every scenario.
 
 TotalAnnualMaxCapacity=0.206 [GW]   (6)
@@ -882,8 +882,309 @@ Description:
    This is the description.            
    
 VariableCost[r,t,m,y]
-+++++++++
+---------
 The equation (7) shows the Variable Cost for PPGEO001, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+
+PPGEO002: Geothermal Power Plant (new)
+++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPGEO.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPGEO002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Geothermal Power Plant (new)                               |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 7828.28      | 7828.28      | 7828.28      | 7828.28      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Geothermal       | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 40           | 40           | 40           | 40           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.2          | 0.2          | 0.35         | 0.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMinCapacityInvestment[r,t,y]         |  GW   | 0            | 0.055        | 0            | 0            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and season.
+
+.. figure:: img/PPGEO002_CapacityFactor.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capacity Factor for PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The equation (1) shows the Capital Cost for PPGEO002, for every scenario.
+
+CapitalCost=7828.28 [M$/GW]   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPGEO002, for every scenario.
+
+FixedCost=44.5 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPGEO002, for every scenario and associated to the fuel Geothermal Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPGEO002, for every scenario.
+
+OperationalLife=40 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPGEO002, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenario.
+
+.. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+TotalAnnualMinCapacityInvestment[r,t,y]
+---------
+The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for every scenario.
+
+.. figure:: img/PPGEO002_TotalAnnualMinCapacityInvestment.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+VariableCost[r,t,m,y]
+---------
+The equation (6) shows the Variable Cost for PPGEO002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
+
+PPHDAM001: Hydro Dam Power Plant (existing)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PHH.jpg                                                                                             |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPHDAM001                                                  |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Hydro Dam Power Plant (existing)                           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.4374       | 0.6          | 0.6          | 0.6          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.4374       | 0.6          | 0.6          | 0.6          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 47.9         | 47.9         | 47.9         | 47.9         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Hydraulic        | PJ/PJ | 2.85         | 2.85         | 2.85         | 2.85         |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 80           | 80           | 80           | 80           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 1.13         | 1.13         | 1.13         | 1.13         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 1.13         | 1.13         | 1.13         | 1.13         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The figure 1 shows the Capacity Factor for PPHDAM001, for every scenario and season.
+
+.. figure:: img/PPHDAM001_CapacityFactor.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capacity Factor for PPHDAM001.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
+---------
+The equation (1) shows the Fixed Cost for PPHDAM001, for every scenario.
+
+FixedCost=47.9 [M$/GW]   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (2) shows the Input Activity Ratio for PPHDAM001, for every scenario and associated to the fuel Hydraulic Energy.
+
+InputActivityRatio=2.85 [PJ/PJ]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
+---------
+The equation (3) shows the Operational Life for PPHDAM001, for every scenario.
+
+OperationalLife=80 Years   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (4) shows the Output Activity Ratio for PPHDAM001, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
+---------
+The equation (5) shows the Residual Capacity for PPHDAM001, for every scenario.
+
+ResidualCapacity=1.13 [GW]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The equation (6) shows the Total Annual Max Capacity for PPHDAM001, for every scenario.
+
+TotalAnnualMaxCapacity=1.13 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
+---------
+The equation (7) shows the Variable Cost for PPHDAM001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
