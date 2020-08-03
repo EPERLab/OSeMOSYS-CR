@@ -1,1 +1,1 @@
-:doc:`my document <../my_doc>` 
+:doc:`06_PPDSL002 <./06_PPDSL002.rst>` 
