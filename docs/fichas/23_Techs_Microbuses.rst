@@ -26,13 +26,13 @@ Techs_Microbuses: Minbus (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.4173       | 0.5212       | 0.6243       | 0.723        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.4173       | 0.5302       | 0.8148       | 0.975        |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 0.4173       | 0.5302       | 0.8148       | 0.975        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4165       | 0.5202       | 0.6231       | 0.7216       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4166       | 0.5291       | 0.8131       | 0.9735       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -94,13 +94,13 @@ The figure 1 shows the Total Annual Max Capacity for Techs_Microbuses, for the B
    
    *Figure 1) Total Annual Max Capacity for Techs_Microbuses for BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_Microbuses, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_Microbuses, for the NDP scenario.
 
 .. figure:: img/Techs_Microbuses_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_Microbuses for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_Microbuses for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -118,13 +118,13 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_Mi
    
    *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Microbuses for BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Microbuses, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Microbuses, for the NDP scenario.
 
 .. figure:: img/Techs_Microbuses_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Microbuses for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Microbuses for NDP scenario.*
 
 Source:
    This is the source. 
