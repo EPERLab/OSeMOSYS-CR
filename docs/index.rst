@@ -19,6 +19,7 @@ The OSeMOSYS – CR model
    99refs
    999Annexes
    fichas/Power_Plants
+   fichas/FourWheelDrive
    fichas/20_Techs_4WD
    fichas/21_Techs_Bus
    fichas/22_Techs_LD
