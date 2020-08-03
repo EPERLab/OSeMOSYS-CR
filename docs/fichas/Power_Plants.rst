@@ -497,3 +497,398 @@ Source:
    
 Description: 
    This is the description.    
+   
+   
+PPFOB001: Oil Power Plant (existing)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPFOB.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPFOB001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Oil Power Plant (existing)                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Fuel Oil)        | PJ/PJ | 2.85         | 2.85         | 2.85         | 2.85         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 30           | 30           | 30           | 30           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.214        | 0.214        | 0.214        | 0.214        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.214        | 0.214        | 0.214        | 0.214        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPFOB001, for every scenario and season. 
+
+CapacityFactor=0.034%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPFOB001, for every scenario.
+
+FixedCost=44.5 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPFOB001, for every scenario and associated to the fuel Fuel Oil.
+
+InputActivityRatio=2.85 [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPFOB001, for every scenario.
+
+OperationalLife=30 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPFOB001, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
+---------
+The equation (6) shows the Residual Capacity for PPFOB001, for every scenario.
+
+ResidualCapacity=0.214 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The equation (7) shows the Total Annual Max Capacity for PPFOB001, for every scenario.
+
+TotalAnnualMaxCapacity=0.214 [GW]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
+---------
+The equation (8) shows the Variable Cost for PPFOB001, for every scenario.
+
+VariableCost=1.3 [M$/PJ]   (8)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.               
+
+
+PPFOB002: Oil Power Plant (new)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPFOB.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPFOB002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Oil Power Plant (new)                                      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 4650.33      | 4650.33      | 4650.33      | 4650.33      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Fuel Oil)        | PJ/PJ | 2.5          | 2.5          | 2.5          | 2.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 30           | 30           | 30           | 30           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPFOB002, for every scenario and season.
+
+CapacityFactor=0.034%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The equation (2) shows the Capital Cost for PPFOB002, for every scenario.
+
+CapitalCost=4650.33 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (3) shows the Fixed Cost for PPFOB002, for every scenario.
+
+FixedCost=44.5 [M$/GW]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (4) shows the Input Activity Ratio for PPFOB002, for every scenario and associated to the fuel Fuel Oil.
+
+InputActivityRatio=2.5 [PJ/PJ]   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (5) shows the Operational Life for PPFOB002, for every scenario.
+
+OperationalLife=30 Years   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (6) shows the Output Activity Ratio for PPFOB002, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+VariableCost[r,t,m,y]
+---------
+The equation (7) shows the Variable Cost for PPFOB002, for every scenario.
+
+VariableCost=1.3 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
+
+PPGEO001: Geothermal Power Plant (existing)
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPGEO.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPGEO001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Geothermal Power Plant (existing)                          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Geothermal       | PJ/PJ | 2.85         | 2.85         | 2.85         | 2.85         |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 40           | 40           | 40           | 40           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.206        | 0.206        | 0.206        | 0.206        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.206        | 0.206        | 0.206        | 0.206        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and season.
+
+.. figure:: img/PPGEO001_CapacityFactor.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capacity Factor for PPGEO001.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
++++++++++
+The equation (1) shows the Fixed Cost for PPGEO001, for every scenario.
+
+FixedCost=44.5 [M$/GW]   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (2) shows the Input Activity Ratio for PPGEO001, for every scenario and associated to the fuel Geothermal Energy.
+
+InputActivityRatio=2.85 [PJ/PJ]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
++++++++++
+The equation (3) shows the Operational Life for PPGEO001, for every scenario.
+
+OperationalLife=40 Years   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (4) shows the Output Activity Ratio for PPGEO001, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
++++++++++
+The equation (5) shows the Residual Capacity for PPGEO001, for every scenario.
+
+ResidualCapacity=0.206 [GW]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+The equation (6) shows the Total Annual Max Capacity for PPGEO001, for every scenario.
+
+TotalAnnualMaxCapacity=0.206 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
++++++++++
+The equation (7) shows the Variable Cost for PPGEO001, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
