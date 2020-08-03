@@ -20,19 +20,13 @@ The OSeMOSYS – CR model
    999Annexes
    fichas/Power_Plants
    fichas/FourWheelDrive
-   fichas/21_Techs_Bus
+   fichas/Bus
    fichas/22_Techs_LD
    fichas/23_Techs_Microbuses
    fichas/24_Techs_Minivan
    fichas/25_Techs_Motos
    fichas/26_Techs_Taxis
    fichas/27_Techs_Trains
-   fichas/28_TRBUSDSL01
-   fichas/29_TRBUSDSL02
-   fichas/30_TRBUSELC02
-   fichas/31_TRBUSHYBD02
-   fichas/32_TRBUSHYD02
-   fichas/33_TRBUSLPG02
    fichas/43_TRLDDSL01
    fichas/44_TRLDDSL02
    fichas/45_TRLDELE02
