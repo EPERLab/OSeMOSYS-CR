@@ -146,7 +146,7 @@ The figure 1 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for BAU scenario.*
+   *Figure 1) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for the BAU scenario.*
    
 The figure 2 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL02, for the NDP scenario.
 
@@ -154,7 +154,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for NDP scenario.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for the NDP scenario.*
 
 Source:
    This is the source. 
