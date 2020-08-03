@@ -26,13 +26,13 @@ Techs_Taxis: Taxis (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.633        | 0.7924       | 0.9381       | 1.0836       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.6336       | 0.8069       | 1.2249       | 1.4605       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 0.6336       | 0.8069       | 1.2249       | 1.4605       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.6317       | 0.7908       | 0.9363       | 1.0814       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.6321       | 0.805        | 1.2219       | 1.4569       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -92,15 +92,15 @@ The figure 1 shows the Total Annual Max Capacity for Techs_Taxis, for the BAU sc
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_Taxis for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for Techs_Taxis for the BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_Taxis, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_Taxis, for the NDP scenario.
 
 .. figure:: img/Techs_Taxis_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_Taxis for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_Taxis for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -116,15 +116,15 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_Ta
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Taxis for BAU scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Taxis for the BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Taxis, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Taxis, for the NDP scenario.
 
 .. figure:: img/Techs_Taxis_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Taxis for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Taxis for the NDP scenario.*
 
 Source:
    This is the source. 
