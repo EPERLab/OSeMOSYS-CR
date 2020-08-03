@@ -146,7 +146,7 @@ The figure 3 shows the Total Annual Max Capacity for TRYTKELC02, for the NDP sce
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRYTKELC02 for NDP scenario.*
+   *Figure 3) Total Annual Max Capacity for TRYTKELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -162,7 +162,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRYTKELC
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRYTKELC02 for NDP scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRYTKELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
