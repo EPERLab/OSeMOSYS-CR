@@ -137,13 +137,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The figure 2 shows the Total Annual Max Capacity for TRLDPHYBG02, for BAU scenario.
+The figure 2 shows the Total Annual Max Capacity for TRLDPHYBG02, for the BAU scenario.
 
 .. figure:: img/TRLDPHYBG02_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRLDPHYBG02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRLDPHYBG02 for the BAU scenario.*
 
 Source:
    This is the source. 
