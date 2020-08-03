@@ -68,4 +68,4 @@ The OSeMOSYS – CR model
    fichas/50_TRMBUSDSL01
    fichas/51_TRMBUSDSL02
    fichas/52_TRMBUSELE02
-   fichas/Ficha_prueba
+   fichas/Power_Plants
