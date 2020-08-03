@@ -137,7 +137,7 @@ The figure 1 shows the Total Technology Annual Activity Lower Limit for TRTAXLPG
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Technology Annual Activity Lower Limit for TRTAXLPG02 for NDP scenario.*
+   *Figure 1) Total Technology Annual Activity Lower Limit for TRTAXLPG02 for the NDP scenario.*
 
 Source:
    This is the source. 
