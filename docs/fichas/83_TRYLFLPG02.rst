@@ -127,13 +127,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The figure 1 shows the Total Annual Max Capacity for TRYLFLPG02, for NDP scenario.
+The figure 1 shows the Total Annual Max Capacity for TRYLFLPG02, for the NDP scenario.
 
 .. figure:: img/TRYLFLPG02_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for TRYLFLPG02 for NDP scenario.*
+   *Figure 1) Total Annual Max Capacity for TRYLFLPG02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -150,7 +150,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRYLFLPG
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFLPG02 for NDP scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFLPG02 for the NDP scenario.*
 
 Source:
    This is the source. 
