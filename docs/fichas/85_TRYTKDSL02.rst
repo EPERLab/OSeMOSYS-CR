@@ -148,7 +148,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRYTKDSL
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRYTKDSL02 for NDP scenario.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRYTKDSL02 for the NDP scenario.*
 
 Source:
    This is the source. 
