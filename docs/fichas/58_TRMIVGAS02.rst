@@ -144,7 +144,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMIVGAS
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRMIVGAS02 for BAU scenario.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRMIVGAS02 for the BAU scenario.*
    
 The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMIVGAS02, for the NDP scenario.
 
@@ -152,7 +152,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMIVGAS
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRMIVGAS02 for NDP scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRMIVGAS02 for the NDP scenario.*
 
 Source:
    This is the source. 
