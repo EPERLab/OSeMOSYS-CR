@@ -26,13 +26,13 @@ Techs_4WD: Four Wheel Drive (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 5.1587       | 6.5541       | 7.9513       | 9.3417       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 5.1582       | 6.3674       | 5.5055       | 5.963        |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)     | Gvkm  | 5.1582       | 6.3674       | 5.5055       | 5.963        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 5.1484       | 6.541        | 7.9354       | 9.3231       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 5.1491       | 6.3539       | 5.4939       | 5.9237       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -92,15 +92,15 @@ The figure 1 shows the Total Annual Max Capacity for Techs_4WD, for the BAU scen
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_4WD for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for Techs_4WD for the BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_4WD, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_4WD, for the NDP scenario.
 
 .. figure:: img/Techs_4WD_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_4WD for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_4WD for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -116,15 +116,15 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_4W
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_4WD for BAU scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_4WD for the BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_4WD, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_4WD, for the NDP scenario.
 
 .. figure:: img/Techs_4WD_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_4WD for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_4WD for the NDP scenario.*
 
 Source:
    This is the source. 
