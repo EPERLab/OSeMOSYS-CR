@@ -1,7 +1,7 @@
 Four Wheel Drive
 =======================================
 
-Techs_4WD: Four Wheel Drive (Grouping Technology)
+Four Wheel Drive (Grouping Technology)
 +++++++++
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | .. figure:: img/Techs_4WD.jpg                                                                                       |
@@ -134,7 +134,7 @@ Source:
 Description: 
    This is the description.
    
-TRFWDDSL01: Four-Wheel-Drive (existing)
+Four-Wheel-Drive Diesel  (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -352,7 +352,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDDSL02: Four-Wheel-Drive Diesel (new)
+Four-Wheel-Drive Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -545,7 +545,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDELE02: Four-Wheel-Drive Electric (new)
+Four-Wheel-Drive Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -766,7 +766,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDGAS01: Four-Wheel-Drive Gasoline (existing)
+Four-Wheel-Drive Gasoline (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -978,7 +978,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDGAS02: Four-Wheel-Drive Gasoline (new)
+Four-Wheel-Drive Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1165,7 +1165,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDHYBD02: Four-Wheel-Drive Hybrid Electric-Diesel (new)
+Four-Wheel-Drive Hybrid Electric-Diesel (new)
 ++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1340,7 +1340,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDLPG01: Four-Wheel-Drive LPG (existing)
+Four-Wheel-Drive LPG (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1550,7 +1550,7 @@ Description:
    This is the description.
    
    
-TRFWDLPG02: Four-Wheel-Drive LPG (new)
+Four-Wheel-Drive LPG (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1721,7 +1721,7 @@ Source:
 Description: 
    This is the description.
 
-TRFWDPHYBD02: Four-Wheel-Drive Plug-in Hybrid Electric-Diesel(new)
+Four-Wheel-Drive Plug-in Hybrid Electric-Diesel(new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
