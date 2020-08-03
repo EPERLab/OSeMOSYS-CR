@@ -38,7 +38,7 @@ TRMBUSDSL02: Microbus Diesel (new)
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1041       | 0            | 0            | 0            |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 72315.512    | 72315.512    | 72315.512    | 72315.512    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -146,15 +146,15 @@ The figure 1 shows the Total Technology Annual Activity Lower Limit for TRMBUSDS
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Technology Annual Activity Lower Limit for TRMBUSDSL02 for BAU scenario.*
+   *Figure 1) Total Technology Annual Activity Lower Limit for TRMBUSDSL02 for the BAU scenario.*
    
-The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMBUSDSL02, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMBUSDSL02, for the NDP scenario.
 
 .. figure:: img/TRMBUSDSL02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRMBUSDSL02 for NDP and OP15C scenarios.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRMBUSDSL02 for the NDP scenario.*
 
 Source:
    This is the source. 
