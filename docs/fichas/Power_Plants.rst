@@ -377,3 +377,123 @@ Source:
    
 Description: 
    This is the description.    
+
+PPDSL002: Diesel Power Plant (new)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPDSL.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPDSL002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Diesel Power Plant (new)                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 1269.78      | 1269.78      | 1269.78      | 1269.78      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Diesel)          | PJ/PJ | 2.5          | 2.5          | 2.5          | 2.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 30           | 30           | 30           | 30           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPDSL002, for every scenario and season.
+
+CapacityFactor=0.034%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The equation (2) shows the Capital Cost for PPDSL002, for every scenario.
+
+CapitalCost=1269.78 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (3) shows the Fixed Cost for PPDSL002, for every scenario.
+
+FixedCost=44.5 [M$/GW]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (4) shows the Input Activity Ratio for PPDSL002, for every scenario and associated to the fuel Diesel.
+
+InputActivityRatio=2.5 [PJ/PJ]   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (5) shows the Operational Life for PPDSL002, for every scenario.
+
+OperationalLife=30 Years   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (6) shows the Output Activity Ratio for PPDSL002, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+VariableCost[r,t,m,y]
+---------
+The equation (7) shows the Variable Cost for PPDSL002, for every scenario.
+
+VariableCost=1.3 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
