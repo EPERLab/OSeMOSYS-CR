@@ -1,7 +1,7 @@
 Light Duty Vehicles
 ================================
 
-Techs_LD: Light Duty (Grouping Technology)
+Light Duty (Grouping Technology)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -353,7 +353,7 @@ Source:
 Description: 
    This is the description.
 
-TRLDDSL02: Light Duty Diesel (new)
+Light Duty Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -546,7 +546,7 @@ Source:
 Description: 
    This is the description.
 
-TRLDELE02: Light Duty Electric (new)
+Light Duty Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -767,7 +767,7 @@ Source:
 Description: 
    This is the description.
 
-TRLDGAS01: Light Duty Gasoline (existing)
+Light Duty Gasoline (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -980,7 +980,7 @@ Description:
    This is the description.
    
    
-TRLDGAS02: Light Duty Gasoline (new)
+Light Duty Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1167,7 +1167,7 @@ Source:
 Description: 
    This is the description.
 
-TRLDHYBG02: Light Hybrid Electric-Gasoline (new)
+Light Hybrid Electric-Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1342,7 +1342,7 @@ Source:
 Description: 
    This is the description.
 
-TRLDPHYBG02: Light Plug-in Hybrid Electric-Gasoline  (new)
+Light Plug-in Hybrid Electric-Gasoline (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
