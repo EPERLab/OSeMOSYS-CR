@@ -26,13 +26,13 @@ Techs_Bus: Bus (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.5444       | 0.6712       | 0.7994       | 0.9298       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.5444       | 0.6829       | 1.0431       | 1.2542       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 0.5444       | 0.6829       | 1.0431       | 1.2542       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5433       | 0.6699       | 0.7978       | 0.9279       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5433       | 0.6816       | 1.041        | 1.2517       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -94,13 +94,13 @@ The figure 1 shows the Total Annual Max Capacity for Techs_Bus, for the BAU scen
    
    *Figure 1) Total Annual Max Capacity for Techs_Bus for BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_Bus, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_Bus, for the NDP scenario.
 
 .. figure:: img/Techs_Bus_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_Bus for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_Bus for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -118,13 +118,13 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_Bu
    
    *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Bus for BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Bus, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Bus, for the NDP scenario.
 
 .. figure:: img/Techs_Bus_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Bus for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Bus for the NDP scenario.*
 
 Source:
    This is the source. 
