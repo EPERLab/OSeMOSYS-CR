@@ -36,7 +36,7 @@ PPBIO001: Biomass Power Plant (existing)
 
 CapacityFactor[r,t,l,y]
 +++++++++
-The equation (1) shows the Capacity Factor for PPBIO001, for every scenario.
+The equation (1) shows the Capacity Factor for PPBIO001, for every scenario and season.
 
 CapacityFactor=0.317%   (1)
 
