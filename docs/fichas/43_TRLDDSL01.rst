@@ -34,17 +34,17 @@ TRLDDSL01: Light Duty Diesel (existing)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | ResidualCapacity[r,t,y] (BAU)                   | Gvkm  | 0.3022       | 0.122        | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| ResidualCapacity[r,t,y] (NDP and OP15C)         | Gvkm  | 0.3022       | 0.1015       | 0            | 0            |
+| ResidualCapacity[r,t,y] (NDP)                   | Gvkm  | 0.3022       | 0.1015       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.3022       | 0.122        | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.3022       | 0.1015       | 0            | 0            |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 0.3022       | 0.1015       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.3016       | 0.1217       | 0            | 0            |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.3016       | 0.1013       | 0            | 0            |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitFixedCost[r,t,y]                            |   $   | 728.6044     | 728.6044     | 728.6044     | 728.6044     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -142,13 +142,13 @@ The figure 2 shows the Residual Capacity for TRLDDSL01, for the BAU scenario.
    
    *Figure 2) Residual Capacity for TRLDDSL01 for the BAU scenario.*
    
-The figure 3 shows the Residual Capacity for TRLDDSL01, for the NDP and OP15C scenario.
+The figure 3 shows the Residual Capacity for TRLDDSL01, for the NDP scenario.
 
 .. figure:: img/TRLDDSL01_ResidualCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Residual Capacity for TRLDDSL01 for the NDP and OP15C scenarios.*   
+   *Figure 3) Residual Capacity for TRLDDSL01 for the NDP scenario.*   
    
 Source:
    This is the source. 
@@ -166,13 +166,13 @@ The figure 4 shows the Total Annual Max Capacity for TRLDDSL01, for the BAU scen
    
    *Figure 4) Total Annual Max Capacity for TRLDDSL01 for the BAU scenario.*
    
-The figure 5 shows the Total Annual Max Capacity for TRLDDSL01, for the NDP and OP15C scenarios.
+The figure 5 shows the Total Annual Max Capacity for TRLDDSL01, for the NDP scenario.
 
 .. figure:: img/TRLDDSL01_TotalAnnualMaxCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Annual Max Capacity for TRLDDSL01 for the NDP and OP15C scenarios.*   
+   *Figure 5) Total Annual Max Capacity for TRLDDSL01 for the NDP scenario.*   
    
 Source:
    This is the source. 
@@ -182,21 +182,21 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRLDDSL01, for BAU scenario.
+The figure 6 shows the Total Technology Annual Activity Lower Limit for TRLDDSL01, for the BAU scenario.
 
 .. figure:: img/TRLDDSL01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDDSL01 for BAU scenario.*
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the BAU scenario.*
    
-The figure 7 shows the Total Technology Annual Activity Lower Limit for TRLDDSL01, for NDP and OP15C scenarios.
+The figure 7 shows the Total Technology Annual Activity Lower Limit for TRLDDSL01, for the NDP scenario.
 
 .. figure:: img/TRLDDSL01_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 7) Total Technology Annual Activity Lower Limit for TRLDDSL01 for NDP and OP15C scenarios.*
+   *Figure 7) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
