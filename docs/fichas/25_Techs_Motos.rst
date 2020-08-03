@@ -26,13 +26,13 @@ Techs_Motos: Motorcycles (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 2.9069       | 3.6976       | 4.4782       | 5.2725       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 2.9076       | 3.5905       | 3.1017       | 3.3498       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 2.9076       | 3.5905       | 3.1017       | 3.3498       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 2.9011       | 3.6902       | 4.4692       | 5.262        |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 2.9024       | 3.584        | 3.0932       | 3.3437       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -92,15 +92,15 @@ The figure 1 shows the Total Annual Max Capacity for Techs_Motos, for the BAU sc
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_Motos for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for Techs_Motos for the BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_Motos, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_Motos, for the NDP scenario.
 
 .. figure:: img/Techs_Motos_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_Motos for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_Motos for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -116,15 +116,15 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_Mo
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Motos for BAU scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Motos for the BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Motos, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Motos, for the NDP scenario.
 
 .. figure:: img/Techs_Motos_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Motos for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Motos for the NDP scenario.*
 
 Source:
    This is the source. 
