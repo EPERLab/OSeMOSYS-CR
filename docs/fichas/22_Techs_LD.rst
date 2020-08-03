@@ -92,7 +92,7 @@ The figure 1 shows the Total Annual Max Capacity for Techs_LD, for the BAU scena
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_LD for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for Techs_LD for the BAU scenario.*
    
 The figure 2 shows the Total Annual Max Capacity for Techs_LD, for the NDP scenario.
 
@@ -116,7 +116,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_LD
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for BAU scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for the BAU scenario.*
    
 The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the NDP scenario.
 
