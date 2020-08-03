@@ -34,13 +34,13 @@ TRFWDELE02: Four-Wheel-Drive Electric (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 0            | 0            | 0.1325       | 0.467        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  Gvkm | 0            | 0.433        | 3.8402       | 5.5831       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 0            | 0.433        | 3.8402       | 5.5831       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0            | 0            | 0.1322       | 0.4661       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0            | 0.4321       | 3.8322       | 5.5712       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 66212.7337   | 50379.1801   | 49170.1577   | 47960.9877   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -150,15 +150,15 @@ The figure 2 shows the Total Annual Max Capacity for TRFWDELE02, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRFWDELE02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRFWDELE02 for the BAU scenario.*
    
-The figure 3 shows the Total Annual Max Capacity for TRFWDELE02, for the NDP and OP15C scenarios.
+The figure 3 shows the Total Annual Max Capacity for TRFWDELE02, for the NDP scenario.
 
 .. figure:: img/TRFWDELE02_TotalAnnualMaxCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRFWDELE02 for NDP and OP15C scenarios.*
+   *Figure 3) Total Annual Max Capacity for TRFWDELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -177,13 +177,13 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRFWDELE
    *Figure 4) Total Technology Annual Activity Lower Limit for TRFWDELE02 for the BAU scenario.*
 
 
-The figure 5 shows the Total Technology Annual Activity Lower Limit for TRFWDELE02, for the NDP and OP15C scenarios.
+The figure 5 shows the Total Technology Annual Activity Lower Limit for TRFWDELE02, for the NDP scenario.
 
 .. figure:: img/TRFWDELE02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRFWDELE02 for NDP and OP15C scenarios.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRFWDELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
