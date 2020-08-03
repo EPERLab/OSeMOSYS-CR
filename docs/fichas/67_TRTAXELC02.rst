@@ -150,7 +150,7 @@ The figure 2 shows the Total Annual Max Capacity for TRTAXELC02, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRTAXELC02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRTAXELC02 for the BAU scenario.*
    
 The figure 3 shows the Total Annual Max Capacity for TRTAXELC02, for the NDP scenario.
 
@@ -158,7 +158,7 @@ The figure 3 shows the Total Annual Max Capacity for TRTAXELC02, for the NDP sce
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRTAXELC02 for NDP scenario.*
+   *Figure 3) Total Annual Max Capacity for TRTAXELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -168,13 +168,13 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 4 shows the Total Technology Annual Activity Lower Limit for TRTAXELC02, for BAU scenario.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for TRTAXELC02, for the BAU scenario.
 
 .. figure:: img/TRTAXELC02_TotalTechnologyAnnualActivityLowerLimit_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRTAXELC02 for BAU scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRTAXELC02 for the BAU scenario.*
 
 The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXELC02, for the NDP scenario.
 
@@ -182,7 +182,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXELC
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXELC02 for NDP scenario.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
