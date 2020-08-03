@@ -137,7 +137,7 @@ The figure 1 shows the Residual Capacity for TRTAXDSL01, for the BAU scenario.
    :align:   center
    :width:   700 px
    
-   *Figure 1) Residual Capacity for TRTAXDSL01 for BAU scenario.*
+   *Figure 1) Residual Capacity for TRTAXDSL01 for the BAU scenario.*
    
 The figure 2 shows the Residual Capacity for TRTAXDSL01, for the NDP scenario.
 
@@ -145,7 +145,7 @@ The figure 2 shows the Residual Capacity for TRTAXDSL01, for the NDP scenario.
    :align:   center
    :width:   700 px
    
-   *Figure 2) Residual Capacity for TRTAXDSL01 for NDP scenario.*
+   *Figure 2) Residual Capacity for TRTAXDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -161,7 +161,7 @@ The figure 3 shows the Total Annual Max Capacity for TRTAXDSL01, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRTAXDSL01 for BAU scenario.*
+   *Figure 3) Total Annual Max Capacity for TRTAXDSL01 for the BAU scenario.*
    
 The figure 4 shows the Total Annual Max Capacity for TRTAXDSL01, for the NDP scenario.
 
@@ -169,7 +169,7 @@ The figure 4 shows the Total Annual Max Capacity for TRTAXDSL01, for the NDP sce
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Annual Max Capacity for TRTAXDSL01 for NDP scenario.*
+   *Figure 4) Total Annual Max Capacity for TRTAXDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -185,7 +185,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for BAU scenario.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for the BAU scenario.*
    
 The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL01, for the NDP scenario.
 
@@ -193,7 +193,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for NDP scenario.*
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
