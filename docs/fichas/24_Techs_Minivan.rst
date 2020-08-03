@@ -26,13 +26,13 @@ Techs_Minivan: Minivan (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.1607       | 0.6573       | 0.9718       | 1.1401       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.1604       | 0.6379       | 0.6729       | 0.7246       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 0.1604       | 0.6379       | 0.6729       | 0.7246       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1604       | 0.6559       | 0.9699       | 1.1378       |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1604       | 0.6363       | 0.9716       | 0.7232       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -92,15 +92,15 @@ The figure 1 shows the Total Annual Max Capacity for Techs_Minivan, for the BAU 
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_Minivan for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for Techs_Minivan for the BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_Minivan, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_Minivan, for the NDP scenario.
 
 .. figure:: img/Techs_Minivan_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_Minivan for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_Minivan for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -116,15 +116,15 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_Mi
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Minivan for BAU scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_Minivan for the BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Minivan, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Minivan, for the NDP scenario.
 
 .. figure:: img/Techs_Minivan_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Minivan for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Minivan for the NDP scenario.*
 
 Source:
    This is the source. 
