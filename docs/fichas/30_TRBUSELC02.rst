@@ -34,10 +34,10 @@ TRBUSELC02: Bus Electric (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 0            | 99999        | 99999        | 99999        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  Gvkm | 0            | 0.051        | 0.6698       | 1.0554       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 0            | 0.051        | 0.6698       | 1.0554       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0            | 0.0509       | 0.6684       | 1.0533       |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 388570.56    | 295682.82    | 288547.68    | 281478       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -147,15 +147,15 @@ The figure 2 shows the Total Annual Max Capacity for TRBUSELC02, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRBUSELC02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRBUSELC02 for the BAU scenario.*
    
-The figure 3 shows the Total Annual Max Capacity for TRBUSELC02, for the NDP and OP15C scenarios.
+The figure 3 shows the Total Annual Max Capacity for TRBUSELC02, for the NDP scenario.
 
 .. figure:: img/TRBUSELC02_TotalAnnualMaxCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRBUSELC02 for NDP and OP15C scenarios.*
+   *Figure 3) Total Annual Max Capacity for TRBUSELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -165,13 +165,13 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 4 shows the Total Technology Annual Activity Lower Limit for TRBUSELC02, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for TRBUSELC02, for the NDP scenario.
 
 .. figure:: img/TRBUSELC02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRBUSELC02 for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRBUSELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
