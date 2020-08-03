@@ -180,7 +180,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRYLFGAS
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFGAS02 for BAU scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRYLFGAS02 for the BAU scenario.*
    
 The figure 5 shows the Total Technology Annual Activity Lower Limit for TRYLFGAS02, for the NDP scenario.
 
@@ -188,7 +188,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRYLFGAS
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRYLFGAS02 for NDP scenario.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRYLFGAS02 for the NDP scenario.*
 
 Source:
    This is the source. 
