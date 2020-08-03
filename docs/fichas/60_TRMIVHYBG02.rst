@@ -35,7 +35,7 @@ TRMIVHYBG02: Minivan Hybrid Electric-Gasoline (new)
 | OutputActivityRatio[r,t,f,m,y] (Private         | PJ/   | 1            | 1            | 1            | 1            |
 | Transport in Minivan)                           | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0            | 99999        | 99999        | 99999        |
+| TotalAnnualMaxCapacity[r,t,y]                   | Gvkm  | 0            | 99999        | 99999        | 99999        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |  $    | 30107.374    | 30107.374    | 30107.374    | 30107.374    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -133,13 +133,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The figure 1 shows the Total Annual Max Capacity for TRMIVHYBG02, for the BAU scenario.
+The figure 1 shows the Total Annual Max Capacity for TRMIVHYBG02, for every scenario.
 
 .. figure:: img/TRMIVHYBG02_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for TRMIVHYBG02 for the BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for TRMIVHYBG02 for every scenario.*
 
 Source:
    This is the source. 
