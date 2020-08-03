@@ -1334,3 +1334,881 @@ Source:
 Description: 
    This is the description. 
 
+PPHROR002: Hydro Run of River Power Plant (new)
+++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PHH.jpg                                                                                             |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPHROR002                                                  |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Hydro Run of River Power Plant (new)                       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.4966       | 0.6          | 0.6          | 0.6          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.4966       | 0.6          | 0.6          | 0.6          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 4385.15      | 4385.15      | 4385.15      | 4385.15      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 47.9         | 47.9         | 47.9         | 47.9         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Hydraulic        | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 60           | 60           | 60           | 60           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.02         | 0.08         | 0.14         | 0.2          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMinCapacityInvestment[r,t,y]         |  GW   | 0.019        | 0            | 0            | 0            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and season.
+
+.. figure:: img/PPHROR002_CapacityFactor.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capacity Factor for PPHROR002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The equation (1) shows the Capital Cost for PPHROR002, para todos los escenarios.
+
+CapitalCost=4385.15 [M$/GW]   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPHROR002, for every scenario.
+
+FixedCost=47.9 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPHROR002, for every scenario and associated to the fuel Hydraulic Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPHROR002, for every scenario.
+
+OperationalLife=60 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPHROR002, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenario.
+
+.. figure:: img/PPHROR002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPHROR002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+TotalAnnualMinCapacityInvestment[r,t,y]
+---------
+The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for every scenario.
+
+.. figure:: img/PPHROR002_TotalAnnualMinCapacityInvestment.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+VariableCost[r,t,m,y]
+---------
+The equation (6) shows the Variable Cost for PPHROR002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+   
+PPPVD002: Photovoltaic Power Plant Distribution (new)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPPVD.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPPVD002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Photovoltaic Power Plant Distribution (new)                |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 1784.5       | 1553.5       | 1553.5       | 1553.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 15.6         | 15.6         | 15.6         | 15.6         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Solar            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 20           | 20           | 20           | 20           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| For Transmission)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.1          | 0.3          | 1.659        | 3            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPPVD002, for every scenario and season.
+
+CapacityFactor=0.227%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The figure 1 shows the Capital Cost for PPPVD002, for every scenario.
+
+.. figure:: img/PPPVD002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capital Cost for PPPVD002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPPVD002, for every scenario.
+
+FixedCost=15.6 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPPVD002, for every scenario and associated to the fuel Solar Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPPVD002, for every scenario.
+
+OperationalLife=20 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPPVD002, for every scenario and associated to the fuel Electricity for Transmission.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenario.
+
+.. figure:: img/PPPVD002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPPVD002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+VariableCost[r,t,m,y]
+---------
+The equation (6) shows the Variable Cost for PPPVD002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.     
+
+PPPVT001: Photovoltaic Power Plant Transmission (existing)
+++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPPVD.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPPVT001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Photovoltaic Power Plant Transmission (existing)           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.277        | 0.277        | 0.277        | 0.277        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.277        | 0.277        | 0.277        | 0.277        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 31.3         | 31.3         | 31.3         | 31.3         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Solar            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.0054       | 0.0054       | 0.0054       | 0.0054       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.0054       | 0.0054       | 0.0054       | 0.0054       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPPVT001, for every scenario and season.
+
+CapacityFactor=0.277%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPPVT001, for every scenario.
+
+FixedCost=31.3 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPPVT001, for every scenario and associated to the fuel Solar Energy. 
+
+InputActivityRatio=1 [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPPVT001, for every scenario.
+
+OperationalLife=25 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPPVT001, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
+---------
+The equation (6) shows the Residual Capacity for PPPVT001, for every scenario.
+
+ResidualCapacity=0.0054 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The equation (7) shows the Total Annual Max Capacity for PPPVT001, for every scenario. 
+
+TotalAnnualMaxCapacity=0.0054 [GW]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
+---------
+The equation (8) shows the Variable Cost for PPPVT001, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (8)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+PPPVT002: Photovoltaic Power Plant Transmission (new)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPPVD.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPPVT002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Photovoltaic Power Plant Transmission (new)                |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.227        | 0.227        | 0.227        | 0.227        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 2484.5       | 2253.5       | 2253.5       | 2253.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 31.3         | 31.3         | 31.3         | 31.3         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Solar            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.3          | 0.3          | 0.4          | 0.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMinCapacityInvestment[r,t,y]         |  GW   | 0            | 0            | 0            | 0            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPPVT002, for every scenario and season.
+
+CapacityFactor=0.227%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The figure 1 shows the Capital Cost for PPPVT002, for every scenario.
+
+.. figure:: img/PPPVT002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capital Cost for PPPVT002.*
+   
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPPVT002, for every scenario.
+
+FixedCost=31.3 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPPVT002, for every scenario and associated to the fuel Solar Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPPVT002, for every scenario.
+
+OperationalLife=25 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPPVT002, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenario.
+
+.. figure:: img/PPPVT002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPPVT002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+TotalAnnualMinCapacityInvestment[r,t,y]
+---------
+The figure 3 show the Total Annual Min Capacity Investment for PPPVT002, for every scenario.
+
+.. figure:: img/PPPVT002_TotalAnnualMinCapacityInvestment.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 3) Total Annual Min Capacity Investment for PPPVT002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+VariableCost[r,t,m,y]
+---------
+The equation (6) shows the Variable Cost for PPPVT002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
+
+PPWND002: Wind Power Plant Distribution (new)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPWN.jpg                                                                                            |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPWND002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Wind Power Plant Distribution (new)                        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | M$/GW | 2384.5       | 2153.5       | 2153.5       | 2153.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Eolic            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 20           | 20           | 20           | 20           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| For Transmission)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.075        | 0.225        | 0.375        | 0.525        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPWND002, for every scenario and season.
+
+CapacityFactor=0.572%   (1)
+
+Fuente:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
+---------
+The figure 1 shows the Capital Cost for PPWND002, for every scenario.
+
+.. figure:: img/PPWND002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Capital Cost for PPWND002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPWND002, for every scenario.
+
+FixedCost=179.1 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPWND002, for every scenario and associated to the fuel Eolic Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPWND002, for every scenario.
+
+OperationalLife=20 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPWND002, for every scenario and associated to the fuel Electricity for Transmission.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenario.
+
+.. figure:: img/PPWND002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for PPWND002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+VariableCost[r,t,m,y]
+---------
+The equation (6) shows the Variable Cost for PPWND002, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
+
+PPWNT001: Wind Power Plant Transmission (existing)
++++++++++
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPWN.jpg                                                                                            |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPWNT001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Wind Power Plant Transmission (existing)                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Eolic            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            | Years | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.39         | 0.39         | 0.39         | 0.39         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.39         | 0.39         | 0.39         | 0.39         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
+---------
+The equation (1) shows the Capacity Factor for PPWNT001, for every scenario and season.
+
+CapacityFactor=0.572%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
+---------
+The equation (2) shows the Fixed Cost for PPWNT001, for every scenario.
+
+FixedCost=179.1 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
+---------
+The equation (3) shows the Input Activity Ratio for PPWNT001, for every scenario and associated to the fuel Eolic Energy. 
+
+InputActivityRatio=1 [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
+---------
+The equation (4) shows the Operational Life for PPWNT001, for every scenario.
+
+OperationalLife=25 Years   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
+---------
+The equation (5) shows the Output Activity Ratio for PPWNT001, for every scenario and associated to the fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
+---------
+The equation (6) shows the Residual Capacity for PPWNT001, for every scenario.
+
+ResidualCapacity=0.39 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
+The equation (7) shows the Total Annual Max Capacity for PPWNT001, for every scenario. 
+
+TotalAnnualMaxCapacity=0.39 [GW]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
+---------
+The equation (8) shows the Variable Cost for PPWNT001, for every scenario.
+
+VariableCost=0.001 [M$/PJ]   (8)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
