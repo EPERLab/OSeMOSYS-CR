@@ -34,17 +34,17 @@ TRBUSDSL01: Bus Diesel (existing)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | ResidualCapacity[r,t,y] (BAU)                   |  Gvkm | 0.4083       | 0.1678       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| ResidualCapacity[r,t,y] (NDP and OP15C)         |  Gvkm | 0.4083       | 0.2044       | 0            | 0            |
+| ResidualCapacity[r,t,y] (NDP)                   |  Gvkm | 0.4083       | 0.2044       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 0.4083       | 0.1678       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  Gvkm | 0.4083       | 0.2044       | 0            | 0            |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 0.4083       | 0.2044       | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4074       | 0.1674       | 0            | 0            |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4074       | 0.204        | 0            | 0            |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitFixedCost[r,t,y]                            |   $   | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -137,15 +137,15 @@ The figure 1 shows the Residual Capacity for TRBUSDSL01, for the BAU scenario.
    :align:   center
    :width:   700 px
    
-   *Figure 1) Residual Capacity for TRBUSDSL01 for BAU scenario.*
+   *Figure 1) Residual Capacity for TRBUSDSL01 for the BAU scenario.*
    
-The figure 2 shows the Residual Capacity for TRBUSDSL01, for the NDP and OP15C scenarios.
+The figure 2 shows the Residual Capacity for TRBUSDSL01, for the NDP scenario.
 
 .. figure:: img/TRBUSDSL01_ResidualCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Residual Capacity for TRBUSDSL01 for NDP and OP15C scenarios.*
+   *Figure 2) Residual Capacity for TRBUSDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -161,15 +161,15 @@ The figure 3 shows the Total Annual Max Capacity for TRBUSDSL01, for the BAU sce
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRBUSDSL01 for BAU scenario.*
+   *Figure 3) Total Annual Max Capacity for TRBUSDSL01 for the BAU scenario.*
    
-The figure 4 shows the Total Annual Max Capacity for TRBUSDSL01, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Annual Max Capacity for TRBUSDSL01, for the NDP scenario.
 
 .. figure:: img/TRBUSDSL01_TotalAnnualMaxCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Annual Max Capacity for TRBUSDSL01 for NDP and OP15C scenarios.*
+   *Figure 4) Total Annual Max Capacity for TRBUSDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -185,15 +185,15 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRBUSDSL01 for BAU scenario.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRBUSDSL01 for the BAU scenario.*
    
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL01, for the NDP and OP15C scenarios.
+The figure 6 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL01, for the NDP scenario.
 
 .. figure:: img/TRBUSDSL01_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRBUSDSL01 for NDP and OP15C scenarios.*
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRBUSDSL01 for the NDP scenario.*
 
 Source:
    This is the source. 
