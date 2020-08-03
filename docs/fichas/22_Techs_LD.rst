@@ -26,13 +26,13 @@ Techs_LD: Light Duty (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 11.505       | 13.934       | 16.6408      | 19.5691      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 11.5057      | 13.5359      | 11.5218      | 12.4342      |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             | Gvkm  | 11.5057      | 13.5359      | 11.5218      | 12.4342      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 11.482       | 13.9062      | 16.6076      | 19.53        |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 11.4825      | 13.5072      | 11.499       | 12.4097      |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -94,13 +94,13 @@ The figure 1 shows the Total Annual Max Capacity for Techs_LD, for the BAU scena
    
    *Figure 1) Total Annual Max Capacity for Techs_LD for BAU scenario.*
    
-The figure 2 shows the Total Annual Max Capacity for Techs_LD, for the NDP and OP15C scenarios.
+The figure 2 shows the Total Annual Max Capacity for Techs_LD, for the NDP scenario.
 
 .. figure:: img/Techs_LD_TotalAnnualMaxCapacity_NDP_OP15C.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for Techs_LD for NDP and OP15C scenarios.*
+   *Figure 2) Total Annual Max Capacity for Techs_LD for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -118,13 +118,13 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_LD
    
    *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for BAU scenario.*
    
-The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the NDP scenario.
 
 .. figure:: img/Techs_LD_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_LD for NDP and OP15C scenarios.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_LD for the NDP scenario.*
 
 Source:
    This is the source. 
