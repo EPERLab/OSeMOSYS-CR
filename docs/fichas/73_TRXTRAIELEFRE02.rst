@@ -14,7 +14,7 @@ TRXTRAIELEFRE02: Train Electric for Freight (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
 +=================================================+=======+==============+==============+==============+==============+
-| CapitalCost[r,t,y]                              |M$/Gvkm| 0            | 0            | 0            | 0            |
+| CapitalCost[r,t,y] (NDP)                        |M$/Gvkm| 0            | 0            | 0            | 0            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | InputActivityRatio[r,t,f,m,y] (Electricity for  | Gpkm/ | 0.4          | 0.4          | 0.4          | 0.4          |
 | Heavy Freight Transport)                        | Gvkm  |              |              |              |              |
@@ -22,7 +22,7 @@ TRXTRAIELEFRE02: Train Electric for Freight (new)
 | OperationalLife[r,t]                            | Years | 50           | 50           | 50           | 50           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Transport Demand| Gpkm/ | 1            | 1            | 1            | 1            |
-| Freight Heavy)                                  | Gvkm  |              |              |              |              |
+| Freight Heavy) (NDP)                            | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 0            | 0.99         | 2.36         | 4.1          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -35,13 +35,13 @@ TRXTRAIELEFRE02: Train Electric for Freight (new)
 CapitalCost[r,t,y]
 +++++++++
 
-The figure 1 shows the Capital Cost for TRXTRAIELEFRE02, for NDP scenario.
+The figure 1 shows the Capital Cost for TRXTRAIELEFRE02, for the NDP scenario.
 
 .. figure:: img/TRXTRAIELEFRE02_CapitalCost_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for TRXTRAIELEFRE02 for NDP scenario.*
+   *Figure 1) Capital Cost for TRXTRAIELEFRE02 for the NDP scenario.*
    
 Source:
    This is the source. 
@@ -76,7 +76,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (3) shows the Output Activity Ratio for TRXTRAIELEFRE02, for NDP scenario and associated to the fuel Transport Demand Freight Heavy.
+The equation (3) shows the Output Activity Ratio for TRXTRAIELEFRE02, for the NDP scenario and associated to the fuel Transport Demand Freight Heavy.
 
 OutputActivityRatio=1 [Gpkm/Gvkm]   (3)
 
@@ -126,7 +126,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRXTRAIE
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRXTRAIELEFRE02 for NDP scenario.*
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRXTRAIELEFRE02 for the NDP scenario.*
 
 Source:
    This is the source. 
