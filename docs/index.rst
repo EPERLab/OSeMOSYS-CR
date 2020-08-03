@@ -18,23 +18,7 @@ The OSeMOSYS – CR model
    05PythonModules
    99refs
    999Annexes
-   fichas/03_PPBIO001
-   fichas/04_PPBIO002
-   fichas/05_PPDSL001
-   fichas/06_PPDSL002
-   fichas/07_PPFOB001
-   fichas/08_PPFOB002
-   fichas/09_PPGEO001
-   fichas/10_PPGEO002
-   fichas/11_PPHDAM001
-   fichas/12_PPHROR001
-   fichas/13_PPHROR002
-   fichas/14_PPPVD002
-   fichas/15_PPPVT001
-   fichas/16_PPPVT002
-   fichas/17_PPWND002
-   fichas/18_PPWNT001
-   fichas/19_PPWNT002
+   fichas/Power_Plants
    fichas/20_Techs_4WD
    fichas/21_Techs_Bus
    fichas/22_Techs_LD
@@ -68,4 +52,4 @@ The OSeMOSYS – CR model
    fichas/50_TRMBUSDSL01
    fichas/51_TRMBUSDSL02
    fichas/52_TRMBUSELE02
-   fichas/Power_Plants
+  
