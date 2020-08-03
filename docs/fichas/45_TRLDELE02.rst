@@ -34,13 +34,13 @@ TRLDELE02: Light Duty Electric (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 0.018537874  | 0.246969626  | 0.563077999  | 0.9774765    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  Gvkm | 0            | 0.9205       | 8.0368       | 11.6944      |
+| TotalAnnualMaxCapacity[r,t,y] (NDP)             |  Gvkm | 0            | 0.9205       | 8.0368       | 11.6944      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.018500835  | 0.24647618   | 0.561952968  | 0.9755235    |
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0            | 0.9185       | 8.0209       | 11.6713      |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 27620.9304   | 20520.4356   | 20030.7107   | 19529.3151   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -150,15 +150,15 @@ The figure 2 shows the Total Annual Max Capacity for TRLDELE02, for the BAU scen
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRLDELE02 for BAU scenario.*
+   *Figure 2) Total Annual Max Capacity for TRLDELE02 for the BAU scenario.*
    
-The figure 3 shows the Total Annual Max Capacity for TRLDELE02, for the NDP and OP15C scenarios.
+The figure 3 shows the Total Annual Max Capacity for TRLDELE02, for the NDP scenario.
 
 .. figure:: img/TRLDELE02_TotalAnnualMaxCapacity_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Max Capacity for TRLDELE02 for NDP and OP15C scenarios.*
+   *Figure 3) Total Annual Max Capacity for TRLDELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -177,13 +177,13 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRLDELE0
    *Figure 4) Total Technology Annual Activity Lower Limit for TRLDELE02 for the BAU scenario.*
 
 
-The figure 5 shows the Total Technology Annual Activity Lower Limit for TRLDELE02, for the NDP and OP15C scenarios.
+The figure 5 shows the Total Technology Annual Activity Lower Limit for TRLDELE02, for the NDP scenario.
 
 .. figure:: img/TRLDELE02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Technology Annual Activity Lower Limit for TRLDELE02 for NDP and OP15C scenarios.*
+   *Figure 5) Total Technology Annual Activity Lower Limit for TRLDELE02 for the NDP scenario.*
 
 Source:
    This is the source. 
