@@ -182,7 +182,7 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL01, for BAU scenario.
+The figure 6 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL01, for the BAU scenario.
 
 .. figure:: img/TRFWDDSL01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
    :align:   center
@@ -190,7 +190,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRFWDDSL01 for the BAU scenario.*
    
-The figure 7 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL01, for NDP scenario.
+The figure 7 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL01, for the NDP scenario.
 
 .. figure:: img/TRFWDDSL01_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
