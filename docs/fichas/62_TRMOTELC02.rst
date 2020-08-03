@@ -136,21 +136,21 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y] 
 +++++++++
-The figure 1 shows the Total Annual Max Capacity for TRMOTELC02, for BAU scenario.
+The figure 1 shows the Total Annual Max Capacity for TRMOTELC02, for the BAU scenario.
 
 .. figure:: img/TRMOTELC02_TotalAnnualMaxCapacity_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for TRMOTELC02 for BAU scenario.*
+   *Figure 1) Total Annual Max Capacity for TRMOTELC02 for the BAU scenario.*
    
-   The figure 2 shows the Total Annual Max Capacity for TRMOTELC02, for NDP scenario.
+   The figure 2 shows the Total Annual Max Capacity for TRMOTELC02, for the NDP scenario.
 
 .. figure:: img/TRMOTELC02_TotalAnnualMaxCapacity_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRMOTELC02 for NDP scenario.*
+   *Figure 2) Total Annual Max Capacity for TRMOTELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
@@ -167,7 +167,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMOTELC
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRMOTELC02 for NDP scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRMOTELC02 for the NDP scenario.*
 
 Source:
    This is the source. 
