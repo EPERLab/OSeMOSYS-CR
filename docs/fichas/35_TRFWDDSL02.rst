@@ -38,7 +38,7 @@ TRFWDDSL02: Four-Wheel-Drive Diesel (new)
 | (BAU)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4215       | 0            | 0            | 0            |
-| (NDP and OP15C)                                 |       |              |              |              |              |
+| (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |   $   | 36353.6939   | 36353.6939   | 36353.6939   | 36353.6939   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -150,15 +150,15 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRFWDDSL02 for BAU scenario.*
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRFWDDSL02 for the BAU scenario.*
    
-The figure 3 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL02, for the NDP and OP15C scenarios.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL02, for the NDP scenario.
 
 .. figure:: img/TRFWDDSL02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRFWDDSL02 for NDP and OP15C scenarios.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRFWDDSL02 for the NDP scenario.*
 
 Source:
    This is the source. 
