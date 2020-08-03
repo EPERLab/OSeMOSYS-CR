@@ -147,13 +147,13 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++   
-The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYTKHYD02, for NDP scenario.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYTKHYD02, for the NDP scenario.
 
 .. figure:: img/TRYTKHYD02_TotalTechnologyAnnualActivityLowerLimit_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRYTKHYD02 for NDP scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRYTKHYD02 for the NDP scenario.*
 
 Source:
    This is the source. 
