@@ -1,7 +1,7 @@
 Light Duty Vehicles
 ================================
 
-Light Duty (Grouping Technology)
+Techs_LD: Light Duty (Grouping Technology)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -135,7 +135,7 @@ Source:
 Description: 
    This is the description.
    
-Light Duty Diesel (existing)
+TRLDDSL01: Light Duty Diesel (existing)
 ++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -353,7 +353,7 @@ Source:
 Description: 
    This is the description.
 
-Light Duty Diesel (new)
+TRLDDSL02: Light Duty Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -546,7 +546,7 @@ Source:
 Description: 
    This is the description.
 
-Light Duty Electric (new)
+TRLDELE02: Light Duty Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -767,7 +767,7 @@ Source:
 Description: 
    This is the description.
 
-Light Duty Gasoline (existing)
+TRLDGAS01: Light Duty Gasoline (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -980,7 +980,7 @@ Description:
    This is the description.
    
    
-Light Duty Gasoline (new)
+TRLDGAS02: Light Duty Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1167,7 +1167,7 @@ Source:
 Description: 
    This is the description.
 
-Light Hybrid Electric-Gasoline (new)
+TRLDHYBG02 Light Hybrid Electric-Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1342,7 +1342,7 @@ Source:
 Description: 
    This is the description.
 
-Light Plug-in Hybrid Electric-Gasoline (new)
+TRLDPHYBG0: Light Plug-in Hybrid Electric-Gasoline (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
