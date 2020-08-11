@@ -1,7 +1,7 @@
-Techs_4WD: Four Wheel Drives
+Four Wheel Drives
 =======================================
 
-Four Wheel Drive (Grouping Technology)
+Techs_4WD: Four Wheel Drive (Grouping Technology)
 +++++++++
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | .. figure:: img/Techs_4WD.jpg                                                                                       |
