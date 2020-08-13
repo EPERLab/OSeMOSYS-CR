@@ -1,7 +1,7 @@
 Buses
 ==================================
 
-Techs_Buses: Bus (Grouping Technology)
+Bus (Grouping Technology)
 ++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -135,7 +135,7 @@ Source:
 Description: 
    This is the description.
 
-TRBUSDSL01: Bus Diesel (existing)
+Bus Diesel (existing)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -350,7 +350,7 @@ Source:
 Description: 
    This is the description.
 
-TRBUSDSL02: Bus Diesel (new)
+Bus Diesel (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -539,7 +539,7 @@ Source:
 Description: 
    This is the description.
    
-TRBUSELC02: Bus Electric (new)
+Bus Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -748,7 +748,7 @@ Source:
 Description: 
    This is the description.
 
-TRBUSHYBD02: Bus Hybrid Electric-Diesel (new)
+Bus Hybrid Electric-Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -936,7 +936,7 @@ Source:
 Description: 
    This is the description.
 
-TRBUSHYD02: Bus Hydrogen (new)
+Bus Hydrogen (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1134,7 +1134,8 @@ Source:
 Description: 
    This is the description.
 
-TRBUSLPG02: Bus LPG (new)  
+
+Bus LPG (new)  
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
