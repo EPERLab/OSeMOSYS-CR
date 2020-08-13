@@ -1,7 +1,7 @@
 Power Plants
 =======================================
 
-PPBIO001: Biomass Power Plant (existing) 
+Biomass Power Plant (existing) 
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -122,7 +122,7 @@ Description:
    This is the description.               
 
 
-PPBIO002: Biomass Power Plant (new)
+Biomass Power Plant (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -244,7 +244,7 @@ Source:
 Description: 
    This is the description.  
 
-PPDSL001: Diesel Power Plant (existing)
+Diesel Power Plant (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -378,7 +378,7 @@ Source:
 Description: 
    This is the description.    
 
-PPDSL002: Diesel Power Plant (new)
+Diesel Power Plant (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -499,7 +499,7 @@ Description:
    This is the description.    
    
    
-PPFOB001: Oil Power Plant (existing)
+Oil Power Plant (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -634,7 +634,7 @@ Description:
    This is the description.               
 
 
-PPFOB002: Oil Power Plant (new)
+Oil Power Plant (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -754,7 +754,7 @@ Source:
 Description: 
    This is the description.    
 
-PPGEO001: Geothermal Power Plant (existing)
+Geothermal Power Plant (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -894,7 +894,7 @@ Description:
    This is the description. 
 
 
-PPGEO002: Geothermal Power Plant (new)
+Geothermal Power Plant (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1055,7 +1055,7 @@ Source:
 Description: 
    This is the description.    
 
-PPHDAM001: Hydro Dam Power Plant (existing)
+Hydro Dam Power Plant (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1194,7 +1194,7 @@ Source:
 Description: 
    This is the description. 
    
-PPHDAM002: Hydro Dam Power Plant (new)
+Hydro Dam Power Plant (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1320,7 +1320,7 @@ Description:
    This is the description.   
    
    
-PPHROR001: Hydro Run of River Power Plant (existing)
+Hydro Run of River Power Plant (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1459,7 +1459,7 @@ Source:
 Description: 
    This is the description. 
 
-PPHROR002: Hydro Run of River Power Plant (new)
+Hydro Run of River Power Plant (new)
 ++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1621,7 +1621,7 @@ Description:
    This is the description.   
    
    
-PPPVD001: Photovoltaic Power Plant Distribution (new)
+Photovoltaic Power Plant Distribution (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1764,7 +1764,7 @@ Source:
 Description: 
    This is the description.     
 
-PPPVT001: Photovoltaic Power Plant Transmission (existing)
+Photovoltaic Power Plant Transmission (existing)
 ++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1899,7 +1899,7 @@ Source:
 Description: 
    This is the description. 
 
-PPPVT002: Photovoltaic Power Plant Transmission (new)
+Photovoltaic Power Plant Transmission (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -2060,7 +2060,7 @@ Source:
 Description: 
    This is the description.    
 
-PPWND002: Wind Power Plant Distribution (new)
+Wind Power Plant Distribution (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -2203,7 +2203,7 @@ Source:
 Description: 
    This is the description.    
 
-PPWNT001: Wind Power Plant Transmission (existing)
+Wind Power Plant Transmission (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -2338,7 +2338,7 @@ Source:
 Description: 
    This is the description. 
 
-PPWNT002: Wind Power Plant Transmission (new)
+Wind Power Plant Transmission (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
