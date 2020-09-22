@@ -1,7 +1,7 @@
 Microbuses
 ================================
 
-Techs_Microbuses: Minbus (Grouping Technology) 
+Microbuses (Grouping Technology) 
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -135,7 +135,7 @@ Source:
 Description: 
    This is the description.
 
-TRMBUSDSL01: Microbus Diesel (existing)
+Microbus Diesel (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -351,7 +351,7 @@ Description:
    This is the description.
    
 
-TRMBUSDSL02: Microbus Diesel (new)
+Microbus Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -541,7 +541,7 @@ Description:
    This is the description.
 
 
-TRMBUSELE02: Microbus Electric (new)
+Microbus Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -748,7 +748,7 @@ Source:
 Description: 
    This is the description.
 
-TRMBUSHYBD02: Microbus Hybrid Electric-Diesel (new)
+Microbus Hybrid Electric-Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -937,7 +937,7 @@ Description:
    This is the description.
    
   
-TRMBUSHYD02: Microbus Hydrogen (new)
+Microbus Hydrogen (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1135,7 +1135,7 @@ Source:
 Description: 
    This is the description.
 
-TRMBUSLPG02: Microbus LPG (new)
+Microbus LPG (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
