@@ -22,12 +22,6 @@ The OSeMOSYS – CR model
    fichas/FourWheelDrive
    fichas/Bus
    fichas/LightDuty
-   fichas/23_Techs_Microbuses
-   fichas/24_Techs_Minivan
-   fichas/25_Techs_Motos
-   fichas/26_Techs_Taxis
-   fichas/27_Techs_Trains
-   fichas/50_TRMBUSDSL01
-   fichas/51_TRMBUSDSL02
-   fichas/52_TRMBUSELE02
+   fichas/Microbuses
+   
   
