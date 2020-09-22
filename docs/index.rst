@@ -24,5 +24,5 @@ The OSeMOSYS – CR model
    fichas/LightDuty
    fichas/Microbuses
    fichas/Minivan
-   
+   fichas/Motos
   
