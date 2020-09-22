@@ -1,7 +1,7 @@
 Taxis
 =====================================
 
-Techs_Taxis: Taxis (Grouping Technology)
+Taxis (Grouping Technology)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -136,7 +136,7 @@ Description:
    This is the description.
 
 
-TRTAXDSL01: Taxi Diesel (existing)
+Taxi Diesel (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -351,7 +351,7 @@ Source:
 Description: 
    This is the description.
 
-TRTAXDSL02: Taxi Diesel (new)
+Taxi Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -540,7 +540,7 @@ Source:
 Description: 
    This is the description.
    
-TRTAXELC02: Taxi Electric (new)
+Taxi Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -761,7 +761,7 @@ Description:
    This is the description.
    
    
-TRTAXGAS01: Taxi Gasoline (existing)
+Taxi Gasoline (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -970,7 +970,7 @@ Source:
 Description: 
    This is the description.
 
-TRTAXGAS02: Taxi Gasoline (new)
+Taxi Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1153,7 +1153,7 @@ Source:
 Description: 
    This is the description.
 
-TRTAXHYBD02: Taxi Hybrid Electric-Diesel (new)
+Taxi Hybrid Electric-Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1335,7 +1335,7 @@ Source:
 Description: 
    This is the description.
 
-TRTAXHYBG02: Taxi Hybrid Electric-Gasoline (new)
+Taxi Hybrid Electric-Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1517,7 +1517,7 @@ Source:
 Description: 
    This is the description.
 
-TRTAXLPG02: Taxi LPG (new)
+Taxi LPG (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
