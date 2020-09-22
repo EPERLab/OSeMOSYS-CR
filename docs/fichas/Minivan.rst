@@ -1,7 +1,7 @@
-Minivan 
+Minivans 
 =====================================
 
-Techs_Minivan: Minivan (Grouping Technology)
+Minivan (Grouping Technology)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -135,7 +135,7 @@ Source:
 Description: 
    This is the description.
 
-TRMIVDSL02: Minivan Diesel (new)
+Minivan Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -317,7 +317,7 @@ Source:
 Description: 
    This is the description.
 
-TRMIVELE02: Minivan Electric (new)
+Minivan Electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -527,7 +527,7 @@ Source:
 Description: 
    This is the description.
    
- TRMIVGAS02: Minivan Gasoline (new)
+Minivan Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -715,7 +715,7 @@ Description:
    This is the description.
    
  
- TRMIVHYBD02: Minivan Hybrid Electric-Diesel (new)
+Minivan Hybrid Electric-Diesel (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -889,7 +889,7 @@ Source:
 Description: 
    This is the description.
 
-TRMIVHYBG02: Minivan Hybrid Electric-Gasoline (new)
+Minivan Hybrid Electric-Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -1063,7 +1063,7 @@ Source:
 Description: 
    This is the description.
 
-TRMIVLPG02: Minivan LPG (new)
+Minivan LPG (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
