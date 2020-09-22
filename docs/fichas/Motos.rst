@@ -136,7 +136,7 @@ Description:
    This is the description.
 
 
-TRMOTELC02: Motorcycle electric (new)
+Motorcycle electric (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -339,7 +339,7 @@ Description:
    This is the description.
 
 
-TRMOTGAS01: Motorcycle Gasoline (existing)
+Motorcycle Gasoline (existing)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -557,7 +557,7 @@ Source:
 Description: 
    This is the description.
 
-TRMOTGAS02: Motorcycle Gasoline (new)
+Motorcycle Gasoline (new)
 +++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
