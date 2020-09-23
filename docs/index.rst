@@ -26,4 +26,5 @@ The OSeMOSYS – CR model
    fichas/Minivan
    fichas/Motos
    fichas/Taxis
+   fichas/Trains
   
