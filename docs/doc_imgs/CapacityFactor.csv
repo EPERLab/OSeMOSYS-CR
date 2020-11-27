@@ -1,7 +1,649 @@
-Technology;Year;Capacity Factor
-Photovoltaic Power Plant Transmission (existing);2015;0.227
-Biomass Power Plant (existing);2015;0.317
-Hydro Dam Power Plant (existing);2015;0.405
-Hydro Run of River Power Plant (existing);2015;0.476
-Wind Power Plant Transmission  (existing);2015;0.572
-Geothermal Power Plant (existing);2015;0.583
+﻿Year1;Technology1;Capacity Factor
+2015;Wind Power Plant Transmission (new);0,572
+2016;Wind Power Plant Transmission (new);0,572
+2017;Wind Power Plant Transmission (new);0,572
+2018;Wind Power Plant Transmission (new);0,572
+2019;Wind Power Plant Transmission (new);0,572
+2020;Wind Power Plant Transmission (new);0,572
+2021;Wind Power Plant Transmission (new);0,572
+2022;Wind Power Plant Transmission (new);0,572
+2023;Wind Power Plant Transmission (new);0,572
+2024;Wind Power Plant Transmission (new);0,572
+2025;Wind Power Plant Transmission (new);0,572
+2026;Wind Power Plant Transmission (new);0,572
+2027;Wind Power Plant Transmission (new);0,572
+2028;Wind Power Plant Transmission (new);0,572
+2029;Wind Power Plant Transmission (new);0,572
+2030;Wind Power Plant Transmission (new);0,572
+2031;Wind Power Plant Transmission (new);0,572
+2032;Wind Power Plant Transmission (new);0,572
+2033;Wind Power Plant Transmission (new);0,572
+2034;Wind Power Plant Transmission (new);0,572
+2035;Wind Power Plant Transmission (new);0,572
+2036;Wind Power Plant Transmission (new);0,572
+2037;Wind Power Plant Transmission (new);0,572
+2038;Wind Power Plant Transmission (new);0,572
+2039;Wind Power Plant Transmission (new);0,572
+2040;Wind Power Plant Transmission (new);0,572
+2041;Wind Power Plant Transmission (new);0,572
+2042;Wind Power Plant Transmission (new);0,572
+2043;Wind Power Plant Transmission (new);0,572
+2044;Wind Power Plant Transmission (new);0,572
+2045;Wind Power Plant Transmission (new);0,572
+2046;Wind Power Plant Transmission (new);0,572
+2047;Wind Power Plant Transmission (new);0,572
+2048;Wind Power Plant Transmission (new);0,572
+2049;Wind Power Plant Transmission (new);0,572
+2050;Wind Power Plant Transmission (new);0,572
+2015;Wind Power Plant Transmission  (existing);0,572
+2016;Wind Power Plant Transmission  (existing);0,572
+2017;Wind Power Plant Transmission  (existing);0,572
+2018;Wind Power Plant Transmission  (existing);0,572
+2019;Wind Power Plant Transmission  (existing);0,572
+2020;Wind Power Plant Transmission  (existing);0,572
+2021;Wind Power Plant Transmission  (existing);0,572
+2022;Wind Power Plant Transmission  (existing);0,572
+2023;Wind Power Plant Transmission  (existing);0,572
+2024;Wind Power Plant Transmission  (existing);0,572
+2025;Wind Power Plant Transmission  (existing);0,572
+2026;Wind Power Plant Transmission  (existing);0,572
+2027;Wind Power Plant Transmission  (existing);0,572
+2028;Wind Power Plant Transmission  (existing);0,572
+2029;Wind Power Plant Transmission  (existing);0,572
+2030;Wind Power Plant Transmission  (existing);0,572
+2031;Wind Power Plant Transmission  (existing);0,572
+2032;Wind Power Plant Transmission  (existing);0,572
+2033;Wind Power Plant Transmission  (existing);0,572
+2034;Wind Power Plant Transmission  (existing);0,572
+2035;Wind Power Plant Transmission  (existing);0,572
+2036;Wind Power Plant Transmission  (existing);0,572
+2037;Wind Power Plant Transmission  (existing);0,572
+2038;Wind Power Plant Transmission  (existing);0,572
+2039;Wind Power Plant Transmission  (existing);0,572
+2040;Wind Power Plant Transmission  (existing);0,572
+2041;Wind Power Plant Transmission  (existing);0,572
+2042;Wind Power Plant Transmission  (existing);0,572
+2043;Wind Power Plant Transmission  (existing);0,572
+2044;Wind Power Plant Transmission  (existing);0,572
+2045;Wind Power Plant Transmission  (existing);0,572
+2046;Wind Power Plant Transmission  (existing);0,572
+2047;Wind Power Plant Transmission  (existing);0,572
+2048;Wind Power Plant Transmission  (existing);0,572
+2049;Wind Power Plant Transmission  (existing);0,572
+2050;Wind Power Plant Transmission  (existing);0,572
+2015;Wind Power Plant Distribution (new);0,572
+2016;Wind Power Plant Distribution (new);0,572
+2017;Wind Power Plant Distribution (new);0,572
+2018;Wind Power Plant Distribution (new);0,572
+2019;Wind Power Plant Distribution (new);0,572
+2020;Wind Power Plant Distribution (new);0,572
+2021;Wind Power Plant Distribution (new);0,572
+2022;Wind Power Plant Distribution (new);0,572
+2023;Wind Power Plant Distribution (new);0,572
+2024;Wind Power Plant Distribution (new);0,572
+2025;Wind Power Plant Distribution (new);0,572
+2026;Wind Power Plant Distribution (new);0,572
+2027;Wind Power Plant Distribution (new);0,572
+2028;Wind Power Plant Distribution (new);0,572
+2029;Wind Power Plant Distribution (new);0,572
+2030;Wind Power Plant Distribution (new);0,572
+2031;Wind Power Plant Distribution (new);0,572
+2032;Wind Power Plant Distribution (new);0,572
+2033;Wind Power Plant Distribution (new);0,572
+2034;Wind Power Plant Distribution (new);0,572
+2035;Wind Power Plant Distribution (new);0,572
+2036;Wind Power Plant Distribution (new);0,572
+2037;Wind Power Plant Distribution (new);0,572
+2038;Wind Power Plant Distribution (new);0,572
+2039;Wind Power Plant Distribution (new);0,572
+2040;Wind Power Plant Distribution (new);0,572
+2041;Wind Power Plant Distribution (new);0,572
+2042;Wind Power Plant Distribution (new);0,572
+2043;Wind Power Plant Distribution (new);0,572
+2044;Wind Power Plant Distribution (new);0,572
+2045;Wind Power Plant Distribution (new);0,572
+2046;Wind Power Plant Distribution (new);0,572
+2047;Wind Power Plant Distribution (new);0,572
+2048;Wind Power Plant Distribution (new);0,572
+2049;Wind Power Plant Distribution (new);0,572
+2050;Wind Power Plant Distribution (new);0,572
+2015;Photovoltaic Power Plant Transmission (new);0,227
+2016;Photovoltaic Power Plant Transmission (new);0,227
+2017;Photovoltaic Power Plant Transmission (new);0,227
+2018;Photovoltaic Power Plant Transmission (new);0,227
+2019;Photovoltaic Power Plant Transmission (new);0,227
+2020;Photovoltaic Power Plant Transmission (new);0,227
+2021;Photovoltaic Power Plant Transmission (new);0,227
+2022;Photovoltaic Power Plant Transmission (new);0,227
+2023;Photovoltaic Power Plant Transmission (new);0,227
+2024;Photovoltaic Power Plant Transmission (new);0,227
+2025;Photovoltaic Power Plant Transmission (new);0,227
+2026;Photovoltaic Power Plant Transmission (new);0,227
+2027;Photovoltaic Power Plant Transmission (new);0,227
+2028;Photovoltaic Power Plant Transmission (new);0,227
+2029;Photovoltaic Power Plant Transmission (new);0,227
+2030;Photovoltaic Power Plant Transmission (new);0,227
+2031;Photovoltaic Power Plant Transmission (new);0,227
+2032;Photovoltaic Power Plant Transmission (new);0,227
+2033;Photovoltaic Power Plant Transmission (new);0,227
+2034;Photovoltaic Power Plant Transmission (new);0,227
+2035;Photovoltaic Power Plant Transmission (new);0,227
+2036;Photovoltaic Power Plant Transmission (new);0,227
+2037;Photovoltaic Power Plant Transmission (new);0,227
+2038;Photovoltaic Power Plant Transmission (new);0,227
+2039;Photovoltaic Power Plant Transmission (new);0,227
+2040;Photovoltaic Power Plant Transmission (new);0,227
+2041;Photovoltaic Power Plant Transmission (new);0,227
+2042;Photovoltaic Power Plant Transmission (new);0,227
+2043;Photovoltaic Power Plant Transmission (new);0,227
+2044;Photovoltaic Power Plant Transmission (new);0,227
+2045;Photovoltaic Power Plant Transmission (new);0,227
+2046;Photovoltaic Power Plant Transmission (new);0,227
+2047;Photovoltaic Power Plant Transmission (new);0,227
+2048;Photovoltaic Power Plant Transmission (new);0,227
+2049;Photovoltaic Power Plant Transmission (new);0,227
+2050;Photovoltaic Power Plant Transmission (new);0,227
+2015;Photovoltaic Power Plant Transmission (existing);0,227
+2016;Photovoltaic Power Plant Transmission (existing);0,227
+2017;Photovoltaic Power Plant Transmission (existing);0,227
+2018;Photovoltaic Power Plant Transmission (existing);0,227
+2019;Photovoltaic Power Plant Transmission (existing);0,227
+2020;Photovoltaic Power Plant Transmission (existing);0,227
+2021;Photovoltaic Power Plant Transmission (existing);0,227
+2022;Photovoltaic Power Plant Transmission (existing);0,227
+2023;Photovoltaic Power Plant Transmission (existing);0,227
+2024;Photovoltaic Power Plant Transmission (existing);0,227
+2025;Photovoltaic Power Plant Transmission (existing);0,227
+2026;Photovoltaic Power Plant Transmission (existing);0,227
+2027;Photovoltaic Power Plant Transmission (existing);0,227
+2028;Photovoltaic Power Plant Transmission (existing);0,227
+2029;Photovoltaic Power Plant Transmission (existing);0,227
+2030;Photovoltaic Power Plant Transmission (existing);0,227
+2031;Photovoltaic Power Plant Transmission (existing);0,227
+2032;Photovoltaic Power Plant Transmission (existing);0,227
+2033;Photovoltaic Power Plant Transmission (existing);0,227
+2034;Photovoltaic Power Plant Transmission (existing);0,227
+2035;Photovoltaic Power Plant Transmission (existing);0,227
+2036;Photovoltaic Power Plant Transmission (existing);0,227
+2037;Photovoltaic Power Plant Transmission (existing);0,227
+2038;Photovoltaic Power Plant Transmission (existing);0,227
+2039;Photovoltaic Power Plant Transmission (existing);0,227
+2040;Photovoltaic Power Plant Transmission (existing);0,227
+2041;Photovoltaic Power Plant Transmission (existing);0,227
+2042;Photovoltaic Power Plant Transmission (existing);0,227
+2043;Photovoltaic Power Plant Transmission (existing);0,227
+2044;Photovoltaic Power Plant Transmission (existing);0,227
+2045;Photovoltaic Power Plant Transmission (existing);0,227
+2046;Photovoltaic Power Plant Transmission (existing);0,227
+2047;Photovoltaic Power Plant Transmission (existing);0,227
+2048;Photovoltaic Power Plant Transmission (existing);0,227
+2049;Photovoltaic Power Plant Transmission (existing);0,227
+2050;Photovoltaic Power Plant Transmission (existing);0,227
+2015;Photovoltaic Power Plant Distribution (new);0,227
+2016;Photovoltaic Power Plant Distribution (new);0,227
+2017;Photovoltaic Power Plant Distribution (new);0,227
+2018;Photovoltaic Power Plant Distribution (new);0,227
+2019;Photovoltaic Power Plant Distribution (new);0,227
+2020;Photovoltaic Power Plant Distribution (new);0,227
+2021;Photovoltaic Power Plant Distribution (new);0,227
+2022;Photovoltaic Power Plant Distribution (new);0,227
+2023;Photovoltaic Power Plant Distribution (new);0,227
+2024;Photovoltaic Power Plant Distribution (new);0,227
+2025;Photovoltaic Power Plant Distribution (new);0,227
+2026;Photovoltaic Power Plant Distribution (new);0,227
+2027;Photovoltaic Power Plant Distribution (new);0,227
+2028;Photovoltaic Power Plant Distribution (new);0,227
+2029;Photovoltaic Power Plant Distribution (new);0,227
+2030;Photovoltaic Power Plant Distribution (new);0,227
+2031;Photovoltaic Power Plant Distribution (new);0,227
+2032;Photovoltaic Power Plant Distribution (new);0,227
+2033;Photovoltaic Power Plant Distribution (new);0,227
+2034;Photovoltaic Power Plant Distribution (new);0,227
+2035;Photovoltaic Power Plant Distribution (new);0,227
+2036;Photovoltaic Power Plant Distribution (new);0,227
+2037;Photovoltaic Power Plant Distribution (new);0,227
+2038;Photovoltaic Power Plant Distribution (new);0,227
+2039;Photovoltaic Power Plant Distribution (new);0,227
+2040;Photovoltaic Power Plant Distribution (new);0,227
+2041;Photovoltaic Power Plant Distribution (new);0,227
+2042;Photovoltaic Power Plant Distribution (new);0,227
+2043;Photovoltaic Power Plant Distribution (new);0,227
+2044;Photovoltaic Power Plant Distribution (new);0,227
+2045;Photovoltaic Power Plant Distribution (new);0,227
+2046;Photovoltaic Power Plant Distribution (new);0,227
+2047;Photovoltaic Power Plant Distribution (new);0,227
+2048;Photovoltaic Power Plant Distribution (new);0,227
+2049;Photovoltaic Power Plant Distribution (new);0,227
+2050;Photovoltaic Power Plant Distribution (new);0,227
+2015;Oil Power Plant (new);0,034
+2016;Oil Power Plant (new);0,034
+2017;Oil Power Plant (new);0,034
+2018;Oil Power Plant (new);0,034
+2019;Oil Power Plant (new);0,034
+2020;Oil Power Plant (new);0,034
+2021;Oil Power Plant (new);0,034
+2022;Oil Power Plant (new);0,034
+2023;Oil Power Plant (new);0,034
+2024;Oil Power Plant (new);0,034
+2025;Oil Power Plant (new);0,034
+2026;Oil Power Plant (new);0,034
+2027;Oil Power Plant (new);0,034
+2028;Oil Power Plant (new);0,034
+2029;Oil Power Plant (new);0,034
+2030;Oil Power Plant (new);0,034
+2031;Oil Power Plant (new);0,034
+2032;Oil Power Plant (new);0,034
+2033;Oil Power Plant (new);0,034
+2034;Oil Power Plant (new);0,034
+2035;Oil Power Plant (new);0,034
+2036;Oil Power Plant (new);0,034
+2037;Oil Power Plant (new);0,034
+2038;Oil Power Plant (new);0,034
+2039;Oil Power Plant (new);0,034
+2040;Oil Power Plant (new);0,034
+2041;Oil Power Plant (new);0,034
+2042;Oil Power Plant (new);0,034
+2043;Oil Power Plant (new);0,034
+2044;Oil Power Plant (new);0,034
+2045;Oil Power Plant (new);0,034
+2046;Oil Power Plant (new);0,034
+2047;Oil Power Plant (new);0,034
+2048;Oil Power Plant (new);0,034
+2049;Oil Power Plant (new);0,034
+2050;Oil Power Plant (new);0,034
+2015;Oil Power Plant (existing);0,034
+2016;Oil Power Plant (existing);0,034
+2017;Oil Power Plant (existing);0,034
+2018;Oil Power Plant (existing);0,034
+2019;Oil Power Plant (existing);0,034
+2020;Oil Power Plant (existing);0,034
+2021;Oil Power Plant (existing);0,034
+2022;Oil Power Plant (existing);0,034
+2023;Oil Power Plant (existing);0,034
+2024;Oil Power Plant (existing);0,034
+2025;Oil Power Plant (existing);0,034
+2026;Oil Power Plant (existing);0,034
+2027;Oil Power Plant (existing);0,034
+2028;Oil Power Plant (existing);0,034
+2029;Oil Power Plant (existing);0,034
+2030;Oil Power Plant (existing);0,034
+2031;Oil Power Plant (existing);0,034
+2032;Oil Power Plant (existing);0,034
+2033;Oil Power Plant (existing);0,034
+2034;Oil Power Plant (existing);0,034
+2035;Oil Power Plant (existing);0,034
+2036;Oil Power Plant (existing);0,034
+2037;Oil Power Plant (existing);0,034
+2038;Oil Power Plant (existing);0,034
+2039;Oil Power Plant (existing);0,034
+2040;Oil Power Plant (existing);0,034
+2041;Oil Power Plant (existing);0,034
+2042;Oil Power Plant (existing);0,034
+2043;Oil Power Plant (existing);0,034
+2044;Oil Power Plant (existing);0,034
+2045;Oil Power Plant (existing);0,034
+2046;Oil Power Plant (existing);0,034
+2047;Oil Power Plant (existing);0,034
+2048;Oil Power Plant (existing);0,034
+2049;Oil Power Plant (existing);0,034
+2050;Oil Power Plant (existing);0,034
+2015;Hydro Run of River Power Plant (new);0,476
+2016;Hydro Run of River Power Plant (new);0,476
+2017;Hydro Run of River Power Plant (new);0,476
+2018;Hydro Run of River Power Plant (new);0,476
+2019;Hydro Run of River Power Plant (new);0,4863
+2020;Hydro Run of River Power Plant (new);0,4966
+2021;Hydro Run of River Power Plant (new);0,5069
+2022;Hydro Run of River Power Plant (new);0,5172
+2023;Hydro Run of River Power Plant (new);0,5275
+2024;Hydro Run of River Power Plant (new);0,5378
+2025;Hydro Run of River Power Plant (new);0,5481
+2026;Hydro Run of River Power Plant (new);0,5584
+2027;Hydro Run of River Power Plant (new);0,5687
+2028;Hydro Run of River Power Plant (new);0,579
+2029;Hydro Run of River Power Plant (new);0,5893
+2030;Hydro Run of River Power Plant (new);0,6
+2031;Hydro Run of River Power Plant (new);0,6
+2032;Hydro Run of River Power Plant (new);0,6
+2033;Hydro Run of River Power Plant (new);0,6
+2034;Hydro Run of River Power Plant (new);0,6
+2035;Hydro Run of River Power Plant (new);0,6
+2036;Hydro Run of River Power Plant (new);0,6
+2037;Hydro Run of River Power Plant (new);0,6
+2038;Hydro Run of River Power Plant (new);0,6
+2039;Hydro Run of River Power Plant (new);0,6
+2040;Hydro Run of River Power Plant (new);0,6
+2041;Hydro Run of River Power Plant (new);0,6
+2042;Hydro Run of River Power Plant (new);0,6
+2043;Hydro Run of River Power Plant (new);0,6
+2044;Hydro Run of River Power Plant (new);0,6
+2045;Hydro Run of River Power Plant (new);0,6
+2046;Hydro Run of River Power Plant (new);0,6
+2047;Hydro Run of River Power Plant (new);0,6
+2048;Hydro Run of River Power Plant (new);0,6
+2049;Hydro Run of River Power Plant (new);0,6
+2050;Hydro Run of River Power Plant (new);0,6
+2015;Hydro Run of River Power Plant (existing);0,476
+2016;Hydro Run of River Power Plant (existing);0,476
+2017;Hydro Run of River Power Plant (existing);0,476
+2018;Hydro Run of River Power Plant (existing);0,476
+2019;Hydro Run of River Power Plant (existing);0,4863
+2020;Hydro Run of River Power Plant (existing);0,4966
+2021;Hydro Run of River Power Plant (existing);0,5069
+2022;Hydro Run of River Power Plant (existing);0,5172
+2023;Hydro Run of River Power Plant (existing);0,5275
+2024;Hydro Run of River Power Plant (existing);0,5378
+2025;Hydro Run of River Power Plant (existing);0,5481
+2026;Hydro Run of River Power Plant (existing);0,5584
+2027;Hydro Run of River Power Plant (existing);0,5687
+2028;Hydro Run of River Power Plant (existing);0,579
+2029;Hydro Run of River Power Plant (existing);0,5893
+2030;Hydro Run of River Power Plant (existing);0,6
+2031;Hydro Run of River Power Plant (existing);0,6
+2032;Hydro Run of River Power Plant (existing);0,6
+2033;Hydro Run of River Power Plant (existing);0,6
+2034;Hydro Run of River Power Plant (existing);0,6
+2035;Hydro Run of River Power Plant (existing);0,6
+2036;Hydro Run of River Power Plant (existing);0,6
+2037;Hydro Run of River Power Plant (existing);0,6
+2038;Hydro Run of River Power Plant (existing);0,6
+2039;Hydro Run of River Power Plant (existing);0,6
+2040;Hydro Run of River Power Plant (existing);0,6
+2041;Hydro Run of River Power Plant (existing);0,6
+2042;Hydro Run of River Power Plant (existing);0,6
+2043;Hydro Run of River Power Plant (existing);0,6
+2044;Hydro Run of River Power Plant (existing);0,6
+2045;Hydro Run of River Power Plant (existing);0,6
+2046;Hydro Run of River Power Plant (existing);0,6
+2047;Hydro Run of River Power Plant (existing);0,6
+2048;Hydro Run of River Power Plant (existing);0,6
+2049;Hydro Run of River Power Plant (existing);0,6
+2050;Hydro Run of River Power Plant (existing);0,6
+2015;Hydro Dam Power Plant (new);0,405
+2016;Hydro Dam Power Plant (new);0,405
+2017;Hydro Dam Power Plant (new);0,405
+2018;Hydro Dam Power Plant (new);0,405
+2019;Hydro Dam Power Plant (new);0,4212
+2020;Hydro Dam Power Plant (new);0,4374
+2021;Hydro Dam Power Plant (new);0,4536
+2022;Hydro Dam Power Plant (new);0,4698
+2023;Hydro Dam Power Plant (new);0,486
+2024;Hydro Dam Power Plant (new);0,5022
+2025;Hydro Dam Power Plant (new);0,5184
+2026;Hydro Dam Power Plant (new);0,5346
+2027;Hydro Dam Power Plant (new);0,5508
+2028;Hydro Dam Power Plant (new);0,567
+2029;Hydro Dam Power Plant (new);0,5832
+2030;Hydro Dam Power Plant (new);0,6
+2031;Hydro Dam Power Plant (new);0,6
+2032;Hydro Dam Power Plant (new);0,6
+2033;Hydro Dam Power Plant (new);0,6
+2034;Hydro Dam Power Plant (new);0,6
+2035;Hydro Dam Power Plant (new);0,6
+2036;Hydro Dam Power Plant (new);0,6
+2037;Hydro Dam Power Plant (new);0,6
+2038;Hydro Dam Power Plant (new);0,6
+2039;Hydro Dam Power Plant (new);0,6
+2040;Hydro Dam Power Plant (new);0,6
+2041;Hydro Dam Power Plant (new);0,6
+2042;Hydro Dam Power Plant (new);0,6
+2043;Hydro Dam Power Plant (new);0,6
+2044;Hydro Dam Power Plant (new);0,6
+2045;Hydro Dam Power Plant (new);0,6
+2046;Hydro Dam Power Plant (new);0,6
+2047;Hydro Dam Power Plant (new);0,6
+2048;Hydro Dam Power Plant (new);0,6
+2049;Hydro Dam Power Plant (new);0,6
+2050;Hydro Dam Power Plant (new);0,6
+2015;Hydro Dam Power Plant (existing);0,405
+2016;Hydro Dam Power Plant (existing);0,405
+2017;Hydro Dam Power Plant (existing);0,405
+2018;Hydro Dam Power Plant (existing);0,405
+2019;Hydro Dam Power Plant (existing);0,4212
+2020;Hydro Dam Power Plant (existing);0,4374
+2021;Hydro Dam Power Plant (existing);0,4536
+2022;Hydro Dam Power Plant (existing);0,4698
+2023;Hydro Dam Power Plant (existing);0,486
+2024;Hydro Dam Power Plant (existing);0,5022
+2025;Hydro Dam Power Plant (existing);0,5184
+2026;Hydro Dam Power Plant (existing);0,5346
+2027;Hydro Dam Power Plant (existing);0,5508
+2028;Hydro Dam Power Plant (existing);0,567
+2029;Hydro Dam Power Plant (existing);0,5832
+2030;Hydro Dam Power Plant (existing);0,6
+2031;Hydro Dam Power Plant (existing);0,6
+2032;Hydro Dam Power Plant (existing);0,6
+2033;Hydro Dam Power Plant (existing);0,6
+2034;Hydro Dam Power Plant (existing);0,6
+2035;Hydro Dam Power Plant (existing);0,6
+2036;Hydro Dam Power Plant (existing);0,6
+2037;Hydro Dam Power Plant (existing);0,6
+2038;Hydro Dam Power Plant (existing);0,6
+2039;Hydro Dam Power Plant (existing);0,6
+2040;Hydro Dam Power Plant (existing);0,6
+2041;Hydro Dam Power Plant (existing);0,6
+2042;Hydro Dam Power Plant (existing);0,6
+2043;Hydro Dam Power Plant (existing);0,6
+2044;Hydro Dam Power Plant (existing);0,6
+2045;Hydro Dam Power Plant (existing);0,6
+2046;Hydro Dam Power Plant (existing);0,6
+2047;Hydro Dam Power Plant (existing);0,6
+2048;Hydro Dam Power Plant (existing);0,6
+2049;Hydro Dam Power Plant (existing);0,6
+2050;Hydro Dam Power Plant (existing);0,6
+2015;Geothermal Power Plant (new);0,583
+2016;Geothermal Power Plant (new);0,583
+2017;Geothermal Power Plant (new);0,583
+2018;Geothermal Power Plant (new);0,583
+2019;Geothermal Power Plant (new);0,6085
+2020;Geothermal Power Plant (new);0,634
+2021;Geothermal Power Plant (new);0,6595
+2022;Geothermal Power Plant (new);0,685
+2023;Geothermal Power Plant (new);0,7105
+2024;Geothermal Power Plant (new);0,736
+2025;Geothermal Power Plant (new);0,7615
+2026;Geothermal Power Plant (new);0,787
+2027;Geothermal Power Plant (new);0,8125
+2028;Geothermal Power Plant (new);0,838
+2029;Geothermal Power Plant (new);0,8635
+2030;Geothermal Power Plant (new);0,89
+2031;Geothermal Power Plant (new);0,89
+2032;Geothermal Power Plant (new);0,89
+2033;Geothermal Power Plant (new);0,89
+2034;Geothermal Power Plant (new);0,89
+2035;Geothermal Power Plant (new);0,89
+2036;Geothermal Power Plant (new);0,89
+2037;Geothermal Power Plant (new);0,89
+2038;Geothermal Power Plant (new);0,89
+2039;Geothermal Power Plant (new);0,89
+2040;Geothermal Power Plant (new);0,89
+2041;Geothermal Power Plant (new);0,89
+2042;Geothermal Power Plant (new);0,89
+2043;Geothermal Power Plant (new);0,89
+2044;Geothermal Power Plant (new);0,89
+2045;Geothermal Power Plant (new);0,89
+2046;Geothermal Power Plant (new);0,89
+2047;Geothermal Power Plant (new);0,89
+2048;Geothermal Power Plant (new);0,89
+2049;Geothermal Power Plant (new);0,89
+2050;Geothermal Power Plant (new);0,89
+2015;Geothermal Power Plant (existing);0,583
+2016;Geothermal Power Plant (existing);0,583
+2017;Geothermal Power Plant (existing);0,583
+2018;Geothermal Power Plant (existing);0,583
+2019;Geothermal Power Plant (existing);0,6085
+2020;Geothermal Power Plant (existing);0,634
+2021;Geothermal Power Plant (existing);0,6595
+2022;Geothermal Power Plant (existing);0,685
+2023;Geothermal Power Plant (existing);0,7105
+2024;Geothermal Power Plant (existing);0,736
+2025;Geothermal Power Plant (existing);0,7615
+2026;Geothermal Power Plant (existing);0,787
+2027;Geothermal Power Plant (existing);0,8125
+2028;Geothermal Power Plant (existing);0,838
+2029;Geothermal Power Plant (existing);0,8635
+2030;Geothermal Power Plant (existing);0,89
+2031;Geothermal Power Plant (existing);0,89
+2032;Geothermal Power Plant (existing);0,89
+2033;Geothermal Power Plant (existing);0,89
+2034;Geothermal Power Plant (existing);0,89
+2035;Geothermal Power Plant (existing);0,89
+2036;Geothermal Power Plant (existing);0,89
+2037;Geothermal Power Plant (existing);0,89
+2038;Geothermal Power Plant (existing);0,89
+2039;Geothermal Power Plant (existing);0,89
+2040;Geothermal Power Plant (existing);0,89
+2041;Geothermal Power Plant (existing);0,89
+2042;Geothermal Power Plant (existing);0,89
+2043;Geothermal Power Plant (existing);0,89
+2044;Geothermal Power Plant (existing);0,89
+2045;Geothermal Power Plant (existing);0,89
+2046;Geothermal Power Plant (existing);0,89
+2047;Geothermal Power Plant (existing);0,89
+2048;Geothermal Power Plant (existing);0,89
+2049;Geothermal Power Plant (existing);0,89
+2050;Geothermal Power Plant (existing);0,89
+2015;Diesel Power Plant (new);0,034
+2016;Diesel Power Plant (new);0,034
+2017;Diesel Power Plant (new);0,034
+2018;Diesel Power Plant (new);0,034
+2019;Diesel Power Plant (new);0,034
+2020;Diesel Power Plant (new);0,034
+2021;Diesel Power Plant (new);0,034
+2022;Diesel Power Plant (new);0,034
+2023;Diesel Power Plant (new);0,034
+2024;Diesel Power Plant (new);0,034
+2025;Diesel Power Plant (new);0,034
+2026;Diesel Power Plant (new);0,034
+2027;Diesel Power Plant (new);0,034
+2028;Diesel Power Plant (new);0,034
+2029;Diesel Power Plant (new);0,034
+2030;Diesel Power Plant (new);0,034
+2031;Diesel Power Plant (new);0,034
+2032;Diesel Power Plant (new);0,034
+2033;Diesel Power Plant (new);0,034
+2034;Diesel Power Plant (new);0,034
+2035;Diesel Power Plant (new);0,034
+2036;Diesel Power Plant (new);0,034
+2037;Diesel Power Plant (new);0,034
+2038;Diesel Power Plant (new);0,034
+2039;Diesel Power Plant (new);0,034
+2040;Diesel Power Plant (new);0,034
+2041;Diesel Power Plant (new);0,034
+2042;Diesel Power Plant (new);0,034
+2043;Diesel Power Plant (new);0,034
+2044;Diesel Power Plant (new);0,034
+2045;Diesel Power Plant (new);0,034
+2046;Diesel Power Plant (new);0,034
+2047;Diesel Power Plant (new);0,034
+2048;Diesel Power Plant (new);0,034
+2049;Diesel Power Plant (new);0,034
+2050;Diesel Power Plant (new);0,034
+2015;Diesel Power Plant (existing);0,034
+2016;Diesel Power Plant (existing);0,034
+2017;Diesel Power Plant (existing);0,034
+2018;Diesel Power Plant (existing);0,034
+2019;Diesel Power Plant (existing);0,034
+2020;Diesel Power Plant (existing);0,034
+2021;Diesel Power Plant (existing);0,034
+2022;Diesel Power Plant (existing);0,034
+2023;Diesel Power Plant (existing);0,034
+2024;Diesel Power Plant (existing);0,034
+2025;Diesel Power Plant (existing);0,034
+2026;Diesel Power Plant (existing);0,034
+2027;Diesel Power Plant (existing);0,034
+2028;Diesel Power Plant (existing);0,034
+2029;Diesel Power Plant (existing);0,034
+2030;Diesel Power Plant (existing);0,034
+2031;Diesel Power Plant (existing);0,034
+2032;Diesel Power Plant (existing);0,034
+2033;Diesel Power Plant (existing);0,034
+2034;Diesel Power Plant (existing);0,034
+2035;Diesel Power Plant (existing);0,034
+2036;Diesel Power Plant (existing);0,034
+2037;Diesel Power Plant (existing);0,034
+2038;Diesel Power Plant (existing);0,034
+2039;Diesel Power Plant (existing);0,034
+2040;Diesel Power Plant (existing);0,034
+2041;Diesel Power Plant (existing);0,034
+2042;Diesel Power Plant (existing);0,034
+2043;Diesel Power Plant (existing);0,034
+2044;Diesel Power Plant (existing);0,034
+2045;Diesel Power Plant (existing);0,034
+2046;Diesel Power Plant (existing);0,034
+2047;Diesel Power Plant (existing);0,034
+2048;Diesel Power Plant (existing);0,034
+2049;Diesel Power Plant (existing);0,034
+2050;Diesel Power Plant (existing);0,034
+2015;Biomass Power Plant (new);0,75
+2016;Biomass Power Plant (new);0,75
+2017;Biomass Power Plant (new);0,75
+2018;Biomass Power Plant (new);0,75
+2019;Biomass Power Plant (new);0,75
+2020;Biomass Power Plant (new);0,75
+2021;Biomass Power Plant (new);0,75
+2022;Biomass Power Plant (new);0,75
+2023;Biomass Power Plant (new);0,75
+2024;Biomass Power Plant (new);0,75
+2025;Biomass Power Plant (new);0,75
+2026;Biomass Power Plant (new);0,75
+2027;Biomass Power Plant (new);0,75
+2028;Biomass Power Plant (new);0,75
+2029;Biomass Power Plant (new);0,75
+2030;Biomass Power Plant (new);0,75
+2031;Biomass Power Plant (new);0,75
+2032;Biomass Power Plant (new);0,75
+2033;Biomass Power Plant (new);0,75
+2034;Biomass Power Plant (new);0,75
+2035;Biomass Power Plant (new);0,75
+2036;Biomass Power Plant (new);0,75
+2037;Biomass Power Plant (new);0,75
+2038;Biomass Power Plant (new);0,75
+2039;Biomass Power Plant (new);0,75
+2040;Biomass Power Plant (new);0,75
+2041;Biomass Power Plant (new);0,75
+2042;Biomass Power Plant (new);0,75
+2043;Biomass Power Plant (new);0,75
+2044;Biomass Power Plant (new);0,75
+2045;Biomass Power Plant (new);0,75
+2046;Biomass Power Plant (new);0,75
+2047;Biomass Power Plant (new);0,75
+2048;Biomass Power Plant (new);0,75
+2049;Biomass Power Plant (new);0,75
+2050;Biomass Power Plant (new);0,75
+2015;Biomass Power Plant (existing);0,317
+2016;Biomass Power Plant (existing);0,317
+2017;Biomass Power Plant (existing);0,317
+2018;Biomass Power Plant (existing);0,317
+2019;Biomass Power Plant (existing);0,317
+2020;Biomass Power Plant (existing);0,317
+2021;Biomass Power Plant (existing);0,317
+2022;Biomass Power Plant (existing);0,317
+2023;Biomass Power Plant (existing);0,317
+2024;Biomass Power Plant (existing);0,317
+2025;Biomass Power Plant (existing);0,317
+2026;Biomass Power Plant (existing);0,317
+2027;Biomass Power Plant (existing);0,317
+2028;Biomass Power Plant (existing);0,317
+2029;Biomass Power Plant (existing);0,317
+2030;Biomass Power Plant (existing);0,317
+2031;Biomass Power Plant (existing);0,317
+2032;Biomass Power Plant (existing);0,317
+2033;Biomass Power Plant (existing);0,317
+2034;Biomass Power Plant (existing);0,317
+2035;Biomass Power Plant (existing);0,317
+2036;Biomass Power Plant (existing);0,317
+2037;Biomass Power Plant (existing);0,317
+2038;Biomass Power Plant (existing);0,317
+2039;Biomass Power Plant (existing);0,317
+2040;Biomass Power Plant (existing);0,317
+2041;Biomass Power Plant (existing);0,317
+2042;Biomass Power Plant (existing);0,317
+2043;Biomass Power Plant (existing);0,317
+2044;Biomass Power Plant (existing);0,317
+2045;Biomass Power Plant (existing);0,317
+2046;Biomass Power Plant (existing);0,317
+2047;Biomass Power Plant (existing);0,317
+2048;Biomass Power Plant (existing);0,317
+2049;Biomass Power Plant (existing);0,317
+2050;Biomass Power Plant (existing);0,317
