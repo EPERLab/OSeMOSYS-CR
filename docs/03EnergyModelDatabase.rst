@@ -240,7 +240,7 @@ For other sectors, we assume a default value equal to 1, as the calculation is r
 3.4.2 Capacity Factor
 ---------
 
-The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 3.4 shows the values of capacity factors for 2015. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
+The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 3.4 shows the values of capacity factors for different power plants. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
 
 .. figure::  img/CapacityFactor.png
    :align:   center
