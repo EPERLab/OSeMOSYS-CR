@@ -4,11 +4,11 @@
 OSeMOSYS-CR started by estimating a base case, and subsequently, including the effect of a set of policies defined by stakeholders in a decarbonization scenarios. This exercise allowed the creation of the following scenarios: 
 
 (i) A Business-as-usual (BAU) scenario, that represents the behavior of the emissions without considering public policy interventions (i.e. following the historic trends). 
-(ii) A NDP that is compatible with a goal of net zero emissions by 2050.
+(ii) A NDP scenario that is compatible with a goal of net zero emissions by 2050.
 
 The BAU scenario considers that the energy consumption, economic activity and population grow according to the historical trends. This scenario incorporates the electricity generation expansion plan from the Costa Rican Electricity Institute to represent the development of the electricity sector :cite:`ICE2019`. It also includes a moderate penetration of solar and wind generation, distributed generation for self-consumption, prived electric vehicles and electric public transport (buses). In terms of emissions, this scenario does not have a significant change in relation to the trend trajectory. 
 
-The 2°C and 1.5°C scenarios consider that the social and economic situation described in the BAU scenario remains the same. However, they incorporate the political objectives generated through stakeholder engagement and the participatory process. The main strategies in the 2° and 1.5° scenarios are focused in *i)* urban planning and mobility, *ii)* switching fossil fuel technologies, and *iii)* switching energy carriers. Figure 4.1 sumarizes the main aspects of each scenario. 
+The NDP scenario considers that the social and economic situation described in the BAU scenario remains the same. However, they incorporate the political objectives generated through stakeholder engagement and the participatory process. The main strategies in the 2° and 1.5° scenarios are focused in *i)* urban planning and mobility, *ii)* switching fossil fuel technologies, and *iii)* switching energy carriers. Figure 4.1 sumarizes the main aspects of each scenario. 
 
 .. figure:: img/Scenarios.PNG
    :align:   center
