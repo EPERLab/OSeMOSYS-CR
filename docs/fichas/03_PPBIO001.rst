@@ -40,11 +40,6 @@ The equation (1) shows the Capacity Factor for PPBIO001, for every scenario and 
 
 CapacityFactor=0.317%   (1)
 
-#Source:
-#   This is the source. 
-   
-Description: 
-   This is the description. 
 
 FixedCost[r,t,y]
 +++++++++
@@ -52,11 +47,6 @@ The equation (2) shows the Fixed Cost for PPBIO001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 +++++++++
@@ -64,11 +54,6 @@ The equation (3) shows the Operational Life for PPBIO001, for every scenario.
 
 OperationalLife=25 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -76,23 +61,13 @@ The equation (4) shows the Output Activity Ratio for PPBIO001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
-   
+
 ResidualCapacity[r,t,y]
 +++++++++
 The equation (5) shows the Residual Capacity for PPBIO001, for every scenario.
 
 ResidualCapacity=0.03 [GW]   (5)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+      
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -100,11 +75,7 @@ The equation (6) shows the Total Annual Max Capacity for PPBIO001, for every sce
 
 TotalAnnualMaxCapacity=0.03 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+        
    
 VariableCost[r,t,m,y]
 +++++++++
@@ -112,8 +83,4 @@ The equation (7) shows the Variable Cost for PPBIO001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.               
+              
