@@ -38,23 +38,13 @@ The equation (1) shows the Capacity Factor for PPBIO002, for every scenario and 
 
 CapacityFactor=0.75%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+  
 CapitalCost[r,t,y]
 +++++++++
 The equation (2) shows the Capital Cost for PPBIO002, for every scenario.
 
 CapitalCost=2463.28 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 FixedCost[r,t,y]
 +++++++++
@@ -62,11 +52,6 @@ The equation (3) shows the Fixed Cost for PPBIO002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
    
 OperationalLife[r,t]
 +++++++++
@@ -74,24 +59,14 @@ The equation (4) shows the Operational Life for PPBIO002, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
-   
+  
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (5) shows the Output Activity Ratio for PPBIO002, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+  
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenario.
@@ -102,20 +77,10 @@ The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenari
    
    *Figure 1) Total Annual Max Capacity for PPBIO002.*
    
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
 
 VariableCost[r,t,m,y]
 +++++++++
 The equation (6) shows the Variable Cost for PPBIO002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
