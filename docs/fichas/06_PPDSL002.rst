@@ -32,19 +32,11 @@ PPDSL002: Diesel Power Plant (new)
 | VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-
-
 CapacityFactor[r,t,l,y]
 +++++++++
 The equation (1) shows the Capacity Factor for PPDSL002, for every scenario and season.
 
 CapacityFactor=0.034%   (1)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 CapitalCost[r,t,y]
 +++++++++
@@ -52,23 +44,12 @@ The equation (2) shows the Capital Cost for PPDSL002, for every scenario.
 
 CapitalCost=1269.78 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-
 FixedCost[r,t,y]
 +++++++++
 The equation (3) shows the Fixed Cost for PPDSL002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -76,11 +57,6 @@ The equation (4) shows the Input Activity Ratio for PPDSL002, for every scenario
 
 InputActivityRatio=2.5 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 +++++++++
@@ -88,11 +64,6 @@ The equation (5) shows the Operational Life for PPDSL002, for every scenario.
 
 OperationalLife=30 Years   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -100,11 +71,6 @@ The equation (6) shows the Output Activity Ratio for PPDSL002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
    
 VariableCost[r,t,m,y]
 +++++++++
@@ -112,8 +78,3 @@ The equation (7) shows the Variable Cost for PPDSL002, for every scenario.
 
 VariableCost=1.3 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.    
