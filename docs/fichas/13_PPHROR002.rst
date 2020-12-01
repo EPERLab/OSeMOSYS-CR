@@ -49,11 +49,6 @@ The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHROR002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 CapitalCost[r,t,y]
 +++++++++
@@ -61,23 +56,12 @@ The equation (1) shows the Capital Cost for PPHROR002, para todos los escenarios
 
 CapitalCost=4385.15 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
 The equation (2) shows the Fixed Cost for PPHROR002, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (2)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -85,23 +69,12 @@ The equation (3) shows the Input Activity Ratio for PPHROR002, for every scenari
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 +++++++++
 The equation (4) shows the Operational Life for PPHROR002, for every scenario.
 
 OperationalLife=60 Years   (4)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -109,11 +82,6 @@ The equation (5) shows the Output Activity Ratio for PPHROR002, for every scenar
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -124,12 +92,6 @@ The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenar
    :width:   700 px
    
    *Figure 2) Total Annual Max Capacity for PPHROR002.*
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 +++++++++
@@ -140,12 +102,6 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    :width:   700 px
    
    *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 VariableCost[r,t,m,y]
 +++++++++
@@ -153,8 +109,3 @@ The equation (6) shows the Variable Cost for PPHROR002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.    
