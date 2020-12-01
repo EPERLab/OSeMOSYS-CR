@@ -45,7 +45,6 @@ TRBUSHYBD02: Bus Hybrid Electric-Diesel (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-
 CapitalCost[r,t,y]
 +++++++++
 
@@ -57,11 +56,6 @@ The figure 1 shows the Capital Cost for TRBUSHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRBUSHYBD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -69,11 +63,7 @@ The equation (1) shows the Distance Driven for TRBUSHYBD02, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -89,11 +79,7 @@ The equation (4) shows the Emission Activity Ratio for TRBUSHYBD02, for every sc
 
 EmissionActivityRatio=0.03    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -101,11 +87,7 @@ The equation (5) shows the Fixed Cost for TRBUSHYBD02, for every scenario.
 
 FixedCost=85.89 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -113,11 +95,7 @@ The equation (6) shows the Input Activity Ratio for TRBUSHYBD02, for every scena
 
 InputActivityRatio=4.79 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -125,11 +103,7 @@ The equation (7) shows the Operational Life for TRBUSHYBD02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -137,11 +111,7 @@ The equation (8) shows the Output Activity Ratio for TRBUSHYBD02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -153,11 +123,7 @@ The figure 2 shows the Total Annual Max Capacity for TRBUSHYBD02, for every scen
    
    *Figure 2) Total Annual Max Capacity for TRBUSHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -168,11 +134,7 @@ The figure 3 shows the Unit Capital Cost for TRBUSHYBD02, for every scenario.
    :width:   700 px
    
    *Figure 3) Unit Capital Cost for TRBUSHYBD02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -180,8 +142,4 @@ The equation (9) shows the Unit Fixed Cost for TRBUSHYBD02, for every scenario.
 
 UnitFixedCost=3710.7572 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
