@@ -43,11 +43,7 @@ The equation (1) shows the Capacity Factor for PPPVT001, for every scenario and 
 
 CapacityFactor=0.277%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -55,11 +51,7 @@ The equation (2) shows the Fixed Cost for PPPVT001, for every scenario.
 
 FixedCost=31.3 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -67,11 +59,7 @@ The equation (3) shows the Input Activity Ratio for PPPVT001, for every scenario
 
 InputActivityRatio=1 [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -79,11 +67,7 @@ The equation (4) shows the Operational Life for PPPVT001, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -91,11 +75,7 @@ The equation (5) shows the Output Activity Ratio for PPPVT001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -103,11 +83,7 @@ The equation (6) shows the Residual Capacity for PPPVT001, for every scenario.
 
 ResidualCapacity=0.0054 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+     
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -115,11 +91,7 @@ The equation (7) shows the Total Annual Max Capacity for PPPVT001, for every sce
 
 TotalAnnualMaxCapacity=0.0054 [GW]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+           
    
 VariableCost[r,t,m,y]
 +++++++++
@@ -127,8 +99,4 @@ The equation (8) shows the Variable Cost for PPPVT001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
