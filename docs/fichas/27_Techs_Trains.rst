@@ -30,11 +30,7 @@ The equation (1) shows the Input Activity Ratio for Techs_Trains, for every scen
 
 InputActivityRatio=1   [Gpkm/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 +++++++++
@@ -42,11 +38,7 @@ The equation (2) shows the Operational Life for Techs_Trains, for every scenario
 
 OperationalLife=1 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -54,8 +46,3 @@ The equation (3) shows the Output Activity Ratio for Techs_Trains, for every sce
 
 OutputActivityRatio=1 [Gpkm/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
