@@ -47,23 +47,12 @@ The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHROR001.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
-
 FixedCost[r,t,y]
 +++++++++
 The equation (1) shows the Fixed Cost for PPHROR001, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -71,11 +60,7 @@ The equation (2) shows the Input Activity Ratio for PPHROR001, for every scenari
 
 InputActivityRatio=1 [PJ/PJ]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -83,56 +68,29 @@ The equation (3) shows the Operational Life for PPHROR001, for every scenario.
 
 OperationalLife=60 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (4) shows the Output Activity Ratio for PPHROR001, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
    
 ResidualCapacity[r,t,y]
 +++++++++
 The equation (5) shows the Residual Capacity for PPHROR001, for every scenario.
 
 ResidualCapacity=1.21 [GW]   (5)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The equation (6) shows the Total Annual Max Capacity for PPHROR001, for every scenario.
 
 TotalAnnualMaxCapacity=1.21 [GW]   (6)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+      
    
 VariableCost[r,t,m,y]
 +++++++++
 The equation (7) shows the Variable Cost for PPHROR001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
