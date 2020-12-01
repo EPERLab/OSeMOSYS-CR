@@ -42,12 +42,6 @@ The equation (1) shows the Capacity Factor for PPDSL001, for every scenario and 
 
 CapacityFactor=0.034%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
-
 FixedCost[r,t,y]
 +++++++++
 The equation (2) shows the Fixed Cost for PPDSL001, for every scenario.
@@ -76,7 +70,6 @@ The equation (5) shows the Output Activity Ratio for PPDSL001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
- 
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -84,7 +77,7 @@ The equation (6) shows the Residual Capacity for PPDSL001, for every scenario.
 
 ResidualCapacity=0.381 [GW]   (6)
 
-     
+    
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
