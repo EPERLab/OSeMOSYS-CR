@@ -42,11 +42,7 @@ The equation (1) shows the Distance Driven for Techs_Minivan, for every scenario
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -54,11 +50,7 @@ The equation (2) shows the Input Activity Ratio for Techs_Minivan, for every sce
 
 InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 +++++++++
@@ -66,11 +58,7 @@ The equation (3) shows the Operational Life for Techs_Minivan, for every scenari
 
 OperationalLife=1 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -78,11 +66,7 @@ The equation (4) shows the Output Activity Ratio for Techs_Minivan, for every sc
 
 OutputActivityRatio=2.3 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -102,11 +86,7 @@ The figure 2 shows the Total Annual Max Capacity for Techs_Minivan, for the NDP 
    
    *Figure 2) Total Annual Max Capacity for Techs_Minivan for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -126,8 +106,4 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Mi
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Minivan for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
