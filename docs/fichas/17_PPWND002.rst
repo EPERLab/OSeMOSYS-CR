@@ -43,11 +43,6 @@ The equation (1) shows the Capacity Factor for PPWND002, for every scenario and 
 
 CapacityFactor=0.572%   (1)
 
-Fuente:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 CapitalCost[r,t,y]
 +++++++++
@@ -59,11 +54,6 @@ The figure 1 shows the Capital Cost for PPWND002, for every scenario.
    
    *Figure 1) Capital Cost for PPWND002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -71,11 +61,6 @@ The equation (2) shows the Fixed Cost for PPWND002, for every scenario.
 
 FixedCost=179.1 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
