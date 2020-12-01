@@ -109,11 +109,7 @@ The equation (5) shows the Input Activity Ratio for TRBUSELC02, for every scenar
 
 InputActivityRatio=4.79 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 +++++++++
@@ -121,11 +117,7 @@ The equation (6) shows the Operational Life for TRBUSELC02, for every scenario.
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -133,11 +125,7 @@ The equation (7) shows the Output Activity Ratio for TRBUSELC02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -157,11 +145,7 @@ The figure 3 shows the Total Annual Max Capacity for TRBUSELC02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRBUSELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
