@@ -45,11 +45,6 @@ The equation (1) shows the Distance Driven for Techs_Bus, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 InputActivityRatio[r,t,f,m,y]
 ----------
@@ -57,11 +52,7 @@ The equation (2) shows the Input Activity Ratio for Techs_Bus, for every scenari
 
 InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 OperationalLife[r,t]
 ----------
@@ -69,11 +60,7 @@ The equation (3) shows the Operational Life for Techs_Bus, for every scenario.
 
 OperationalLife=1 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ----------
@@ -81,11 +68,6 @@ The equation (4) shows the Output Activity Ratio for Techs_Bus, for every scenar
 
 OutputActivityRatio=25.66 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 TotalAnnualMaxCapacity[r,t,y]
 ----------
@@ -105,11 +87,6 @@ The figure 2 shows the Total Annual Max Capacity for Techs_Bus, for the NDP scen
    
    *Figure 2) Total Annual Max Capacity for Techs_Bus for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ----------
@@ -129,11 +106,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Bu
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Bus for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Bus Diesel (existing)
 ++++++++
@@ -192,11 +165,7 @@ The equation (1) shows the Distance Driven for TRBUSDSL01, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -212,11 +181,7 @@ The equation (4) shows the Emission Activity Ratio for TRBUSDSL01, for every sce
 
 EmissionActivityRatio=0.06    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -236,11 +201,7 @@ The equation (6) shows the Input Activity Ratio for TRBUSDSL01, for every scenar
 
 InputActivityRatio=8.62 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -248,11 +209,7 @@ The equation (7) shows the Operational Life for TRBUSDSL01, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -260,11 +217,7 @@ The equation (8) shows the Output Activity Ratio for TRBUSDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 ---------
@@ -284,11 +237,7 @@ The figure 2 shows the Residual Capacity for TRBUSDSL01, for the NDP scenario.
    
    *Figure 2) Residual Capacity for TRBUSDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -308,11 +257,6 @@ The figure 4 shows the Total Annual Max Capacity for TRBUSDSL01, for the NDP sce
    
    *Figure 4) Total Annual Max Capacity for TRBUSDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -332,11 +276,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRBUSDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -344,11 +284,7 @@ The equation (9) shows the Unit Fixed Cost for TRBUSDSL01, for every scenario.
 
 UnitFixedCost=11244.7188 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Bus Diesel (new)
 ++++++++
@@ -404,11 +340,7 @@ The equation (1) shows the Capital Cost for TRBUSDSL02, for every scenario.
 
 CapitalCost=3399 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 --------
@@ -416,11 +348,7 @@ The equation (2) shows the Distance Driven for TRBUSDSL02, for every scenario.
 
 DistanceDriven=65460 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 --------
@@ -436,11 +364,7 @@ The equation (5) shows the Emission Activity Ratio for TRBUSDSL02, for every sce
 
 EmissionActivityRatio=0.06    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 --------
@@ -448,11 +372,7 @@ The equation (6) shows the Fixed Cost for TRBUSDSL02, for every scenario.
 
 FixedCost=171.78 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 --------
@@ -460,11 +380,7 @@ The equation (7) shows the Input Activity Ratio for TRBUSDSL02, for every scenar
 
 InputActivityRatio=7.61 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 --------
@@ -472,11 +388,7 @@ The equation (8) shows the Operational Life for TRBUSDSL02, for every scenario.
 
 OperationalLife=15 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 --------
@@ -484,11 +396,7 @@ The equation (9) shows the Output Activity Ratio for TRBUSDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 --------
@@ -508,11 +416,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRBUSDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 --------
@@ -520,11 +424,7 @@ The equation (10) shows the Unit Capital Cost for TRBUSDSL02, for every scenario
 
 UnitCapitalCost=222495.54 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -533,11 +433,7 @@ The equation (11) shows the Unit Fixed Cost for TRBUSDSL02, for every scenario.
 
 UnitFixedCost=11244.7188 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 Bus Electric (new)
 +++++++++
@@ -598,11 +494,7 @@ The figure 1 shows the Capital Cost for TRBUSELC02, for every scenario.
    
    *Figure 1) Capital Cost for TRBUSELC02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -698,11 +590,6 @@ The figure 3 shows the Total Annual Max Capacity for TRBUSELC02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRBUSELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -714,11 +601,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRBUSELC
    
    *Figure 4) Total Technology Annual Activity Lower Limit for TRBUSELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -729,12 +612,7 @@ The figure 5 shows the Unit Capital Cost for TRBUSELC02, for every scenario.
    :width:   700 px
    
    *Figure 5) Unit Capital Cost for TRBUSELC02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -742,11 +620,7 @@ The equation (8) shows the Unit Fixed Cost for TRBUSELC02, for every scenario.
 
 UnitFixedCost=3710.7572 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Bus Hybrid Electric-Diesel (new)
 +++++++++
@@ -807,11 +681,6 @@ The figure 1 shows the Capital Cost for TRBUSHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRBUSHYBD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 ---------
@@ -819,11 +688,7 @@ The equation (1) shows the Distance Driven for TRBUSHYBD02, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -839,11 +704,7 @@ The equation (4) shows the Emission Activity Ratio for TRBUSHYBD02, for every sc
 
 EmissionActivityRatio=0.03    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -851,11 +712,7 @@ The equation (5) shows the Fixed Cost for TRBUSHYBD02, for every scenario.
 
 FixedCost=85.89 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -863,11 +720,7 @@ The equation (6) shows the Input Activity Ratio for TRBUSHYBD02, for every scena
 
 InputActivityRatio=4.79 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -875,11 +728,7 @@ The equation (7) shows the Operational Life for TRBUSHYBD02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -887,11 +736,7 @@ The equation (8) shows the Output Activity Ratio for TRBUSHYBD02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -903,11 +748,7 @@ The figure 2 shows the Total Annual Max Capacity for TRBUSHYBD02, for every scen
    
    *Figure 2) Total Annual Max Capacity for TRBUSHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -930,11 +771,7 @@ The equation (9) shows the Unit Fixed Cost for TRBUSHYBD02, for every scenario.
 
 UnitFixedCost=3710.7572 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Bus Hydrogen (new)
 +++++++++
@@ -981,7 +818,6 @@ Bus Hydrogen (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-
 CapitalCost[r,t,y]
 ---------
 
@@ -993,11 +829,6 @@ The figure 1 shows the Capital Cost for TRBUSHYD02, for every scenario.
    
    *Figure 1) Capital Cost for TRBUSHYD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 ---------
@@ -1005,11 +836,7 @@ The equation (1) shows the Distance Driven for TRBUSHYD02, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1021,11 +848,7 @@ The equation (3) shows the Emission Activity Ratio for TRBUSHYD02, for every sce
 
 EmissionActivityRatio=0.16    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1033,11 +856,7 @@ The equation (4) shows the Fixed Cost for TRBUSHYD02, for every scenario.
 
 FixedCost=56.6874 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1045,11 +864,7 @@ The equation (5) shows the Input Activity Ratio for TRBUSHYD02, for every scenar
 
 InputActivityRatio=5.45 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -1057,11 +872,7 @@ The equation (6) shows the Operational Life for TRBUSHYD02, for every scenario.
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1069,11 +880,7 @@ The equation (7) shows the Output Activity Ratio for TRBUSHYD02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1085,11 +892,7 @@ The figure 2 shows the Total Annual Max Capacity for TRBUSHYD02, for every scena
    
    *Figure 2) Total Annual Max Capacity for TRBUSHYD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------   
@@ -1101,11 +904,6 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRBUSHYD
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRBUSHYD02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1116,11 +914,7 @@ The figure 4 shows the Unit Capital Cost for TRBUSHYD02, for every scenario.
    :width:   700 px
    
    *Figure 4) Unit Capital Cost for TRBUSHYD02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -1128,11 +922,7 @@ The equation (8) shows the Unit Fixed Cost for TRBUSHYD02, for every scenario.
 
 UnitFixedCost=3710.7572 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 
 Bus LPG (new)  
@@ -1185,11 +975,7 @@ The equation (1) shows the Capital Cost for TRBUSLPG02, for every scenario.
 
 CapitalCost=3755 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 DistanceDriven[r,t,y]
 ---------
@@ -1197,11 +983,7 @@ The equation (2) shows the Distance Driven for TRBUSLPG02, for every scenario.
 
 DistanceDriven=65460 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1217,11 +999,6 @@ The equation (5) shows the Emission Activity Ratio for TRBUSLPG02, for every sce
 
 EmissionActivityRatio=0.03    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 ---------
@@ -1229,11 +1006,6 @@ The equation (6) shows the Fixed Cost for TRBUSLPG02, for every scenario.
 
 FixedCost=100.77 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1241,23 +1013,14 @@ The equation (7) shows the Input Activity Ratio for TRBUSLPG02, for every scenar
 
 InputActivityRatio=9.92 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+    
 OperationalLife[r,t]
 ---------
 The equation (8) shows the Operational Life for TRBUSLPG02, for every scenario.
 
 OperationalLife=15 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1265,11 +1028,7 @@ The equation (9) shows the Output Activity Ratio for TRBUSLPG02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1281,11 +1040,6 @@ The figure 1 shows the Total Annual Max Capacity for TRBUSLPG02, for every scena
    
    *Figure 1) Total Annual Max Capacity for TRBUSLPG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1293,11 +1047,6 @@ The equation (11) shows the Unit Capital Cost for TRBUSLPG02, for every scenario
 
 UnitCapitalCost=245802.3 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 ---------
@@ -1305,8 +1054,3 @@ The equation (12) shows the Unit Fixed Cost for TRBUSLPG02, for every scenario.
 
 UnitFixedCost=6596.4042 [$]   (12)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
