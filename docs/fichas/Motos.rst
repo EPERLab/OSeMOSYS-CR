@@ -45,11 +45,7 @@ The equation (1) shows the Distance Driven for Techs_Motos, for every scenario.
 
 DistanceDriven=7327 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -57,11 +53,7 @@ The equation (2) shows the Input Activity Ratio for Techs_Motos, for every scena
 
 InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -81,11 +73,7 @@ The equation (4) shows the Output Activity Ratio for Techs_Motos, for every scen
 
 OutputActivityRatio=1.1 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -105,11 +93,7 @@ The figure 2 shows the Total Annual Max Capacity for Techs_Motos, for the NDP sc
    
    *Figure 2) Total Annual Max Capacity for Techs_Motos for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -129,11 +113,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Mo
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Motos for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 
 Motorcycle electric (new)
@@ -189,11 +169,7 @@ The equation (1) shows the Capital Cost for TRMOTELC02, for every scenario.
 
 CapitalCost=202 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -201,11 +177,7 @@ The equation (2) shows the Distance Driven for TRMOTELC02, for every scenario.
 
 DistanceDriven=7327 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -217,11 +189,7 @@ The equation (4) shows the Emission Activity Ratio for TRMOTELC02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -229,11 +197,7 @@ The equation (5) shows the Fixed Cost for TRMOTELC02, for every scenario.
 
 FixedCost=1.7853 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -241,11 +205,7 @@ The equation (6) shows the Input Activity Ratio for TRMOTELC02, for every scenar
 
 InputActivityRatio=0.17 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -253,11 +213,7 @@ The equation (7) shows the Operational Life for TRMOTELC02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -265,11 +221,7 @@ The equation (8) shows the Output Activity Ratio for TRMOTELC02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
    
 TotalAnnualMaxCapacity[r,t,y] 
@@ -290,11 +242,7 @@ The figure 1 shows the Total Annual Max Capacity for TRMOTELC02, for the BAU sce
    
    *Figure 2) Total Annual Max Capacity for TRMOTELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
@@ -307,11 +255,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMOTELC
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRMOTELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -319,11 +263,8 @@ The equation (9) shows the Unit Capital Cost for TRMIVLPG02, for every scenario.
 
 UnitCapitalCost=26369.805 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
+
    
    
 UnitFixedCost[r,t,y]
@@ -332,11 +273,6 @@ The equation (10) shows the Unit Fixed Cost for TRMIVLPG02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 
 Motorcycle Gasoline (existing)
@@ -396,11 +332,7 @@ The equation (1) shows the Distance Driven for TRMOTGAS01, for every scenario.
 
 DistanceDriven=7327 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -416,11 +348,7 @@ The equation (4) shows the Emission Activity Ratio for TRMOTGAS01, for every sce
 
 EmissionActivityRatio=0.01   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -428,11 +356,7 @@ The equation (5) shows the Fixed Cost for TRMOTGAS01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -443,11 +367,7 @@ The figure 1 shows the Input Activity Ratio for TRMOTGAS01, for every scenario a
    :width:   700 px
    
    *Figure 1) Input Activity Ratio for TRMOTGAS01 for every scenario.*
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -455,11 +375,7 @@ The equation (6) shows the Operational Life for TRMOTGAS01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -467,11 +383,7 @@ The equation (7) shows the Output Activity Ratio for TRMOTGAS01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -491,11 +403,7 @@ The figure 3 shows the Residual Capacity for TRMOTGAS01, for the NDP scenario.
    
    *Figure 3) Residual Capacity for TRMOTGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -515,11 +423,7 @@ The figure 5 shows the Total Annual Max Capacity for TRMOTGAS01, for the NDP sce
    
    *Figure 5) Total Annual Max Capacity for TRMOTGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -539,11 +443,7 @@ The figure 7 shows the Total Technology Annual Activity Lower Limit for TRMOTGAS
    
    *Figure 7) Total Technology Annual Activity Lower Limit for TRMOTGAS01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -551,11 +451,7 @@ The equation (8) shows the Unit Fixed Cost for TRMOTGAS01, for every scenario.
 
 UnitFixedCost=39.6391 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Motorcycle Gasoline (new)
 +++++++++
@@ -611,11 +507,7 @@ The equation (1) shows the Capital Cost for TRMOTGAS02, for every scenario.
 
 CapitalCost=122.33 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -623,11 +515,7 @@ The equation (2) shows the Distance Driven for TRMOTGAS02, for every scenario.
 
 DistanceDriven=7327 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -644,11 +532,7 @@ The equation (5) shows the Emission Activity Ratio for TRMOTGAS02, for every sce
 EmissionActivityRatio=0.01   (5)
 
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -656,11 +540,7 @@ The equation (6) shows the Fixed Cost for TRMOTGAS02, for every scenario.
 
 FixedCost=5.41 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -672,11 +552,7 @@ The figure 1 shows the Input Activity Ratio for TRMOTGAS02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRMOTGAS02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ---------
@@ -684,11 +560,7 @@ The equation (7) shows the Operational Life for TRMOTGAS02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -696,11 +568,7 @@ The equation (8) shows the Output Activity Ratio for TRMOTGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -720,11 +588,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMOTGAS
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRMOTGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -732,11 +596,6 @@ The equation (9) shows the Unit Capital Cost for TRMOTGAS02, for every scenario.
 
 UnitCapitalCost=894.3119 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
    
 UnitFixedCost[r,t,y]
@@ -745,8 +604,3 @@ The equation (10) shows the Unit Fixed Cost for TRMOTGAS02, for every scenario.
 
 UnitFixedCost=39.6391 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
