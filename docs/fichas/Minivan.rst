@@ -45,11 +45,7 @@ The equation (1) shows the Distance Driven for Techs_Minivan, for every scenario
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -57,11 +53,7 @@ The equation (2) shows the Input Activity Ratio for Techs_Minivan, for every sce
 
 InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -69,11 +61,7 @@ The equation (3) shows the Operational Life for Techs_Minivan, for every scenari
 
 OperationalLife=1 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -81,11 +69,7 @@ The equation (4) shows the Output Activity Ratio for Techs_Minivan, for every sc
 
 OutputActivityRatio=2.3 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -105,11 +89,7 @@ The figure 2 shows the Total Annual Max Capacity for Techs_Minivan, for the NDP 
    
    *Figure 2) Total Annual Max Capacity for Techs_Minivan for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -129,11 +109,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Mi
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Minivan for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Minivan Diesel (new)
 +++++++++
@@ -186,11 +162,7 @@ The equation (1) shows the Capital Cost for TRMIVDSL02, for every scenario.
 
 CapitalCost=2331.95 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -198,11 +170,7 @@ The equation (2) shows the Distance Driven for TRMIVDSL02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -218,11 +186,7 @@ The equation (5) shows the Emission Activity Ratio for TRMIVDSL02, for every sce
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -230,11 +194,7 @@ The equation (6) shows the Fixed Cost for TRMIVDSL02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -246,11 +206,7 @@ The figure 1 shows the Input Activity Ratio for TRMIVDSL02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRMIVDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -258,11 +214,7 @@ The equation (7) shows the Operational Life for TRMIVDSL02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -270,11 +222,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -286,11 +234,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMIVDSL
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRMIVDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -298,11 +242,6 @@ The equation (9) shows the Unit Capital Cost for TRMIVDSL02, for every scenario.
 
 UnitCapitalCost=32972.5973 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
    
 UnitFixedCost[r,t,y]
@@ -311,11 +250,7 @@ The equation (10) shows the Unit Fixed Cost for TRMIVDSL02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Minivan Electric (new)
 +++++++++
@@ -376,11 +311,7 @@ The figure 1 shows the Capital Cost for TRMIVELE02, for every scenario.
    
    *Figure 1) Capital Cost for TRMIVELE02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -388,11 +319,7 @@ The equation (1) shows the Distance Driven for TRMIVELE02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -404,11 +331,7 @@ The equation (3) shows the Emission Activity Ratio for TRMIVELE02, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -416,11 +339,7 @@ The equation (4) shows the Fixed Cost for TRMIVELE02, for every scenario.
 
 FixedCost=20.3445 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -428,11 +347,7 @@ The equation (5) shows the Input Activity Ratio for TRMIVELE02, for every scenar
 
 InputActivityRatio=0.72 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -440,11 +355,7 @@ The equation (6) shows the Operational Life for TRMIVELE02, for every scenario.
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -452,11 +363,7 @@ The equation (7) shows the Output Activity Ratio for TRMIVELE02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -476,11 +383,7 @@ The figure 3 shows the Total Annual Max Capacity for TRMIVELE02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRMIVELE02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -493,11 +396,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRMIVELE
    
    *Figure 4) Total Technology Annual Activity Lower Limit for TRMIVELE02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -508,11 +407,7 @@ The figure 5 shows the Unit Capital Cost for TRMIVELE02, for every scenario.
    :width:   700 px
    
    *Figure 5) Unit Capital Cost for TRMIVELE02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -521,11 +416,7 @@ The equation (8) shows the Unit Fixed Cost for TRMIVELE02, for every scenario.
 
 UnitFixedCost=300.5493 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 Minivan Gasoline (new)
 +++++++++
@@ -579,11 +470,7 @@ The equation (1) shows the Capital Cost for TRMIVGAS02, for every scenario.
 
 CapitalCost=1608.45 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -591,11 +478,7 @@ The equation (2) shows the Distance Driven for TRMIVGAS02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -607,11 +490,7 @@ The equation (4) shows the Emission Activity Ratio for TRMIVGAS02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -619,11 +498,7 @@ The equation (5) shows the Fixed Cost for TRMIVGAS02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -635,11 +510,7 @@ The figure 1 shows the Input Activity Ratio for TRMIVGAS02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRMIVGAS02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -647,11 +518,7 @@ The equation (6) shows the Operational Life for TRMIVGAS02, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -659,12 +526,7 @@ The equation (7) shows the Output Activity Ratio for TRMIVGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
-   
+
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
 The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMIVGAS02, for the BAU scenario.
@@ -683,11 +545,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMIVGAS
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRMIVGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -695,11 +553,7 @@ The equation (8) shows the Unit Capital Cost for TRMIVGAS02, for every scenario.
 
 UnitCapitalCost=23761.6319 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -708,11 +562,7 @@ The equation (9) shows the Unit Fixed Cost for TRMIVGAS02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
  
 Minivan Hybrid Electric-Diesel (new)
@@ -766,11 +616,7 @@ The equation (1) shows the Capital Cost for TRMIVHYBD02, for every scenario.
 
 CapitalCost=3137 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 DistanceDriven[r,t,y]
 ---------
@@ -778,11 +624,7 @@ The equation (2) shows the Distance Driven for TRMIVHYBD02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -794,11 +636,7 @@ The equation (4) shows the Emission Activity Ratio for TRMIVHYBD02, for every sc
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -806,11 +644,7 @@ The equation (5) shows the Fixed Cost for TRMIVHYBD02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -818,11 +652,7 @@ The equation (6) shows the Input Activity Ratio for TRMIVHYBD02, for every scena
 
 InputActivityRatio=0.55 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -830,11 +660,7 @@ The equation (7) shows the Operational Life for TRMIVHYBD02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -842,11 +668,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVHYBD02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -858,11 +680,7 @@ The figure 1 shows the Total Annual Max Capacity for TRMIVHYBD02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRMIVHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -870,12 +688,7 @@ The equation (9) shows the Unit Capital Cost for TRMIVHYBD02, for every scenario
 
 UnitCapitalCost=16342.901 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -883,11 +696,6 @@ The equation (10) shows the Unit Fixed Cost for TRMIVHYBD02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 Minivan Hybrid Electric-Gasoline (new)
 +++++++++
@@ -940,11 +748,7 @@ The equation (1) shows the Capital Cost for TRMIVHYBG02, for every scenario.
 
 CapitalCost=2038 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -952,11 +756,7 @@ The equation (2) shows the Distance Driven for TRMIVHYBG02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -968,11 +768,7 @@ The equation (4) shows the Emission Activity Ratio for TRMIVHYBG02, for every sc
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -980,11 +776,7 @@ The equation (5) shows the Fixed Cost for TRMIVHYBG02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -992,11 +784,7 @@ The equation (6) shows the Input Activity Ratio for TRMIVHYBG02, for every scena
 
 InputActivityRatio=0.71 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -1004,11 +792,7 @@ The equation (7) shows the Operational Life for TRMIVHYBG02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1016,11 +800,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVHYBG02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1032,11 +812,7 @@ The figure 1 shows the Total Annual Max Capacity for TRMIVHYBG02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRMIVHYBG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1044,11 +820,7 @@ The equation (9) shows the Unit Capital Cost for TRMIVHYBG02, for every scenario
 
 UnitCapitalCost=30107.374 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1057,11 +829,7 @@ The equation (10) shows the Unit Fixed Cost for TRMIVHYBG02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Minivan LPG (new)
 +++++++++
@@ -1111,11 +879,7 @@ The equation (1) shows the Capital Cost for TRMIVLPG02, for every scenario.
 
 CapitalCost=1785 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1123,11 +887,7 @@ The equation (2) shows the Distance Driven for TRMIVLPG02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1139,11 +899,7 @@ The equation (4) shows the Emission Activity Ratio for TRMIVLPG02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1151,11 +907,7 @@ The equation (5) shows the Fixed Cost for TRMIVLPG02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1163,11 +915,7 @@ The equation (6) shows the Input Activity Ratio for TRMIVLPG02, for every scenar
 
 InputActivityRatio=1.98 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -1175,11 +923,7 @@ The equation (7) shows the Operational Life for TRMIVLPG02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1187,11 +931,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVLPG02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 TotalAnnualMaxCapacity[r,t,y] 
 ---------
@@ -1203,11 +943,7 @@ The figure 1 shows the Total Annual Max Capacity for TRMIVLPG02, for every scena
    
    *Figure 1) Total Annual Max Capacity for TRMIVLPG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1215,11 +951,7 @@ The equation (9) shows the Unit Capital Cost for TRMIVLPG02, for every scenario.
 
 UnitCapitalCost=26369.805 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1228,8 +960,4 @@ The equation (10) shows the Unit Fixed Cost for TRMIVLPG02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
