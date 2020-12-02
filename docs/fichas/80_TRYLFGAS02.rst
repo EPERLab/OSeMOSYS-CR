@@ -54,11 +54,6 @@ The equation (1) shows the Capital Cost for TRYLFGAS02, for every scenario.
 
 CapitalCost=1105.71 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -66,11 +61,7 @@ The equation (2) shows the Distance Driven for TRYLFGAS02, for every scenario.
 
 DistanceDriven=17413 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -78,11 +69,7 @@ The equation (3) shows the Emission Activity Ratio for TRYLFGAS02, for every sce
 
 EmissionActivityRatio=0.16    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -90,11 +77,7 @@ The equation (4) shows the Fixed Cost for TRYLFGAS02, for every scenario.
 
 FixedCost=236.83 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -102,11 +85,7 @@ The equation (5) shows the Input Activity Ratio for TRYLFGAS02, for every scenar
 
 InputActivityRatio=2.48 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -114,11 +93,7 @@ The equation (6) shows the Operational Life for TRYLFGAS02, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -126,11 +101,7 @@ The equation (7) shows the Output Activity Ratio for TRYLFGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -142,11 +113,7 @@ The figure 1 shows the Residual Capacity for TRYLFGAS02, for every scenario.
    
    *Figure 1) Residual Capacity for TRYLFGAS02 for every scenario.*  
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -166,11 +133,7 @@ The figure 3 shows the Total Annual Max Capacity for TRYLFGAS02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRYLFGAS02 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -190,11 +153,6 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRYLFGAS
    
    *Figure 5) Total Technology Annual Activity Lower Limit for TRYLFGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -202,21 +160,9 @@ The equation (8) shows the Unit Capital Cost for TRYLFGAS02, for every scenario.
 
 UnitCapitalCost=19253.7282 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
-   
+     
 UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRYLFGAS02, for every scenario.
 
 UnitFixedCost=4123.9208 [$]   (9)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
