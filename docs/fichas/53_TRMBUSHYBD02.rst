@@ -57,11 +57,7 @@ The figure 1 shows the Capital Cost for TRMBUSHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRMBUSHYBD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -69,11 +65,7 @@ The equation (1) shows the Distance Driven for TRMBUSHYBD02, for every scenario.
 
 DistanceDriven=25847 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -89,11 +81,7 @@ The equation (4) shows the Emission Activity Ratio for TRMBUSHYBD02, for every s
 
 EmissionActivityRatio=0.01    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -101,11 +89,7 @@ The equation (5) shows the Fixed Cost for TRMBUSHYBD02, for every scenario.
 
 FixedCost=89.58 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -113,11 +97,7 @@ The equation (6) shows the Input Activity Ratio for TRMBUSHYBD02, for every scen
 
 InputActivityRatio=2.15 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -125,11 +105,7 @@ The equation (7) shows the Operational Life for TRMBUSHYBD02, for every scenario
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -137,11 +113,7 @@ The equation (8) shows the Output Activity Ratio for TRMBUSHYBD02, for every sce
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -153,11 +125,7 @@ The figure 2 shows the Total Annual Max Capacity for TRMBUSHYBD02, for every sce
    
    *Figure 2) Total Annual Max Capacity for TRMBUSHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -168,20 +136,11 @@ The figure 3 shows the Unit Capital Cost for TRMBUSHYBD02, for every scenario.
    :width:   700 px
    
    *Figure 3) Unit Capital Cost for TRMBUSHYBD02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+
 UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRMBUSHYBD02, for every scenario.
 
 UnitFixedCost=2315.3743 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
