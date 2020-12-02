@@ -44,11 +44,6 @@ The equation (1) shows the Distance Driven for Techs_4WD, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -56,11 +51,6 @@ The equation (2) shows the Input Activity Ratio for Techs_4WD, for every scenari
 
 InputActivityRatio=1   [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 ---------
@@ -68,11 +58,7 @@ The equation (3) shows the Operational Life for Techs_4WD, for every scenario.
 
 OperationalLife=1 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -80,11 +66,6 @@ The equation (4) shows the Output Activity Ratio for Techs_4WD, for every scenar
 
 OutputActivityRatio=1.6 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -104,11 +85,6 @@ The figure 2 shows the Total Annual Max Capacity for Techs_4WD, for the NDP scen
    
    *Figure 2) Total Annual Max Capacity for Techs_4WD for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -128,11 +104,6 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_4W
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_4WD for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 Four-Wheel-Drive (existing)
 +++++++++
@@ -191,11 +162,6 @@ The equation (1) shows the Distance Driven for TRFWDDSL01, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -211,11 +177,6 @@ The equation (4) shows the Emission Activity Ratio for TRFWDDSL01, for every sce
 
 EmissionActivityRatio=0.01   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 ---------
@@ -223,11 +184,6 @@ The equation (5) shows the Fixed Cost for TRFWDDSL01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -238,11 +194,7 @@ The figure 1 shows the Input Activity Ratio for TRFWDDSL01, for every scenario a
    :width:   700 px
    
    *Figure 1) Input Activity Ratio for TRFWDDSL01 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -250,11 +202,7 @@ The equation (6) shows the Operational Life for TRFWDDSL01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -262,11 +210,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 ---------
@@ -286,11 +230,7 @@ The figure 3 shows the Residual Capacity for TRFWDDSL01, for the NDP scenario.
    
    *Figure 3) Residual Capacity for TRFWDDSL01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+      
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -310,11 +250,6 @@ The figure 5 shows the Total Annual Max Capacity for TRFWDDSL01, for the NDP sce
    
    *Figure 5) Total Annual Max Capacity for TRFWDDSL01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -334,11 +269,6 @@ The figure 7 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL
    
    *Figure 7) Total Technology Annual Activity Lower Limit for TRFWDDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 ---------
@@ -346,11 +276,6 @@ The equation (8) shows the Unit Fixed Cost for TRFWDDSL01, for every scenario.
 
 UnitFixedCost=11244.7188 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 Four-Wheel-Drive Diesel (new)
 +++++++++
@@ -406,11 +331,7 @@ The equation (1) shows the Capital Cost for TRFWDDSL02, for every scenario.
 
 CapitalCost=2460.82 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -418,11 +339,7 @@ The equation (2) shows the Distance Driven for TRFWDDSL02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -438,11 +355,7 @@ The equation (5) shows the Emission Activity Ratio for TRFWDDSL02, for every sce
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -450,11 +363,7 @@ The equation (6) shows the Fixed Cost for TRFWDDSL02, for every scenario.
 
 FixedCost=171.78 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -466,11 +375,7 @@ The figure 1 shows the Input Activity Ratio for TRFWDDSL02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRFWDDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -478,11 +383,7 @@ The equation (7) shows the Operational Life for TRFWDDSL02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -490,11 +391,7 @@ The equation (8) shows the Output Activity Ratio for TRFWDDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+ 
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -514,11 +411,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRFWDDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -526,11 +419,7 @@ The equation (9) shows the Unit Capital Cost for TRFWDDSL02, for every scenario.
 
 UnitCapitalCost=36353.6939 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -539,11 +428,7 @@ The equation (10) shows the Unit Fixed Cost for TRFWDDSL02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Four-Wheel-Drive Electric (new)
 +++++++++
@@ -607,11 +492,7 @@ The figure 1 shows the Capital Cost for TRFWDELE02, for every scenario.
    
    *Figure 1) Capital Cost for TRFWDELE02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -619,11 +500,7 @@ The equation (1) shows the Distance Driven for TRFWDELE02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -635,11 +512,7 @@ The equation (3) shows the Emission Activity Ratio for TRFWDELE02, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -647,11 +520,7 @@ The equation (4) shows the Fixed Cost for TRFWDELE02, for every scenario.
 
 FixedCost=20.3445 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -659,11 +528,7 @@ The equation (5) shows the Input Activity Ratio for TRFWDELE02, for every scenar
 
 InputActivityRatio=0.7 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -671,11 +536,7 @@ The equation (6) shows the Operational Life for TRFWDELE02, for every scenario.
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -683,11 +544,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDELE02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -707,11 +564,7 @@ The figure 3 shows the Total Annual Max Capacity for TRFWDELE02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRFWDELE02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -732,11 +585,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRFWDELE
    
    *Figure 5) Total Technology Annual Activity Lower Limit for TRFWDELE02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -747,11 +596,7 @@ The figure 6 shows the Unit Capital Cost for TRFWDELE02, for every scenario.
    :width:   700 px
    
    *Figure 6) Unit Capital Cost for TRFWDELE02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -760,11 +605,7 @@ The equation (8) shows the Unit Fixed Cost for TRFWDELE02, for every scenario.
 
 UnitFixedCost=300.5493 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Four-Wheel-Drive Gasoline (existing)
 +++++++++
@@ -821,11 +662,7 @@ The equation (1) shows the Distance Driven for TRFWDGAS01, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 --------
@@ -837,11 +674,7 @@ The equation (3) shows the Emission Activity Ratio for TRFWDGAS01, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 --------
@@ -849,11 +682,7 @@ The equation (4) shows the Fixed Cost for TRFWDGAS01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 --------
@@ -864,23 +693,14 @@ The figure 1 shows the Input Activity Ratio for TRFWDGAS01, for every scenario a
    :width:   700 px
    
    *Figure 1) Input Activity Ratio for TRFWDGAS01 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 --------
 The equation (5) shows the Operational Life for TRFWDGAS01, for every scenario.
 
 OperationalLife=15 Years   (5)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 --------
@@ -888,11 +708,7 @@ The equation (6) shows the Output Activity Ratio for TRFWDGAS01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 --------
@@ -912,11 +728,7 @@ The figure 3 shows the Residual Capacity for TRFWDGAS01, for the NDP scenario.
    
    *Figure 3) Residual Capacity for TRFWDGAS01 for the NDP scenarios.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+     
    
 TotalAnnualMaxCapacity[r,t,y]
 --------
@@ -936,11 +748,7 @@ The figure 5 shows the Total Annual Max Capacity for TRFWDGAS01, for the NDP sce
    
    *Figure 5) Total Annual Max Capacity for TRFWDGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 --------
@@ -960,11 +768,7 @@ The figure 7 shows the Total Technology Annual Activity Lower Limit for TRFWDGAS
    
    *Figure 7) Total Technology Annual Activity Lower Limit for TRFWDGAS01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 --------
@@ -972,11 +776,6 @@ The equation (7) shows the Unit Fixed Cost for TRFWDGAS01, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 Four-Wheel-Drive Gasoline (new)
 +++++++++
@@ -1030,11 +829,7 @@ The equation (1) shows the Capital Cost for TRFWDGAS02, for every scenario.
 
 CapitalCost=2350.33 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ----------
@@ -1042,11 +837,7 @@ The equation (2) shows the Distance Driven for TRFWDGAS02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ----------
@@ -1058,11 +849,7 @@ The equation (4) shows the Emission Activity Ratio for TRFWDGAS02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ----------
@@ -1070,11 +857,6 @@ The equation (5) shows the Fixed Cost for TRFWDGAS02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 ----------
@@ -1086,11 +868,7 @@ The figure 1 shows the Input Activity Ratio for TRFWDGAS02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRFWDGAS02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ----------
@@ -1098,11 +876,7 @@ The equation (6) shows the Operational Life for TRFWDGAS02, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ----------
@@ -1110,11 +884,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ----------
@@ -1134,11 +904,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRFWDGAS
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRFWDGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ----------
@@ -1146,11 +912,7 @@ The equation (8) shows the Unit Capital Cost for TRFWDGAS02, for every scenario.
 
 UnitCapitalCost=34721.4251 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1159,11 +921,7 @@ The equation (9) shows the Unit Fixed Cost for TRFWDGAS02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Four-Wheel-Drive Hybrid Electric-Diesel (new)
 ++++++++++
@@ -1216,11 +974,7 @@ The equation (1) shows the Capital Cost for TRFWDHYBD02, for every scenario.
 
 CapitalCost=3459 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1228,11 +982,7 @@ The equation (2) shows the Distance Driven for TRFWDHYBD02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1244,11 +994,7 @@ The equation (4) shows the Emission Activity Ratio for TRFWDHYBD02, for every sc
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1256,11 +1002,6 @@ The equation (5) shows the Fixed Cost for TRFWDHYBD02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 
 InputActivityRatio[r,t,f,m,y]
@@ -1269,11 +1010,7 @@ The equation (6) shows the Input Activity Ratio for TRFWDHYBD02, for every scena
 
 InputActivityRatio=0.55 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ---------
@@ -1281,23 +1018,14 @@ The equation (7) shows the Operational Life for TRFWDHYBD02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
 The equation (8) shows the Output Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Private Transport in Four Wheel Drive.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
-
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1309,11 +1037,6 @@ The figure 1 shows the Total Annual Max Capacity for TRFWDHYBD02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRFWDHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1321,11 +1044,7 @@ The equation (9) shows the Unit Capital Cost for TRFWDHYBD02, for every scenario
 
 UnitCapitalCost=51099.807 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1334,11 +1053,6 @@ The equation (10) shows the Unit Fixed Cost for TRFWDHYBD02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 Four-Wheel-Drive LPG (existing)
 +++++++++
@@ -1395,11 +1109,7 @@ The equation (1) shows the Distance Driven for TRFWDLPG01, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1411,11 +1121,7 @@ The equation (3) shows the Emission Activity Ratio for TRFWDLPG01, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1423,11 +1129,7 @@ The equation (4) shows the Fixed Cost for TRFWDLPG01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1435,11 +1137,7 @@ The equation (5) shows the Input Activity Ratio for TRFWDLPG01, for every scenar
 
 InputActivityRatio=4.51 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -1447,11 +1145,7 @@ The equation (6) shows the Operational Life for TRFWDLPG01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1459,11 +1153,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDLPG01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 ResidualCapacity[r,t,y]
 ---------
@@ -1483,11 +1173,7 @@ The figure 2 shows the Residual Capacity for TRFWDLPG01, for the NDP and OP15C s
    
    *Figure 2) Residual Capacity for TRFWDLPG01 for the NDP and OP15C scenarios.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1507,11 +1193,7 @@ The figure 4 shows the Total Annual Max Capacity for TRFWDLPG01, for the NDP and
    
    *Figure 4) Total Annual Max Capacity for TRFWDLPG01 for the NDP and OP15C scenarios.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -1531,11 +1213,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRFWDLPG
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRFWDLPG01 for NDP and OP15C scenarios.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -1543,11 +1221,7 @@ The equation (8) shows the Unit Fixed Cost for TRFWDLPG01, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 Four-Wheel-Drive LPG (new)
@@ -1598,11 +1272,7 @@ The equation (1) shows the Capital Cost for TRFWDLPG02, for every scenario.
 
 CapitalCost=3444 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1610,11 +1280,7 @@ The equation (2) shows the Distance Driven for TRFWDLPG02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1626,11 +1292,7 @@ The equation (4) shows the Emission Activity Ratio for TRFWDLPG02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1638,11 +1300,7 @@ The equation (5) shows the Fixed Cost for TRFWDLPG02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1650,23 +1308,14 @@ The equation (6) shows the Input Activity Ratio for TRFWDLPG02, for every scenar
 
 InputActivityRatio=1.98 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OperationalLife[r,t]
 ---------
 The equation (7) shows the Operational Life for TRFWDLPG02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1674,11 +1323,7 @@ The equation (8) shows the Output Activity Ratio for TRFWDLPG02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -1690,11 +1335,7 @@ The figure 1 shows the Total Technology Annual Activity Lower Limit for TRFWDLPG
    
    *Figure 1) Total Technology Annual Activity Lower Limit for TRFWDLPG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1702,11 +1343,7 @@ The equation (9) shows the Unit Capital Cost for TRFWDLPG02, for every scenario.
 
 UnitCapitalCost=50878.212 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1715,11 +1352,7 @@ The equation (10) shows the Unit Fixed Cost for TRFWDLPG02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Four-Wheel-Drive Plug-in Hybrid Electric-Diesel(new)
 +++++++++
@@ -1776,11 +1409,7 @@ The figure 1 shows the Capital Cost for TRFWDPHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1788,11 +1417,7 @@ The equation (1) shows the Distance Driven for TRFWDPHYBD02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1804,11 +1429,7 @@ The equation (3) shows the Emission Activity Ratio for TRFWDPHYBD02, for every s
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1816,11 +1437,7 @@ The equation (4) shows the Fixed Cost for TRFWDPHYBD02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1828,11 +1445,7 @@ The equation (5) shows the Input Activity Ratio for TRFWDPHYBD02, for every scen
 
 InputActivityRatio=0.48 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -1840,11 +1453,7 @@ The equation (6) shows the Operational Life for TRFWDPHYBD02, for every scenario
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1852,11 +1461,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDPHYBD02, for every sce
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1868,11 +1473,7 @@ The figure 2 shows the Total Annual Max Capacity for TRFWDPHYBD02, for every sce
    
    *Figure 2) Total Annual Max Capacity for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1884,11 +1485,7 @@ The figure 3 shows the Unit Capital Cost for TRFWDPHYBD02, for every scenario.
    
    *Figure 3) Unit Capital Cost for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1897,8 +1494,4 @@ The equation (8) shows the Unit Fixed Cost for TRFWDPHYBD02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
