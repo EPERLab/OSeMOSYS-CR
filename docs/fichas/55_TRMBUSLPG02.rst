@@ -48,11 +48,7 @@ The equation (1) shows the Capital Cost for TRMBUSLPG02, for every scenario.
 
 CapitalCost=3916 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -60,11 +56,6 @@ The equation (2) shows the Distance Driven for TRMBUSLPG02, for every scenario.
 
 DistanceDriven=25847 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -80,11 +71,6 @@ The equation (5) shows the Emission Activity Ratio for TRMBUSLPG02, for every sc
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -92,11 +78,6 @@ The equation (6) shows the Fixed Cost for TRMBUSLPG02, for every scenario.
 
 FixedCost=105.1 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -104,11 +85,7 @@ The equation (7) shows the Input Activity Ratio for TRMBUSLPG02, for every scena
 
 InputActivityRatio=7.32 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 +++++++++
@@ -116,11 +93,7 @@ The equation (8) shows the Operational Life for TRMBUSLPG02, for every scenario.
 
 OperationalLife=15 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -128,11 +101,7 @@ The equation (9) shows the Output Activity Ratio for TRMBUSLPG02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -144,11 +113,7 @@ The figure 1 shows the Total Annual Max Capacity for TRMBUSLPG02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRMBUSLPG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -156,11 +121,6 @@ The equation (11) shows the Unit Capital Cost for TRMBUSLPG02, for every scenari
 
 UnitCapitalCost=101216.852 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -168,9 +128,5 @@ The equation (12) shows the Unit Fixed Cost for TRMBUSLPG02, for every scenario.
 
 UnitFixedCost=2716.5197 [$]   (12)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
