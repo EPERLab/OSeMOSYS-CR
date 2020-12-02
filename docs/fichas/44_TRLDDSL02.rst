@@ -64,11 +64,6 @@ The equation (2) shows the Distance Driven for TRLDDSL02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -84,11 +79,6 @@ The equation (5) shows the Emission Activity Ratio for TRLDDSL02, for every scen
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -96,11 +86,6 @@ The equation (6) shows the Fixed Cost for TRLDDSL02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -112,35 +97,20 @@ The figure 1 shows the Input Activity Ratio for TRLDDSL02, for every scenario an
    
    *Figure 1) Input Activity Ratio for TRLDDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+    
 OperationalLife[r,t]
 +++++++++
 The equation (7) shows the Operational Life for TRLDDSL02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+     
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (8) shows the Output Activity Ratio for TRLDDSL02, for every scenario and associated to the fuel Private Transport in Light Duty.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -160,11 +130,6 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRLDDSL0
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRLDDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -172,11 +137,6 @@ The equation (9) shows the Unit Capital Cost for TRLDDSL02, for every scenario.
 
 UnitCapitalCost=18305.0766 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
    
 UnitFixedCost[r,t,y]
@@ -185,8 +145,4 @@ The equation (10) shows the Unit Fixed Cost for TRLDDSL02, for every scenario.
 
 UnitFixedCost=728.6044 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
