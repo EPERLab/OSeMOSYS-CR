@@ -50,11 +50,7 @@ The equation (1) shows the Capital Cost for TRLDGAS02, for every scenario.
 
 CapitalCost=1127.02 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -62,11 +58,7 @@ The equation (2) shows the Distance Driven for TRLDGAS02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -78,11 +70,7 @@ The equation (4) shows the Emission Activity Ratio for TRLDGAS02, for every scen
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -90,11 +78,7 @@ The equation (5) shows the Fixed Cost for TRLDGAS02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -106,11 +90,7 @@ The figure 1 shows the Input Activity Ratio for TRLDGAS02, for every scenario an
    
    *Figure 1) Input Activity Ratio for TRLDGAS02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 +++++++++
@@ -118,11 +98,7 @@ The equation (6) shows the Operational Life for TRLDGAS02, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -130,11 +106,7 @@ The equation (7) shows the Output Activity Ratio for TRLDGAS02, for every scenar
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -166,11 +138,7 @@ The equation (8) shows the Unit Capital Cost for TRLDGAS02, for every scenario.
 
 UnitCapitalCost=16649.4665 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -179,8 +147,4 @@ The equation (9) shows the Unit Fixed Cost for TRLDGAS02, for every scenario.
 
 UnitFixedCost=728.6044 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
