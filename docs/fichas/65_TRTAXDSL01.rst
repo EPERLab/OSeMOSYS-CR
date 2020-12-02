@@ -55,12 +55,6 @@ The equation (1) shows the Distance Driven for TRTAXDSL01, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
 The equation (2) shows the Emission Activity Ratio for TRTAXDSL01, for every scenario and associated to the emission Accidents.
@@ -75,11 +69,6 @@ The equation (4) shows the Emission Activity Ratio for TRTAXDSL01, for every sce
 
 EmissionActivityRatio=0.01    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -87,11 +76,6 @@ The equation (5) shows the Fixed Cost for TRTAXDSL01, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -99,11 +83,6 @@ The equation (6) shows the Input Activity Ratio for TRTAXDSL01, for every scenar
 
 InputActivityRatio=2.67 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -111,11 +90,6 @@ The equation (7) shows the Operational Life for TRTAXDSL01, for every scenario.
 
 OperationalLife=10 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -123,11 +97,7 @@ The equation (8) shows the Output Activity Ratio for TRTAXDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -147,11 +117,7 @@ The figure 2 shows the Residual Capacity for TRTAXDSL01, for the NDP scenario.
    
    *Figure 2) Residual Capacity for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+      
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -171,11 +137,6 @@ The figure 4 shows the Total Annual Max Capacity for TRTAXDSL01, for the NDP sce
    
    *Figure 4) Total Annual Max Capacity for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -195,11 +156,6 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -207,8 +163,4 @@ The equation (9) shows the Unit Fixed Cost for TRTAXDSL01, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
