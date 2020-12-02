@@ -49,11 +49,6 @@ The equation (1) shows the Capital Cost for TRMIVHYBG02, for every scenario.
 
 CapitalCost=2038 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -61,11 +56,6 @@ The equation (2) shows the Distance Driven for TRMIVHYBG02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -77,11 +67,6 @@ The equation (4) shows the Emission Activity Ratio for TRMIVHYBG02, for every sc
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -89,11 +74,6 @@ The equation (5) shows the Fixed Cost for TRMIVHYBG02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -101,11 +81,6 @@ The equation (6) shows the Input Activity Ratio for TRMIVHYBG02, for every scena
 
 InputActivityRatio=0.71 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -113,11 +88,6 @@ The equation (7) shows the Operational Life for TRMIVHYBG02, for every scenario.
 
 OperationalLife=12 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -125,11 +95,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVHYBG02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -141,11 +107,6 @@ The figure 1 shows the Total Annual Max Capacity for TRMIVHYBG02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRMIVHYBG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -153,12 +114,7 @@ The equation (9) shows the Unit Capital Cost for TRMIVHYBG02, for every scenario
 
 UnitCapitalCost=30107.374 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+  
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -166,8 +122,3 @@ The equation (10) shows the Unit Fixed Cost for TRMIVHYBG02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
