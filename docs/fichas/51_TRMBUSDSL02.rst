@@ -52,11 +52,7 @@ The equation (1) shows the Capital Cost for TRMBUSDSL02, for every scenario.
 
 CapitalCost=2797.83 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -64,11 +60,7 @@ The equation (2) shows the Distance Driven for TRMBUSDSL02, for every scenario.
 
 DistanceDriven=25847 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -84,11 +76,7 @@ The equation (5) shows the Emission Activity Ratio for TRMBUSDSL02, for every sc
 
 EmissionActivityRatio=0.03    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -96,11 +84,7 @@ The equation (6) shows the Fixed Cost for TRMBUSDSL02, for every scenario.
 
 FixedCost=179.16 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -108,23 +92,14 @@ The equation (7) shows the Input Activity Ratio for TRMBUSDSL02, for every scena
 
 InputActivityRatio=5.62 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OperationalLife[r,t]
 +++++++++
 The equation (8) shows the Operational Life for TRMBUSDSL02, for every scenario.
 
 OperationalLife=15 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -132,11 +107,7 @@ The equation (9) shows the Output Activity Ratio for TRMBUSDSL02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -156,11 +127,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMBUSDS
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRMBUSDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -168,11 +135,7 @@ The equation (10) shows the Unit Capital Cost for TRMBUSDSL02, for every scenari
 
 UnitCapitalCost=72315.512 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -181,8 +144,4 @@ The equation (11) shows the Unit Fixed Cost for TRMBUSDSL02, for every scenario.
 
 UnitFixedCost=4630.7485 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
