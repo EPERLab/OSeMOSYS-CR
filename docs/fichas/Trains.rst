@@ -45,12 +45,6 @@ The figure 1 shows the Capital Cost for TRXTRAIELEFRE02, for the NDP scenario.
    
    *Figure 1) Capital Cost for TRXTRAIELEFRE02 for the NDP scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
-
 
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -58,11 +52,6 @@ The equation (1) shows the Input Activity Ratio for TRXTRAIELEFRE02, for every s
 
 InputActivityRatio=0.4   [Gpkm/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 ---------
@@ -70,11 +59,7 @@ The equation (2) shows the Operational Life for TRXTRAIELEFRE02, for every scena
 
 OperationalLife=50 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -82,11 +67,7 @@ The equation (3) shows the Output Activity Ratio for TRXTRAIELEFRE02, for the ND
 
 OutputActivityRatio=1 [Gpkm/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -98,11 +79,7 @@ The figure 2 shows the Total Annual Max Capacity for TRXTRAIELEFRE02, for the ND
    
    *Figure 2) Total Annual Max Capacity for TRXTRAIELEFRE02 for the NDP scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacity[r,t,y]
 ---------
@@ -114,11 +91,7 @@ The figure 2 shows the Total Annual Min Capacity for TRXTRAIELEFRE02, for the ND
    
    *Figure 2) Total Annual Min Capacity for TRXTRAIELEFRE02 for the NDP scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -129,12 +102,6 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRXTRAIE
    :width:   700 px
    
    *Figure 4) Total Technology Annual Activity Lower Limit for TRXTRAIELEFRE02 for the NDP scenario.*
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 
 Train Diesel (existing)
@@ -176,11 +143,7 @@ The equation (1) shows the Input Activity Ratio for TRXTRAINDSL01, for every sce
 
 InputActivityRatio=1 [PJ/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -200,11 +163,7 @@ The equation (3) shows the Output Activity Ratio for TRXTRAINDSL01, for every sc
 
 OutputActivityRatio=1 [PJ/Gvkm]   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 ResidualCapacity[r,t,y]
 ---------
@@ -216,11 +175,7 @@ The figure 1 shows the Residual Capacity for TRXTRAINDSL01, for the every scenar
    
    *Figure 1) Residual Capacity for TRXTRAINDSL01 for the every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+     
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -232,11 +187,7 @@ The figure 2 shows the Total Annual Max Capacity for TRXTRAINDSL01, for the ever
    
    *Figure 2) Total Annual Max Capacity for TRXTRAINDSL01 for the every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -248,11 +199,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRXTRAIN
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRXTRAINDSL01 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 
 Train Diesel (new)
@@ -290,11 +237,7 @@ The equation (1) shows the Input Activity Ratio for TRXTRAINDSL02, for every sce
 
 InputActivityRatio=1 [PJ/Gvkm]   (1)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -302,11 +245,7 @@ The equation (2) shows the Operational Life for TRXTRAINDSL02, for every scenari
 
 OperationalLife=20 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -314,11 +253,7 @@ The equation (3) shows the Output Activity Ratio for TRXTRAINDSL02, for every sc
 
 OutputActivityRatio=1 [PJ/Gvkm]   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 ResidualCapacity[r,t,y]
 ---------
@@ -326,11 +261,7 @@ The equation (4) shows the Residual Capacity for TRXTRAINDSL02, for every scenar
 
 ResidualCapacity=0.2 [GW]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.        
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -338,11 +269,7 @@ The equation (5) shows the Total Annual Max Capacity for TRXTRAINDSL02, for ever
 
 TotalAnnualMaxCapacity=0.2 [GW]   (5)
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 Train Electric (new)
 +++++++++
@@ -391,11 +318,7 @@ The figure 1 shows the Capital Cost for TRXTRAINELC02, for NDP scenario.
    
    *Figure 1) Capital Cost for TRXTRAINELC02 for NDP scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 
 InputActivityRatio[r,t,f,m,y]
@@ -404,11 +327,7 @@ The equation (1) shows the Input Activity Ratio for TRXTRAINELC02, for every sce
 
 InputActivityRatio=0.3   [Gpkm/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -416,11 +335,7 @@ The equation (2) shows the Operational Life for TRXTRAINELC02, for every scenari
 
 OperationalLife=20 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -428,11 +343,7 @@ The equation (3) shows the Output Activity Ratio for TRXTRAINELC02, for NDP scen
 
 OutputActivityRatio=1 [Gpkm/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -453,11 +364,7 @@ The figure 3 shows the Total Annual Max Capacity for TRXTRAINELC02, for the NDP 
    
    *Figure 3) Total Annual Max Capacity for TRXTRAINELC02 for the NDP scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacity[r,t,y]
 ---------
@@ -469,11 +376,7 @@ The figure 2 shows the Total Annual Min Capacity for TRXTRAINELC02, for the NDP 
    
    *Figure 2) Total Annual Min Capacity for TRXTRAINELC02 for the NDP scenario.*
    
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -485,9 +388,5 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRXTRAIN
    
    *Figure 4) Total Technology Annual Activity Lower Limit for TRXTRAINELC02 for NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
