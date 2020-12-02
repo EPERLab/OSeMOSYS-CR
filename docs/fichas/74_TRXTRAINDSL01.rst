@@ -37,11 +37,7 @@ The equation (1) shows the Input Activity Ratio for TRXTRAINDSL01, for every sce
 
 InputActivityRatio=1 [PJ/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -49,11 +45,7 @@ The equation (2) shows the Operational Life for TRXTRAINDSL01, for every scenari
 
 OperationalLife=20 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -61,11 +53,7 @@ The equation (3) shows the Output Activity Ratio for TRXTRAINDSL01, for every sc
 
 OutputActivityRatio=1 [PJ/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -77,11 +65,7 @@ The figure 1 shows the Residual Capacity for TRXTRAINDSL01, for the every scenar
    
    *Figure 1) Residual Capacity for TRXTRAINDSL01 for the every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+         
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -93,11 +77,7 @@ The figure 2 shows the Total Annual Max Capacity for TRXTRAINDSL01, for the ever
    
    *Figure 2) Total Annual Max Capacity for TRXTRAINDSL01 for the every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -109,8 +89,4 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRXTRAIN
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRXTRAINDSL01 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
