@@ -49,11 +49,7 @@ The equation (1) shows the Capital Cost for TRMIVDSL02, for every scenario.
 
 CapitalCost=2331.95 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -61,11 +57,7 @@ The equation (2) shows the Distance Driven for TRMIVDSL02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -81,11 +73,7 @@ The equation (5) shows the Emission Activity Ratio for TRMIVDSL02, for every sce
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -93,11 +81,7 @@ The equation (6) shows the Fixed Cost for TRMIVDSL02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -109,11 +93,7 @@ The figure 1 shows the Input Activity Ratio for TRMIVDSL02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRMIVDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -121,11 +101,7 @@ The equation (7) shows the Operational Life for TRMIVDSL02, for every scenario.
 
 OperationalLife=15 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -133,11 +109,7 @@ The equation (8) shows the Output Activity Ratio for TRMIVDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -149,11 +121,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRMIVDSL
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRMIVDSL02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -161,11 +129,7 @@ The equation (9) shows the Unit Capital Cost for TRMIVDSL02, for every scenario.
 
 UnitCapitalCost=32972.5973 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -174,8 +138,4 @@ The equation (10) shows the Unit Fixed Cost for TRMIVDSL02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
