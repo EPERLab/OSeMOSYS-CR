@@ -151,11 +151,7 @@ The equation (2) shows the Operational Life for TRXTRAINDSL01, for every scenari
 
 OperationalLife=20 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
