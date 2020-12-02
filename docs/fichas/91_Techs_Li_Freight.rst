@@ -30,11 +30,6 @@ The equation (1) shows the Input Activity Ratio for Techs_Li_Freight, for every 
 
 InputActivityRatio=1   [Gpkm/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 OperationalLife[r,t]
 +++++++++
@@ -42,11 +37,7 @@ The equation (2) shows the Operational Life for Techs_Li_Freight, for every scen
 
 OperationalLife=1 Years   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -54,8 +45,4 @@ The equation (3) shows the Output Activity Ratio for Techs_He_Freight, for every
 
 OutputActivityRatio=1.86 [Gpkm/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
