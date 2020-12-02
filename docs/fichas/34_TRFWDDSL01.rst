@@ -55,11 +55,7 @@ The equation (1) shows the Distance Driven for TRFWDDSL01, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -75,11 +71,7 @@ The equation (4) shows the Emission Activity Ratio for TRFWDDSL01, for every sce
 
 EmissionActivityRatio=0.01   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -87,11 +79,7 @@ The equation (5) shows the Fixed Cost for TRFWDDSL01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -102,11 +90,7 @@ The figure 1 shows the Input Activity Ratio for TRFWDDSL01, for every scenario a
    :width:   700 px
    
    *Figure 1) Input Activity Ratio for TRFWDDSL01 for every scenario.*
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -114,11 +98,7 @@ The equation (6) shows the Operational Life for TRFWDDSL01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -126,11 +106,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -150,11 +126,7 @@ The figure 3 shows the Residual Capacity for TRFWDDSL01, for the NDP scenario.
    
    *Figure 3) Residual Capacity for TRFWDDSL01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -174,11 +146,7 @@ The figure 5 shows the Total Annual Max Capacity for TRFWDDSL01, for the NDP sce
    
    *Figure 5) Total Annual Max Capacity for TRFWDDSL01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -198,11 +166,7 @@ The figure 7 shows the Total Technology Annual Activity Lower Limit for TRFWDDSL
    
    *Figure 7) Total Technology Annual Activity Lower Limit for TRFWDDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -210,8 +174,4 @@ The equation (8) shows the Unit Fixed Cost for TRFWDDSL01, for every scenario.
 
 UnitFixedCost=11244.7188 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
