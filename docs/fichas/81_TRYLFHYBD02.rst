@@ -47,11 +47,6 @@ The equation (1) shows the Capital Cost for TRYLFHYBD02, for every scenario.
 
 CapitalCost=2489 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -59,11 +54,6 @@ The equation (2) shows the Distance Driven for TRYLFHYBD02, for every scenario.
 
 DistanceDriven=17413 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -71,11 +61,6 @@ The equation (3) shows the Emission Activity Ratio for TRYLFHYBD02, for every sc
 
 EmissionActivityRatio=0.16    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -83,11 +68,7 @@ The equation (4) shows the Fixed Cost for TRYLFHYBD02, for every scenario.
 
 FixedCost=118.415 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -95,11 +76,7 @@ The equation (5) shows the Input Activity Ratio for TRYLFHYBD02, for every scena
 
 InputActivityRatio=0.64 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 +++++++++
@@ -107,23 +84,14 @@ The equation (6) shows the Operational Life for TRYLFHYBD02, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (7) shows the Output Activity Ratio for TRYLFHYBD02, for every scenario and associated to the fuel FLF_PickUpTrucks.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -135,11 +103,7 @@ The figure 1 shows the Total Annual Max Capacity for TRYLFHYBD02, for every scen
    
    *Figure 1) Total Annual Max Capacity for TRYLFHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -147,11 +111,6 @@ The equation (8) shows the Unit Capital Cost for TRYLFHYBD02, for every scenario
 
 UnitCapitalCost=43340.957 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -159,8 +118,4 @@ The equation (9) shows the Unit Fixed Cost for TRYLFHYBD02, for every scenario.
 
 UnitFixedCost=2061.9604 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
