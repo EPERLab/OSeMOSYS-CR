@@ -46,11 +46,7 @@ The equation (1) shows the Distance Driven for TRYLFDSL01, for every scenario.
 
 DistanceDriven=17413 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -63,11 +59,7 @@ The equation (3) shows the Emission Activity Ratio for TRYLFDSL01, for every sce
 
 EmissionActivityRatio=0.01    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -75,11 +67,7 @@ The equation (4) shows the Fixed Cost for TRYLFDSL01, for every scenario.
 
 FixedCost=236.83 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -87,11 +75,7 @@ The equation (5) shows the Input Activity Ratio for TRYLFDSL01, for every scenar
 
 InputActivityRatio=3.81 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -99,11 +83,7 @@ The equation (6) shows the Operational Life for TRYLFDSL01, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -111,11 +91,7 @@ The equation (7) shows the Output Activity Ratio for TRYLFDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -127,11 +103,7 @@ The figure 1 shows the Residual Capacity for TRYLFDSL01, for every scenario.
    
    *Figure 1) Residual Capacity for TRYLFDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+      
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -143,11 +115,7 @@ The figure 2 shows the Total Annual Max Capacity for TRYLFDSL01, for every scena
    
    *Figure 2) Total Annual Max Capacity for TRYLFDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -159,11 +127,6 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYLFDSL
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRYLFDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -171,8 +134,4 @@ The equation (8) shows the Unit Fixed Cost for TRYLFDSL01, for every scenario.
 
 UnitFixedCost=4123.9208 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
