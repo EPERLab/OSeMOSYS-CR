@@ -55,11 +55,6 @@ The equation (1) shows the Distance Driven for TRMBUSDSL01, for every scenario.
 
 DistanceDriven=25847 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -75,11 +70,6 @@ The equation (4) shows the Emission Activity Ratio for TRMBUSDSL01, for every sc
 
 EmissionActivityRatio=0.03   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -87,11 +77,6 @@ The equation (5) shows the Fixed Cost for TRMBUSDSL01, for every scenario.
 
 FixedCost=179.16 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -99,11 +84,7 @@ The equation (6) shows the Input Activity Ratio for TRMBUSDSL01, for every scena
 
 InputActivityRatio=6.37 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 +++++++++
@@ -111,11 +92,7 @@ The equation (6) shows the Operational Life for TRMBUSDSL01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -123,11 +100,7 @@ The equation (7) shows the Output Activity Ratio for TRMBUSDSL01, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -147,11 +120,7 @@ The figure 3 shows the Residual Capacity for TRMBUSDSL01, for the NDP scenario.
    
    *Figure 3) Residual Capacity for TRMBUSDSL01 for the NDP and OP15C scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+         
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -171,11 +140,7 @@ The figure 5 shows the Total Annual Max Capacity for TRMBUSDSL01, for the NDP sc
    
    *Figure 5) Total Annual Max Capacity for TRMBUSDSL01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -195,11 +160,7 @@ The figure 7 shows the Total Technology Annual Activity Lower Limit for TRMBUSDS
    
    *Figure 7) Total Technology Annual Activity Lower Limit for TRMBUSDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -207,8 +168,4 @@ The equation (8) shows the Unit Fixed Cost for TRMBUSDSL01, for every scenario.
 
 UnitFixedCost=4630.7485 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
