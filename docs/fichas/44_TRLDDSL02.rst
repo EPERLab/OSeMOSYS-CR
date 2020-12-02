@@ -52,11 +52,7 @@ The equation (1) shows the Capital Cost for TRLDDSL02, for every scenario.
 
 CapitalCost=1239.09 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
