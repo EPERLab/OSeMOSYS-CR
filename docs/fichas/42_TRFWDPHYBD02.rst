@@ -53,11 +53,6 @@ The figure 1 shows the Capital Cost for TRFWDPHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -65,11 +60,6 @@ The equation (1) shows the Distance Driven for TRFWDPHYBD02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -81,11 +71,6 @@ The equation (3) shows the Emission Activity Ratio for TRFWDPHYBD02, for every s
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -93,11 +78,6 @@ The equation (4) shows the Fixed Cost for TRFWDPHYBD02, for every scenario.
 
 FixedCost=30.825 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -105,11 +85,7 @@ The equation (5) shows the Input Activity Ratio for TRFWDPHYBD02, for every scen
 
 InputActivityRatio=0.48 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 +++++++++
@@ -117,11 +93,7 @@ The equation (6) shows the Operational Life for TRFWDPHYBD02, for every scenario
 
 OperationalLife=12 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -129,11 +101,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDPHYBD02, for every sce
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -145,12 +113,7 @@ The figure 2 shows the Total Annual Max Capacity for TRFWDPHYBD02, for every sce
    
    *Figure 2) Total Annual Max Capacity for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+  
 UnitCapitalCost[r,t,y]
 +++++++++
 The figure 3 shows the Unit Capital Cost for TRFWDPHYBD02, for every scenario.
@@ -161,21 +124,10 @@ The figure 3 shows the Unit Capital Cost for TRFWDPHYBD02, for every scenario.
    
    *Figure 3) Unit Capital Cost for TRFWDPHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
-   
+     
 UnitFixedCost[r,t,y]
 +++++++++
 The equation (8) shows the Unit Fixed Cost for TRFWDPHYBD02, for every scenario.
 
 UnitFixedCost=455.3777 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
