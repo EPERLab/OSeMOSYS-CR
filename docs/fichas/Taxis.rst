@@ -45,11 +45,7 @@ The equation (1) shows the Distance Driven for Techs_Taxis, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -57,11 +53,7 @@ The equation (2) shows the Input Activity Ratio for Techs_Taxis, for every scena
 
 InputActivityRatio=1   [Gpkm/Gvkm]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -69,11 +61,7 @@ The equation (3) shows the Operational Life for Techs_Taxis, for every scenario.
 
 OperationalLife=1 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -81,11 +69,7 @@ The equation (4) shows the Output Activity Ratio for Techs_Taxis, for every scen
 
 OutputActivityRatio=1.6 [Gpkm/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -105,11 +89,7 @@ The figure 2 shows the Total Annual Max Capacity for Techs_Taxis, for the NDP sc
    
    *Figure 2) Total Annual Max Capacity for Techs_Taxis for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -129,11 +109,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_Ta
    
    *Figure 4) Total Technology Annual Activity Lower Limit for Techs_Taxis for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 
 Taxi Diesel (existing)
@@ -193,11 +169,7 @@ The equation (1) shows the Distance Driven for TRTAXDSL01, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -213,11 +185,7 @@ The equation (4) shows the Emission Activity Ratio for TRTAXDSL01, for every sce
 
 EmissionActivityRatio=0.01    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -237,11 +205,7 @@ The equation (6) shows the Input Activity Ratio for TRTAXDSL01, for every scenar
 
 InputActivityRatio=2.67 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -261,11 +225,7 @@ The equation (8) shows the Output Activity Ratio for TRTAXDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -285,11 +245,7 @@ The figure 2 shows the Residual Capacity for TRTAXDSL01, for the NDP scenario.
    
    *Figure 2) Residual Capacity for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -309,11 +265,7 @@ The figure 4 shows the Total Annual Max Capacity for TRTAXDSL01, for the NDP sce
    
    *Figure 4) Total Annual Max Capacity for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -333,11 +285,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXDSL01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -345,11 +293,7 @@ The equation (9) shows the Unit Fixed Cost for TRTAXDSL01, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Taxi Diesel (new)
 +++++++++
@@ -405,11 +349,7 @@ The equation (1) shows the Capital Cost for TRTAXDSL02, for every scenario.
 
 CapitalCost=375.67 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 DistanceDriven[r,t,y]
 ---------
@@ -417,11 +357,7 @@ The equation (2) shows the Distance Driven for TRTAXDSL02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -437,11 +373,7 @@ The equation (5) shows the Emission Activity Ratio for TRTAXDSL02, for every sce
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -449,11 +381,7 @@ The equation (6) shows the Fixed Cost for TRTAXDSL02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -461,11 +389,7 @@ The equation (7) shows the Input Activity Ratio for TRTAXDSL02, for every scenar
 
 InputActivityRatio=1.33 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -473,11 +397,7 @@ The equation (8) shows the Operational Life for TRTAXDSL02, for every scenario.
 
 OperationalLife=10 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -485,11 +405,7 @@ The equation (9) shows the Output Activity Ratio for TRTAXDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -509,11 +425,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -521,11 +433,7 @@ The equation (10) shows the Unit Capital Cost for TRTAXDSL02, for every scenario
 
 UnitCapitalCost=18296.6317 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -534,11 +442,7 @@ The equation (11) shows the Unit Fixed Cost for TRTAXDSL02, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 Taxi Electric (new)
 +++++++++
@@ -602,11 +506,7 @@ The figure 1 shows the Capital Cost for TRTAXELC02, for every scenario.
    
    *Figure 1) Capital Cost for TRTAXELC02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -614,11 +514,7 @@ The equation (1) shows the Distance Driven for TRTAXELC02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -630,11 +526,7 @@ The equation (3) shows the Emission Activity Ratio for TRTAXELC02, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -642,11 +534,7 @@ The equation (4) shows the Fixed Cost for TRTAXELC02, for every scenario.
 
 FixedCost=16.2756 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -654,11 +542,7 @@ The equation (5) shows the Input Activity Ratio for TRTAXELC02, for every scenar
 
 InputActivityRatio=0.62 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ---------
@@ -666,23 +550,14 @@ The equation (6) shows the Operational Life for TRTAXELC02, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OutputActivityRatio[r,t,f,m,y]
 ---------
 The equation (7) shows the Output Activity Ratio for TRTAXELC02, for every scenario and associated to the fuel Public Transport in Taxi.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -702,11 +577,7 @@ The figure 3 shows the Total Annual Max Capacity for TRTAXELC02, for the NDP sce
    
    *Figure 3) Total Annual Max Capacity for TRTAXELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -726,11 +597,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXELC
    
    *Figure 5) Total Technology Annual Activity Lower Limit for TRTAXELC02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -741,11 +608,7 @@ The figure 6 shows the Unit Capital Cost for TRTAXELC02, for every scenario.
    :width:   700 px
    
    *Figure 6) Unit Capital Cost for TRTAXELC02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -754,11 +617,7 @@ The equation (8) shows the Unit Fixed Cost for TRTAXELC02, for every scenario.
 
 UnitFixedCost=792.6868 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 Taxi Gasoline (existing)
@@ -816,11 +675,7 @@ The equation (1) shows the Distance Driven for TRTAXGAS01, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -832,11 +687,7 @@ The equation (3) shows the Emission Activity Ratio for TRTAXGAS01, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -844,11 +695,7 @@ The equation (4) shows the Fixed Cost for TRTAXGAS01, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -856,11 +703,7 @@ The equation (5) shows the Input Activity Ratio for TRTAXGAS01, for every scenar
 
 InputActivityRatio=2.81 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -868,11 +711,7 @@ The equation (6) shows the Operational Life for TRTAXGAS01, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -880,11 +719,7 @@ The equation (7) shows the Output Activity Ratio for TRTAXGAS01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 ResidualCapacity[r,t,y]
 ---------
@@ -904,11 +739,7 @@ The figure 2 shows the Residual Capacity for TRTAXGAS01, for the NDP scenario.
    
    *Figure 2) Residual Capacity for TRTAXGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -928,11 +759,7 @@ The figure 4 shows the Total Annual Max Capacity for TRTAXGAS01, for the NDP sce
    
    *Figure 4) Total Annual Max Capacity for TRTAXGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -952,11 +779,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -964,11 +787,7 @@ The equation (8) shows the Unit Fixed Cost for TRTAXGAS01, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Taxi Gasoline (new)
 +++++++++
@@ -1022,11 +841,7 @@ The equation (1) shows the Capital Cost for TRTAXGAS02, for every scenario.
 
 CapitalCost=341.73 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1034,11 +849,7 @@ The equation (2) shows the Distance Driven for TRTAXGAS02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1050,11 +861,7 @@ The equation (4) shows the Emission Activity Ratio for TRTAXGAS02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1062,11 +869,7 @@ The equation (5) shows the Fixed Cost for TRTAXGAS02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1074,23 +877,14 @@ The equation (6) shows the Input Activity Ratio for TRTAXGAS02, for every scenar
 
 InputActivityRatio=1.64 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OperationalLife[r,t]
 ---------
 The equation (7) shows the Operational Life for TRTAXGAS02, for every scenario.
 
 OperationalLife=10 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1098,11 +892,7 @@ The equation (8) shows the Output Activity Ratio for TRTAXGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
@@ -1122,11 +912,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRTAXGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1134,11 +920,7 @@ The equation (9) shows the Unit Capital Cost for TRTAXGAS02, for every scenario.
 
 UnitCapitalCost=16643.6179 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
    
 UnitFixedCost[r,t,y]
@@ -1147,11 +929,7 @@ The equation (10) shows the Unit Fixed Cost for TRTAXGAS02, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Taxi Hybrid Electric-Diesel (new)
 +++++++++
@@ -1210,11 +988,7 @@ The figure 1 shows the Capital Cost for TRTAXHYBD02, for every scenario.
    
    *Figure 1) Capital Cost for TRTAXHYBD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1222,11 +996,7 @@ The equation (1) shows the Distance Driven for TRTAXHYBD02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1238,11 +1008,7 @@ The equation (3) shows the Emission Activity Ratio for TRTAXHYBD02, for every sc
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1250,11 +1016,7 @@ The equation (4) shows the Fixed Cost for TRTAXHYBD02, for every scenario.
 
 FixedCost=24.66 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1262,11 +1024,7 @@ The equation (5) shows the Input Activity Ratio for TRTAXHYBD02, for every scena
 
 InputActivityRatio=0.45 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ---------
@@ -1274,11 +1032,7 @@ The equation (6) shows the Operational Life for TRTAXHYBD02, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1286,11 +1040,6 @@ The equation (7) shows the Output Activity Ratio for TRTAXHYBD02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1302,12 +1051,7 @@ The figure 2 shows the Total Annual Max Capacity for TRTAXHYBD02, for every scen
    
    *Figure 2) Total Annual Max Capacity for TRTAXHYBD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 UnitCapitalCost[r,t,y]
 ---------
 The figure 3 shows the Unit Capital Cost for TRTAXHYBD02, for every scenario.
@@ -1317,11 +1061,7 @@ The figure 3 shows the Unit Capital Cost for TRTAXHYBD02, for every scenario.
    :width:   700 px
    
    *Figure 3) Unit Capital Cost for TRTAXHYBD02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -1329,11 +1069,7 @@ The equation (8) shows the Unit Fixed Cost for TRTAXHYBD02, for every scenario.
 
 UnitFixedCost=1201.0406 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Taxi Hybrid Electric-Gasoline (new)
 +++++++++
@@ -1392,11 +1128,7 @@ The figure 1 shows the Capital Cost for TRTAXHYBG02, for every scenario.
    
    *Figure 1) Capital Cost for TRTAXHYBG02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1404,11 +1136,7 @@ The equation (1) shows the Distance Driven for TRTAXHYBG02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1420,11 +1148,7 @@ The equation (3) shows the Emission Activity Ratio for TRTAXHYBG02, for every sc
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1432,11 +1156,7 @@ The equation (4) shows the Fixed Cost for TRTAXHYBG02, for every scenario.
 
 FixedCost=24.66 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1444,11 +1164,7 @@ The equation (5) shows the Input Activity Ratio for TRTAXHYBG02, for every scena
 
 InputActivityRatio=0.45 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -1456,11 +1172,7 @@ The equation (6) shows the Operational Life for TRTAXHYBG02, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1468,11 +1180,7 @@ The equation (7) shows the Output Activity Ratio for TRTAXHYBG02, for every scen
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1484,11 +1192,7 @@ The figure 2 shows the Total Annual Max Capacity for TRTAXHYBG02, for every scen
    
    *Figure 2) Total Annual Max Capacity for TRTAXHYBG02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1499,11 +1203,7 @@ The figure 3 shows the Unit Capital Cost for TRTAXHYBG02, for every scenario.
    :width:   700 px
    
    *Figure 3) Unit Capital Cost for TRTAXHYBG02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 ---------
@@ -1511,11 +1211,7 @@ The equation (8) shows the Unit Fixed Cost for TRTAXHYBG02, for every scenario.
 
 UnitFixedCost=1201.0406 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 Taxi LPG (new)
 +++++++++
@@ -1566,11 +1262,7 @@ The equation (1) shows the Capital Cost for TRTAXLPG02, for every scenario.
 
 CapitalCost=526 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 ---------
@@ -1578,11 +1270,6 @@ The equation (2) shows the Distance Driven for TRTAXLPG02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -1594,11 +1281,7 @@ The equation (4) shows the Emission Activity Ratio for TRTAXLPG02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1606,11 +1289,7 @@ The equation (5) shows the Fixed Cost for TRTAXLPG02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1618,23 +1297,14 @@ The equation (6) shows the Input Activity Ratio for TRTAXLPG02, for every scenar
 
 InputActivityRatio=1.64 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 OperationalLife[r,t]
 ---------
 The equation (7) shows the Operational Life for TRTAXLPG02, for every scenario.
 
 OperationalLife=10 Years   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1642,11 +1312,6 @@ The equation (8) shows the Output Activity Ratio for TRTAXLPG02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------   
@@ -1658,11 +1323,7 @@ The figure 1 shows the Total Technology Annual Activity Lower Limit for TRTAXLPG
    
    *Figure 1) Total Technology Annual Activity Lower Limit for TRTAXLPG02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 ---------
@@ -1670,11 +1331,6 @@ The equation (9) shows the Unit Capital Cost for TRTAXLPG02, for every scenario.
 
 UnitCapitalCost=25618.304 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
    
 UnitFixedCost[r,t,y]
@@ -1683,8 +1339,3 @@ The equation (10) shows the Unit Fixed Cost for TRTAXLPG02, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
