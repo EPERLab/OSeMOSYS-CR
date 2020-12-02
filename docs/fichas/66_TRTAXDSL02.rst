@@ -52,11 +52,6 @@ The equation (1) shows the Capital Cost for TRTAXDSL02, for every scenario.
 
 CapitalCost=375.67 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -64,11 +59,6 @@ The equation (2) shows the Distance Driven for TRTAXDSL02, for every scenario.
 
 DistanceDriven=48704 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -84,11 +74,6 @@ The equation (5) shows the Emission Activity Ratio for TRTAXDSL02, for every sce
 
 EmissionActivityRatio=0.01    (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -96,11 +81,6 @@ The equation (6) shows the Fixed Cost for TRTAXDSL02, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -108,11 +88,7 @@ The equation (7) shows the Input Activity Ratio for TRTAXDSL02, for every scenar
 
 InputActivityRatio=1.33 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 +++++++++
@@ -120,11 +96,6 @@ The equation (8) shows the Operational Life for TRTAXDSL02, for every scenario.
 
 OperationalLife=10 Years   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -132,11 +103,7 @@ The equation (9) shows the Output Activity Ratio for TRTAXDSL02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -156,11 +123,6 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for TRTAXDSL
    
    *Figure 2) Total Technology Annual Activity Lower Limit for TRTAXDSL02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -168,12 +130,7 @@ The equation (10) shows the Unit Capital Cost for TRTAXDSL02, for every scenario
 
 UnitCapitalCost=18296.6317 [$]   (10)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -181,9 +138,4 @@ The equation (11) shows the Unit Fixed Cost for TRTAXDSL02, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (11)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
