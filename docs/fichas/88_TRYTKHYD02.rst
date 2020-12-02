@@ -51,11 +51,7 @@ The figure 1 shows the Capital Cost for TRYTKHYD02, for every scenario.
    
    *Figure 1) Capital Cost for TRYTKHYD02 for every scenario.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -63,11 +59,6 @@ The equation (1) shows the Distance Driven for TRYTKHYD02, for every scenario.
 
 DistanceDriven=44321 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -75,11 +66,6 @@ The equation (2) shows the Emission Activity Ratio for , for every scenario and 
 
 EmissionActivityRatio=0.16    (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
@@ -87,11 +73,7 @@ The equation (3) shows the Fixed Cost for TRYTKHYD02, for every scenario.
 
 FixedCost=153.3807 [M$/Gvkm]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -99,11 +81,7 @@ The equation (4) shows the Input Activity Ratio for TRYTKHYD02, for every scenar
 
 InputActivityRatio=2.17 [PJ/Gvkm]   (4)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -111,11 +89,7 @@ The equation (5) shows the Operational Life for TRYTKHYD02, for every scenario.
 
 OperationalLife=10 Years   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -123,11 +97,7 @@ The equation (6) shows the Output Activity Ratio for TRYTKHYD02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -139,11 +109,7 @@ The figure 2 shows the Total Annual Max Capacity for TRYTKHYD02, for every scena
    
    *Figure 2) Total Annual Max Capacity for TRYTKHYD02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++   
@@ -155,11 +121,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYTKHYD
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRYTKHYD02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -170,11 +132,7 @@ The figure 4 shows the Unit Capital Cost for TRYTKHYD02, for every scenario.
    :width:   700 px
    
    *Figure 4) Unit Capital Cost for TRYTKHYD02 for every scenario.*
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -182,8 +140,4 @@ The equation (7) shows the Unit Fixed Cost for TRYTKHYD02, for every scenario.
 
 UnitFixedCost=6797.986 [$]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
