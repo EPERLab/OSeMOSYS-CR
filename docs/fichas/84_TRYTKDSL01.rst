@@ -46,11 +46,6 @@ The equation (1) shows the Distance Driven for TRYTKDSL01, for every scenario.
 
 DistanceDriven=44321 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -63,11 +58,7 @@ The equation (3) shows the Emission Activity Ratio for TRYTKDSL01, for every sce
 
 EmissionActivityRatio=0.06    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -75,35 +66,21 @@ The equation (4) shows the Fixed Cost for TRYTKDSL01, for every scenario.
 
 FixedCost=464.79 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (5) shows the Input Activity Ratio for TRYTKDSL01, for every scenario and associated to the fuel Diesel for light heavy transport. 
 
 InputActivityRatio=7.99 [PJ/Gvkm]   (5)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
 The equation (6) shows the Operational Life for TRYTKDSL01, for every scenario.
 
 OperationalLife=10 Years   (6)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -111,11 +88,7 @@ The equation (7) shows the Output Activity Ratio for TRYTKDSL01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -127,11 +100,7 @@ The figure 1 shows the Residual Capacity for TRYTKDSL01, for every scenario.
    
    *Figure 1) Residual Capacity for TRYTKDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -143,11 +112,7 @@ The figure 2 shows the Total Annual Max Capacity for TRYTKDSL01, for every scena
    
    *Figure 2) Total Annual Max Capacity for TRYTKDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -159,11 +124,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRYTKDSL
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRYTKDSL01 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -171,8 +132,4 @@ The equation (8) shows the Unit Fixed Cost for TRYTKDSL01, for every scenario.
 
 UnitFixedCost=20599.9576 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
