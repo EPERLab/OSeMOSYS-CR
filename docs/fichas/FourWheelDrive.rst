@@ -50,7 +50,6 @@ InputActivityRatio[r,t,f,m,y]
 The equation (2) shows the Input Activity Ratio for Techs_4WD, for every scenario and associated to the fuel Private Transport in Four Wheel Drive.
 
 InputActivityRatio=1   [Gpkm/Gvkm]   (2)
-
    
 OperationalLife[r,t]
 ---------
