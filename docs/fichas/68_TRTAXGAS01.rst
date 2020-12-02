@@ -53,11 +53,6 @@ The equation (1) shows the Distance Driven for TRTAXGAS01, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -69,11 +64,7 @@ The equation (3) shows the Emission Activity Ratio for TRTAXGAS01, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -81,11 +72,7 @@ The equation (4) shows the Fixed Cost for TRTAXGAS01, for every scenario.
 
 FixedCost=49.32 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -93,11 +80,7 @@ The equation (5) shows the Input Activity Ratio for TRTAXGAS01, for every scenar
 
 InputActivityRatio=2.81 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 +++++++++
@@ -105,11 +88,7 @@ The equation (6) shows the Operational Life for TRTAXGAS01, for every scenario.
 
 OperationalLife=10 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -117,11 +96,7 @@ The equation (7) shows the Output Activity Ratio for TRTAXGAS01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -141,11 +116,7 @@ The figure 2 shows the Residual Capacity for TRTAXGAS01, for the NDP scenario.
    
    *Figure 2) Residual Capacity for TRTAXGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -165,11 +136,7 @@ The figure 4 shows the Total Annual Max Capacity for TRTAXGAS01, for the NDP sce
    
    *Figure 4) Total Annual Max Capacity for TRTAXGAS01 for the NDP scenario.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -189,11 +156,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRTAXGAS01 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -201,8 +164,4 @@ The equation (8) shows the Unit Fixed Cost for TRTAXGAS01, for every scenario.
 
 UnitFixedCost=2402.0813 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
