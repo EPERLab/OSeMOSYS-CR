@@ -53,11 +53,7 @@ The equation (1) shows the Distance Driven for TRFWDLPG01, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -69,11 +65,7 @@ The equation (3) shows the Emission Activity Ratio for TRFWDLPG01, for every sce
 
 EmissionActivityRatio=0.081    (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -81,11 +73,7 @@ The equation (4) shows the Fixed Cost for TRFWDLPG01, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -93,11 +81,7 @@ The equation (5) shows the Input Activity Ratio for TRFWDLPG01, for every scenar
 
 InputActivityRatio=4.51 [PJ/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 +++++++++
@@ -105,11 +89,7 @@ The equation (6) shows the Operational Life for TRFWDLPG01, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -117,11 +97,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDLPG01, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 +++++++++
@@ -141,11 +117,7 @@ The figure 2 shows the Residual Capacity for TRFWDLPG01, for the NDP and OP15C s
    
    *Figure 2) Residual Capacity for TRFWDLPG01 for the NDP and OP15C scenarios.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
@@ -165,11 +137,7 @@ The figure 4 shows the Total Annual Max Capacity for TRFWDLPG01, for the NDP and
    
    *Figure 4) Total Annual Max Capacity for TRFWDLPG01 for the NDP and OP15C scenarios.*   
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -189,11 +157,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRFWDLPG
    
    *Figure 6) Total Technology Annual Activity Lower Limit for TRFWDLPG01 for NDP and OP15C scenarios.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 UnitFixedCost[r,t,y]
 +++++++++
@@ -201,8 +165,4 @@ The equation (8) shows the Unit Fixed Cost for TRFWDLPG01, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
