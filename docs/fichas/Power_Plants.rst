@@ -43,11 +43,7 @@ The equation (1) shows the Capacity Factor for PPBIO001, for every scenario and 
 
 CapacityFactor=0.317%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -55,11 +51,7 @@ The equation (2) shows the Fixed Cost for PPBIO001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -67,11 +59,7 @@ The equation (3) shows the Operational Life for PPBIO001, for every scenario.
 
 OperationalLife=25 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -79,11 +67,7 @@ The equation (4) shows the Output Activity Ratio for PPBIO001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.      
    
 ResidualCapacity[r,t,y]
 ---------
@@ -91,23 +75,14 @@ The equation (5) shows the Residual Capacity for PPBIO001, for every scenario.
 
 ResidualCapacity=0.03 [GW]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
 The equation (6) shows the Total Annual Max Capacity for PPBIO001, for every scenario.
 
 TotalAnnualMaxCapacity=0.03 [GW]   (6)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+          
    
 VariableCost[r,t,m,y]
 ---------
@@ -115,11 +90,7 @@ The equation (7) shows the Variable Cost for PPBIO001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.               
+              
 
 
 Biomass Power Plant (new)
@@ -162,11 +133,7 @@ The equation (1) shows the Capacity Factor for PPBIO002, for every scenario and 
 
 CapacityFactor=0.75%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 CapitalCost[r,t,y]
 ---------
@@ -174,23 +141,14 @@ The equation (2) shows the Capital Cost for PPBIO002, for every scenario.
 
 CapitalCost=2463.28 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
-   
+
 FixedCost[r,t,y]
 ---------
 The equation (3) shows the Fixed Cost for PPBIO002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
+
    
 OperationalLife[r,t]
 ---------
@@ -198,11 +156,6 @@ The equation (4) shows the Operational Life for PPBIO002, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -210,11 +163,6 @@ The equation (5) shows the Output Activity Ratio for PPBIO002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -226,11 +174,7 @@ The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenari
    
    *Figure 1) Total Annual Max Capacity for PPBIO002.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
 
 VariableCost[r,t,m,y]
 ---------
@@ -238,11 +182,7 @@ The equation (6) shows the Variable Cost for PPBIO002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.  
+ 
 
 Diesel Power Plant (existing)
 +++++++++
@@ -288,11 +228,7 @@ The equation (1) shows the Capacity Factor for PPDSL001, for every scenario and 
 
 CapacityFactor=0.034%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -300,11 +236,7 @@ The equation (2) shows the Fixed Cost for PPDSL001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -312,11 +244,7 @@ The equation (3) shows the Input Activity Ratio for PPDSL001, for every scenario
 
 InputActivityRatio=2.85 [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -324,11 +252,7 @@ The equation (4) shows the Operational Life for PPDSL001, for every scenario.
 
 OperationalLife=30 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -336,11 +260,7 @@ The equation (5) shows the Output Activity Ratio for PPDSL001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -348,11 +268,7 @@ The equation (6) shows the Residual Capacity for PPDSL001, for every scenario.
 
 ResidualCapacity=0.381 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+         
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -360,11 +276,7 @@ The equation (7) shows the Total Annual Max Capacity for PPDSL001, for every sce
 
 TotalAnnualMaxCapacity=0.381 [GW]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+          
    
 VariableCost[r,t,m,y]
 ---------
@@ -372,11 +284,7 @@ The equation (8) shows the Variable Cost for PPDSL001, for every scenario.
 
 VariableCost=1.3 [M%/PJ]   (8)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.    
 
 Diesel Power Plant (new)
 +++++++++
@@ -420,11 +328,7 @@ The equation (1) shows the Capacity Factor for PPDSL002, for every scenario and 
 
 CapacityFactor=0.034%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -432,11 +336,7 @@ The equation (2) shows the Capital Cost for PPDSL002, for every scenario.
 
 CapitalCost=1269.78 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -444,11 +344,7 @@ The equation (3) shows the Fixed Cost for PPDSL002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -456,11 +352,7 @@ The equation (4) shows the Input Activity Ratio for PPDSL002, for every scenario
 
 InputActivityRatio=2.5 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -468,11 +360,7 @@ The equation (5) shows the Operational Life for PPDSL002, for every scenario.
 
 OperationalLife=30 Years   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -480,11 +368,7 @@ The equation (6) shows the Output Activity Ratio for PPDSL002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 VariableCost[r,t,m,y]
 ---------
@@ -492,11 +376,7 @@ The equation (7) shows the Variable Cost for PPDSL002, for every scenario.
 
 VariableCost=1.3 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.    
+    
    
    
 Oil Power Plant (existing)
@@ -543,11 +423,7 @@ The equation (1) shows the Capacity Factor for PPFOB001, for every scenario and 
 
 CapacityFactor=0.034%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -555,11 +431,7 @@ The equation (2) shows the Fixed Cost for PPFOB001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -567,11 +439,7 @@ The equation (3) shows the Input Activity Ratio for PPFOB001, for every scenario
 
 InputActivityRatio=2.85 [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OperationalLife[r,t]
 ---------
@@ -579,11 +447,7 @@ The equation (4) shows the Operational Life for PPFOB001, for every scenario.
 
 OperationalLife=30 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -591,11 +455,7 @@ The equation (5) shows the Output Activity Ratio for PPFOB001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -603,11 +463,7 @@ The equation (6) shows the Residual Capacity for PPFOB001, for every scenario.
 
 ResidualCapacity=0.214 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+      
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -615,23 +471,14 @@ The equation (7) shows the Total Annual Max Capacity for PPFOB001, for every sce
 
 TotalAnnualMaxCapacity=0.214 [GW]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+           
    
 VariableCost[r,t,m,y]
 ---------
 The equation (8) shows the Variable Cost for PPFOB001, for every scenario.
 
 VariableCost=1.3 [M$/PJ]   (8)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.               
+            
 
 
 Oil Power Plant (new)
@@ -676,11 +523,7 @@ The equation (1) shows the Capacity Factor for PPFOB002, for every scenario and 
 
 CapacityFactor=0.034%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -688,11 +531,7 @@ The equation (2) shows the Capital Cost for PPFOB002, for every scenario.
 
 CapitalCost=4650.33 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -700,11 +539,7 @@ The equation (3) shows the Fixed Cost for PPFOB002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -712,11 +547,7 @@ The equation (4) shows the Input Activity Ratio for PPFOB002, for every scenario
 
 InputActivityRatio=2.5 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -724,11 +555,7 @@ The equation (5) shows the Operational Life for PPFOB002, for every scenario.
 
 OperationalLife=30 Years   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -736,11 +563,7 @@ The equation (6) shows the Output Activity Ratio for PPFOB002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 VariableCost[r,t,m,y]
 ---------
@@ -748,11 +571,7 @@ The equation (7) shows the Variable Cost for PPFOB002, for every scenario.
 
 VariableCost=1.3 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.    
+  
 
 Geothermal Power Plant (existing)
 +++++++++
@@ -803,11 +622,7 @@ The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and 
    
    *Figure 1) Capacity Factor for PPGEO001.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -815,11 +630,7 @@ The equation (1) shows the Fixed Cost for PPGEO001, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -827,11 +638,7 @@ The equation (2) shows the Input Activity Ratio for PPGEO001, for every scenario
 
 InputActivityRatio=2.85 [PJ/PJ]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -839,11 +646,7 @@ The equation (3) shows the Operational Life for PPGEO001, for every scenario.
 
 OperationalLife=40 Years   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -851,11 +654,7 @@ The equation (4) shows the Output Activity Ratio for PPGEO001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+  
    
 ResidualCapacity[r,t,y]
 ---------
@@ -863,11 +662,7 @@ The equation (5) shows the Residual Capacity for PPGEO001, for every scenario.
 
 ResidualCapacity=0.206 [GW]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+       
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -875,11 +670,7 @@ The equation (6) shows the Total Annual Max Capacity for PPGEO001, for every sce
 
 TotalAnnualMaxCapacity=0.206 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+         
    
 VariableCost[r,t,m,y]
 ---------
@@ -887,11 +678,7 @@ The equation (7) shows the Variable Cost for PPGEO001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
 
 
 Geothermal Power Plant (new)
@@ -945,11 +732,7 @@ The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and seas
    
    *Figure 1) Capacity Factor for PPGEO002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -957,11 +740,7 @@ The equation (1) shows the Capital Cost for PPGEO002, for every scenario.
 
 CapitalCost=7828.28 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -969,11 +748,7 @@ The equation (2) shows the Fixed Cost for PPGEO002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -981,11 +756,7 @@ The equation (3) shows the Input Activity Ratio for PPGEO002, for every scenario
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -993,11 +764,7 @@ The equation (4) shows the Operational Life for PPGEO002, for every scenario.
 
 OperationalLife=40 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1005,11 +772,7 @@ The equation (5) shows the Output Activity Ratio for PPGEO002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1021,11 +784,7 @@ The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenari
    
    *Figure 2) Total Annual Max Capacity for PPGEO002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 ---------
@@ -1037,11 +796,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for eve
    
    *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 VariableCost[r,t,m,y]
 ---------
@@ -1049,11 +804,7 @@ The equation (6) shows the Variable Cost for PPGEO002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.    
 
 Hydro Dam Power Plant (existing)
 +++++++++
@@ -1104,11 +855,7 @@ The figure 1 shows the Capacity Factor for PPHDAM001, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHDAM001.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -1116,11 +863,7 @@ The equation (1) shows the Fixed Cost for PPHDAM001, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1128,11 +871,7 @@ The equation (2) shows the Input Activity Ratio for PPHDAM001, for every scenari
 
 InputActivityRatio=2.85 [PJ/PJ]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 ---------
@@ -1140,11 +879,7 @@ The equation (3) shows the Operational Life for PPHDAM001, for every scenario.
 
 OperationalLife=80 Years   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1152,11 +887,7 @@ The equation (4) shows the Output Activity Ratio for PPHDAM001, for every scenar
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -1164,11 +895,7 @@ The equation (5) shows the Residual Capacity for PPHDAM001, for every scenario.
 
 ResidualCapacity=1.13 [GW]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+         
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1176,11 +903,7 @@ The equation (6) shows the Total Annual Max Capacity for PPHDAM001, for every sc
 
 TotalAnnualMaxCapacity=1.13 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+         
    
 VariableCost[r,t,m,y]
 ---------
@@ -1188,11 +911,7 @@ The equation (7) shows the Variable Cost for PPHDAM001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 Hydro Dam Power Plant (new)
 ++++++++
@@ -1241,11 +960,7 @@ The figure 1 shows the Capacity Factor for PPHDAM002, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHDAM002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -1253,11 +968,7 @@ The equation (1) shows the Capital Cost for PPHDAM002, para todos los escenarios
 
 CapitalCost=8241.97 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1265,11 +976,7 @@ The equation (2) shows the Fixed Cost for PPHDAM002, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1277,11 +984,7 @@ The equation (3) shows the Input Activity Ratio for PPHDAM002, for every scenari
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -1289,11 +992,7 @@ The equation (4) shows the Operational Life for PPHDAM002, for every scenario.
 
 OperationalLife=80 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1301,11 +1000,7 @@ The equation (5) shows the Output Activity Ratio for PPHDAM002, for every scenar
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 VariableCost[r,t,m,y]
 ---------
@@ -1313,11 +1008,7 @@ The equation (6) shows the Variable Cost for PPHROR002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
    
 Hydro Run of River Power Plant (existing)
@@ -1369,23 +1060,13 @@ The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHROR001.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
-
+ 
 FixedCost[r,t,y]
 ---------
 The equation (1) shows the Fixed Cost for PPHROR001, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1393,11 +1074,7 @@ The equation (2) shows the Input Activity Ratio for PPHROR001, for every scenari
 
 InputActivityRatio=1 [PJ/PJ]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OperationalLife[r,t]
 ---------
@@ -1405,11 +1082,7 @@ The equation (3) shows the Operational Life for PPHROR001, for every scenario.
 
 OperationalLife=60 Years   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1417,11 +1090,7 @@ The equation (4) shows the Output Activity Ratio for PPHROR001, for every scenar
 
 OutputActivityRatio=1 [PJ/PJ]   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 ResidualCapacity[r,t,y]
 ---------
@@ -1429,11 +1098,7 @@ The equation (5) shows the Residual Capacity for PPHROR001, for every scenario.
 
 ResidualCapacity=1.21 [GW]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+         
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1441,11 +1106,7 @@ The equation (6) shows the Total Annual Max Capacity for PPHROR001, for every sc
 
 TotalAnnualMaxCapacity=1.21 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+           
    
 VariableCost[r,t,m,y]
 ---------
@@ -1453,11 +1114,6 @@ The equation (7) shows the Variable Cost for PPHROR001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 Hydro Run of River Power Plant (new)
 ++++++++
@@ -1510,11 +1166,7 @@ The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and sea
    
    *Figure 1) Capacity Factor for PPHROR002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -1522,11 +1174,7 @@ The equation (1) shows the Capital Cost for PPHROR002, para todos los escenarios
 
 CapitalCost=4385.15 [M$/GW]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1534,11 +1182,7 @@ The equation (2) shows the Fixed Cost for PPHROR002, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1546,23 +1190,14 @@ The equation (3) shows the Input Activity Ratio for PPHROR002, for every scenari
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
+
 OperationalLife[r,t]
 ---------
 The equation (4) shows the Operational Life for PPHROR002, for every scenario.
 
 OperationalLife=60 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1570,11 +1205,7 @@ The equation (5) shows the Output Activity Ratio for PPHROR002, for every scenar
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1586,11 +1217,7 @@ The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenar
    
    *Figure 2) Total Annual Max Capacity for PPHROR002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 ---------
@@ -1602,11 +1229,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    
    *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 VariableCost[r,t,m,y]
 ---------
@@ -1614,11 +1237,6 @@ The equation (6) shows the Variable Cost for PPHROR002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
    
    
 Photovoltaic Power Plant Distribution (new)
@@ -1666,11 +1284,7 @@ The equation (1) shows the Capacity Factor for PPPVD002, for every scenario and 
 
 CapacityFactor=0.227%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -1682,11 +1296,6 @@ The figure 1 shows the Capital Cost for PPPVD002, for every scenario.
    
    *Figure 1) Capital Cost for PPPVD002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 ---------
@@ -1694,11 +1303,7 @@ The equation (2) shows the Fixed Cost for PPPVD002, for every scenario.
 
 FixedCost=15.6 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1706,11 +1311,7 @@ The equation (3) shows the Input Activity Ratio for PPPVD002, for every scenario
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -1718,11 +1319,7 @@ The equation (4) shows the Operational Life for PPPVD002, for every scenario.
 
 OperationalLife=20 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1730,11 +1327,7 @@ The equation (5) shows the Output Activity Ratio for PPPVD002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1746,11 +1339,7 @@ The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenari
    
    *Figure 2) Total Annual Max Capacity for PPPVD002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 VariableCost[r,t,m,y]
 ---------
@@ -1758,11 +1347,7 @@ The equation (6) shows the Variable Cost for PPPVD002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.     
+    
 
 Photovoltaic Power Plant Transmission (existing)
 ++++++++++
@@ -1809,11 +1394,7 @@ The equation (1) shows the Capacity Factor for PPPVT001, for every scenario and 
 
 CapacityFactor=0.277%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -1821,11 +1402,7 @@ The equation (2) shows the Fixed Cost for PPPVT001, for every scenario.
 
 FixedCost=31.3 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1833,11 +1410,7 @@ The equation (3) shows the Input Activity Ratio for PPPVT001, for every scenario
 
 InputActivityRatio=1 [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -1845,11 +1418,7 @@ The equation (4) shows the Operational Life for PPPVT001, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -1857,11 +1426,7 @@ The equation (5) shows the Output Activity Ratio for PPPVT001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+    
    
 ResidualCapacity[r,t,y]
 ---------
@@ -1869,11 +1434,7 @@ The equation (6) shows the Residual Capacity for PPPVT001, for every scenario.
 
 ResidualCapacity=0.0054 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -1881,11 +1442,7 @@ The equation (7) shows the Total Annual Max Capacity for PPPVT001, for every sce
 
 TotalAnnualMaxCapacity=0.0054 [GW]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+           
    
 VariableCost[r,t,m,y]
 ---------
@@ -1893,11 +1450,6 @@ The equation (8) shows the Variable Cost for PPPVT001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
 
 Photovoltaic Power Plant Transmission (new)
 +++++++++
@@ -1946,11 +1498,7 @@ The equation (1) shows the Capacity Factor for PPPVT002, for every scenario and 
 
 CapacityFactor=0.227%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+ 
    
 CapitalCost[r,t,y]
 ---------
@@ -1962,11 +1510,7 @@ The figure 1 shows the Capital Cost for PPPVT002, for every scenario.
    
    *Figure 1) Capital Cost for PPPVT002.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -1974,11 +1518,7 @@ The equation (2) shows the Fixed Cost for PPPVT002, for every scenario.
 
 FixedCost=31.3 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -1986,11 +1526,7 @@ The equation (3) shows the Input Activity Ratio for PPPVT002, for every scenario
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -1998,11 +1534,7 @@ The equation (4) shows the Operational Life for PPPVT002, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -2010,11 +1542,7 @@ The equation (5) shows the Output Activity Ratio for PPPVT002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -2026,11 +1554,7 @@ The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenari
    
    *Figure 2) Total Annual Max Capacity for PPPVT002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 ---------
@@ -2042,23 +1566,14 @@ The figure 3 show the Total Annual Min Capacity Investment for PPPVT002, for eve
    
    *Figure 3) Total Annual Min Capacity Investment for PPPVT002.*
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 VariableCost[r,t,m,y]
 ---------
 The equation (6) shows the Variable Cost for PPPVT002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
-
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.    
 
 Wind Power Plant Distribution (new)
 +++++++++
@@ -2105,11 +1620,7 @@ The equation (1) shows the Capacity Factor for PPWND002, for every scenario and 
 
 CapacityFactor=0.572%   (1)
 
-Fuente:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -2121,11 +1632,6 @@ The figure 1 shows the Capital Cost for PPWND002, for every scenario.
    
    *Figure 1) Capital Cost for PPWND002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
 
 FixedCost[r,t,y]
 ---------
@@ -2133,11 +1639,8 @@ The equation (2) shows the Fixed Cost for PPWND002, for every scenario.
 
 FixedCost=179.1 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -2145,11 +1648,7 @@ The equation (3) shows the Input Activity Ratio for PPWND002, for every scenario
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -2157,11 +1656,7 @@ The equation (4) shows the Operational Life for PPWND002, for every scenario.
 
 OperationalLife=20 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -2169,11 +1664,7 @@ The equation (5) shows the Output Activity Ratio for PPWND002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -2185,11 +1676,7 @@ The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenari
    
    *Figure 2) Total Annual Max Capacity for PPWND002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 VariableCost[r,t,m,y]
 ---------
@@ -2197,11 +1684,7 @@ The equation (6) shows the Variable Cost for PPWND002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.    
 
 Wind Power Plant Transmission (existing)
 +++++++++
@@ -2248,11 +1731,7 @@ The equation (1) shows the Capacity Factor for PPWNT001, for every scenario and 
 
 CapacityFactor=0.572%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 FixedCost[r,t,y]
 ---------
@@ -2260,11 +1739,7 @@ The equation (2) shows the Fixed Cost for PPWNT001, for every scenario.
 
 FixedCost=179.1 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -2272,11 +1747,7 @@ The equation (3) shows the Input Activity Ratio for PPWNT001, for every scenario
 
 InputActivityRatio=1 [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
    
-Description: 
-   This is the description.   
    
 OperationalLife[r,t]
 ---------
@@ -2284,11 +1755,7 @@ The equation (4) shows the Operational Life for PPWNT001, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -2296,11 +1763,7 @@ The equation (5) shows the Output Activity Ratio for PPWNT001, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+     
    
 ResidualCapacity[r,t,y]
 ---------
@@ -2308,11 +1771,7 @@ The equation (6) shows the Residual Capacity for PPWNT001, for every scenario.
 
 ResidualCapacity=0.39 [GW]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -2320,11 +1779,7 @@ The equation (7) shows the Total Annual Max Capacity for PPWNT001, for every sce
 
 TotalAnnualMaxCapacity=0.39 [GW]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
+          
    
 VariableCost[r,t,m,y]
 ---------
@@ -2332,11 +1787,7 @@ The equation (8) shows the Variable Cost for PPWNT001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 Wind Power Plant Transmission (new)
 +++++++++
@@ -2385,11 +1836,7 @@ The equation (1) shows the Capacity Factor for PPWNT002, for every scenario and 
 
 CapacityFactor=0.572%   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 CapitalCost[r,t,y]
 ---------
@@ -2401,11 +1848,7 @@ The figure 1 shows the Capital Cost for PPWNT002, for every scenario.
    
    *Figure 1) Capital Cost for PPWNT002.*
    
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 ---------
@@ -2413,11 +1856,7 @@ The equation (2) shows the Fixed Cost for PPWNT002, for every scenario.
 
 FixedCost=179.1 [M$/GW]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+.
    
 InputActivityRatio[r,t,f,m,y]
 ---------
@@ -2425,11 +1864,7 @@ The equation (3) shows the Input Activity Ratio for PPWNT002, for every scenario
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 OperationalLife[r,t]
 ---------
@@ -2437,11 +1872,7 @@ The equation (4) shows the Operational Life for PPWNT002, for every scenario.
 
 OperationalLife=25 Years   (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 ---------
@@ -2449,11 +1880,7 @@ The equation (5) shows the Output Activity Ratio for PPWNT002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
@@ -2465,11 +1892,7 @@ The figure 2 shows the Total Annual Max Capacity for PPWNT002, for every scenari
    
    *Figure 2) Total Annual Max Capacity for PPWNT002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 ---------
@@ -2481,11 +1904,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPWNT002, for ev
    
    *Figure 3) Total Annual Min Capacity Investment for PPWNT002.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+ 
    
 VariableCost[r,t,m,y]
 ---------
@@ -2493,8 +1912,4 @@ The equation (6) shows the Variable Cost for PPWNT002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.    
+    
