@@ -50,11 +50,7 @@ The equation (1) shows the Capital Cost for TRFWDGAS02, for every scenario.
 
 CapitalCost=2350.33 [M$/Gvkm]   (1)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description. 
+
 
 DistanceDriven[r,t,y]
 +++++++++
@@ -62,11 +58,7 @@ The equation (2) shows the Distance Driven for TRFWDGAS02, for every scenario.
 
 DistanceDriven=14773 [km/year]   (2)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 EmissionActivityRatio[r,t,e,m,y]
 +++++++++
@@ -78,11 +70,7 @@ The equation (4) shows the Emission Activity Ratio for TRFWDGAS02, for every sce
 
 EmissionActivityRatio=0.081    (4)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
 
 FixedCost[r,t,y]
 +++++++++
@@ -90,11 +78,7 @@ The equation (5) shows the Fixed Cost for TRFWDGAS02, for every scenario.
 
 FixedCost=61.65 [M$/Gvkm]   (5)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
+
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -106,11 +90,7 @@ The figure 1 shows the Input Activity Ratio for TRFWDGAS02, for every scenario a
    
    *Figure 1) Input Activity Ratio for TRFWDGAS02 for every scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OperationalLife[r,t]
 +++++++++
@@ -118,11 +98,7 @@ The equation (6) shows the Operational Life for TRFWDGAS02, for every scenario.
 
 OperationalLife=15 Years   (6)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.   
+  
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
@@ -130,11 +106,7 @@ The equation (7) shows the Output Activity Ratio for TRFWDGAS02, for every scena
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.      
+      
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
@@ -154,11 +126,6 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for TRFWDGAS
    
    *Figure 3) Total Technology Annual Activity Lower Limit for TRFWDGAS02 for the NDP scenario.*
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
 UnitCapitalCost[r,t,y]
 +++++++++
@@ -166,11 +133,6 @@ The equation (8) shows the Unit Capital Cost for TRFWDGAS02, for every scenario.
 
 UnitCapitalCost=34721.4251 [$]   (8)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
    
    
 UnitFixedCost[r,t,y]
@@ -179,8 +141,3 @@ The equation (9) shows the Unit Fixed Cost for TRFWDGAS02, for every scenario.
 
 UnitFixedCost=910.7554 [$]   (9)
 
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
