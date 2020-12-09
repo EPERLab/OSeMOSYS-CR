@@ -294,7 +294,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 
 * Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 3.5 shows the reference values for 2018.
 
-.. figure::  img/InstalledCapacity2018.png
+.. figure::  img/Installed_Capacity_2018_PNE.png
    :align:   center
    :width:   700 px
    
