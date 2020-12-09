@@ -42,7 +42,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2035, and 2050. The procedure consists of introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
 
-.. figure:: img/SpecifiedAnnualDemandCargo_PNE.png
+.. figure:: img/ActivityElectricLighduty.png
    :align:   center
    :width:   700 px
    
@@ -53,7 +53,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Demand absorbed by TELCA and Logistic:** The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same linear reduction, but with 2022 and 2030 as transition years. Figure 4.5 shows the reduction in the demand. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050      
 
-.. figure:: img/ActivityElectricLighduty.png
+.. figure:: img/SpecifiedAnnualDemandCargo_PNE
    :align:   center
    :width:   700 px
    
@@ -67,7 +67,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.6: Cargo Emission Annual Limit* :download:`. <doc_imgs/EmissionsLimit.csv>`
+   *Figure 4.6: Cargo Emission Annual Limit* :download:`. <doc_imgs/CargoEmissionLimit.png
    
 4.3 Electricity and fossil fuels
 +++++++++
