@@ -302,7 +302,7 @@ The residual capacity expresses the capacity that already exists in the first ye
    
 * Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 3.6 presents how the capacity of the current fleet is reduced over the years.   
 
-.. figure::  img/ResidualCapacityT.png
+.. figure::  img/ResiduaL_Capacity_Transport_PNE.png
    :align:   center
    
    *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport* :download:`. <doc_imgs/ResidualCapacity.csv>` 
