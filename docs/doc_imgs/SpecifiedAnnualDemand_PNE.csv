@@ -1,0 +1,199 @@
+﻿Strategy1,Year,Fuel1,Specified Annual Demand
+BAU,2018,Transport Demand Passenger Public,15.302261410
+BAU,2019,Transport Demand Passenger Public,15.5943
+BAU,2020,Transport Demand Passenger Public,11.701
+BAU,2021,Transport Demand Passenger Public,13.3136
+BAU,2022,Transport Demand Passenger Public,15.6435
+BAU,2023,Transport Demand Passenger Public,16.0376
+BAU,2024,Transport Demand Passenger Public,16.4783
+BAU,2025,Transport Demand Passenger Public,16.928
+BAU,2026,Transport Demand Passenger Public,17.3866
+BAU,2027,Transport Demand Passenger Public,17.8544
+BAU,2028,Transport Demand Passenger Public,18.3314
+BAU,2029,Transport Demand Passenger Public,18.8176
+BAU,2030,Transport Demand Passenger Public,19.3131
+BAU,2031,Transport Demand Passenger Public,19.8179
+BAU,2032,Transport Demand Passenger Public,20.3321
+BAU,2033,Transport Demand Passenger Public,20.8558
+BAU,2034,Transport Demand Passenger Public,21.389
+BAU,2035,Transport Demand Passenger Public,21.9317
+BAU,2036,Transport Demand Passenger Public,22.484
+BAU,2037,Transport Demand Passenger Public,23.0458
+BAU,2038,Transport Demand Passenger Public,23.6173
+BAU,2039,Transport Demand Passenger Public,24.1985
+BAU,2040,Transport Demand Passenger Public,24.7893
+BAU,2041,Transport Demand Passenger Public,25.3898
+BAU,2042,Transport Demand Passenger Public,26
+BAU,2043,Transport Demand Passenger Public,26.6198
+BAU,2044,Transport Demand Passenger Public,27.2494
+BAU,2045,Transport Demand Passenger Public,27.8886
+BAU,2046,Transport Demand Passenger Public,28.5374
+BAU,2047,Transport Demand Passenger Public,29.1959
+BAU,2048,Transport Demand Passenger Public,29.864
+BAU,2049,Transport Demand Passenger Public,30.5417
+BAU,2050,Transport Demand Passenger Public,31.2289
+BAU,2018,Transport Demand Passenger Private,25.746511373
+BAU,2019,Transport Demand Passenger Private,26.2379
+BAU,2020,Transport Demand Passenger Private,19.6873
+BAU,2021,Transport Demand Passenger Private,22.4006
+BAU,2022,Transport Demand Passenger Private,26.3207
+BAU,2023,Transport Demand Passenger Private,26.9837
+BAU,2024,Transport Demand Passenger Private,27.7252
+BAU,2025,Transport Demand Passenger Private,28.4818
+BAU,2026,Transport Demand Passenger Private,29.2536
+BAU,2027,Transport Demand Passenger Private,30.0406
+BAU,2028,Transport Demand Passenger Private,30.8431
+BAU,2029,Transport Demand Passenger Private,31.6612
+BAU,2030,Transport Demand Passenger Private,32.4948
+BAU,2031,Transport Demand Passenger Private,33.3442
+BAU,2032,Transport Demand Passenger Private,34.2094
+BAU,2033,Transport Demand Passenger Private,35.0905
+BAU,2034,Transport Demand Passenger Private,35.9876
+BAU,2035,Transport Demand Passenger Private,36.9007
+BAU,2036,Transport Demand Passenger Private,37.8299
+BAU,2037,Transport Demand Passenger Private,38.7753
+BAU,2038,Transport Demand Passenger Private,39.7369
+BAU,2039,Transport Demand Passenger Private,40.7147
+BAU,2040,Transport Demand Passenger Private,41.7087
+BAU,2041,Transport Demand Passenger Private,42.7191
+BAU,2042,Transport Demand Passenger Private,43.7457
+BAU,2043,Transport Demand Passenger Private,44.7887
+BAU,2044,Transport Demand Passenger Private,45.8479
+BAU,2045,Transport Demand Passenger Private,46.9234
+BAU,2046,Transport Demand Passenger Private,48.0151
+BAU,2047,Transport Demand Passenger Private,49.123
+BAU,2048,Transport Demand Passenger Private,50.2471
+BAU,2049,Transport Demand Passenger Private,51.3873
+BAU,2050,Transport Demand Passenger Private,52.5435
+BAU,2018,Transport Demand Passenger No Motorize,0
+BAU,2019,Transport Demand Passenger No Motorize,0
+BAU,2020,Transport Demand Passenger No Motorize,0
+BAU,2021,Transport Demand Passenger No Motorize,0
+BAU,2022,Transport Demand Passenger No Motorize,0
+BAU,2023,Transport Demand Passenger No Motorize,0
+BAU,2024,Transport Demand Passenger No Motorize,0
+BAU,2025,Transport Demand Passenger No Motorize,0
+BAU,2026,Transport Demand Passenger No Motorize,0
+BAU,2027,Transport Demand Passenger No Motorize,0
+BAU,2028,Transport Demand Passenger No Motorize,0
+BAU,2029,Transport Demand Passenger No Motorize,0
+BAU,2030,Transport Demand Passenger No Motorize,0
+BAU,2031,Transport Demand Passenger No Motorize,0
+BAU,2032,Transport Demand Passenger No Motorize,0
+BAU,2033,Transport Demand Passenger No Motorize,0
+BAU,2034,Transport Demand Passenger No Motorize,0
+BAU,2035,Transport Demand Passenger No Motorize,0
+BAU,2036,Transport Demand Passenger No Motorize,0
+BAU,2037,Transport Demand Passenger No Motorize,0
+BAU,2038,Transport Demand Passenger No Motorize,0
+BAU,2039,Transport Demand Passenger No Motorize,0
+BAU,2040,Transport Demand Passenger No Motorize,0
+BAU,2041,Transport Demand Passenger No Motorize,0
+BAU,2042,Transport Demand Passenger No Motorize,0
+BAU,2043,Transport Demand Passenger No Motorize,0
+BAU,2044,Transport Demand Passenger No Motorize,0
+BAU,2045,Transport Demand Passenger No Motorize,0
+BAU,2046,Transport Demand Passenger No Motorize,0
+BAU,2047,Transport Demand Passenger No Motorize,0
+BAU,2048,Transport Demand Passenger No Motorize,0
+BAU,2049,Transport Demand Passenger No Motorize,0
+BAU,2050,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2018,Transport Demand Passenger Public,15.3021
+PNE & PNETh,2019,Transport Demand Passenger Public,15.5927
+PNE & PNETh,2020,Transport Demand Passenger Public,11.7253
+PNE & PNETh,2021,Transport Demand Passenger Public,13.328
+PNE & PNETh,2022,Transport Demand Passenger Public,15.6416
+PNE & PNETh,2023,Transport Demand Passenger Public,16.0445
+PNE & PNETh,2024,Transport Demand Passenger Public,16.4869
+PNE & PNETh,2025,Transport Demand Passenger Public,16.946
+PNE & PNETh,2026,Transport Demand Passenger Public,17.4222
+PNE & PNETh,2027,Transport Demand Passenger Public,17.9142
+PNE & PNETh,2028,Transport Demand Passenger Public,18.4378
+PNE & PNETh,2029,Transport Demand Passenger Public,19.0026
+PNE & PNETh,2030,Transport Demand Passenger Public,19.6297
+PNE & PNETh,2031,Transport Demand Passenger Public,20.3434
+PNE & PNETh,2032,Transport Demand Passenger Public,21.1874
+PNE & PNETh,2033,Transport Demand Passenger Public,22.1973
+PNE & PNETh,2034,Transport Demand Passenger Public,23.4122
+PNE & PNETh,2035,Transport Demand Passenger Public,24.8294
+PNE & PNETh,2036,Transport Demand Passenger Public,26.3982
+PNE & PNETh,2037,Transport Demand Passenger Public,28.0187
+PNE & PNETh,2038,Transport Demand Passenger Public,29.5817
+PNE & PNETh,2039,Transport Demand Passenger Public,31.0233
+PNE & PNETh,2040,Transport Demand Passenger Public,32.3159
+PNE & PNETh,2041,Transport Demand Passenger Public,33.4784
+PNE & PNETh,2042,Transport Demand Passenger Public,34.5393
+PNE & PNETh,2043,Transport Demand Passenger Public,35.529
+PNE & PNETh,2044,Transport Demand Passenger Public,36.4749
+PNE & PNETh,2045,Transport Demand Passenger Public,37.3994
+PNE & PNETh,2046,Transport Demand Passenger Public,38.3107
+PNE & PNETh,2047,Transport Demand Passenger Public,39.2141
+PNE & PNETh,2048,Transport Demand Passenger Public,40.1214
+PNE & PNETh,2049,Transport Demand Passenger Public,41.0426
+PNE & PNETh,2050,Transport Demand Passenger Public,41.9702
+PNE & PNETh,2018,Transport Demand Passenger Private,25.7491
+PNE & PNETh,2019,Transport Demand Passenger Private,26.2406
+PNE & PNETh,2020,Transport Demand Passenger Private,19.6893
+PNE & PNETh,2021,Transport Demand Passenger Private,22.4028
+PNE & PNETh,2022,Transport Demand Passenger Private,26.3233
+PNE & PNETh,2023,Transport Demand Passenger Private,26.925
+PNE & PNETh,2024,Transport Demand Passenger Private,27.6379
+PNE & PNETh,2025,Transport Demand Passenger Private,28.3525
+PNE & PNETh,2026,Transport Demand Passenger Private,29.0617
+PNE & PNETh,2027,Transport Demand Passenger Private,29.7563
+PNE & PNETh,2028,Transport Demand Passenger Private,30.4223
+PNE & PNETh,2029,Transport Demand Passenger Private,31.039
+PNE & PNETh,2030,Transport Demand Passenger Private,31.5768
+PNE & PNETh,2031,Transport Demand Passenger Private,31.9974
+PNE & PNETh,2032,Transport Demand Passenger Private,32.2519
+PNE & PNETh,2033,Transport Demand Passenger Private,32.2894
+PNE & PNETh,2034,Transport Demand Passenger Private,32.0735
+PNE & PNETh,2035,Transport Demand Passenger Private,31.6091
+PNE & PNETh,2036,Transport Demand Passenger Private,30.9629
+PNE & PNETh,2037,Transport Demand Passenger Private,30.2576
+PNE & PNETh,2038,Transport Demand Passenger Private,29.6276
+PNE & PNETh,2039,Transport Demand Passenger Private,29.1698
+PNE & PNETh,2040,Transport Demand Passenger Private,28.9254
+PNE & PNETh,2041,Transport Demand Passenger Private,28.8898
+PNE & PNETh,2042,Transport Demand Passenger Private,29.0341
+PNE & PNETh,2043,Transport Demand Passenger Private,29.3231
+PNE & PNETh,2044,Transport Demand Passenger Private,29.7248
+PNE & PNETh,2045,Transport Demand Passenger Private,30.212
+PNE & PNETh,2046,Transport Demand Passenger Private,30.7643
+PNE & PNETh,2047,Transport Demand Passenger Private,31.3665
+PNE & PNETh,2048,Transport Demand Passenger Private,32.0073
+PNE & PNETh,2049,Transport Demand Passenger Private,32.6782
+PNE & PNETh,2050,Transport Demand Passenger Private,33.3738
+PNE & PNETh,2018,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2019,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2020,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2021,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2022,Transport Demand Passenger No Motorize,0
+PNE & PNETh,2023,Transport Demand Passenger No Motorize,0.0519
+PNE & PNETh,2024,Transport Demand Passenger No Motorize,0.074
+PNE & PNETh,2025,Transport Demand Passenger No Motorize,0.1054
+PNE & PNETh,2026,Transport Demand Passenger No Motorize,0.1498
+PNE & PNETh,2027,Transport Demand Passenger No Motorize,0.212
+PNE & PNETh,2028,Transport Demand Passenger No Motorize,0.2985
+PNE & PNETh,2029,Transport Demand Passenger No Motorize,0.4177
+PNE & PNETh,2030,Transport Demand Passenger No Motorize,0.5793
+PNE & PNETh,2031,Transport Demand Passenger No Motorize,0.7945
+PNE & PNETh,2032,Transport Demand Passenger No Motorize,1.0741
+PNE & PNETh,2033,Transport Demand Passenger No Motorize,1.4265
+PNE & PNETh,2034,Transport Demand Passenger No Motorize,1.8547
+PNE & PNETh,2035,Transport Demand Passenger No Motorize,2.3533
+PNE & PNETh,2036,Transport Demand Passenger No Motorize,2.907
+PNE & PNETh,2037,Transport Demand Passenger No Motorize,3.4926
+PNE & PNETh,2038,Transport Demand Passenger No Motorize,4.0827
+PNE & PNETh,2039,Transport Demand Passenger No Motorize,4.6522
+PNE & PNETh,2040,Transport Demand Passenger No Motorize,5.182
+PNE & PNETh,2041,Transport Demand Passenger No Motorize,5.6618
+PNE & PNETh,2042,Transport Demand Passenger No Motorize,6.0891
+PNE & PNETh,2043,Transport Demand Passenger No Motorize,6.467
+PNE & PNETh,2044,Transport Demand Passenger No Motorize,6.8019
+PNE & PNETh,2045,Transport Demand Passenger No Motorize,7.1013
+PNE & PNETh,2046,Transport Demand Passenger No Motorize,7.3727
+PNE & PNETh,2047,Transport Demand Passenger No Motorize,7.6226
+PNE & PNETh,2048,Transport Demand Passenger No Motorize,7.8565
+PNE & PNETh,2049,Transport Demand Passenger No Motorize,8.079
+PNE & PNETh,2050,Transport Demand Passenger No Motorize,8.2935

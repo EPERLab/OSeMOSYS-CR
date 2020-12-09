@@ -1,0 +1,133 @@
+﻿Strategy1,Year,Fuel1,Specified Annual Demand
+BAU,2018,Transport Demand Freight Light,6.318707201
+BAU,2019,Transport Demand Freight Light,6.4524
+BAU,2020,Transport Demand Freight Light,6.1253
+BAU,2021,Transport Demand Freight Light,6.2681
+BAU,2022,Transport Demand Freight Light,6.4272
+BAU,2023,Transport Demand Freight Light,6.6066
+BAU,2024,Transport Demand Freight Light,6.8078
+BAU,2025,Transport Demand Freight Light,7.0151
+BAU,2026,Transport Demand Freight Light,7.2287
+BAU,2027,Transport Demand Freight Light,7.4488
+BAU,2028,Transport Demand Freight Light,7.6756
+BAU,2029,Transport Demand Freight Light,7.9093
+BAU,2030,Transport Demand Freight Light,8.1502
+BAU,2031,Transport Demand Freight Light,8.3983
+BAU,2032,Transport Demand Freight Light,8.6541
+BAU,2033,Transport Demand Freight Light,8.9176
+BAU,2034,Transport Demand Freight Light,9.1891
+BAU,2035,Transport Demand Freight Light,9.4689
+BAU,2036,Transport Demand Freight Light,9.7573
+BAU,2037,Transport Demand Freight Light,10.0544
+BAU,2038,Transport Demand Freight Light,10.3605
+BAU,2039,Transport Demand Freight Light,10.676
+BAU,2040,Transport Demand Freight Light,11.0011
+BAU,2041,Transport Demand Freight Light,11.3361
+BAU,2042,Transport Demand Freight Light,11.6813
+BAU,2043,Transport Demand Freight Light,12.0369
+BAU,2044,Transport Demand Freight Light,12.4035
+BAU,2045,Transport Demand Freight Light,12.7812
+BAU,2046,Transport Demand Freight Light,13.1703
+BAU,2047,Transport Demand Freight Light,13.5714
+BAU,2048,Transport Demand Freight Light,13.9846
+BAU,2049,Transport Demand Freight Light,14.4105
+BAU,2050,Transport Demand Freight Light,14.8493
+BAU,2018,Transport Demand Freight Heavy,20.852289453
+BAU,2019,Transport Demand Freight Heavy,21.2933
+BAU,2020,Transport Demand Freight Heavy,20.2141
+BAU,2021,Transport Demand Freight Heavy,20.6854
+BAU,2022,Transport Demand Freight Heavy,21.2103
+BAU,2023,Transport Demand Freight Heavy,21.8024
+BAU,2024,Transport Demand Freight Heavy,22.4662
+BAU,2025,Transport Demand Freight Heavy,23.1503
+BAU,2026,Transport Demand Freight Heavy,23.8553
+BAU,2027,Transport Demand Freight Heavy,24.5817
+BAU,2028,Transport Demand Freight Heavy,25.3302
+BAU,2029,Transport Demand Freight Heavy,26.1015
+BAU,2030,Transport Demand Freight Heavy,26.8963
+BAU,2031,Transport Demand Freight Heavy,27.7152
+BAU,2032,Transport Demand Freight Heavy,28.5592
+BAU,2033,Transport Demand Freight Heavy,29.4288
+BAU,2034,Transport Demand Freight Heavy,30.3249
+BAU,2035,Transport Demand Freight Heavy,31.2483
+BAU,2036,Transport Demand Freight Heavy,32.1998
+BAU,2037,Transport Demand Freight Heavy,33.1803
+BAU,2038,Transport Demand Freight Heavy,34.1906
+BAU,2039,Transport Demand Freight Heavy,35.2317
+BAU,2040,Transport Demand Freight Heavy,36.3045
+BAU,2041,Transport Demand Freight Heavy,37.41
+BAU,2042,Transport Demand Freight Heavy,38.5492
+BAU,2043,Transport Demand Freight Heavy,39.723
+BAU,2044,Transport Demand Freight Heavy,40.9325
+BAU,2045,Transport Demand Freight Heavy,42.1789
+BAU,2046,Transport Demand Freight Heavy,43.4633
+BAU,2047,Transport Demand Freight Heavy,44.7867
+BAU,2048,Transport Demand Freight Heavy,46.1505
+BAU,2049,Transport Demand Freight Heavy,47.5558
+BAU,2050,Transport Demand Freight Heavy,49.0039
+PNE & PNETh,2018,Transport Demand Freight Light,6.3125
+PNE & PNETh,2019,Transport Demand Freight Light,6.4459
+PNE & PNETh,2020,Transport Demand Freight Light,6.1192
+PNE & PNETh,2021,Transport Demand Freight Light,6.2618
+PNE & PNETh,2022,Transport Demand Freight Light,6.4208
+PNE & PNETh,2023,Transport Demand Freight Light,6.5999
+PNE & PNETh,2024,Transport Demand Freight Light,6.801
+PNE & PNETh,2025,Transport Demand Freight Light,7.0082
+PNE & PNETh,2026,Transport Demand Freight Light,7.2215
+PNE & PNETh,2027,Transport Demand Freight Light,7.4413
+PNE & PNETh,2028,Transport Demand Freight Light,7.668
+PNE & PNETh,2029,Transport Demand Freight Light,7.9014
+PNE & PNETh,2030,Transport Demand Freight Light,8.142
+PNE & PNETh,2031,Transport Demand Freight Light,8.3899
+PNE & PNETh,2032,Transport Demand Freight Light,8.6454
+PNE & PNETh,2033,Transport Demand Freight Light,8.9087
+PNE & PNETh,2034,Transport Demand Freight Light,9.18
+PNE & PNETh,2035,Transport Demand Freight Light,9.4594
+PNE & PNETh,2036,Transport Demand Freight Light,9.7476
+PNE & PNETh,2037,Transport Demand Freight Light,10.0444
+PNE & PNETh,2038,Transport Demand Freight Light,10.3502
+PNE & PNETh,2039,Transport Demand Freight Light,10.6654
+PNE & PNETh,2040,Transport Demand Freight Light,10.9902
+PNE & PNETh,2041,Transport Demand Freight Light,11.3248
+PNE & PNETh,2042,Transport Demand Freight Light,11.6697
+PNE & PNETh,2043,Transport Demand Freight Light,12.025
+PNE & PNETh,2044,Transport Demand Freight Light,12.391
+PNE & PNETh,2045,Transport Demand Freight Light,12.7684
+PNE & PNETh,2046,Transport Demand Freight Light,13.1571
+PNE & PNETh,2047,Transport Demand Freight Light,13.5579
+PNE & PNETh,2048,Transport Demand Freight Light,13.9706
+PNE & PNETh,2049,Transport Demand Freight Light,14.3961
+PNE & PNETh,2050,Transport Demand Freight Light,14.8345
+PNE & PNETh,2018,Transport Demand Freight Heavy,20.8525
+PNE & PNETh,2019,Transport Demand Freight Heavy,21.2933
+PNE & PNETh,2020,Transport Demand Freight Heavy,20.2141
+PNE & PNETh,2021,Transport Demand Freight Heavy,20.6851
+PNE & PNETh,2022,Transport Demand Freight Heavy,21.2107
+PNE & PNETh,2023,Transport Demand Freight Heavy,21.802
+PNE & PNETh,2024,Transport Demand Freight Heavy,22.466
+PNE & PNETh,2025,Transport Demand Freight Heavy,23.1506
+PNE & PNETh,2026,Transport Demand Freight Heavy,23.8549
+PNE & PNETh,2027,Transport Demand Freight Heavy,24.5814
+PNE & PNETh,2028,Transport Demand Freight Heavy,25.3303
+PNE & PNETh,2029,Transport Demand Freight Heavy,26.1018
+PNE & PNETh,2030,Transport Demand Freight Heavy,26.8963
+PNE & PNETh,2031,Transport Demand Freight Heavy,27.715
+PNE & PNETh,2032,Transport Demand Freight Heavy,28.5595
+PNE & PNETh,2033,Transport Demand Freight Heavy,29.4288
+PNE & PNETh,2034,Transport Demand Freight Heavy,30.3245
+PNE & PNETh,2035,Transport Demand Freight Heavy,31.248
+PNE & PNETh,2036,Transport Demand Freight Heavy,32.1996
+PNE & PNETh,2037,Transport Demand Freight Heavy,33.1806
+PNE & PNETh,2038,Transport Demand Freight Heavy,34.1905
+PNE & PNETh,2039,Transport Demand Freight Heavy,35.2318
+PNE & PNETh,2040,Transport Demand Freight Heavy,36.3049
+PNE & PNETh,2041,Transport Demand Freight Heavy,37.4102
+PNE & PNETh,2042,Transport Demand Freight Heavy,38.5492
+PNE & PNETh,2043,Transport Demand Freight Heavy,39.7235
+PNE & PNETh,2044,Transport Demand Freight Heavy,40.9324
+PNE & PNETh,2045,Transport Demand Freight Heavy,42.1787
+PNE & PNETh,2046,Transport Demand Freight Heavy,43.4628
+PNE & PNETh,2047,Transport Demand Freight Heavy,44.7864
+PNE & PNETh,2048,Transport Demand Freight Heavy,46.151
+PNE & PNETh,2049,Transport Demand Freight Heavy,47.5562
+PNE & PNETh,2050,Transport Demand Freight Heavy,49.0036

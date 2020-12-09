@@ -1,0 +1,545 @@
+﻿Strategy1,Year,Technology1,Total Technology Annual Activity Lower Limit
+BAU,,Trucks,
+BAU,2020,Trucks,1.8113
+BAU,2021,Trucks,1.8535
+BAU,2018,Trucks,1.8685
+BAU,2019,Trucks,1.908
+BAU,2022,Trucks,1.9006
+BAU,2023,Trucks,1.9536
+BAU,2024,Trucks,2.0131
+BAU,2025,Trucks,2.0744
+BAU,2026,Trucks,2.1376
+BAU,2027,Trucks,2.2027
+BAU,2028,Trucks,2.2697
+BAU,2029,Trucks,2.3388
+BAU,2030,Trucks,2.4101
+BAU,2031,Trucks,2.4834
+BAU,2032,Trucks,2.5591
+BAU,2033,Trucks,2.637
+BAU,2034,Trucks,2.7173
+BAU,2035,Trucks,2.8
+BAU,2036,Trucks,2.8853
+BAU,2037,Trucks,2.9731
+BAU,2038,Trucks,3.0637
+BAU,2039,Trucks,3.157
+BAU,2040,Trucks,3.2531
+BAU,2041,Trucks,3.3522
+BAU,2042,Trucks,3.4542
+BAU,2043,Trucks,3.5594
+BAU,2044,Trucks,3.6678
+BAU,2045,Trucks,3.7795
+BAU,2046,Trucks,3.8946
+BAU,2047,Trucks,4.0131
+BAU,2048,Trucks,4.1353
+BAU,2049,Trucks,4.2613
+BAU,2050,Trucks,4.391
+BAU,,Taxis,
+BAU,2020,Taxis,0.4222
+BAU,2021,Taxis,0.4804
+BAU,2018,Taxis,0.5519
+BAU,2019,Taxis,0.5627
+BAU,2022,Taxis,0.5645
+BAU,2023,Taxis,0.5787
+BAU,2024,Taxis,0.5946
+BAU,2025,Taxis,0.6108
+BAU,2026,Taxis,0.6274
+BAU,2027,Taxis,0.6442
+BAU,2028,Taxis,0.6615
+BAU,2029,Taxis,0.679
+BAU,2030,Taxis,0.6969
+BAU,2031,Taxis,0.7151
+BAU,2032,Taxis,0.7336
+BAU,2033,Taxis,0.7525
+BAU,2034,Taxis,0.7718
+BAU,2035,Taxis,0.7914
+BAU,2036,Taxis,0.8113
+BAU,2037,Taxis,0.8316
+BAU,2038,Taxis,0.8522
+BAU,2039,Taxis,0.8732
+BAU,2040,Taxis,0.8945
+BAU,2041,Taxis,0.9161
+BAU,2042,Taxis,0.9382
+BAU,2043,Taxis,0.9605
+BAU,2044,Taxis,0.9832
+BAU,2045,Taxis,1.0063
+BAU,2046,Taxis,1.0297
+BAU,2047,Taxis,1.0535
+BAU,2048,Taxis,1.0776
+BAU,2049,Taxis,1.102
+BAU,2050,Taxis,1.1268
+BAU,,Motorcycles,
+BAU,2020,Motorcycles,2.5021
+BAU,2021,Motorcycles,2.8469
+BAU,2018,Motorcycles,3.2712
+BAU,2019,Motorcycles,3.3346
+BAU,2022,Motorcycles,3.3451
+BAU,2023,Motorcycles,3.4294
+BAU,2024,Motorcycles,3.5236
+BAU,2025,Motorcycles,3.6198
+BAU,2026,Motorcycles,3.7179
+BAU,2027,Motorcycles,3.8179
+BAU,2028,Motorcycles,3.9199
+BAU,2029,Motorcycles,4.0239
+BAU,2030,Motorcycles,4.1298
+BAU,2031,Motorcycles,4.2377
+BAU,2032,Motorcycles,4.3477
+BAU,2033,Motorcycles,4.4597
+BAU,2034,Motorcycles,4.5737
+BAU,2035,Motorcycles,4.6897
+BAU,2036,Motorcycles,4.8078
+BAU,2037,Motorcycles,4.928
+BAU,2038,Motorcycles,5.0502
+BAU,2039,Motorcycles,5.1745
+BAU,2040,Motorcycles,5.3008
+BAU,2041,Motorcycles,5.4292
+BAU,2042,Motorcycles,5.5597
+BAU,2043,Motorcycles,5.6922
+BAU,2044,Motorcycles,5.8269
+BAU,2045,Motorcycles,5.9635
+BAU,2046,Motorcycles,6.1023
+BAU,2047,Motorcycles,6.2431
+BAU,2048,Motorcycles,6.3859
+BAU,2049,Motorcycles,6.5309
+BAU,2050,Motorcycles,6.6778
+BAU,,Minibus,
+BAU,2020,Minibus,0.3062
+BAU,2021,Minibus,0.3484
+BAU,2018,Minibus,0.4004
+BAU,2019,Minibus,0.4081
+BAU,2022,Minibus,0.4094
+BAU,2023,Minibus,0.4197
+BAU,2024,Minibus,0.4312
+BAU,2025,Minibus,0.443
+BAU,2026,Minibus,0.455
+BAU,2027,Minibus,0.4672
+BAU,2028,Minibus,0.4797
+BAU,2029,Minibus,0.4924
+BAU,2030,Minibus,0.5054
+BAU,2031,Minibus,0.5186
+BAU,2032,Minibus,0.5321
+BAU,2033,Minibus,0.5458
+BAU,2034,Minibus,0.5597
+BAU,2035,Minibus,0.5739
+BAU,2036,Minibus,0.5884
+BAU,2037,Minibus,0.6031
+BAU,2038,Minibus,0.618
+BAU,2039,Minibus,0.6332
+BAU,2040,Minibus,0.6487
+BAU,2041,Minibus,0.6644
+BAU,2042,Minibus,0.6804
+BAU,2043,Minibus,0.6966
+BAU,2044,Minibus,0.7131
+BAU,2045,Minibus,0.7298
+BAU,2046,Minibus,0.7468
+BAU,2047,Minibus,0.764
+BAU,2048,Minibus,0.7815
+BAU,2049,Minibus,0.7992
+BAU,2050,Minibus,0.8172
+BAU,,Mini Trucks,
+BAU,2020,Mini Trucks,3.2932
+BAU,2021,Mini Trucks,3.3699
+BAU,2018,Mini Trucks,3.3972
+BAU,2019,Mini Trucks,3.469
+BAU,2022,Mini Trucks,3.4555
+BAU,2023,Mini Trucks,3.5519
+BAU,2024,Mini Trucks,3.6601
+BAU,2025,Mini Trucks,3.7716
+BAU,2026,Mini Trucks,3.8864
+BAU,2027,Mini Trucks,4.0047
+BAU,2028,Mini Trucks,4.1267
+BAU,2029,Mini Trucks,4.2523
+BAU,2030,Mini Trucks,4.3818
+BAU,2031,Mini Trucks,4.5152
+BAU,2032,Mini Trucks,4.6527
+BAU,2033,Mini Trucks,4.7944
+BAU,2034,Mini Trucks,4.9404
+BAU,2035,Mini Trucks,5.0908
+BAU,2036,Mini Trucks,5.2459
+BAU,2037,Mini Trucks,5.4056
+BAU,2038,Mini Trucks,5.5702
+BAU,2039,Mini Trucks,5.7398
+BAU,2040,Mini Trucks,5.9146
+BAU,2041,Mini Trucks,6.0947
+BAU,2042,Mini Trucks,6.2803
+BAU,2043,Mini Trucks,6.4715
+BAU,2044,Mini Trucks,6.6685
+BAU,2045,Mini Trucks,6.8716
+BAU,2046,Mini Trucks,7.0808
+BAU,2047,Mini Trucks,7.2965
+BAU,2048,Mini Trucks,7.5186
+BAU,2049,Mini Trucks,7.7476
+BAU,2050,Mini Trucks,7.9835
+BAU,,Light Duty Sedan SUV ,
+BAU,2020,Light Duty Sedan SUV ,3.7024
+BAU,2021,Light Duty Sedan SUV ,4.2127
+BAU,2018,Light Duty Sedan SUV ,4.8415
+BAU,2019,Light Duty Sedan SUV ,4.9344
+BAU,2022,Light Duty Sedan SUV ,4.9499
+BAU,2023,Light Duty Sedan SUV ,5.0746
+BAU,2024,Light Duty Sedan SUV ,5.2141
+BAU,2025,Light Duty Sedan SUV ,5.3564
+BAU,2026,Light Duty Sedan SUV ,5.5015
+BAU,2027,Light Duty Sedan SUV ,5.6495
+BAU,2028,Light Duty Sedan SUV ,5.8004
+BAU,2029,Light Duty Sedan SUV ,5.9543
+BAU,2030,Light Duty Sedan SUV ,6.1111
+BAU,2031,Light Duty Sedan SUV ,6.2708
+BAU,2032,Light Duty Sedan SUV ,6.4335
+BAU,2033,Light Duty Sedan SUV ,6.5992
+BAU,2034,Light Duty Sedan SUV ,6.7679
+BAU,2035,Light Duty Sedan SUV ,6.9396
+BAU,2036,Light Duty Sedan SUV ,7.1144
+BAU,2037,Light Duty Sedan SUV ,7.2922
+BAU,2038,Light Duty Sedan SUV ,7.473
+BAU,2039,Light Duty Sedan SUV ,7.6569
+BAU,2040,Light Duty Sedan SUV ,7.8438
+BAU,2041,Light Duty Sedan SUV ,8.0339
+BAU,2042,Light Duty Sedan SUV ,8.2269
+BAU,2043,Light Duty Sedan SUV ,8.4231
+BAU,2044,Light Duty Sedan SUV ,8.6223
+BAU,2045,Light Duty Sedan SUV ,8.8245
+BAU,2046,Light Duty Sedan SUV ,9.0298
+BAU,2047,Light Duty Sedan SUV ,9.2382
+BAU,2048,Light Duty Sedan SUV ,9.4496
+BAU,2049,Light Duty Sedan SUV ,9.664
+BAU,2050,Light Duty Sedan SUV ,9.8815
+BAU,,Light Duty Sedan,
+BAU,2020,Light Duty Sedan,7.3421
+BAU,2021,Light Duty Sedan,8.3539
+BAU,2018,Light Duty Sedan,9.6011
+BAU,2019,Light Duty Sedan,9.785
+BAU,2022,Light Duty Sedan,9.8159
+BAU,2023,Light Duty Sedan,10.0631
+BAU,2024,Light Duty Sedan,10.3397
+BAU,2025,Light Duty Sedan,10.6218
+BAU,2026,Light Duty Sedan,10.9096
+BAU,2027,Light Duty Sedan,11.2031
+BAU,2028,Light Duty Sedan,11.5024
+BAU,2029,Light Duty Sedan,11.8075
+BAU,2030,Light Duty Sedan,12.1184
+BAU,2031,Light Duty Sedan,12.4352
+BAU,2032,Light Duty Sedan,12.7578
+BAU,2033,Light Duty Sedan,13.0864
+BAU,2034,Light Duty Sedan,13.421
+BAU,2035,Light Duty Sedan,13.7615
+BAU,2036,Light Duty Sedan,14.108
+BAU,2037,Light Duty Sedan,14.4606
+BAU,2038,Light Duty Sedan,14.8192
+BAU,2039,Light Duty Sedan,15.1839
+BAU,2040,Light Duty Sedan,15.5546
+BAU,2041,Light Duty Sedan,15.9314
+BAU,2042,Light Duty Sedan,16.3142
+BAU,2043,Light Duty Sedan,16.7032
+BAU,2044,Light Duty Sedan,17.0982
+BAU,2045,Light Duty Sedan,17.4993
+BAU,2046,Light Duty Sedan,17.9064
+BAU,2047,Light Duty Sedan,18.3196
+BAU,2048,Light Duty Sedan,18.7388
+BAU,2049,Light Duty Sedan,19.164
+BAU,2050,Light Duty Sedan,19.5952
+BAU,,Bus,
+BAU,2020,Bus,0.3327
+BAU,2021,Bus,0.3786
+BAU,2018,Bus,0.4351
+BAU,2019,Bus,0.4434
+BAU,2022,Bus,0.4448
+BAU,2023,Bus,0.456
+BAU,2024,Bus,0.4685
+BAU,2025,Bus,0.4813
+BAU,2026,Bus,0.4944
+BAU,2027,Bus,0.5077
+BAU,2028,Bus,0.5212
+BAU,2029,Bus,0.535
+BAU,2030,Bus,0.5491
+BAU,2031,Bus,0.5635
+BAU,2032,Bus,0.5781
+BAU,2033,Bus,0.593
+BAU,2034,Bus,0.6082
+BAU,2035,Bus,0.6236
+BAU,2036,Bus,0.6393
+BAU,2037,Bus,0.6553
+BAU,2038,Bus,0.6715
+BAU,2039,Bus,0.688
+BAU,2040,Bus,0.7048
+BAU,2041,Bus,0.7219
+BAU,2042,Bus,0.7393
+BAU,2043,Bus,0.7569
+BAU,2044,Bus,0.7748
+BAU,2045,Bus,0.793
+BAU,2046,Bus,0.8114
+BAU,2047,Bus,0.8301
+BAU,2048,Bus,0.8491
+BAU,2049,Bus,0.8684
+BAU,2050,Bus,0.8879
+PNE & PNETh,,Trucks,
+PNE & PNETh,2020,Trucks,1.8113
+PNE & PNETh,2021,Trucks,1.8535
+PNE & PNETh,2018,Trucks,1.8685
+PNE & PNETh,2019,Trucks,1.908
+PNE & PNETh,2022,Trucks,1.9006
+PNE & PNETh,2023,Trucks,1.9466
+PNE & PNETh,2024,Trucks,1.9987
+PNE & PNETh,2025,Trucks,2.0522
+PNE & PNETh,2026,Trucks,2.107
+PNE & PNETh,2027,Trucks,2.1633
+PNE & PNETh,2028,Trucks,2.2211
+PNE & PNETh,2029,Trucks,2.2804
+PNE & PNETh,2030,Trucks,2.3412
+PNE & PNETh,2031,Trucks,2.4036
+PNE & PNETh,2032,Trucks,2.4677
+PNE & PNETh,2038,Trucks,2.8886
+PNE & PNETh,2033,Trucks,2.5334
+PNE & PNETh,2037,Trucks,2.8139
+PNE & PNETh,2039,Trucks,2.9653
+PNE & PNETh,2036,Trucks,2.741
+PNE & PNETh,2034,Trucks,2.6008
+PNE & PNETh,2035,Trucks,2.67
+PNE & PNETh,2040,Trucks,3.044
+PNE & PNETh,2041,Trucks,3.1247
+PNE & PNETh,2042,Trucks,3.2075
+PNE & PNETh,2043,Trucks,3.2925
+PNE & PNETh,2044,Trucks,3.3796
+PNE & PNETh,2045,Trucks,3.469
+PNE & PNETh,2046,Trucks,3.5607
+PNE & PNETh,2047,Trucks,3.6548
+PNE & PNETh,2048,Trucks,3.7514
+PNE & PNETh,2049,Trucks,3.8504
+PNE & PNETh,2050,Trucks,3.9519
+PNE & PNETh,,Taxis,
+PNE & PNETh,2020,Taxis,0.4225
+PNE & PNETh,2021,Taxis,0.4801
+PNE & PNETh,2018,Taxis,0.5524
+PNE & PNETh,2019,Taxis,0.563
+PNE & PNETh,2022,Taxis,0.5647
+PNE & PNETh,2023,Taxis,0.5794
+PNE & PNETh,2024,Taxis,0.5957
+PNE & PNETh,2025,Taxis,0.6124
+PNE & PNETh,2026,Taxis,0.5912
+PNE & PNETh,2027,Taxis,0.6075
+PNE & PNETh,2028,Taxis,0.6261
+PNE & PNETh,2029,Taxis,0.6463
+PNE & PNETh,2030,Taxis,0.6687
+PNE & PNETh,2031,Taxis,0.6943
+PNE & PNETh,2032,Taxis,0.7246
+PNE & PNETh,2038,Taxis,1.0285
+PNE & PNETh,2033,Taxis,0.7611
+PNE & PNETh,2037,Taxis,0.9716
+PNE & PNETh,2039,Taxis,1.0807
+PNE & PNETh,2036,Taxis,0.9129
+PNE & PNETh,2034,Taxis,0.8049
+PNE & PNETh,2035,Taxis,0.8561
+PNE & PNETh,2040,Taxis,1.1276
+PNE & PNETh,2041,Taxis,1.1697
+PNE & PNETh,2042,Taxis,1.2082
+PNE & PNETh,2043,Taxis,1.2441
+PNE & PNETh,2044,Taxis,1.2784
+PNE & PNETh,2045,Taxis,1.3119
+PNE & PNETh,2046,Taxis,1.345
+PNE & PNETh,2047,Taxis,1.3748
+PNE & PNETh,2048,Taxis,1.4078
+PNE & PNETh,2049,Taxis,1.441
+PNE & PNETh,2050,Taxis,1.4746
+PNE & PNETh,,Motorcycles,
+PNE & PNETh,2020,Motorcycles,2.5021
+PNE & PNETh,2021,Motorcycles,2.8469
+PNE & PNETh,2018,Motorcycles,3.2721
+PNE & PNETh,2019,Motorcycles,3.3346
+PNE & PNETh,2022,Motorcycles,3.3451
+PNE & PNETh,2023,Motorcycles,3.4216
+PNE & PNETh,2024,Motorcycles,3.5122
+PNE & PNETh,2025,Motorcycles,3.603
+PNE & PNETh,2026,Motorcycles,3.6931
+PNE & PNETh,2027,Motorcycles,3.7814
+PNE & PNETh,2028,Motorcycles,3.866
+PNE & PNETh,2029,Motorcycles,3.9444
+PNE & PNETh,2030,Motorcycles,4.0127
+PNE & PNETh,2031,Motorcycles,4.0662
+PNE & PNETh,2032,Motorcycles,4.0985
+PNE & PNETh,2038,Motorcycles,3.765
+PNE & PNETh,2033,Motorcycles,4.1033
+PNE & PNETh,2037,Motorcycles,3.8451
+PNE & PNETh,2039,Motorcycles,3.7068
+PNE & PNETh,2036,Motorcycles,3.9347
+PNE & PNETh,2034,Motorcycles,4.0758
+PNE & PNETh,2035,Motorcycles,4.0168
+PNE & PNETh,2040,Motorcycles,3.6758
+PNE & PNETh,2041,Motorcycles,3.6713
+PNE & PNETh,2042,Motorcycles,3.6896
+PNE & PNETh,2043,Motorcycles,3.7263
+PNE & PNETh,2044,Motorcycles,3.7774
+PNE & PNETh,2045,Motorcycles,3.8393
+PNE & PNETh,2046,Motorcycles,3.9095
+PNE & PNETh,2047,Motorcycles,3.986
+PNE & PNETh,2048,Motorcycles,4.0674
+PNE & PNETh,2049,Motorcycles,4.1527
+PNE & PNETh,2050,Motorcycles,4.2411
+PNE & PNETh,,Minibus,
+PNE & PNETh,2020,Minibus,0.3062
+PNE & PNETh,2021,Minibus,0.3484
+PNE & PNETh,2018,Minibus,0.4003
+PNE & PNETh,2019,Minibus,0.408
+PNE & PNETh,2022,Minibus,0.4093
+PNE & PNETh,2023,Minibus,0.42
+PNE & PNETh,2024,Minibus,0.4315
+PNE & PNETh,2025,Minibus,0.4437
+PNE & PNETh,2026,Minibus,0.4283
+PNE & PNETh,2027,Minibus,0.4409
+PNE & PNETh,2028,Minibus,0.4545
+PNE & PNETh,2029,Minibus,0.4691
+PNE & PNETh,2030,Minibus,0.4853
+PNE & PNETh,2031,Minibus,0.5037
+PNE & PNETh,2032,Minibus,0.5257
+PNE & PNETh,2038,Minibus,0.7455
+PNE & PNETh,2033,Minibus,0.5522
+PNE & PNETh,2037,Minibus,0.7046
+PNE & PNETh,2039,Minibus,0.7833
+PNE & PNETh,2036,Minibus,0.662
+PNE & PNETh,2034,Minibus,0.5837
+PNE & PNETh,2035,Minibus,0.6208
+PNE & PNETh,2040,Minibus,0.8173
+PNE & PNETh,2041,Minibus,0.8478
+PNE & PNETh,2042,Minibus,0.8757
+PNE & PNETh,2043,Minibus,0.9013
+PNE & PNETh,2044,Minibus,0.9262
+PNE & PNETh,2045,Minibus,0.9505
+PNE & PNETh,2046,Minibus,0.9745
+PNE & PNETh,2047,Minibus,0.9983
+PNE & PNETh,2048,Minibus,1.0218
+PNE & PNETh,2049,Minibus,1.046
+PNE & PNETh,2050,Minibus,1.0703
+PNE & PNETh,,Mini Trucks,
+PNE & PNETh,2020,Mini Trucks,3.2932
+PNE & PNETh,2021,Mini Trucks,3.3699
+PNE & PNETh,2018,Mini Trucks,3.3972
+PNE & PNETh,2019,Mini Trucks,3.469
+PNE & PNETh,2022,Mini Trucks,3.4555
+PNE & PNETh,2023,Mini Trucks,3.5519
+PNE & PNETh,2024,Mini Trucks,3.6601
+PNE & PNETh,2025,Mini Trucks,3.7716
+PNE & PNETh,2026,Mini Trucks,3.8864
+PNE & PNETh,2027,Mini Trucks,4.0047
+PNE & PNETh,2028,Mini Trucks,4.1267
+PNE & PNETh,2029,Mini Trucks,4.2523
+PNE & PNETh,2030,Mini Trucks,4.3818
+PNE & PNETh,2031,Mini Trucks,4.5152
+PNE & PNETh,2032,Mini Trucks,4.6527
+PNE & PNETh,2038,Mini Trucks,5.5702
+PNE & PNETh,2033,Mini Trucks,4.7944
+PNE & PNETh,2037,Mini Trucks,5.4056
+PNE & PNETh,2039,Mini Trucks,5.7398
+PNE & PNETh,2036,Mini Trucks,5.2459
+PNE & PNETh,2034,Mini Trucks,4.9404
+PNE & PNETh,2035,Mini Trucks,5.0908
+PNE & PNETh,2040,Mini Trucks,5.9146
+PNE & PNETh,2041,Mini Trucks,6.0947
+PNE & PNETh,2042,Mini Trucks,6.2803
+PNE & PNETh,2043,Mini Trucks,6.4715
+PNE & PNETh,2044,Mini Trucks,6.6685
+PNE & PNETh,2045,Mini Trucks,6.8716
+PNE & PNETh,2046,Mini Trucks,7.0808
+PNE & PNETh,2047,Mini Trucks,7.2965
+PNE & PNETh,2048,Mini Trucks,7.5186
+PNE & PNETh,2049,Mini Trucks,7.7476
+PNE & PNETh,2050,Mini Trucks,7.9835
+PNE & PNETh,,Light Duty Sedan SUV ,
+PNE & PNETh,2020,Light Duty Sedan SUV ,3.7024
+PNE & PNETh,2021,Light Duty Sedan SUV ,4.2127
+PNE & PNETh,2018,Light Duty Sedan SUV ,4.842
+PNE & PNETh,2019,Light Duty Sedan SUV ,4.9344
+PNE & PNETh,2022,Light Duty Sedan SUV ,4.9499
+PNE & PNETh,2023,Light Duty Sedan SUV ,5.0631
+PNE & PNETh,2024,Light Duty Sedan SUV ,5.1971
+PNE & PNETh,2025,Light Duty Sedan SUV ,5.3315
+PNE & PNETh,2026,Light Duty Sedan SUV ,5.4649
+PNE & PNETh,2027,Light Duty Sedan SUV ,5.5955
+PNE & PNETh,2028,Light Duty Sedan SUV ,5.7207
+PNE & PNETh,2029,Light Duty Sedan SUV ,5.8367
+PNE & PNETh,2030,Light Duty Sedan SUV ,5.9378
+PNE & PNETh,2031,Light Duty Sedan SUV ,6.0169
+PNE & PNETh,2032,Light Duty Sedan SUV ,6.0648
+PNE & PNETh,2038,Light Duty Sedan SUV ,5.5713
+PNE & PNETh,2033,Light Duty Sedan SUV ,6.0718
+PNE & PNETh,2037,Light Duty Sedan SUV ,5.6898
+PNE & PNETh,2039,Light Duty Sedan SUV ,5.4852
+PNE & PNETh,2036,Light Duty Sedan SUV ,5.8224
+PNE & PNETh,2034,Light Duty Sedan SUV ,6.0312
+PNE & PNETh,2035,Light Duty Sedan SUV ,5.9439
+PNE & PNETh,2040,Light Duty Sedan SUV ,5.4392
+PNE & PNETh,2041,Light Duty Sedan SUV ,5.4325
+PNE & PNETh,2042,Light Duty Sedan SUV ,5.4597
+PNE & PNETh,2043,Light Duty Sedan SUV ,5.514
+PNE & PNETh,2044,Light Duty Sedan SUV ,5.5896
+PNE & PNETh,2045,Light Duty Sedan SUV ,5.6812
+PNE & PNETh,2046,Light Duty Sedan SUV ,5.785
+PNE & PNETh,2047,Light Duty Sedan SUV ,5.8983
+PNE & PNETh,2048,Light Duty Sedan SUV ,6.0188
+PNE & PNETh,2049,Light Duty Sedan SUV ,6.1449
+PNE & PNETh,2050,Light Duty Sedan SUV ,6.2757
+PNE & PNETh,,Light Duty Sedan,
+PNE & PNETh,2020,Light Duty Sedan,7.3421
+PNE & PNETh,2021,Light Duty Sedan,8.3539
+PNE & PNETh,2018,Light Duty Sedan,9.6017
+PNE & PNETh,2019,Light Duty Sedan,9.785
+PNE & PNETh,2022,Light Duty Sedan,9.8159
+PNE & PNETh,2023,Light Duty Sedan,10.0402
+PNE & PNETh,2024,Light Duty Sedan,10.3061
+PNE & PNETh,2025,Light Duty Sedan,10.5725
+PNE & PNETh,2026,Light Duty Sedan,10.837
+PNE & PNETh,2027,Light Duty Sedan,11.096
+PNE & PNETh,2028,Light Duty Sedan,11.3444
+PNE & PNETh,2029,Light Duty Sedan,11.5743
+PNE & PNETh,2030,Light Duty Sedan,11.7749
+PNE & PNETh,2031,Light Duty Sedan,11.9317
+PNE & PNETh,2032,Light Duty Sedan,12.0266
+PNE & PNETh,2038,Light Duty Sedan,11.048
+PNE & PNETh,2033,Light Duty Sedan,12.0406
+PNE & PNETh,2037,Light Duty Sedan,11.2829
+PNE & PNETh,2039,Light Duty Sedan,10.8773
+PNE & PNETh,2036,Light Duty Sedan,11.5459
+PNE & PNETh,2034,Light Duty Sedan,11.9601
+PNE & PNETh,2035,Light Duty Sedan,11.7869
+PNE & PNETh,2040,Light Duty Sedan,10.7862
+PNE & PNETh,2041,Light Duty Sedan,10.7729
+PNE & PNETh,2042,Light Duty Sedan,10.8267
+PNE & PNETh,2043,Light Duty Sedan,10.9345
+PNE & PNETh,2044,Light Duty Sedan,11.0842
+PNE & PNETh,2045,Light Duty Sedan,11.2659
+PNE & PNETh,2046,Light Duty Sedan,11.4719
+PNE & PNETh,2047,Light Duty Sedan,11.6964
+PNE & PNETh,2048,Light Duty Sedan,11.9354
+PNE & PNETh,2049,Light Duty Sedan,12.1856
+PNE & PNETh,2050,Light Duty Sedan,12.445
+PNE & PNETh,,Bus,
+PNE & PNETh,2020,Bus,0.3327
+PNE & PNETh,2021,Bus,0.3786
+PNE & PNETh,2018,Bus,0.4351
+PNE & PNETh,2019,Bus,0.4434
+PNE & PNETh,2022,Bus,0.4448
+PNE & PNETh,2023,Bus,0.4563
+PNE & PNETh,2024,Bus,0.469
+PNE & PNETh,2025,Bus,0.4821
+PNE & PNETh,2026,Bus,0.4654
+PNE & PNETh,2027,Bus,0.4792
+PNE & PNETh,2028,Bus,0.4938
+PNE & PNETh,2029,Bus,0.5096
+PNE & PNETh,2030,Bus,0.5272
+PNE & PNETh,2031,Bus,0.5473
+PNE & PNETh,2032,Bus,0.5712
+PNE & PNETh,2038,Bus,0.8101
+PNE & PNETh,2033,Bus,0.5998
+PNE & PNETh,2037,Bus,0.7655
+PNE & PNETh,2039,Bus,0.8512
+PNE & PNETh,2036,Bus,0.7193
+PNE & PNETh,2034,Bus,0.6344
+PNE & PNETh,2035,Bus,0.6747
+PNE & PNETh,2040,Bus,0.888
+PNE & PNETh,2041,Bus,0.9211
+PNE & PNETh,2042,Bus,0.9513
+PNE & PNETh,2043,Bus,0.9796
+PNE & PNETh,2044,Bus,1.0065
+PNE & PNETh,2045,Bus,1.0328
+PNE & PNETh,2046,Bus,1.0587
+PNE & PNETh,2047,Bus,1.0845
+PNE & PNETh,2048,Bus,1.1104
+PNE & PNETh,2049,Bus,1.1366
+PNE & PNETh,2050,Bus,1.163
