@@ -53,7 +53,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Demand absorbed by TELCA and Logistic:** The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same linear reduction, but with 2022 and 2030 as transition years. Figure 4.5 shows the reduction in the demand. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050      
 
-.. figure:: img/FreightDemandReduction.png
+.. figure:: img/ActivityElectricLighduty.png
    :align:   center
    :width:   700 px
    
@@ -63,7 +63,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Low carbon technologies:** Similar to the above, there are no absolute values for the transition. In this context, we use the reference value of emission (in cargo) of 2018 and define a linear constraint of emissions from 2022 to 2050, limiting the emission from 0% to -20% and -70%, according to the scenario. The model optimizes under this constraint. Figure 4.6 shows this limit from the *Annual Emission Limit* parameter. 
 
-.. figure:: img/CargoEmissionLimit.png
+.. figure:: img/FreightDemandReduction.png
    :align:   center
    :width:   700 px
    
