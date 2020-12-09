@@ -1,3 +1,6 @@
+
+
+
 4. Energy model: Scenario building
 =======================================
 
@@ -23,15 +26,15 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Mode shift between public and private passengers demands:** OSeMOSYS-CR uses changes in the levels of activity from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. Figure 4.2 shows how this is incorporated in the model with the *Total Technology Annual Activity LowerLimit* parameter. 
 
-.. figure:: img/PublicPrivateActivities.png
+.. figure:: img/AnnualAcitivtyLowerLimit_ModeShift_PNE
    :align:   center
    :width:   700 px
    
-   *Figure 4.2: Mode shift from public to private transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/ModeShift.csv>`
+   *Figure 4.2: Mode shift from private to public transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/ModeShift.csv>`
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by a linear reduction of the demand in private and public transport from 2022 to 2050, and an increasing demand of non-motorized mobility. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. Figure 4.3 presents this changes in the demand from the *Specified Annual Demand* parameter. 
 
-.. figure:: img/DemandReduction.png
+.. figure:: img/SpecifiedAnnualDemand_PNE_Transports.png
    :align:   center
    :width:   700 px
    
