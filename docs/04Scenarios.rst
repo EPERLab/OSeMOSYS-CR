@@ -26,7 +26,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Mode shift between public and private passengers demands:** OSeMOSYS-CR uses changes in the levels of activity from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. Figure 4.2 shows how this is incorporated in the model with the *Total Technology Annual Activity LowerLimit* parameter. 
 
-.. figure:: img/AnnualAcitivtyLowerLimit_ModeShift_PNE
+.. figure:: img/AnnualAcitivtyLowerLimit_ModeShift_PNE.png
    :align:   center
    :width:   700 px
    
