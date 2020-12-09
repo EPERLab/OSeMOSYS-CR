@@ -30,7 +30,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.2: Mode shift from private to public transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/ModeShift.csv>`
+   *Figure 4.2: Mode shift from private to public transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/AnnualAcitivtyLowerLimit_PNE.csv>`
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by a linear reduction of the demand in private and public transport from 2022 to 2050, and an increasing demand of non-motorized mobility. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. Figure 4.3 presents this changes in the demand from the *Specified Annual Demand* parameter. 
 
@@ -42,11 +42,11 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2035, and 2050. The procedure consists of introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
 
-.. figure:: img/ActivityElectricLighduty.png
+.. figure:: img/SpecifiedAnnualDemandCargo_PNE.png
    :align:   center
    :width:   700 px
    
-   *Figure 4.4: Increasing activity of light-duty electric vehicles* :download:`. <doc_imgs/LightDuryActivity.csv>`
+   *Figure 4.4: Increasing activity of light-duty electric vehicles* :download:`. <doc_imgs/SpecifiedAnnualDemandCargo_PNE.csv>`
 
 4.2 Cargo Transport
 +++++++++
