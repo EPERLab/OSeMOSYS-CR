@@ -42,7 +42,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2035, and 2050. The procedure consists of introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
 
-.. figure:: img/ActivityElectricLighduty.png
+.. figure:: img/ActivityElectricLighduty_PNE.png
    :align:   center
    :width:   700 px
    
