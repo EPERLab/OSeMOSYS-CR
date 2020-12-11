@@ -305,7 +305,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 .. figure::  img/ResiduaL_Capacity_Transport_DDPLAC.png
    :align:   center
    
-   *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport* :download:`. <doc_imgs/ResidualCapacity.csv>` 
+   *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport* :download:`. <doc_imgs/Capacity_Transport_DDPLAC.csv>` 
 
 3.4.5 Input Activity Ratio
 ---------
