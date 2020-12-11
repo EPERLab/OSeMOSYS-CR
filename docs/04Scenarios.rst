@@ -27,7 +27,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.2: Mode shift from public to private transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/ModeShift.csv>`
+   *Figure 4.2: Mode shift from public to private transport technologies in OSeMOSYS-CR* :download:`. <doc_imgs/AnnualAcitivtyLowerLimit_ModeShift_DDPLAC.csv>`
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by a linear reduction of the demand in private and public transport from 2022 to 2050, and an increasing demand of non-motorized mobility. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. Figure 4.3 presents this changes in the demand from the *Specified Annual Demand* parameter. 
 
@@ -35,7 +35,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.3: Changes in the demand in BAU, SR15 and SR20 scenarios* :download:`. <doc_imgs/Transport Demand_Scenarios.csv>`
+   *Figure 4.3: Changes in the demand in BAU, SR15 and SR20 scenarios* :download:`. <doc_imgs/SpecifiedAnnualDemand_DDPLAC_Transports.csv>`
 
 * **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2035, and 2050. The procedure consists of introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
 
@@ -43,18 +43,18 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.4: Increasing activity of light-duty electric vehicles* :download:`. <doc_imgs/LightDuryActivity.csv>`
+   *Figure 4.4: Increasing activity of light-duty electric vehicles* :download:`. <doc_imgs/ActivityElectricLighduty_DDPLAC.csv>`
 
 4.2 Cargo Transport
 +++++++++
 
 * **Demand absorbed by TELCA and Logistic:** The TELCA began to absorb demand for heavy freight linearly from 2022 to 2024, in which the electric train reaches a maximum value of 10% through 2050. The logistic actions reduce the light freight demand, and we use the same linear reduction, but with 2022 and 2030 as transition years. Figure 4.5 shows the reduction in the demand. In both cases, the capital cost is introduced linearly in the transition years. Fixed costs also increase in the transition period to the maximum rate, which remains until 2050      
 
-.. figure:: img/FreightDemandReduction.png
+.. figure:: img/SpecifiedAnnualDemand_Cargo_DDPLAC.png
    :align:   center
    :width:   700 px
    
-   *Figure 4.5: Reduction of the freight demand* :download:`. <doc_imgs/FreightDemand_Scenarios.csv>`
+   *Figure 4.5: Reduction of the freight demand* :download:`. <doc_imgs/SpecifiedAnnualDemand_Cargo_DDPLAC.csv>`
 
 * **Use of LPG:** Considering the uncertainty in cargo transport related to low-carbon technologies, the stakeholders consider this as an alternative. It is modelled as a maximum value of activity from 0% to 20% between 2022 and 2050.
 
