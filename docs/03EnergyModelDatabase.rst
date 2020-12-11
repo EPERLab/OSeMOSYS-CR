@@ -246,7 +246,7 @@ The capacity factor is mainly used for representing electricity generation. In t
    :align:   center
    :width:   700 px
     
-   *Figure 3.4: Capacity factor for plants* :download:`. <doc_imgs/CapacityFactor.csv>`  
+   *Figure 3.4: Capacity factor for plants* :download:`. <doc_imgs/CapacityFactor_DDPLAC.csv>`  
    
 3.4.3 Availability Factor
 ---------
@@ -298,7 +298,7 @@ The residual capacity expresses the capacity that already exists in the first ye
    :align:   center
    :width:   700 px
    
-   *Figure 3.5: Installed capacity in the Costa Rican power system (based on CENCE)* :download:`. <doc_imgs/InstalledCapacity.csv>` 
+   *Figure 3.5: Installed capacity in the Costa Rican power system (based on CENCE)* :download:`. <doc_imgs/Installed_Capacity_DDPLAC.csv>` 
    
 * Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 3.6 presents how the capacity of the current fleet is reduced over the years.   
 
