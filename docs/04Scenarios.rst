@@ -23,7 +23,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Mode shift between public and private passengers demands:** OSeMOSYS-CR uses changes in the levels of activity from private to public transport with a target by 2050. Load factors, distances, and efficiencies are similar to BAU. Figure 4.2 shows how this is incorporated in the model with the *Total Technology Annual Activity LowerLimit* parameter. 
 
-.. figure:: img/PublicPrivateActivities.png
+.. figure:: img/AnnualAcitivtyLowerLimit_ModeShift_DDPLAC.png
    :align:   center
    :width:   700 px
    
@@ -31,7 +31,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Non-motorized mobility and digitalization:** The transition is carried out by a linear reduction of the demand in private and public transport from 2022 to 2050, and an increasing demand of non-motorized mobility. The cost of the infrastructure was embedded with the mode shift. In terms of the digitalization, we do not consider costs due to the existing and growing communication infrastructure of the country. Figure 4.3 presents this changes in the demand from the *Specified Annual Demand* parameter. 
 
-.. figure:: img/DemandReduction.png
+.. figure:: img/SpecifiedAnnualDemand_DDPLAC_Transports.png
    :align:   center
    :width:   700 px
    
@@ -39,7 +39,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
 
 * **Electrification private and public sectors:** Similar to the mode shift, we parametrized an adoption curve considering targets by 2035, and 2050. The procedure consists of introducing a level of activity for low-carbon technologies while the proportions of the other groups of technologies are kept proportional to the base year. Figure 4.4 shows the case of Light-duty electrical vehicles.
 
-.. figure:: img/ActivityElectricLighduty.png
+.. figure:: img/ActivityElectricLighduty_DDPLAC.png
    :align:   center
    :width:   700 px
    
