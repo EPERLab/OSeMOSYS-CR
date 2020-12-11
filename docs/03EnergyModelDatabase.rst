@@ -242,7 +242,7 @@ For other sectors, we assume a default value equal to 1, as the calculation is r
 
 The capacity factor is mainly used for representing electricity generation. In this case, historical data from 2011 to 2017 was the base to define the average value for every group of plants. Figure 3.4 shows the values of capacity factors for different power plants. For solar and wind power plants another possibility is to use some tools like renewable ninja. 
 
-.. figure::  img/CapacityFactor.png
+.. figure::  img/CapacityFactor_DDPLAC.png
    :align:   center
    :width:   700 px
     
@@ -294,7 +294,7 @@ The residual capacity expresses the capacity that already exists in the first ye
 
 * Electricity sector: As the most relevant plants in Costa Rica (especially Hydropower) have been recently improved in order to extend their operational life, the existing capacity in 2018 does not decrease through all the period of analysis. Figure 3.5 shows the reference values for 2018.
 
-.. figure::  img/InstalledCapacity2018.png
+.. figure::  img/Installed_Capacity_DDPLAC.png
    :align:   center
    :width:   700 px
    
@@ -302,7 +302,7 @@ The residual capacity expresses the capacity that already exists in the first ye
    
 * Transport sector: This calculation was made taking into account the vehicle fleet in 2015, the transport demand by sector and a decreasing number of vehicles proportional to the operational life. Figure 3.6 presents how the capacity of the current fleet is reduced over the years.   
 
-.. figure::  img/ResidualCapacityT.png
+.. figure::  img/ResiduaL_Capacity_Transport_DDPLAC.png
    :align:   center
    
    *Figure 3.6: Residual capacities for (a) public, (b) private and (c) cargo transport* :download:`. <doc_imgs/ResidualCapacity.csv>` 
