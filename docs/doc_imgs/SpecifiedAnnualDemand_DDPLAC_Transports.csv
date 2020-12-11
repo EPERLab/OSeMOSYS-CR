@@ -1,0 +1,217 @@
+﻿Strategy1,Year1,Fuel1,Specified Annual Demand
+BAU,2015,Transport Demand Passenger Public,3174.5198
+BAU,2016,Transport Demand Passenger Public,3310.335100000
+BAU,2017,Transport Demand Passenger Public,3401.167600000
+BAU,2018,Transport Demand Passenger Public,3485.4664
+BAU,2019,Transport Demand Passenger Public,3573.523700000
+BAU,2020,Transport Demand Passenger Public,3663.934500000
+BAU,2021,Transport Demand Passenger Public,3745.782
+BAU,2022,Transport Demand Passenger Public,3833.7997
+BAU,2023,Transport Demand Passenger Public,3923.1174
+BAU,2024,Transport Demand Passenger Public,4008.2731
+BAU,2025,Transport Demand Passenger Public,4096.3864
+BAU,2026,Transport Demand Passenger Public,4185.4147
+BAU,2027,Transport Demand Passenger Public,4268.515
+BAU,2028,Transport Demand Passenger Public,4352.251
+BAU,2029,Transport Demand Passenger Public,4443.5541
+BAU,2030,Transport Demand Passenger Public,4531.323
+BAU,2031,Transport Demand Passenger Public,4619.1507
+BAU,2032,Transport Demand Passenger Public,4703.2159
+BAU,2033,Transport Demand Passenger Public,4791.5831
+BAU,2034,Transport Demand Passenger Public,4882.1536
+BAU,2035,Transport Demand Passenger Public,4965.5532
+BAU,2036,Transport Demand Passenger Public,5050.2657
+BAU,2037,Transport Demand Passenger Public,5138.7356
+BAU,2038,Transport Demand Passenger Public,5226.7092
+BAU,2039,Transport Demand Passenger Public,5317.5408
+BAU,2040,Transport Demand Passenger Public,5400.8358
+BAU,2041,Transport Demand Passenger Public,5487.9108
+BAU,2042,Transport Demand Passenger Public,5576.6238
+BAU,2043,Transport Demand Passenger Public,5667.4598
+BAU,2044,Transport Demand Passenger Public,5747.6576
+BAU,2045,Transport Demand Passenger Public,5835.8411
+BAU,2046,Transport Demand Passenger Public,5923.3282
+BAU,2047,Transport Demand Passenger Public,6012.221
+BAU,2048,Transport Demand Passenger Public,6098.0333
+BAU,2049,Transport Demand Passenger Public,6185.3857
+BAU,2050,Transport Demand Passenger Public,6273.8807
+BAU,2015,Transport Demand Passenger Private,4938.51
+BAU,2016,Transport Demand Passenger Private,5205.860000000
+BAU,2017,Transport Demand Passenger Private,5364.61
+BAU,2018,Transport Demand Passenger Private,5523.420000000
+BAU,2019,Transport Demand Passenger Private,5680.180000000
+BAU,2020,Transport Demand Passenger Private,5838.97
+BAU,2021,Transport Demand Passenger Private,5997.740000000
+BAU,2022,Transport Demand Passenger Private,6156.53
+BAU,2023,Transport Demand Passenger Private,6313.3243
+BAU,2024,Transport Demand Passenger Private,6472.0883
+BAU,2025,Transport Demand Passenger Private,6630.799
+BAU,2026,Transport Demand Passenger Private,6789.5668
+BAU,2027,Transport Demand Passenger Private,6946.2713
+BAU,2028,Transport Demand Passenger Private,7105.0128
+BAU,2029,Transport Demand Passenger Private,7263.715
+BAU,2030,Transport Demand Passenger Private,7422.4815
+BAU,2031,Transport Demand Passenger Private,7579.1766
+BAU,2032,Transport Demand Passenger Private,7737.8664
+BAU,2033,Transport Demand Passenger Private,7896.5422
+BAU,2034,Transport Demand Passenger Private,8053.2617
+BAU,2035,Transport Demand Passenger Private,8211.9293
+BAU,2036,Transport Demand Passenger Private,8370.5966
+BAU,2037,Transport Demand Passenger Private,8529.3228
+BAU,2038,Transport Demand Passenger Private,8685.9888
+BAU,2039,Transport Demand Passenger Private,8844.6144
+BAU,2040,Transport Demand Passenger Private,9003.2544
+BAU,2041,Transport Demand Passenger Private,9161.9027
+BAU,2042,Transport Demand Passenger Private,9318.4975
+BAU,2043,Transport Demand Passenger Private,9477.2142
+BAU,2044,Transport Demand Passenger Private,9635.8107
+BAU,2045,Transport Demand Passenger Private,9794.4294
+BAU,2046,Transport Demand Passenger Private,9951.0327
+BAU,2047,Transport Demand Passenger Private,10109.6786
+BAU,2048,Transport Demand Passenger Private,10268.2695
+BAU,2049,Transport Demand Passenger Private,10424.8218
+BAU,2050,Transport Demand Passenger Private,10583.4302
+BAU,2015,Transport Demand Passenger No Motorize,0
+BAU,2016,Transport Demand Passenger No Motorize,0
+BAU,2017,Transport Demand Passenger No Motorize,0
+BAU,2018,Transport Demand Passenger No Motorize,0
+BAU,2019,Transport Demand Passenger No Motorize,0
+BAU,2020,Transport Demand Passenger No Motorize,0
+BAU,2021,Transport Demand Passenger No Motorize,0
+BAU,2022,Transport Demand Passenger No Motorize,0
+BAU,2023,Transport Demand Passenger No Motorize,0
+BAU,2024,Transport Demand Passenger No Motorize,0
+BAU,2025,Transport Demand Passenger No Motorize,0
+BAU,2026,Transport Demand Passenger No Motorize,0
+BAU,2027,Transport Demand Passenger No Motorize,0
+BAU,2028,Transport Demand Passenger No Motorize,0
+BAU,2029,Transport Demand Passenger No Motorize,0
+BAU,2030,Transport Demand Passenger No Motorize,0
+BAU,2031,Transport Demand Passenger No Motorize,0
+BAU,2032,Transport Demand Passenger No Motorize,0
+BAU,2033,Transport Demand Passenger No Motorize,0
+BAU,2034,Transport Demand Passenger No Motorize,0
+BAU,2035,Transport Demand Passenger No Motorize,0
+BAU,2036,Transport Demand Passenger No Motorize,0
+BAU,2037,Transport Demand Passenger No Motorize,0
+BAU,2038,Transport Demand Passenger No Motorize,0
+BAU,2039,Transport Demand Passenger No Motorize,0
+BAU,2040,Transport Demand Passenger No Motorize,0
+BAU,2041,Transport Demand Passenger No Motorize,0
+BAU,2042,Transport Demand Passenger No Motorize,0
+BAU,2043,Transport Demand Passenger No Motorize,0
+BAU,2044,Transport Demand Passenger No Motorize,0
+BAU,2045,Transport Demand Passenger No Motorize,0
+BAU,2046,Transport Demand Passenger No Motorize,0
+BAU,2047,Transport Demand Passenger No Motorize,0
+BAU,2048,Transport Demand Passenger No Motorize,0
+BAU,2049,Transport Demand Passenger No Motorize,0
+BAU,2050,Transport Demand Passenger No Motorize,0
+NDP,2015,Transport Demand Passenger Public,3175.4749
+NDP,2016,Transport Demand Passenger Public,3311.0302
+NDP,2017,Transport Demand Passenger Public,3401.640000000
+NDP,2018,Transport Demand Passenger Public,3486.0601
+NDP,2019,Transport Demand Passenger Public,3574.319200000
+NDP,2020,Transport Demand Passenger Public,3664.789200000
+NDP,2021,Transport Demand Passenger Public,3746.4757
+NDP,2022,Transport Demand Passenger Public,3834.3127
+NDP,2023,Transport Demand Passenger Public,3936.8839
+NDP,2024,Transport Demand Passenger Public,4021.2817
+NDP,2025,Transport Demand Passenger Public,4109.6173
+NDP,2026,Transport Demand Passenger Public,4076.9647
+NDP,2027,Transport Demand Passenger Public,4164.8604
+NDP,2028,Transport Demand Passenger Public,4256.1078
+NDP,2029,Transport Demand Passenger Public,4360.0873
+NDP,2030,Transport Demand Passenger Public,4466.0019
+NDP,2031,Transport Demand Passenger Public,4578.7461
+NDP,2032,Transport Demand Passenger Public,4696.5962
+NDP,2033,Transport Demand Passenger Public,4827.892
+NDP,2034,Transport Demand Passenger Public,4971.7599
+NDP,2035,Transport Demand Passenger Public,5118.5134
+NDP,2036,Transport Demand Passenger Public,5275.3709
+NDP,2037,Transport Demand Passenger Public,5444.2099
+NDP,2038,Transport Demand Passenger Public,5617.7391
+NDP,2039,Transport Demand Passenger Public,5797.6747
+NDP,2040,Transport Demand Passenger Public,5971.4013
+NDP,2041,Transport Demand Passenger Public,6146.1213
+NDP,2042,Transport Demand Passenger Public,6318.2012
+NDP,2043,Transport Demand Passenger Public,6485.9614
+NDP,2044,Transport Demand Passenger Public,6635.0702
+NDP,2045,Transport Demand Passenger Public,6782.6156
+NDP,2046,Transport Demand Passenger Public,6919.566
+NDP,2047,Transport Demand Passenger Public,7047.2195
+NDP,2048,Transport Demand Passenger Public,7164.1804
+NDP,2049,Transport Demand Passenger Public,7274.9306
+NDP,2050,Transport Demand Passenger Public,7381.6731
+NDP,2015,Transport Demand Passenger Private,4937.97
+NDP,2016,Transport Demand Passenger Private,5204.9774
+NDP,2017,Transport Demand Passenger Private,5363.750000000
+NDP,2018,Transport Demand Passenger Private,5522.68
+NDP,2019,Transport Demand Passenger Private,5679.7
+NDP,2020,Transport Demand Passenger Private,5838.389900000
+NDP,2021,Transport Demand Passenger Private,5997.08
+NDP,2022,Transport Demand Passenger Private,6155.77
+NDP,2023,Transport Demand Passenger Private,6275.9351
+NDP,2024,Transport Demand Passenger Private,6415.03
+NDP,2025,Transport Demand Passenger Private,6551.0023
+NDP,2026,Transport Demand Passenger Private,6807.8797
+NDP,2027,Transport Demand Passenger Private,6935.6173
+NDP,2028,Transport Demand Passenger Private,7058.6092
+NDP,2029,Transport Demand Passenger Private,7175.57
+NDP,2030,Transport Demand Passenger Private,7283.897
+NDP,2031,Transport Demand Passenger Private,7380.0881
+NDP,2032,Transport Demand Passenger Private,7466.83
+NDP,2033,Transport Demand Passenger Private,7540.2479
+NDP,2034,Transport Demand Passenger Private,7598.7263
+NDP,2035,Transport Demand Passenger Private,7644.7606
+NDP,2036,Transport Demand Passenger Private,7676.9556
+NDP,2037,Transport Demand Passenger Private,7696.2908
+NDP,2038,Transport Demand Passenger Private,7703.9377
+NDP,2039,Transport Demand Passenger Private,7705.527
+NDP,2040,Transport Demand Passenger Private,7704.382
+NDP,2041,Transport Demand Passenger Private,7700.8921
+NDP,2042,Transport Demand Passenger Private,7699.1046
+NDP,2043,Transport Demand Passenger Private,7705.7246
+NDP,2044,Transport Demand Passenger Private,7724.6872
+NDP,2045,Transport Demand Passenger Private,7755.6641
+NDP,2046,Transport Demand Passenger Private,7799.7934
+NDP,2047,Transport Demand Passenger Private,7858.1569
+NDP,2048,Transport Demand Passenger Private,7929.7323
+NDP,2049,Transport Demand Passenger Private,8008.0538
+NDP,2050,Transport Demand Passenger Private,8094.2515
+NDP,2015,Transport Demand Passenger No Motorize,0
+NDP,2016,Transport Demand Passenger No Motorize,0
+NDP,2017,Transport Demand Passenger No Motorize,0
+NDP,2018,Transport Demand Passenger No Motorize,0
+NDP,2019,Transport Demand Passenger No Motorize,0
+NDP,2020,Transport Demand Passenger No Motorize,0
+NDP,2021,Transport Demand Passenger No Motorize,0
+NDP,2022,Transport Demand Passenger No Motorize,0
+NDP,2023,Transport Demand Passenger No Motorize,5.58
+NDP,2024,Transport Demand Passenger No Motorize,7.2758
+NDP,2025,Transport Demand Passenger No Motorize,9.4815
+NDP,2026,Transport Demand Passenger No Motorize,12.3448
+NDP,2027,Transport Demand Passenger No Motorize,16.0356
+NDP,2028,Transport Demand Passenger No Motorize,20.7856
+NDP,2029,Transport Demand Passenger No Motorize,26.8804
+NDP,2030,Transport Demand Passenger No Motorize,34.6129
+NDP,2031,Transport Demand Passenger No Motorize,44.3379
+NDP,2032,Transport Demand Passenger No Motorize,56.4321
+NDP,2033,Transport Demand Passenger No Motorize,71.3094
+NDP,2034,Transport Demand Passenger No Motorize,89.3118
+NDP,2035,Transport Demand Passenger No Motorize,110.6681
+NDP,2036,Transport Demand Passenger No Motorize,135.5791
+NDP,2037,Transport Demand Passenger No Motorize,164.136
+NDP,2038,Transport Demand Passenger No Motorize,196.1456
+NDP,2039,Transport Demand Passenger No Motorize,231.4736
+NDP,2040,Transport Demand Passenger No Motorize,269.4395
+NDP,2041,Transport Demand Passenger No Motorize,309.2638
+NDP,2042,Transport Demand Passenger No Motorize,349.4305
+NDP,2043,Transport Demand Passenger No Motorize,388.1815
+NDP,2044,Transport Demand Passenger No Motorize,423.3918
+NDP,2045,Transport Demand Passenger No Motorize,454.2651
+NDP,2046,Transport Demand Passenger No Motorize,480.0165
+NDP,2047,Transport Demand Passenger No Motorize,500.9996
+NDP,2048,Transport Demand Passenger No Motorize,517.8774
+NDP,2049,Transport Demand Passenger No Motorize,531.5992
+NDP,2050,Transport Demand Passenger No Motorize,543.1482
