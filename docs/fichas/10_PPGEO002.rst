@@ -43,11 +43,11 @@ CapacityFactor[r,t,l,y]
 +++++++++
 The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and season.
 
-.. figure:: img/PPGEO002_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPGEO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO002.*
+   *Figure 1) Capacity Factor for PPGEO002.* :download:`. <doc_imgs/CapacityFactor_PPGEO002.csv>`
 
    
 CapitalCost[r,t,y]
@@ -86,18 +86,16 @@ The equation (5) shows the Output Activity Ratio for PPGEO002, for every scenari
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
-
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenario.
 
-.. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPGEO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPGEO002.*
-
+   *Figure 2) Total Annual Max Capacity for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPGEO002.csv>`
 
    
 TotalAnnualMinCapacityInvestment[r,t,y]
@@ -108,7 +106,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for eve
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`
 
   
    
