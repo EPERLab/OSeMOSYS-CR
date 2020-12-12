@@ -43,11 +43,11 @@ CapacityFactor[r,t,l,y]
 +++++++++
 The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and season.
 
-.. figure:: img/PPHROR002_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHROR002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR002.*
+   *Figure 1) Capacity Factor for PPHROR002.*:download:`. <doc_imgs/CapacityFactor_PPHROR001.csv>`
 
    
 CapitalCost[r,t,y]
