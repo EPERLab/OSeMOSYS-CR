@@ -87,11 +87,11 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenario.
 
-.. figure:: img/PPHROR002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPHROR002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPHROR002.*
+   *Figure 2) Total Annual Max Capacity for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPHROR002.csv>`
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 +++++++++
@@ -101,7 +101,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`
    
 VariableCost[r,t,m,y]
 +++++++++
