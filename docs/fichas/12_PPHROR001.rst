@@ -41,11 +41,11 @@ CapacityFactor[r,t,l,y]
 +++++++++
 The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and season.
 
-.. figure:: img/PPHROR001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHROR001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR001.*
+   *Figure 1) Capacity Factor for PPHROR001.* :download:`. <doc_imgs/CapacityFactor_PPHROR001.csv>`
 
 FixedCost[r,t,y]
 +++++++++
