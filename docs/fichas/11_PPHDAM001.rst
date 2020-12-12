@@ -41,11 +41,11 @@ CapacityFactor[r,t,l,y]
 +++++++++
 The figure 1 shows the Capacity Factor for PPHDAM001, for every scenario and season.
 
-.. figure:: img/PPHDAM001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHDAM001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHDAM001.*
+   *Figure 1) Capacity Factor for PPHDAM001.* :download:`. <doc_imgs/CapacityFactor_PPHDAM001.csv>`
 
 
 FixedCost[r,t,y]
