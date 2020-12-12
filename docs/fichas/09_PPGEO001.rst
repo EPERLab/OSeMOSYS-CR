@@ -41,11 +41,11 @@ CapacityFactor[r,t,l,y]
 +++++++++
 The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and season.
 
-.. figure:: img/PPGEO001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPGEO001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO001.*
+   *Figure 1) Capacity Factor for PPGEO001.* :download:`. <doc_imgs/CapacityFactor_PPGEO001.csv>`
 
 FixedCost[r,t,y]
 +++++++++
