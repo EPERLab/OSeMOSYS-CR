@@ -18,15 +18,4 @@ The OSeMOSYS – CR model
    05PythonModules
    99refs
    999Annexes
-   fichas/Power_Plants
-   fichas/FourWheelDrive
-   fichas/Bus
-   fichas/LightDuty
-   fichas/Microbuses
-   fichas/Minivan
-   fichas/Motos
-   fichas/Taxis
-   fichas/Trains
-   fichas/Minitrucks
-   fichas/Trucks
-  
+   
