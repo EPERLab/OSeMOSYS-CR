@@ -45,7 +45,8 @@ extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.imgmath',
     'sphinxcontrib.bibtex'] # Agregado napoleon extension
-    
+
+bibtex_bibfiles = ['refs.bib']  
 #Agregado
 napoleon_google_docstring = False
 napoleon_use_param = False
