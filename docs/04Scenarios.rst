@@ -67,7 +67,7 @@ The following sections describe how the considerations in Figure 4.1 were introd
    :align:   center
    :width:   700 px
    
-   *Figure 4.6: Cargo Emission Annual Limit* :download:`. <doc_imgs/CargoEmissionLimit.png
+   *Figure 4.6: Cargo Emission Annual Limit* :download:`. <doc_imgs/CargoEmissionLimit.png`
    
 4.3 Electricity and fossil fuels
 +++++++++
