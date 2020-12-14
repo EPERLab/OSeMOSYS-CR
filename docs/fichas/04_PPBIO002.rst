@@ -71,7 +71,12 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenario.
 
-  
+  .. figure:: img/PPBIO002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Total Annual Max Capacity for PPBIO002.*
+   
 
 VariableCost[r,t,m,y]
 +++++++++
