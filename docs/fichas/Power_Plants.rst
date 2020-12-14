@@ -1282,11 +1282,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPPVD002, for every scenario.
 
-.. figure:: img/PPPVD002_CapitalCost.png
+.. figure:: img/CapitalCost_PPPVD002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPPVD002.*
+   *Figure 1) Capital Cost for PPPVD002.* :download:`. <doc_imgs/CapitalCost_PPPVD002.csv>`
 
 
 FixedCost[r,t,y]
@@ -1325,11 +1325,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenario.
 
-.. figure:: img/PPPVD002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPPVD002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPPVD002.*
+   *Figure 2) Total Annual Max Capacity for PPPVD002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPPVD002.csv>`
 
 
    
@@ -1496,11 +1496,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPPVT002, for every scenario.
 
-.. figure:: img/PPPVT002_CapitalCost.png
+.. figure:: img/CapitalCost_PPPVT002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPPVT002.*
+   *Figure 1) Capital Cost for PPPVT002.* :download:`. <doc_imgs/CapitalCost_PPPVT002.csv>`
    
 
 
@@ -1544,7 +1544,7 @@ The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPPVT002.*
+   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPHROR002.csv>`
 
 
    
@@ -1618,11 +1618,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPWND002, for every scenario.
 
-.. figure:: img/PPWND002_CapitalCost.png
+.. figure:: img/CapitalCost_PPWND002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPWND002.*
+   *Figure 1) Capital Cost for PPWND002.* :download:`. <doc_imgs/CapitalCost_PPWND002.csv>`
 
 
 FixedCost[r,t,y]
@@ -1662,11 +1662,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenario.
 
-.. figure:: img/PPWND002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPWND002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPWND002.*
+   *Figure 2) Total Annual Max Capacity for PPWND002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPWND002.csv>`
 
 
    
@@ -1834,11 +1834,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPWNT002, for every scenario.
 
-.. figure:: img/PPWNT002_CapitalCost.png
+.. figure:: img/CapitalCost_PPWNT002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPWNT002.*
+   *Figure 1) Capital Cost for PPWNT002.* :download:`. <doc_imgs/CapitalCost_PPWNT002.csv>`
    
 
 
@@ -1878,11 +1878,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPWNT002, for every scenario.
 
-.. figure:: img/PPWNT002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPWNT002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPWNT002.*
+   *Figure 2) Total Annual Max Capacity for PPWNT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPWNT002.csv>`
 
 
    
@@ -1894,7 +1894,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPWNT002, for ev
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPWNT002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPWNT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPHROR002.csv>`
 
  
    
