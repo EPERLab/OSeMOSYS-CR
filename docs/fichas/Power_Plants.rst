@@ -168,11 +168,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenario.
 
-.. figure:: img/PPBIO002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPBIO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for PPBIO002.*
+   *Figure 1) Total Annual Max Capacity for PPBIO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`  
    
     
 
@@ -616,12 +616,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and season.
 
-.. figure:: img/PPGEO001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPGEO001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO001.*
-
+   *Figure 1) Capacity Factor for PPGEO001.* :download:`. <doc_imgs/CapacityFactor_PPGEO001.csv>`
 
 
 FixedCost[r,t,y]
@@ -726,12 +725,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and season.
 
-.. figure:: img/PPGEO002_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPGEO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO002.*
-
+   *Figure 1) Capacity Factor for PPGEO002.* :download:`. <doc_imgs/CapacityFactor_PPGEO002.csv>`
 
    
 CapitalCost[r,t,y]
@@ -741,7 +739,6 @@ The equation (1) shows the Capital Cost for PPGEO002, for every scenario.
 CapitalCost=7828.28 [M$/GW]   (1)
 
 
-
 FixedCost[r,t,y]
 ---------
 The equation (2) shows the Fixed Cost for PPGEO002, for every scenario.
@@ -749,7 +746,6 @@ The equation (2) shows the Fixed Cost for PPGEO002, for every scenario.
 FixedCost=44.5 [M$/GW]   (2)
 
 
-   
 InputActivityRatio[r,t,f,m,y]
 ---------
 The equation (3) shows the Input Activity Ratio for PPGEO002, for every scenario and associated to the fuel Geothermal Energy.
@@ -778,11 +774,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenario.
 
-.. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPGEO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPGEO002.*
+   *Figure 2) Total Annual Max Capacity for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPGEO002.csv>`
 
 
    
@@ -794,7 +790,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for eve
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`
 
   
    
@@ -844,18 +840,15 @@ Hydro Dam Power Plant (existing)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-
 CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHDAM001, for every scenario and season.
 
-.. figure:: img/PPHDAM001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHDAM001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHDAM001.*
-
-
+   *Figure 1) Capacity Factor for PPHDAM001.* :download:`. <doc_imgs/CapacityFactor_PPHDAM001.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -954,14 +947,13 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHDAM002, for every scenario and season.
 
-.. figure:: img/PPHDAM001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHDAM002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHDAM002.*
+   *Figure 1) Capacity Factor for PPHDAM001.* :download:`. <doc_imgs/CapacityFactor_PPHDAM002.csv>`
 
 
-   
 CapitalCost[r,t,y]
 ---------
 The equation (1) shows the Capital Cost for PPHDAM002, para todos los escenarios.
@@ -1054,11 +1046,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and season.
 
-.. figure:: img/PPHROR001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHROR001.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR001.*
+   *Figure 1) Capacity Factor for PPHROR001.* :download:`. <doc_imgs/CapacityFactor_PPHROR001.csv>`
 
  
 FixedCost[r,t,y]
@@ -1160,11 +1152,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and season.
 
-.. figure:: img/PPHROR002_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHROR002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR002.*
+   *Figure 1) Capacity Factor for PPHROR002.*:download:`. <doc_imgs/CapacityFactor_PPHROR001.csv>`
 
 
    
@@ -1211,11 +1203,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenario.
 
-.. figure:: img/PPHROR002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPHROR002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPHROR002.*
+   *Figure 2) Total Annual Max Capacity for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPHROR002.csv>`
 
 
    
@@ -1227,7 +1219,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`
 
  
    
