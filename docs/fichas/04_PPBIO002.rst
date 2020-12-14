@@ -76,8 +76,7 @@ The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for PPBIO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`
-   
+   *Figure 1) Total Annual Max Capacity for PPBIO002.*   
    
 
 VariableCost[r,t,m,y]
