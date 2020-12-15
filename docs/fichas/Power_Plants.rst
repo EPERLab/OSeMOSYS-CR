@@ -1540,11 +1540,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenario.
 
-.. figure:: img/PPPVT002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPPVT002.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPHROR002.csv>`
+   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPPVT002.csv>`
 
 
    
