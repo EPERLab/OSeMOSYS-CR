@@ -69,29 +69,47 @@ The equation (4) shows the Output Activity Ratio for Techs_LD, for every scenari
 
 OutputActivityRatio=1.5 [Gpkm/Gvkm]   (4)
 
-   
+
 TotalAnnualMaxCapacity[r,t,y]
 ---------
-The figure 1 shows the Total Annual Max Capacity for Techs_LD, for each scenario.
+The figure 1 shows the Total Annual Max Capacity for Techs_LD, for the BAU scenario.
 
-.. figure:: img/TotalAnnualMaxCapacity_Techs_LD.png
+.. figure:: img/Techs_LD_TotalAnnualMaxCapacity_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for Techs_LD for each scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
+   *Figure 1) Total Annual Max Capacity for Techs_LD for the BAU scenario.*
    
-  
+The figure 2 shows the Total Annual Max Capacity for Techs_LD, for the NDP scenario.
+
+.. figure:: img/Techs_LD_TotalAnnualMaxCapacity_NDP_OP15C.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2) Total Annual Max Capacity for Techs_LD for the NDP scenario.*
+
+
+   
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
-The figure 2 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the BAU scenario.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the BAU scenario.
 
-.. figure:: img/TotalTechnologyAnnualActivityLowerLimit_Techs_LD.png
+.. figure:: img/Techs_LD_TotalTechnologyAnnualActivityLowerLimit_BAU.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for the BAU scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_Techs_LD.csv>`  
+   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for the BAU scenario.*
    
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_LD, for the NDP scenario.
+
+.. figure:: img/Techs_LD_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
+   :align:   center
+   :width:   700 px
    
+   *Figure 4) Total Technology Annual Activity Lower Limit for Techs_LD for the NDP scenario.*
+
+
+      
 Light Duty Diesel (existing)
 ++++++++++
 
