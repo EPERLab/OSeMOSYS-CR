@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The OSeMOSYS – CR model
+The OSeMOSYS – CR model: The National Energy Plan (Plan Nacional de Energía)
 =====================================================================================
 
 .. toctree::
