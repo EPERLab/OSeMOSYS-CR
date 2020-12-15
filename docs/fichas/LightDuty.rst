@@ -1092,11 +1092,11 @@ TotalAnnualMaxCapacity[r,t,y]
 --------
 The figure 2 shows the Total Annual Max Capacity for TRLDPHYBG02, for the BAU scenario.
 
-.. figure:: img/TRLDPHYBG02_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_TRLDPHYBG02.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRLDPHYBG02 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 2) Total Annual Max Capacity for TRLDPHYBG02 for the BAU scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDPHYBG02.csv>
 
 
    
