@@ -633,11 +633,11 @@ InputActivityRatio[r,t,f,m,y]
 ---------
 The figure 1 shows the Input Activity Ratio for TRLDGAS01, for every scenario and associated to the fuel Gasoline for private transport.
 
-.. figure:: img/TRLDGAS01_InputActivityRatio.png
+.. figure:: img/InputActivityRatio_TRLDGAS01.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Input Activity Ratio for TRLDGAS01 for every scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 1) Input Activity Ratio for TRLDGAS01 for every scenario.* :download:`. <doc_imgs/InputActivityRatio_TRLDGAS01.csv>
 
    
 OperationalLife[r,t]
@@ -660,25 +660,16 @@ ResidualCapacity[r,t,y]
 ---------
 The figure 2 shows the Residual Capacity for TRLDGAS01, for the BAU scenario.
 
-.. figure:: img/TRLDGAS01_ResidualCapacity_BAU.png
+.. figure:: img/ResidualCapacity_TRLDGAS01.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Residual Capacity for TRLDGAS01 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
-   
-The figure 3 shows the Residual Capacity for TRLDGAS01, for the NDP scenario.
-
-.. figure:: img/TRLDGAS01_ResidualCapacity_NDP_OP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 3) Residual Capacity for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
-   
-     
+   *Figure 2) Residual Capacity for TRLDGAS01 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDGAS01.csv>
+        
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
-The figure 4 shows the Total Annual Max Capacity for TRLDGAS01, for the BAU scenario.
+The figure 3 shows the Total Annual Max Capacity for TRLDGAS01, for the BAU scenario.
 
 .. figure:: img/TRLDGAS01_TotalAnnualMaxCapacity_BAU.png
    :align:   center
@@ -686,34 +677,25 @@ The figure 4 shows the Total Annual Max Capacity for TRLDGAS01, for the BAU scen
    
    *Figure 4) Total Annual Max Capacity for TRLDGAS01 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
    
-The figure 5 shows the Total Annual Max Capacity for TRLDGAS01, for the NDP scenario.
+The figure 4 shows the Total Annual Max Capacity for TRLDGAS01, for the NDP scenario.
 
-.. figure:: img/TRLDGAS01_TotalAnnualMaxCapacity_NDP_OP.png
+.. figure:: img/TotalAnnualMaxCapacity_TRLDGAS01.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Annual Max Capacity for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 5) Total Annual Max Capacity for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDGAS01.csv>
    
-
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
-The figure 6 shows the Total Technology Annual Activity Lower Limit for TRLDGAS01, for the BAU scenario.
+The figure 6 shows the Total Technology Annual Activity Lower Limit for TRLDGAS01, for each scenario.
 
-.. figure:: img/TRLDGAS01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
+.. figure:: img/TotalTechnologyAnnualActivityLowerLimit_TRLDGAS01.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDGAS01 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDGAS01 for each scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDGAS01.csv>
    
-The figure 7 shows the Total Technology Annual Activity Lower Limit for TRLDGAS01, for the NDP scenario.
-
-.. figure:: img/TRLDGAS01_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 7) Total Technology Annual Activity Lower Limit for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
-
 
    
 UnitFixedCost[r,t,y]
@@ -810,11 +792,11 @@ InputActivityRatio[r,t,f,m,y]
 ---------
 The figure 1 shows the Input Activity Ratio for TRLDGAS02, for every scenario and associated to the fuel Gasoline for private transport.
 
-.. figure:: img/TRLDGAS02_InputActivityRatio.png
+.. figure:: img/InputActivityRatio_TRLDGAS02.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Input Activity Ratio for TRLDGAS02 for every scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 1) Input Activity Ratio for TRLDGAS02 for every scenario.* :download:`. <doc_imgs/InputActivityRatio_TRLDGAS02.csv>
 
 
    
@@ -836,22 +818,14 @@ OutputActivityRatio=1 [PJ/Gvkm]   (7)
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
-The figure 2 shows the Total Technology Annual Activity Lower Limit for TRLDGAS02, for the BAU scenario.
+The figure 2 shows the Total Technology Annual Activity Lower Limit for TRLDGAS02, for both scenarios.
 
-.. figure:: img/TRLDGAS02_TotalTechnologyAnnualActivityLowerLimit_BAU.png
+.. figure:: img/TotalTechnologyAnnualActivityLowerLimit_TRLDGAS02.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Technology Annual Activity Lower Limit for TRLDGAS02 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 2) Total Technology Annual Activity Lower Limit for TRLDGAS02 for both scenarios.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
    
-The figure 3 shows the Total Technology Annual Activity Lower Limit for TRLDGAS02, for the NDP scenario.
-
-.. figure:: img/TRLDGAS02_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRLDGAS02 for the NDP scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
-
 
    
 UnitCapitalCost[r,t,y]
@@ -980,11 +954,11 @@ TotalAnnualMaxCapacity[r,t,y]
 --------
 The figure 1 shows the Total Annual Max Capacity for TRLDHYBG02, for the BAU scenario.
 
-.. figure:: img/TRLDHYBG02_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_TRLDHYBG02.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for TRLDHYBG02 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 1) Total Annual Max Capacity for TRLDHYBG02 for the BAU scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDHYBG02.csv>
 
 
    
@@ -1054,11 +1028,11 @@ CapitalCost[r,t,y]
 --------
 The figure 1 shows the Capital Cost for TRLDPHYBG02, for every scenario.
 
-.. figure:: img/TRLDPHYBG02_CapitalCost.png
+.. figure:: img/CapitalCost_TRLDPHYBG02.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for TRLDPHYBG02 for every scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 1) Capital Cost for TRLDPHYBG02 for every scenario.* :download:`. <doc_imgs/CapitalCost_TRLDPHYBG02.csv>
 
 
 
@@ -1130,11 +1104,11 @@ UnitCapitalCost[r,t,y]
 --------
 The figure 3 shows the Unit Capital Cost for TRLDPHYBG02, for every scenario.
 
-.. figure:: img/TRLDPHYBG02_UnitCapitalCost.png
+.. figure:: img/UnitCapitalCost_TRLDPHYBG02.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Unit Capital Cost for TRLDPHYBG02 for every scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 3) Unit Capital Cost for TRLDPHYBG02 for every scenario.* :download:`. <doc_imgs/UnitCapitalCost_TRLDPHYBG02.csv>
 
 
    
