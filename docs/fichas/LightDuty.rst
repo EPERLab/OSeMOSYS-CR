@@ -237,11 +237,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 3 shows the Total Annual Max Capacity for TRLDDSL01, for every scenario.
 
-.. figure:: img/TRLDDSL01_TotalAnnualMaxCapacity_BAU.png
+.. figure:: img/TotalAnnualMaxCapacity_TRLDDSL01.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Annual Max Capacity for TRLDDSL01 for the BAU scenario.*
+   *Figure 4) Total Annual Max Capacity for TRLDDSL01 for the BAU scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDDSL01.csv>
    
 
       
@@ -249,11 +249,11 @@ TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
 The figure 4 shows the Total Technology Annual Activity Lower Limit for TRLDDSL01, for every scenario.
 
-.. figure:: img/TRLDDSL01_TotalTechnologyAnnualActivityLowerLimit_BAU.png
+.. figure:: img/TotalTechnologyAnnualActivityLowerLimit_TRLDDSL01.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the BAU scenario.*  :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
+   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the BAU scenario.*  :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDDSL01.csv>
    
 
 
