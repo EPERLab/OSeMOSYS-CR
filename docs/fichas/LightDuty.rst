@@ -89,7 +89,7 @@ The figure 2 shows the Total Technology Annual Activity Lower Limit for Techs_LD
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for Techs_LD for the BAU scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_Techs_LD.csv>`  
+   *Figure 2) Total Technology Annual Activity Lower Limit for Techs_LD for the BAU scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_Techs_LD.csv>`  
    
 
    
@@ -167,7 +167,6 @@ The equation (4) shows the Emission Activity Ratio for TRLDDSL01, for every scen
 EmissionActivityRatio=0.01   (4)
 
 
-
 FixedCost[r,t,y]
 ---------
 The equation (5) shows the Fixed Cost for TRLDDSL01, for every scenario.
@@ -175,8 +174,7 @@ The equation (5) shows the Fixed Cost for TRLDDSL01, for every scenario.
 FixedCost=49.32 [M$/Gvkm]   (5)
 
 
-   
-InputActivityRatio[r,t,f,m,y]
+   InputActivityRatio[r,t,f,m,y]
 ---------
 The figure 1 shows the Input Activity Ratio for TRLDDSL01, for every scenario and associated to the fuel Diesel for private transport.
 
@@ -223,7 +221,7 @@ The figure 3 shows the Total Annual Max Capacity for TRLDDSL01, for every scenar
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Annual Max Capacity for TRLDDSL01 for the BAU scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDDSL01.csv>
+   *Figure 3) Total Annual Max Capacity for TRLDDSL01 for the BAU scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDDSL01.csv>
    
 
       
@@ -235,7 +233,7 @@ The figure 4 shows the Total Technology Annual Activity Lower Limit for TRLDDSL0
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the BAU scenario.*  :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDDSL01.csv>
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRLDDSL01 for the BAU scenario.*  :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDDSL01.csv>
    
 
 
@@ -522,25 +520,25 @@ The figure 2 shows the Total Annual Max Capacity for TRLDELE02, for each scenari
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 ---------
-The figure 4 shows the Total Technology Annual Activity Lower Limit for TRLDELE02, for the BAU scenario.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRLDELE02, for the BAU scenario.
 
 .. figure:: img/TotalAnnualMaxCapacity_TRLDELE02.png
    :align:   center
    :width:   700 px
    
-   *Figure 4) Total Technology Annual Activity Lower Limit for TRLDELE02 for the BAU scenario.*  :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDELE02.csv>
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRLDELE02 for the BAU scenario.*  :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDELE02.csv>
 
 
   
 UnitCapitalCost[r,t,y]
 ---------
-The figure 6 shows the Unit Capital Cost for TRLDELE02, for every scenario.
+The figure 4 shows the Unit Capital Cost for TRLDELE02, for every scenario.
 
 .. figure:: img/UnitCapitalCost_TRLDELE02.png
    :align:   center
    :width:   700 px
    
-   *Figure 6) Unit Capital Cost for TRLDELE02 for every scenario.*  :download:`. <doc_imgs/UnitCapitalCost_TRLDELE02.csv>
+   *Figure 4) Unit Capital Cost for TRLDELE02 for every scenario.*  :download:`. <doc_imgs/UnitCapitalCost_TRLDELE02.csv>
 
    
    
@@ -669,21 +667,14 @@ The figure 2 shows the Residual Capacity for TRLDGAS01, for the BAU scenario.
    
 TotalAnnualMaxCapacity[r,t,y]
 ---------
-The figure 3 shows the Total Annual Max Capacity for TRLDGAS01, for the BAU scenario.
-
-.. figure:: img/TRLDGAS01_TotalAnnualMaxCapacity_BAU.png
-   :align:   center
-   :width:   700 px
    
-   *Figure 4) Total Annual Max Capacity for TRLDGAS01 for the BAU scenario.* :download:`. <doc_imgs/ResidualCapacity_TRLDDSL01.csv>
-   
-The figure 4 shows the Total Annual Max Capacity for TRLDGAS01, for the NDP scenario.
+The figure 3 shows the Total Annual Max Capacity for TRLDGAS01, for the NDP scenario.
 
 .. figure:: img/TotalAnnualMaxCapacity_TRLDGAS01.png
    :align:   center
    :width:   700 px
    
-   *Figure 5) Total Annual Max Capacity for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDGAS01.csv>
+   *Figure 3) Total Annual Max Capacity for TRLDGAS01 for the NDP scenario.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_TRLDGAS01.csv>
    
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
@@ -694,7 +685,7 @@ The figure 6 shows the Total Technology Annual Activity Lower Limit for TRLDGAS0
    :align:   center
    :width:   700 px
    
-   *Figure 6) Total Technology Annual Activity Lower Limit for TRLDGAS01 for each scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDGAS01.csv>
+   *Figure 4) Total Technology Annual Activity Lower Limit for TRLDGAS01 for each scenario.* :download:`. <doc_imgs/TotalTechnologyAnnualActivityLowerLimit_TRLDGAS01.csv>
    
 
    
