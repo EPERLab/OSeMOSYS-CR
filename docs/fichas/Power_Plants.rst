@@ -168,11 +168,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenario.
 
-.. figure:: img/PPBIO002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPBIO002.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Annual Max Capacity for PPBIO002.*
+   *Figure 1) Total Annual Max Capacity for PPBIO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPBIO002.csv>`  
    
     
 
@@ -616,11 +616,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and season.
 
-.. figure:: img/PPGEO001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPGEO.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO001.*
+   *Figure 1) Capacity Factor for PPGEO001.* :download:`. <doc_imgs/CapacityFactor_PPGEO.csv>`  
 
 
 
@@ -730,7 +730,7 @@ The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and seas
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPGEO002.*
+   *Figure 1) Capacity Factor for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -778,11 +778,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenario.
 
-.. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPGEO.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPGEO002.*
+   *Figure 2) Total Annual Max Capacity for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPGEO.csv>`  
 
 
    
@@ -794,7 +794,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for eve
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
   
    
@@ -849,11 +849,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHDAM001, for every scenario and season.
 
-.. figure:: img/PPHDAM001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHDAM.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHDAM001.*
+   *Figure 1) Capacity Factor for PPHDAM001.* :download:`. <doc_imgs/CapacityFactor_PPHDAM.csv>`  
 
 
 
@@ -958,7 +958,7 @@ The figure 1 shows the Capacity Factor for PPHDAM002, for every scenario and sea
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHDAM002.*
+   *Figure 1) Capacity Factor for PPHDAM002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -1054,11 +1054,11 @@ CapacityFactor[r,t,l,y]
 ---------
 The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and season.
 
-.. figure:: img/PPHROR001_CapacityFactor.png
+.. figure:: img/CapacityFactor_PPHROR.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR001.*
+   *Figure 1) Capacity Factor for PPHROR001.* :download:`. <doc_imgs/CapacityFactor_PPHROR.csv>`  
 
  
 FixedCost[r,t,y]
@@ -1164,7 +1164,7 @@ The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and sea
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capacity Factor for PPHROR002.*
+   *Figure 1) Capacity Factor for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -1215,7 +1215,7 @@ The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenar
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPHROR002.*
+   *Figure 2) Total Annual Max Capacity for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -1227,7 +1227,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
  
    
@@ -1290,11 +1290,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPPVD002, for every scenario.
 
-.. figure:: img/PPPVD002_CapitalCost.png
+.. figure:: img/CapitalCost_PPPVD.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPPVD002.*
+   *Figure 1) Capital Cost for PPPVD002.* :download:`. <doc_imgs/CapitalCost_PPPVD.csv>`  
 
 
 FixedCost[r,t,y]
@@ -1337,7 +1337,7 @@ The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPPVD002.*
+   *Figure 2) Total Annual Max Capacity for PPPVD002.* :download:`. <doc_imgs/CapitalCost_PPPVD.csv>`  
 
 
    
@@ -1504,11 +1504,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPPVT002, for every scenario.
 
-.. figure:: img/PPPVT002_CapitalCost.png
+.. figure:: img/CapitalCost_PPPVT.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPPVT002.*
+   *Figure 1) Capital Cost for PPPVT002.* :download:`. <doc_imgs/CapitalCost_PPPVT.csv>`  
    
 
 
@@ -1551,8 +1551,8 @@ The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenari
 .. figure:: img/PPPVT002_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
-   
-   *Figure 2) Total Annual Max Capacity for PPPVT002.*
+    
+   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -1564,7 +1564,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPPVT002, for eve
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPPVT002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
    
    
@@ -1626,11 +1626,11 @@ CapitalCost[r,t,y]
 ---------
 The figure 1 shows the Capital Cost for PPWND002, for every scenario.
 
-.. figure:: img/PPWND002_CapitalCost.png
+.. figure:: img/CapitalCost_PPWND.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPWND002.*
+   *Figure 1) Capital Cost for PPWND002.* :download:`. <doc_imgs/CapitalCost_PPWND.csv>`  
 
 
 FixedCost[r,t,y]
@@ -1670,11 +1670,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenario.
 
-.. figure:: img/PPWND002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPWND.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPWND002.*
+   *Figure 2) Total Annual Max Capacity for PPWND002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPWND.csv>`  
 
 
    
@@ -1846,7 +1846,7 @@ The figure 1 shows the Capital Cost for PPWNT002, for every scenario.
    :align:   center
    :width:   700 px
    
-   *Figure 1) Capital Cost for PPWNT002.*
+   *Figure 1) Capital Cost for PPWNT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
    
 
 
@@ -1890,7 +1890,7 @@ The figure 2 shows the Total Annual Max Capacity for PPWNT002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPWNT002.*
+   *Figure 2) Total Annual Max Capacity for PPWNT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
 
    
@@ -1902,7 +1902,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPWNT002, for ev
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Annual Min Capacity Investment for PPWNT002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPWNT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
 
  
    
