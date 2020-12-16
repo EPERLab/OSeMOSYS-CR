@@ -1333,11 +1333,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPPVD002, for every scenario.
 
-.. figure:: img/PPPVD002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPPVD.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for PPPVD002.* :download:`. <doc_imgs/CapitalCost_PPPVD.csv>`  
+   *Figure 2) Total Annual Max Capacity for PPPVD002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPPVD.csv>`  
 
 
    
@@ -1548,11 +1548,11 @@ TotalAnnualMaxCapacity[r,t,y]
 ---------
 The figure 2 shows the Total Annual Max Capacity for PPPVT002, for every scenario.
 
-.. figure:: img/PPPVT002_TotalAnnualMaxCapacity.png
+.. figure:: img/TotalAnnualMaxCapacity_PPPVT.png
    :align:   center
    :width:   700 px
     
-   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_Techs_LD.csv>`  
+   *Figure 2) Total Annual Max Capacity for PPPVT002.* :download:`. <doc_imgs/TotalAnnualMaxCapacity_PPPVT.csv>`  
 
 
    
