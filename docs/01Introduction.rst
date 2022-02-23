@@ -1,6 +1,6 @@
 .. Title:
 
-1. Introduction PRUEBA
+1. Introduction
 =====================================
 
 1.1 Projects overview
